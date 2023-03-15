@@ -12,7 +12,6 @@ CCTV-1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3
 CCTV-1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV-1,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8
 CCTV-2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
 CCTV-2,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV-2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
