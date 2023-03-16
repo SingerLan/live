@@ -1,10 +1,3 @@
-推荐,#genre#
-淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
-北京4k,http://111.13.42.231/PLTV/88888888/224/3221226550/1.m3u8?icpid=88888888&from=1&hms_devid=460
-北京4k,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8?icpid=88888888&from=1&hms_devid=460
-北京4k,http://222.128.98.255:4000/rtp/239.3.1.249:8001
-淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
-淘剧场,http://222.128.98.255:4000/rtp/239.3.1.249:8001
 央视,#genre#
 CCTV-1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV-1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
@@ -140,6 +133,11 @@ CGTN,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8
 海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 电影,#genre#
+淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
+北京4k,http://111.13.42.231/PLTV/88888888/224/3221226550/1.m3u8?icpid=88888888&from=1&hms_devid=460
+北京4k,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8?icpid=88888888&from=1&hms_devid=460
+北京4k,http://222.128.98.255:4000/rtp/239.3.1.249:8001
+影院4k,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 CHC高清电影,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -148,6 +146,8 @@ CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/pl
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 劲爆体育,https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 剧场,#genre#
+淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
+淘剧场,http://222.128.98.255:4000/rtp/239.3.1.249:8001
 东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 新闻戏曲,#genre#
