@@ -73,9 +73,6 @@ CGTN,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240368_1/playlist.m3u8
 CGTN,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8?CONTENTID=00000110240370_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 地方,#genre#
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
@@ -154,6 +151,9 @@ CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/pl
 东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
 西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 新闻戏曲,#genre#
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 戏曲精选,https://live.v1.mk/api/bestv.php?id=xqjx8m/8000000
 金鹰纪实,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240303_1/playlist.m3u8?CONTENTID=00000110240303_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 其它,#genre#
