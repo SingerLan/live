@@ -529,7 +529,7 @@ CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/pl
 淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
 淘剧场,http://222.128.98.255:4000/rtp/239.3.1.249:8001
 卡通,#genre#
-https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 体育,#genre#
 新闻戏曲,#genre#
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
