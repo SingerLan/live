@@ -91,7 +91,6 @@ CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u
 CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4
 CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV4K,http://cfss.cc/ds/bst.php?id=Cf0
 CCTV5+,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV5+,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
 CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
@@ -314,9 +313,10 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225908/index.m3
 CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225909/index.m3u8
 CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17
 CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV4K,http://cfss.cc/ds/bst.php?id=Cf0
 地方,#genre#
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 东南卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8?icpid=88888888&amp;from=30&amp;hms_devid=1452
@@ -332,7 +332,7 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225658/index.m3u8
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
-东方卫视蓝光,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
+东方卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
 云南卫视,http://125.210.152.19:9120/live/hzgq-ynwsgq-h264.m3u8
 云南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
 内蒙古卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
@@ -363,7 +363,7 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 天津卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225698/index.m3u8
 天津卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8
 宁夏卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
-宁夏卫视超清,http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
+宁夏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 安徽卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 安徽卫视,http://125.210.152.19:9120/live/hzgq-ahwsgq-h264.m3u8
 安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
@@ -523,15 +523,13 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 北京-4K,http://111.13.42.231/PLTV/88888888/224/3221226550/1.m3u8?icpid=88888888&from=1&hms_devid=460
 北京-4K,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8?icpid=88888888&from=1&hms_devid=460
 北京-4K,http://222.128.98.255:4000/rtp/239.3.1.249:8001
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CHC高清电影,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
 淘剧场,http://222.128.98.255:4000/rtp/239.3.1.249:8001
-西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
-都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
 卡通,#genre#
+https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 体育,#genre#
 新闻戏曲,#genre#
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
