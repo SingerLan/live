@@ -721,6 +721,7 @@ CCTV17,https://live.v1.mk/api/ghyx.php?id=CCTV17HD_6000
 辽宁生活,http://fengyeos.f3322.org:8002/udp/239.33.3.201:24570
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 辽宁体育,http://lu1.cc/itv/php/lny.php?id=lnty
+辽宁体育,http://lu1.cc/itv/php/bfgd.php?id=lnty
 辽宁教育,http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
 辽宁教育,http://123.187.46.90:65000/hls/24/index.m3u8
 辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
