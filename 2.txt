@@ -12,6 +12,7 @@ CCTV5+,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.CCTV.cn/ysp/2000204503.m3u8
 CCTV5+,https://pull-l3-cny.douyincdn.com/live/528518831a8dcffa64f82444cb135387.m3u8
+CCTV5,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=8.140.57.116&timestamp=20230605033000&encrypt=54e11fac771d474ffd77b328c168bdcd&ContentId=265667565&timezone=UTC
 CCTV5,http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://58.205.220.58/tlivecloud-ipv6.ysp.CCTV.cn/ysp/2000205103.m3u8
@@ -95,6 +96,7 @@ Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_de
 淘剧场,http://happy2015.synology.me:4000/udp/239.3.1.95:8001
 淘BABY,http://happy2015.synology.me:4000/udp/239.3.1.238:8001
 淘电影,http://happy2015.synology.me:4000/udp/239.3.1.250:8001
+动作电影,http://openhls-tct.douyucdn2.cn/dyliveflv3/6140589rFs2vOfeW.m3u8?txSecret=0549c0f45a57601dfa5cc52a06c21530&txTime=647de853&token=cpn-androidmpro-0-6140589-4dc15246ddb745922acd4762cc6fbe50&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=349940518
 湖南,#genre#
 湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.CCTV.cn/ysp/2000296202.m3u8
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
