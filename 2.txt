@@ -1,3 +1,4 @@
+央视,#genre#
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
@@ -29,8 +30,9 @@ CCTV14,http://125.210.152.19:9120/live/hzgq-cctvsegq-h264.m3u8
 CCTV15,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
+地方,#genre#
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
 云南卫视,http://125.210.152.19:9120/live/hzgq-ynwsgq-h264.m3u8
@@ -52,6 +54,7 @@ CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
 辽宁卫视,http://125.210.152.19:9120/live/hzgq-lnwsgq-h264.m3u8
 重庆卫视,http://125.210.152.19:9120/live/hzgq-cqwsgq-h264.m3u8
 黑龙江卫视,http://125.210.152.19:9120/live/hzgq-hljwsgq-h264.m3u8
+辽宁,#genre#
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
 辽宁生活,http://42.176.185.28:9901/tsfile/live/1006_1.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
@@ -62,6 +65,7 @@ CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
 辽宁体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000611
 辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000073
 辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000071
+影视,#genre#
 4K影视,http://nas.jdshipin.com:8801/4kys.php
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 CHC家庭影院,http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
