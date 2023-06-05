@@ -3,6 +3,7 @@ CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV1,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
+CCTV1,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV1,http://hw-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8
 CCTV1,https://dispatch.ulivetv.net/v/live/c9vu0827ucao.m3u8?stream_id=c9vu0827ucao&timestamp=1684747116&rand=q5QF2n5Y51&uuid=9b647b3816b2a66a&from=web&sign=dfdbf834940b2cfd749f1b3db4db495b
 CCTV2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
@@ -16,11 +17,13 @@ CCTV5+,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://58.205.220.58:8088/tlivectfree-cdn.ysp.CCTV.cn/ysp/2000204503.m3u8
 CCTV5+,https://dispatch.ulivetv.net/v/live/cgn39awxymrk.m3u8?stream_id=cgn39awxymrk&timestamp=1684746454&rand=Ffu9iZHdpk&uuid=9b647b3816b2a66a&from=web&sign=eb53ffd272f35efd1fd28d76574cd2bf
+CCTV5+,https://pull-l3-cny.douyincdn.com/live/528518831a8dcffa64f82444cb135387.m3u8
 CCTV5,http://125.210.152.19:9120/live/hzgq-cctv5gq-h264.m3u8
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://58.205.220.58/tlivecloud-ipv6.ysp.CCTV.cn/ysp/2000205103.m3u8
 CCTV5,http://58.205.220.58:8088/tlivectfree-cdn.ysp.CCTV.cn/ysp/2000205103.m3u8
 CCTV5,https://dispatch.ulivetv.net/v/live/c9vu1o0ob5j4.m3u8?stream_id=c9vu1o0ob5j4&timestamp=1684747021&rand=8GvEu7zxBf&uuid=9b647b3816b2a66a&from=web&sign=95a8211d8e3faa6acc7a715c3484ee41
+CCTV5,https://pull-l3-cny.douyincdn.com/live/f37be9625b7b63181d972d43bf425e38.m3u8
 CCTV6,http://125.210.152.19:9120/live/hzgq-cctv6gq-h264.m3u8
 CCTV6,https://dispatch.ulivetv.net/v/live/cgn10iblu2f4.m3u8?stream_id=cgn10iblu2f4&timestamp=1684746974&rand=cmwFF05BRv&uuid=9b647b3816b2a66a&from=web&sign=8ed8fbc7171d55cbddc64f5628a2c61d
 CCTV7,http://125.210.152.19:9120/live/hzgq-cctv7gq-h264.m3u8
