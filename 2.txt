@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=8.140.57.116&timestamp=20230605033000&encrypt=ee4e6f8eb8642bee38be80161daecfaf&ContentId=265183188&timezone=UTC
+CCTV1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=175.172.138.69&timestamp=20230606122808&encrypt=a2dfe2c0de12c630551d800cdcbd9190&ContentId=265183188&timezone=UTC
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
