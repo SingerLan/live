@@ -65,10 +65,7 @@ Fashion4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_de
 动作电影,http://openhls-tct.douyucdn2.cn/dyliveflv3/6140589rFs2vOfeW.m3u8?txSecret=0549c0f45a57601dfa5cc52a06c21530&txTime=647de853&token=cpn-androidmpro-0-6140589-4dc15246ddb745922acd4762cc6fbe50&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=349940518
 湖南,#genre#
 湖南卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.CCTV.cn/ysp/2000296202.m3u8
-湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
 广东,#genre#
-广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
-广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8
 广东卫视,http://php.ilpl.me/gdtv/gdws.m3u8
 广东珠江,http://php.ilpl.me/gdtv/gdzj.m3u8
 广东体育,http://php.ilpl.me/gdtv/gdty.m3u8
