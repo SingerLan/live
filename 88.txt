@@ -136,6 +136,8 @@ IPTV都市剧场,http://49.87.154.246:85/tsfile/live/1028_1.m3u8?key=txiptv&play
 IPTV都市剧场,http://49.87.154.246:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV都市青春,http://1.85.6.42:8888/newlive/live/hls/54/live.m3u8?type=hsmedia&dnas=iptv.weai.love&chid=54
 IPTV都市频道,http://123.52.43.144:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+4k影院画质,http://159.75.85.63:35455/douyu/9249162
+译制国语原,http://159.75.85.63:35455/douyu/2436390
 动作影院,http://123.118.52.98:8888/rtp/239.3.1.92:4120
 喜剧影院,http://123.118.52.98:8888/rtp/239.3.1.91:4120
 家庭影院,http://123.118.52.98:8888/rtp/239.3.1.93:4120
