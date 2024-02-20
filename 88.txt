@@ -38,6 +38,8 @@ CCTV-15,http://bsdcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-15
 CCTV-16,http://bsdcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8
 CCTV-17,http://bsdcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
 CCTV-NEWS,http://bsdcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
+CCTV4k,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
+cctv4k,http://116.55.176.31:4000/udp/239.200.200.202:8784
 CGTN英语,http://mtw.so/5Fo2ZS
 CGTN法语,http://mtw.so/5G8Fvl
 CGTN俄语,http://mtw.so/5Vb5EJ
@@ -138,6 +140,10 @@ IPTV都市青春,http://1.85.6.42:8888/newlive/live/hls/54/live.m3u8?type=hsmedi
 IPTV都市频道,http://123.52.43.144:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 4k影院画质,http://159.75.85.63:35455/douyu/9249162
 译制国语原,http://159.75.85.63:35455/douyu/2436390
+4K,http://183.221.31.230:4088/udp/239.10.0.187:5140
+4K,http://223.86.26.6:3000/udp/239.10.0.240:5140
+4K影视,http://nas.jdshipin.com:8801/4kys.php
+电影测试4K,http://183.238.248.84:9000/udp/239.21.0.129:3860
 动作影院,http://123.118.52.98:8888/rtp/239.3.1.92:4120
 喜剧影院,http://123.118.52.98:8888/rtp/239.3.1.91:4120
 家庭影院,http://123.118.52.98:8888/rtp/239.3.1.93:4120
