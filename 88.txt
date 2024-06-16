@@ -1,4 +1,5 @@
 其它,#genre#
+CCTV-5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
 4K超清,http://123.113.248.110:8888/rtp/239.3.1.249:8001
 1905,https://gatewaynm.1905.com/api/cachefile/731a409d50dc22deefc083437a7ce70b.m3u8
 动作影院,http://link.sczhgx.com:28699/hls/62/index.m3u8
