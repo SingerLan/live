@@ -4,6 +4,7 @@ CCTV-2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?&en
 CCTV-3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
 CCTV-4,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?&encrypt=
 CCTV-5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
+CCTV-5,http://tptv1.mobaibox.com/alcdnbacksourceflag_223.110.243.201%3A80/PLTV/4/224/3221228502/index.m3u8?accountinfo=gjte207Ce%2F%2B9%2BuCdSz2Sj6f1OJcY%2BgF3N0uJb7SkXUYB1W1YSbBfNjU8Ce7QhruFyTHQkyIYCO9il%2BIj4yNFot6MuHSzeQ%2B7tO%2FF4fergvBWbxHVSaBqRKG9O2q9oEbEyGpf3Whs45N7a9gHMfDyVg%3D%3D%3A20240618234645%2C6671abe522a4f%2C112.25.63.228%2C20240618234645%2CG_CCTV-5-AVS-4K264%2C31B264D6D09DF25715E5B27BC2C3242D%2C%2C0%2C1%2C-1%2C%2C2%2C%2C-1%2C-3%2C2%2CEND&GuardEncType=2
 CCTV-6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
 CCTV-7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
 CCTV-8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?&encrypt=
