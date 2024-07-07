@@ -1,12 +1,19 @@
-
 [
-    {
-        "group": "36252",
-        "logo": "36252",
-        "name": "36252",
-        "title": "36252",
-        "uris": [
-            "https://www.douyu.com/36252"
-        ]
-    }
+  {
+    "group": "央视",
+    "logo": "",
+    "name": "",
+    "title": "CCTV-1 综合",
+    "uris": [
+      "https://tv.cctv.com/live/cctv1"
+    ]
+  }, {
+    "group": "央视",
+    "logo": "",
+    "name": "",
+    "title": "斗鱼",
+    "uris": [
+      "https://www.douyu.com/topic/2024KPL_summer?dyshid=2738b67-a48cbd3e415514c8b418576200031601"
+    ]
+  }
 ]
