@@ -7,6 +7,15 @@
     "uris": [
       "https://tv.cctv.com/live/cctv1"
     ]
+    
+  },{
+    "group": "斗鱼",
+    "logo": "",
+    "name": "",
+    "title": "登录页",
+    "uris": [
+      "https://passport.douyu.com/index/login"
+    ]
   }, {
     "group": "斗鱼",
     "logo": "",
