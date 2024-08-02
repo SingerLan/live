@@ -335,6 +335,30 @@ BRTV北京卫视HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.241:8000
 其他,#genre#
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+cctv1,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+cctv2,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
+cctv3,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
+cctv4,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
+cctv5,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+cctv5+,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+cctv6,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
+cctv7,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
+cctv8,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
+cctv9,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
+cctv10,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
+cctv11,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
+cctv12,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
+cctv13,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
+cctv14,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
+cctv15,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
+cctv16,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
+cctv16-4k,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
+cctv17,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
+cctv4k,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
+cctv8k,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+北京卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
+东方卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503.m3u8
+湖南卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
 
 
 IPV6,#genre#
