@@ -13,7 +13,6 @@ IPTV电视剧轮播,http://59.48.75.130:3052/tsfile/live/1002_1.m3u8?key=txiptv&
 JJ斗地主官方,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=af68f33dc536a0fb76a514b2dcce8f6b&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1e55031a221b1d3b7dfd1c7e0d6d57314&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 淘电影HD,http://114.243.99.53:4000/rtp/239.3.1.250:8001
 4K超清[超清],http://114.243.99.53:4000/rtp/239.3.1.249:8001
-每日影院HD,http://114.243.99.53:4000/# rtp/239.3.1.111:8001
 星影,http://114.243.99.53:4000/rtp/239.3.1.94:4120
 动作影院,http://114.243.99.53:4000/rtp/239.3.1.92:4120
 光影,http://114.243.99.53:4000/rtp/239.3.1.84:4120
@@ -22,20 +21,15 @@ JJ斗地主官方,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.f
 精选,http://114.243.99.53:4000/rtp/239.3.1.74:4120
 经典电影,http://114.243.99.53:4000/rtp/239.3.1.195:9024
 淘剧场HD,http://114.243.99.53:4000/rtp/239.3.1.95:8001
-幸福剧场HD,http://114.243.99.53:4000/# rtp/239.3.1.112:8001
 淘娱乐HD,http://114.243.99.53:4000/rtp/239.3.1.100:8001
-幸福娱乐HD,http://114.243.99.53:4000/# rtp/239.3.1.113:8001
 淘BabyHD,http://114.243.99.53:4000/rtp/239.3.1.238:8001
 萌宠TVHD,http://114.243.99.53:4000/rtp/239.3.1.102:8001
-体育赛事HD,http://114.243.99.53:4000/rtp/239.3.1.157:8176
 淘精彩HD,http://114.243.99.53:4000/rtp/239.3.1.178:8001
-
 热播剧场,http://114.243.99.53:4000/rtp/239.3.1.194:9020
 军旅剧场,http://114.243.99.53:4000/rtp/239.3.1.68:4120
 古装剧场,http://114.243.99.53:4000/rtp/239.3.1.69:4120
 淘电影HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.250:8001
 4K超清[超清],http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.249:8001
-每日影院HD,http://mtjkwdrive.zzmd.fun:8888/# rtp/239.3.1.111:8001
 星影,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.94:4120
 动作影院,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.92:4120
 光影,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.84:4120
@@ -44,16 +38,25 @@ JJ斗地主官方,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.f
 精选,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.74:4120
 经典电影,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.195:9024
 淘剧场HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.95:8001
-幸福剧场HD,http://mtjkwdrive.zzmd.fun:8888/# rtp/239.3.1.112:8001
 淘娱乐HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.100:8001
-幸福娱乐HD,http://mtjkwdrive.zzmd.fun:8888/# rtp/239.3.1.113:8001
 淘BabyHD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.238:8001
 萌宠TVHD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.102:8001
-体育赛事HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.157:8176
 淘精彩HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.178:8001
 热播剧场,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.194:9020
 军旅剧场,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.68:4120
 古装剧场,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.69:4120
+风云剧场,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
+怀旧剧场,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
+第一剧场,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171803.m3u8
+风云音乐,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
+世界地理,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172003.m3u8
+文化精品,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
+卫生健康,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
+兵器科技,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172103.m3u8
+风云足球,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+央视台球,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
+高尔夫网球,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
+电视指南,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172503.m3u8
 
 香港,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -103,9 +106,6 @@ CTS华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 靖洋戏剧,http://37.27.111.214:8080/live/17/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 亚洲旅游台,http://37.27.111.214:8080/live/10/hls.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-寰宇新闻台湾,http://37.27.111.214:8080/live/63/hls.m3u8
-
 
 少儿,#genre#
 优漫卡通,http://cd.sy012.com:4000/rtp/232.0.0.182:9182
@@ -184,33 +184,34 @@ CCTV-14,http://222.138.79.78:808/hls/14/index.m3u8
 CCTV-1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV-1,http://124.115.205.101:8888/newlive/live/hls/2/live.m3u8
 CCTV-5,http://124.115.205.101:8888/newlive/live/hls/6/live.m3u8
-
-CCTV-5,http://118.144.105.55:91/live/CCTV5-1500k/live.m3u8
-CCTV-6,http://118.144.105.55:91/live/CCTV6-1500k/live.m3u8
 CCTV-6,https://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV-8,http://118.144.105.55:91/live/CCTV8-1500k/live.m3u8
-
-CCTV-1 HD,http://114.243.99.53:4000/rtp/239.3.1.129:8008
-CCTV-2 HD,http://114.243.99.53:4000/rtp/239.3.1.60:8084
-CCTV-3 HD,http://114.243.99.53:4000/rtp/239.3.1.172:8001
-CCTV-4 HD,http://114.243.99.53:4000/rtp/239.3.1.105:8092
-CCTV-5 HD,http://114.243.99.53:4000/rtp/239.3.1.173:8001
-CCTV-5+ HD,http://114.243.99.53:4000/rtp/239.3.1.130:8004
-CCTV-6 HD,http://114.243.99.53:4000/rtp/239.3.1.174:8001
-CCTV-7 HD,http://114.243.99.53:4000/rtp/239.3.1.61:8104
-CCTV-8 HD,http://114.243.99.53:4000/rtp/239.3.1.175:8001
-CCTV-9 HD,http://114.243.99.53:4000/rtp/239.3.1.62:8112
-CCTV-10 HD,http://114.243.99.53:4000/rtp/239.3.1.63:8116
-CCTV-11 HD,http://114.243.99.53:4000/rtp/239.3.1.152:8120
-CCTV-12 HD,http://114.243.99.53:4000/rtp/239.3.1.64:8124
-CCTV-13 HD,http://114.243.99.53:4000/rtp/239.3.1.124:8128
-CCTV-14 HD,http://114.243.99.53:4000/rtp/239.3.1.65:8132
-CCTV-15 HD,http://114.243.99.53:4000/rtp/239.3.1.153:8136
-CCTV-16 奥林匹克[HDR],http://114.243.99.53:4000/rtp/239.3.1.183:8001
-CCTV-16 奥林匹克HD,http://114.243.99.53:4000/rtp/239.3.1.184:8001
-CCTV-17 HD,http://114.243.99.53:4000/rtp/239.3.1.151:8144
-CCTV-4 中文国际 欧洲HD,http://114.243.99.53:4000/rtp/239.3.1.213:4220
-CCTV-4 中文国际 美洲HD,http://114.243.99.53:4000/rtp/239.3.1.214:4220
+CCTV-1,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+CCTV-2,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
+CCTV-3,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
+CCTV-4,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
+CCTV-5,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+CCTV-5+,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+CCTV-6,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
+CCTV-7,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
+CCTV-8,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
+CCTV-9,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
+CCTV-10,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
+CCTV-11,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
+CCTV-12,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
+CCTV-13,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
+CCTV-14,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
+CCTV-15,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
+CCTV-16,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
+CCTV-16-4K,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
+CCTV-17,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
+CCTV-4k,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
+CCTV-8k,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+CGTN,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575003.m3u8
+CGTN纪录,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
+CGTN阿语,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574603.m3u8
+CGTN西语,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2022571703.m3u8
+CGTN法语,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574903.m3u8
+CGTN俄语,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574803.m3u8
 CGTN 新闻HD,http://114.243.99.53:4000/rtp/239.3.1.215:4220
 CGTN 记录HD,http://114.243.99.53:4000/rtp/239.3.1.216:4220
 CGTN 西班牙语HD,http://114.243.99.53:4000/rtp/239.3.1.217:4220
@@ -218,6 +219,7 @@ CGTN 法语HD,http://114.243.99.53:4000/rtp/239.3.1.218:4220
 CGTN 阿拉伯语HD,http://114.243.99.53:4000/rtp/239.3.1.219:4220
 CGTN 俄语HD,http://114.243.99.53:4000/rtp/239.3.1.220:4220
 
+央视超清,#genre#
 CCTV-1 HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.129:8008
 CCTV-2 HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.60:8084
 CCTV-3 HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.172:8001
@@ -234,7 +236,6 @@ CCTV-12 HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.64:8124
 CCTV-13 HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.124:8128
 CCTV-14 HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.65:8132
 CCTV-15 HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.153:8136
-CCTV-16 奥林匹克[HDR],http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.183:8001
 CCTV-16 奥林匹克HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.184:8001
 CCTV-17 HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.151:8144
 CCTV-4 中文国际 欧洲HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.213:4220
@@ -245,6 +246,27 @@ CGTN 西班牙语HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.217:4220
 CGTN 法语HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.218:4220
 CGTN 阿拉伯语HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.219:4220
 CGTN 俄语HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.220:4220
+CCTV-1 HD,http://114.243.99.53:4000/rtp/239.3.1.129:8008
+CCTV-2 HD,http://114.243.99.53:4000/rtp/239.3.1.60:8084
+CCTV-3 HD,http://114.243.99.53:4000/rtp/239.3.1.172:8001
+CCTV-4 HD,http://114.243.99.53:4000/rtp/239.3.1.105:8092
+CCTV-5 HD,http://114.243.99.53:4000/rtp/239.3.1.173:8001
+CCTV-5+ HD,http://114.243.99.53:4000/rtp/239.3.1.130:8004
+CCTV-6 HD,http://114.243.99.53:4000/rtp/239.3.1.174:8001
+CCTV-7 HD,http://114.243.99.53:4000/rtp/239.3.1.61:8104
+CCTV-8 HD,http://114.243.99.53:4000/rtp/239.3.1.175:8001
+CCTV-9 HD,http://114.243.99.53:4000/rtp/239.3.1.62:8112
+CCTV-10 HD,http://114.243.99.53:4000/rtp/239.3.1.63:8116
+CCTV-11 HD,http://114.243.99.53:4000/rtp/239.3.1.152:8120
+CCTV-12 HD,http://114.243.99.53:4000/rtp/239.3.1.64:8124
+CCTV-13 HD,http://114.243.99.53:4000/rtp/239.3.1.124:8128
+CCTV-14 HD,http://114.243.99.53:4000/rtp/239.3.1.65:8132
+CCTV-15 HD,http://114.243.99.53:4000/rtp/239.3.1.153:8136
+CCTV-16 奥林匹克HD,http://114.243.99.53:4000/rtp/239.3.1.184:8001
+CCTV-17 HD,http://114.243.99.53:4000/rtp/239.3.1.151:8144
+CCTV-4 中文国际 欧洲HD,http://114.243.99.53:4000/rtp/239.3.1.213:4220
+CCTV-4 中文国际 美洲HD,http://114.243.99.53:4000/rtp/239.3.1.214:4220
+
 卫视,#genre#
 河南卫视,http://222.138.79.78:808/hls/16/index.m3u8
 湖南卫视,http://222.138.79.78:808/hls/27/index.m3u8
@@ -260,6 +282,61 @@ CGTN 俄语HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.220:4220
 贵州卫视,http://222.138.79.78:808/hls/37/index.m3u8
 广东卫视,http://222.138.79.78:808/hls/38/index.m3u8
 四川卫视,http://222.138.79.78:808/hls/39/index.m3u8
+北京卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
+东方卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503.m3u8
+湖南卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
+江苏卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171103.m3u8
+浙江卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054703.m3u8
+安徽卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171403.m3u8
+天津卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
+东南卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061503.m3u8
+辽宁卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171303.m3u8
+海南卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024055603.m3u8
+深圳卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061303.m3u8
+广东卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060903.m3u8
+黑龙江卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061003.m3u8
+江西卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061703.m3u8
+广西卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024060703.m3u8
+湖北卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171203.m3u8
+山东卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171603.m3u8
+贵州卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061603.m3u8
+四川卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061403.m3u8
+河南卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024059703.m3u8
+河北卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171503.m3u8
+重庆卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024061103.m3u8
+新疆卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
+海南卫视,http://114.243.99.53:4000/rtp/239.3.1.45:8304
+云南卫视,http://114.243.99.53:4000/rtp/239.3.1.26:8108
+兵团卫视,http://114.243.99.53:4000/rtp/239.3.1.144:4120
+厦门卫视,http://114.243.99.53:4000/rtp/239.3.1.143:4120
+四川卫视,http://114.243.99.53:4000/rtp/239.3.1.29:8288
+宁夏卫视,http://114.243.99.53:4000/rtp/239.3.1.46:8124
+山西卫视,http://114.243.99.53:4000/rtp/239.3.1.42:8172
+广西卫视,http://114.243.99.53:4000/rtp/239.3.1.39:8300
+新疆卫视,http://114.243.99.53:4000/rtp/239.3.1.48:8160
+河南卫视,http://114.243.99.53:4000/rtp/239.3.1.27:8128
+甘肃卫视,http://114.243.99.53:4000/rtp/239.3.1.49:8188
+西藏卫视,http://114.243.99.53:4000/rtp/239.3.1.47:8164
+陕西卫视,http://114.243.99.53:4000/rtp/239.3.1.41:8140
+青海卫视,http://114.243.99.53:4000/rtp/239.3.1.44:8184
+内蒙古卫视,http://114.243.99.53:4000/rtp/239.3.1.43:8176
+海南卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.45:8304
+云南卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.26:8108
+兵团卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.144:4120
+厦门卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.143:4120
+四川卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.29:8288
+宁夏卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.46:8124
+山西卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.42:8172
+广西卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.39:8300
+新疆卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.48:8160
+河南卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.27:8128
+甘肃卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.49:8188
+西藏卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.47:8164
+陕西卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.41:8140
+青海卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.44:8184
+内蒙古卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.43:8176
+
+卫视超清,#genre#
 BRTV北京卫视HD,http://114.243.99.53:4000/rtp/239.3.1.241:8000
 湖南卫视HD,http://114.243.99.53:4000/rtp/239.3.1.132:8012
 东方卫视HD,http://114.243.99.53:4000/rtp/239.3.1.136:8032
@@ -279,21 +356,6 @@ BRTV北京卫视HD,http://114.243.99.53:4000/rtp/239.3.1.241:8000
 贵州卫视HD,http://114.243.99.53:4000/rtp/239.3.1.149:8076
 东南卫视HD,http://114.243.99.53:4000/rtp/239.3.1.156:8148
 江西卫视HD,http://114.243.99.53:4000/rtp/239.3.1.123:8164
-海南卫视,http://114.243.99.53:4000/rtp/239.3.1.45:8304
-云南卫视,http://114.243.99.53:4000/rtp/239.3.1.26:8108
-兵团卫视,http://114.243.99.53:4000/rtp/239.3.1.144:4120
-厦门卫视,http://114.243.99.53:4000/rtp/239.3.1.143:4120
-四川卫视,http://114.243.99.53:4000/rtp/239.3.1.29:8288
-宁夏卫视,http://114.243.99.53:4000/rtp/239.3.1.46:8124
-山西卫视,http://114.243.99.53:4000/rtp/239.3.1.42:8172
-广西卫视,http://114.243.99.53:4000/rtp/239.3.1.39:8300
-新疆卫视,http://114.243.99.53:4000/rtp/239.3.1.48:8160
-河南卫视,http://114.243.99.53:4000/rtp/239.3.1.27:8128
-甘肃卫视,http://114.243.99.53:4000/rtp/239.3.1.49:8188
-西藏卫视,http://114.243.99.53:4000/rtp/239.3.1.47:8164
-陕西卫视,http://114.243.99.53:4000/rtp/239.3.1.41:8140
-青海卫视,http://114.243.99.53:4000/rtp/239.3.1.44:8184
-内蒙古卫视,http://114.243.99.53:4000/rtp/239.3.1.43:8176
 BRTV北京卫视HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.241:8000
 湖南卫视HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.132:8012
 东方卫视HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.136:8032
@@ -313,53 +375,13 @@ BRTV北京卫视HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.241:8000
 贵州卫视HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.149:8076
 东南卫视HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.156:8148
 江西卫视HD,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.123:8164
-海南卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.45:8304
-云南卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.26:8108
-兵团卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.144:4120
-厦门卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.143:4120
-四川卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.29:8288
-宁夏卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.46:8124
-山西卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.42:8172
-广西卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.39:8300
-新疆卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.48:8160
-河南卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.27:8128
-甘肃卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.49:8188
-西藏卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.47:8164
-陕西卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.41:8140
-青海卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.44:8184
-内蒙古卫视,http://mtjkwdrive.zzmd.fun:8888/rtp/239.3.1.43:8176
+
 河南,#genre#
 河南梨园频道,http://222.138.79.78:808/hls/17/index.m3u8
-
 
 其他,#genre#
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-cctv1,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
-cctv2,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8
-cctv3,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
-cctv4,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078303.m3u8
-cctv5,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
-cctv5+,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
-cctv6,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574303.m3u8
-cctv7,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072003.m3u8
-cctv8,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078503.m3u8
-cctv9,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
-cctv10,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078703.m3u8
-cctv11,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078803.m3u8
-cctv12,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078903.m3u8
-cctv13,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
-cctv14,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079103.m3u8
-cctv15,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079203.m3u8
-cctv16,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
-cctv16-4k,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024083703.m3u8
-cctv17,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079503.m3u8
-cctv4k,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081303.m3u8
-cctv8k,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
-北京卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024052703.m3u8
-东方卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503.m3u8
-湖南卫视,https://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054803.m3u8
-
 
 IPV6,#genre#
 
@@ -485,4 +507,3 @@ newtv欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 newtv精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 newtv超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 newtv金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-
