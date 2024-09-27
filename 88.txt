@@ -355,6 +355,8 @@ MTV电影,http://218.202.220.2:5000/nn_live.m3u8?id=MTV
 斗鱼电影-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 
 港澳台,#genre#
+星空,http://119.4.5.125:5555/udp/239.93.0.156:2193
+星空,http://119.4.5.125:5555/udp/239.93.1.10:2193
 ASTV亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761      
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
@@ -1142,6 +1144,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 广西卫视,http://47.102.200.34:18081/live/program/live/gxwshd8m/8000000/mnf.m3u8
 云南卫视,http://47.102.200.34:18081/live/program/live/ynwshd8m/8000000/mnf.m3u8
 海南卫视,http://47.102.200.34:18081/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+海南卫视,http://119.4.5.125:5555/udp/239.93.0.80:5140
 厦门卫视,http://47.102.200.34:18081/live/program/live/xmws/1300000/mnf.m3u8
 内蒙古卫视,http://47.102.200.34:18081/live/program/live/nmgws/1300000/mnf.m3u8
 青海卫视,http://47.102.200.34:18081/live/program/live/qhws/1300000/mnf.m3u8
