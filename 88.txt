@@ -2,9 +2,15 @@
 CHC动作电影,http://lvs.hunancatv.com:8060/live/CHCDZDY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
 CHC家庭影院,http://lvs.hunancatv.com:8060/live/CHCJTYY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
 CHC影迷电影,http://lvs.hunancatv.com:8060/live/CHCGQ.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+4K超清[超清],http://123.113.254.161:8012/udp/239.3.1.249:8001
 4K超清[超清],http://125.34.48.135:7077/udp/239.3.1.249:8001
+4K超清[超清],http://218.241.192.50:8808/udp/239.3.1.249:8001
 4K超清[超清],http://dsm.ats.ink:8012/udp/239.3.1.249:8001
 4K超清[超清],http://gen8.cc:5555/udp/239.3.1.249:8001
+4K超清[超清],http://home.chenjl.com:9999/udp/239.3.1.249:8001
 4K超清[超清],http://ikuai.zlsip.top:4022/udp/239.3.1.249:8001
 4K超清[超清],http://iptv.ccj.gohome.link:55556/udp/239.3.1.249:8001
 4K超清[超清],http://joyznm.i234.me:20000/udp/239.3.1.249:8001
@@ -20,9 +26,12 @@ CHC影迷电影,http://lvs.hunancatv.com:8060/live/CHCGQ.m3u8?deviceid=866265039
 4K超清[超清],http://wuzuo.fun:4022/udp/239.3.1.249:8001
 4K超清[超清],http://www.lishaoping.com:8012/udp/239.3.1.249:8001
 4K超清[超清],http://yun.jinsome.com:8686/udp/239.3.1.249:8001
+爱上4K[超清],http://123.113.254.161:8012/udp/239.3.1.236:2000
 爱上4K[超清],http://125.34.48.135:7077/udp/239.3.1.236:2000
+爱上4K[超清],http://218.241.192.50:8808/udp/239.3.1.236:2000
 爱上4K[超清],http://dsm.ats.ink:8012/udp/239.3.1.236:2000
 爱上4K[超清],http://gen8.cc:5555/udp/239.3.1.236:2000
+爱上4K[超清],http://home.chenjl.com:9999/udp/239.3.1.236:2000
 爱上4K[超清],http://ikuai.zlsip.top:4022/udp/239.3.1.236:2000
 爱上4K[超清],http://iptv.ccj.gohome.link:55556/udp/239.3.1.236:2000
 爱上4K[超清],http://joyznm.i234.me:20000/udp/239.3.1.236:2000
@@ -40,9 +49,12 @@ CHC影迷电影,http://lvs.hunancatv.com:8060/live/CHCGQ.m3u8?deviceid=866265039
 爱上4K[超清],http://www.lishaoping.com:8012/udp/239.3.1.236:2000
 爱上4K[超清],http://yun.jinsome.com:8686/udp/239.3.1.236:2000
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+军事,http://123.113.254.161:8012/udp/239.3.1.76:4120
 军事,http://125.34.48.135:7077/udp/239.3.1.76:4120
+军事,http://218.241.192.50:8808/udp/239.3.1.76:4120
 军事,http://dsm.ats.ink:8012/udp/239.3.1.76:4120
 军事,http://gen8.cc:5555/udp/239.3.1.76:4120
+军事,http://home.chenjl.com:9999/udp/239.3.1.76:4120
 军事,http://ikuai.zlsip.top:4022/udp/239.3.1.76:4120
 军事,http://iptv.ccj.gohome.link:55556/udp/239.3.1.76:4120
 军事,http://joyznm.i234.me:20000/udp/239.3.1.76:4120
@@ -59,7 +71,9 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 军事,http://www.abelstation.cn:4000/udp/239.3.1.76:4120
 军事,http://www.lishaoping.com:8012/udp/239.3.1.76:4120
 军事,http://yun.jinsome.com:8686/udp/239.3.1.76:4120
+军旅剧场,http://123.113.254.161:8012/udp/239.3.1.68:4120
 军旅剧场,http://125.34.48.135:7077/udp/239.3.1.68:4120
+军旅剧场,http://218.241.192.50:8808/udp/239.3.1.68:4120
 军旅剧场,http://dsm.ats.ink:8012/udp/239.3.1.68:4120
 军旅剧场,http://gen8.cc:5555/udp/239.3.1.68:4120
 军旅剧场,http://ikuai.zlsip.top:4022/udp/239.3.1.68:4120
@@ -78,9 +92,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 军旅剧场,http://www.abelstation.cn:4000/udp/239.3.1.68:4120
 军旅剧场,http://www.lishaoping.com:8012/udp/239.3.1.68:4120
 军旅剧场,http://yun.jinsome.com:8686/udp/239.3.1.68:4120
+动作影院,http://123.113.254.161:8012/udp/239.3.1.92:4120
 动作影院,http://125.34.48.135:7077/udp/239.3.1.92:4120
+动作影院,http://218.241.192.50:8808/udp/239.3.1.92:4120
 动作影院,http://dsm.ats.ink:8012/udp/239.3.1.92:4120
 动作影院,http://gen8.cc:5555/udp/239.3.1.92:4120
+动作影院,http://home.chenjl.com:9999/udp/239.3.1.92:4120
 动作影院,http://ikuai.zlsip.top:4022/udp/239.3.1.92:4120
 动作影院,http://iptv.ccj.gohome.link:55556/udp/239.3.1.92:4120
 动作影院,http://joyznm.i234.me:20000/udp/239.3.1.92:4120
@@ -97,9 +114,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 动作影院,http://www.abelstation.cn:4000/udp/239.3.1.92:4120
 动作影院,http://www.lishaoping.com:8012/udp/239.3.1.92:4120
 动作影院,http://yun.jinsome.com:8686/udp/239.3.1.92:4120
+古装剧场,http://123.113.254.161:8012/udp/239.3.1.69:4120
 古装剧场,http://125.34.48.135:7077/udp/239.3.1.69:4120
+古装剧场,http://218.241.192.50:8808/udp/239.3.1.69:4120
 古装剧场,http://dsm.ats.ink:8012/udp/239.3.1.69:4120
 古装剧场,http://gen8.cc:5555/udp/239.3.1.69:4120
+古装剧场,http://home.chenjl.com:9999/udp/239.3.1.69:4120
 古装剧场,http://ikuai.zlsip.top:4022/udp/239.3.1.69:4120
 古装剧场,http://iptv.ccj.gohome.link:55556/udp/239.3.1.69:4120
 古装剧场,http://joyznm.i234.me:20000/udp/239.3.1.69:4120
@@ -117,8 +137,10 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 古装剧场,http://www.lishaoping.com:8012/udp/239.3.1.69:4120
 古装剧场,http://yun.jinsome.com:8686/udp/239.3.1.69:4120
 城市剧场,http://125.34.48.135:7077/udp/239.3.1.67:4120
+城市剧场,http://218.241.192.50:8808/udp/239.3.1.67:4120
 城市剧场,http://dsm.ats.ink:8012/udp/239.3.1.67:4120
 城市剧场,http://gen8.cc:5555/udp/239.3.1.67:4120
+城市剧场,http://home.chenjl.com:9999/udp/239.3.1.67:4120
 城市剧场,http://ikuai.zlsip.top:4022/udp/239.3.1.67:4120
 城市剧场,http://iptv.ccj.gohome.link:55556/udp/239.3.1.67:4120
 城市剧场,http://joyznm.i234.me:20000/udp/239.3.1.67:4120
@@ -135,9 +157,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 城市剧场,http://www.abelstation.cn:4000/udp/239.3.1.67:4120
 城市剧场,http://www.lishaoping.com:8012/udp/239.3.1.67:4120
 城市剧场,http://yun.jinsome.com:8686/udp/239.3.1.67:4120
+戏曲,http://123.113.254.161:8012/udp/239.3.1.78:4120
 戏曲,http://125.34.48.135:7077/udp/239.3.1.78:4120
+戏曲,http://218.241.192.50:8808/udp/239.3.1.78:4120
 戏曲,http://dsm.ats.ink:8012/udp/239.3.1.78:4120
 戏曲,http://gen8.cc:5555/udp/239.3.1.78:4120
+戏曲,http://home.chenjl.com:9999/udp/239.3.1.78:4120
 戏曲,http://ikuai.zlsip.top:4022/udp/239.3.1.78:4120
 戏曲,http://iptv.ccj.gohome.link:55556/udp/239.3.1.78:4120
 戏曲,http://joyznm.i234.me:20000/udp/239.3.1.78:4120
@@ -154,9 +179,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 戏曲,http://www.lishaoping.com:8012/udp/239.3.1.78:4120
 戏曲,http://yun.jinsome.com:8686/udp/239.3.1.78:4120
 欢笑剧场,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000?$盐成电信组播
+武侠剧场,http://123.113.254.161:8012/udp/239.3.1.90:4120
 武侠剧场,http://125.34.48.135:7077/udp/239.3.1.90:4120
+武侠剧场,http://218.241.192.50:8808/udp/239.3.1.90:4120
 武侠剧场,http://dsm.ats.ink:8012/udp/239.3.1.90:4120
 武侠剧场,http://gen8.cc:5555/udp/239.3.1.90:4120
+武侠剧场,http://home.chenjl.com:9999/udp/239.3.1.90:4120
 武侠剧场,http://ikuai.zlsip.top:4022/udp/239.3.1.90:4120
 武侠剧场,http://iptv.ccj.gohome.link:55556/udp/239.3.1.90:4120
 武侠剧场,http://joyznm.i234.me:20000/udp/239.3.1.90:4120
@@ -175,9 +203,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 武侠剧场,http://www.abelstation.cn:4000/udp/239.3.1.90:4120
 武侠剧场,http://www.lishaoping.com:8012/udp/239.3.1.90:4120
 武侠剧场,http://yun.jinsome.com:8686/udp/239.3.1.90:4120
+淘Baby,http://123.113.254.161:8012/udp/239.3.1.238:8001
 淘Baby,http://125.34.48.135:7077/udp/239.3.1.238:8001
+淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001
 淘Baby,http://dsm.ats.ink:8012/udp/239.3.1.238:8001
 淘Baby,http://gen8.cc:5555/udp/239.3.1.238:8001
+淘Baby,http://home.chenjl.com:9999/udp/239.3.1.238:8001
 淘Baby,http://iptv.ccj.gohome.link:55556/udp/239.3.1.238:8001
 淘Baby,http://joyznm.i234.me:20000/udp/239.3.1.238:8001
 淘Baby,http://joyznm.x3322.net:20000/udp/239.3.1.238:8001
@@ -195,9 +226,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘Baby,http://www.abelstation.cn:4000/udp/239.3.1.238:8001
 淘Baby,http://www.lishaoping.com:8012/udp/239.3.1.238:8001
 淘Baby,http://yun.jinsome.com:8686/udp/239.3.1.238:8001
+淘剧场,http://123.113.254.161:8012/udp/239.3.1.95:8001
 淘剧场,http://125.34.48.135:7077/udp/239.3.1.95:8001
+淘剧场,http://218.241.192.50:8808/udp/239.3.1.95:8001
 淘剧场,http://dsm.ats.ink:8012/udp/239.3.1.95:8001
 淘剧场,http://gen8.cc:5555/udp/239.3.1.95:8001
+淘剧场,http://home.chenjl.com:9999/udp/239.3.1.95:8001
 淘剧场,http://ikuai.zlsip.top:4022/udp/239.3.1.95:8001
 淘剧场,http://iptv.ccj.gohome.link:55556/udp/239.3.1.95:8001
 淘剧场,http://joyznm.i234.me:20000/udp/239.3.1.95:8001
@@ -216,9 +250,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘剧场,http://www.abelstation.cn:4000/udp/239.3.1.95:8001
 淘剧场,http://www.lishaoping.com:8012/udp/239.3.1.95:8001
 淘剧场,http://yun.jinsome.com:8686/udp/239.3.1.95:8001
+淘娱乐,http://123.113.254.161:8012/udp/239.3.1.100:8001
 淘娱乐,http://125.34.48.135:7077/udp/239.3.1.100:8001
+淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 淘娱乐,http://dsm.ats.ink:8012/udp/239.3.1.100:8001
 淘娱乐,http://gen8.cc:5555/udp/239.3.1.100:8001
+淘娱乐,http://home.chenjl.com:9999/udp/239.3.1.100:8001
 淘娱乐,http://ikuai.zlsip.top:4022/udp/239.3.1.100:8001
 淘娱乐,http://iptv.ccj.gohome.link:55556/udp/239.3.1.100:8001
 淘娱乐,http://joyznm.i234.me:20000/udp/239.3.1.100:8001
@@ -237,8 +274,10 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘娱乐,http://www.lishaoping.com:8012/udp/239.3.1.100:8001
 淘娱乐,http://yun.jinsome.com:8686/udp/239.3.1.100:8001
 淘电影,http://125.34.48.135:7077/udp/239.3.1.250:8001
+淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
 淘电影,http://dsm.ats.ink:8012/udp/239.3.1.250:8001
 淘电影,http://gen8.cc:5555/udp/239.3.1.250:8001
+淘电影,http://home.chenjl.com:9999/udp/239.3.1.250:8001
 淘电影,http://ikuai.zlsip.top:4022/udp/239.3.1.250:8001
 淘电影,http://iptv.ccj.gohome.link:55556/udp/239.3.1.250:8001
 淘电影,http://joyznm.i234.me:20000/udp/239.3.1.250:8001
@@ -258,9 +297,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘电影,http://www.abelstation.cn:4000/udp/239.3.1.250:8001
 淘电影,http://www.lishaoping.com:8012/udp/239.3.1.250:8001
 淘电影,http://yun.jinsome.com:8686/udp/239.3.1.250:8001
+淘精彩,http://123.113.254.161:8012/udp/239.3.1.178:8001
 淘精彩,http://125.34.48.135:7077/udp/239.3.1.178:8001
+淘精彩,http://218.241.192.50:8808/udp/239.3.1.178:8001
 淘精彩,http://dsm.ats.ink:8012/udp/239.3.1.178:8001
 淘精彩,http://gen8.cc:5555/udp/239.3.1.178:8001
+淘精彩,http://home.chenjl.com:9999/udp/239.3.1.178:8001
 淘精彩,http://ikuai.zlsip.top:4022/udp/239.3.1.178:8001
 淘精彩,http://iptv.ccj.gohome.link:55556/udp/239.3.1.178:8001
 淘精彩,http://joyznm.i234.me:20000/udp/239.3.1.178:8001
@@ -280,8 +322,10 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘精彩,http://www.lishaoping.com:8012/udp/239.3.1.178:8001
 淘精彩,http://yun.jinsome.com:8686/udp/239.3.1.178:8001
 热播剧场,http://125.34.48.135:7077/udp/239.3.1.194:9020
+热播剧场,http://218.241.192.50:8808/udp/239.3.1.194:9020
 热播剧场,http://dsm.ats.ink:8012/udp/239.3.1.194:9020
 热播剧场,http://gen8.cc:5555/udp/239.3.1.194:9020
+热播剧场,http://home.chenjl.com:9999/udp/239.3.1.194:9020
 热播剧场,http://ikuai.zlsip.top:4022/udp/239.3.1.194:9020
 热播剧场,http://iptv.ccj.gohome.link:55556/udp/239.3.1.194:9020
 热播剧场,http://joyznm.i234.me:20000/udp/239.3.1.194:9020
@@ -300,9 +344,12 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 热播剧场,http://www.abelstation.cn:4000/udp/239.3.1.194:9020
 热播剧场,http://www.lishaoping.com:8012/udp/239.3.1.194:9020
 热播剧场,http://yun.jinsome.com:8686/udp/239.3.1.194:9020
+经典电影,http://123.113.254.161:8012/udp/239.3.1.195:9024
 经典电影,http://125.34.48.135:7077/udp/239.3.1.195:9024
+经典电影,http://218.241.192.50:8808/udp/239.3.1.195:9024
 经典电影,http://dsm.ats.ink:8012/udp/239.3.1.195:9024
 经典电影,http://gen8.cc:5555/udp/239.3.1.195:9024
+经典电影,http://home.chenjl.com:9999/udp/239.3.1.195:9024
 经典电影,http://ikuai.zlsip.top:4022/udp/239.3.1.195:9024
 经典电影,http://iptv.ccj.gohome.link:55556/udp/239.3.1.195:9024
 经典电影,http://joyznm.i234.me:20000/udp/239.3.1.195:9024
@@ -319,8 +366,10 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 经典电影,http://wuzuo.fun:4022/udp/239.3.1.195:9024
 经典电影,http://www.abelstation.cn:4000/udp/239.3.1.195:9024
 经典电影,http://www.lishaoping.com:8012/udp/239.3.1.195:9024
+音乐现场,http://123.113.254.161:8012/udp/239.3.1.70:4120
 音乐现场,http://125.34.48.135:7077/udp/239.3.1.70:4120
 音乐现场,http://dsm.ats.ink:8012/udp/239.3.1.70:4120
+音乐现场,http://home.chenjl.com:9999/udp/239.3.1.70:4120
 音乐现场,http://ikuai.zlsip.top:4022/udp/239.3.1.70:4120
 音乐现场,http://iptv.ccj.gohome.link:55556/udp/239.3.1.70:4120
 音乐现场,http://joyznm.i234.me:20000/udp/239.3.1.70:4120
@@ -355,26 +404,40 @@ MTV电影,http://218.202.220.2:5000/nn_live.m3u8?id=MTV
 斗鱼电影-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 
 港澳台,#genre#
-星空,http://119.4.5.125:5555/udp/239.93.0.156:2193
-星空,http://119.4.5.125:5555/udp/239.93.1.10:2193
 ASTV亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761      
+CATCHPLAY電影台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv076&token=512df05ba376d24347056188734991c661df7b2f5e014001
+CTS华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
+GinxTV,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv053&token=512df05ba376d24347056188734991c661df7b2f5e014001
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+TVB-jade,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+TVBS ASIA,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 tvbs,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv073&token=512df05ba376d24347056188734991c661df7b2f5e014001
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+tvbs新聞台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv072&token=512df05ba376d24347056188734991c661df7b2f5e014001
+tvbs歡樂台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv068&token=512df05ba376d24347056188734991c661df7b2f5e014001
+tvbs精采台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv067&token=512df05ba376d24347056188734991c661df7b2f5e014001
+TVB星河,http://183.234.34.236:8904/live1105.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+中視菁采,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv064&token=512df05ba376d24347056188734991c661df7b2f5e014001
+中视,http://37.27.111.214:8080/live/7/hls.m3u8
+中视闽南台,rtmp://f13h.mine.nu/sat/tv091
 亚洲卫视[1920x1080],http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 亚洲卫视频道,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
+亚洲旅游台,http://37.27.111.214:8080/live/10/hls.m3u8
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 凤凰hk,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
+凤凰中文,http://183.234.238.18:8927/live1129.m3u8
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://shenxian.serv00.net/fhx.php?id=zw
 凤凰卫视,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
 凤凰资讯,http://183.234.238.18:8926/live1128.m3u8
@@ -383,25 +446,49 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
+凤凰资讯,https://shenxian.serv00.net/fhx.php?id=zx
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 华视闽南台,rtmp://f13h.mine.nu/sat/tv111
+博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
+古典音樂台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv059&token=512df05ba376d24347056188734991c661df7b2f5e014001
 台湾,http://61.221.215.25:8800/hls/58/index.m3u8
 台湾NEXT,http://61.221.215.25:8800/hls/1/index.m3u8
 台湾民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+台視,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv066&token=512df05ba376d24347056188734991c661df7b2f5e014001
 台視,rtmp://f13h.mine.nu/sat/tv071
+寰宇新闻台湾,http://37.27.111.214:8080/live/63/hls.m3u8
+寰宇财经新闻,http://37.27.111.214:8080/live/65/hls.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 東森超視,rtmp://f13h.mine.nu/sat/tv331
 民視,rtmp://f13h.mine.nu/sat/tv051
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
+民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
 港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+澳视 澳门台,http://61.244.22.5/ch1/ch1.live/index.m3u8
+澳视卫星台,http://61.244.22.5/ch3/ch3.live/index.m3u8
+澳视澳门台,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+澳视澳门台,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳视综艺台,http://61.244.22.5/ch6/hd_ch6.live/playlist.m3u8
+澳视葡文台,http://61.244.22.5/ch2/ch2.live/index.m3u8
+澳视葡语台,http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
+澳门 卫视台,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳门 资讯台,http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
+澳门mac台,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+澳门体育台,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+澳门莲花台,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 纬来体育台,rtmp://f13h.mine.nu/sat/tv721
 纬来日本台,rtmp://f13h.mine.nu/sat/tv771
@@ -409,16 +496,22 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 纬来育乐台,rtmp://f13h.mine.nu/sat/tv701
 经典重温,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D
 耀才财经台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
 香港环球卫视,rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-1a56ccd327477eb45e7da54c8be2a6b5
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+香港面包频道,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
 
 少儿,#genre#
+动画,http://123.113.254.161:8012/udp/239.3.1.80:4120
 动画,http://125.34.48.135:7077/udp/239.3.1.80:4120
+动画,http://218.241.192.50:8808/udp/239.3.1.80:4120
 动画,http://dsm.ats.ink:8012/udp/239.3.1.80:4120
 动画,http://gen8.cc:5555/udp/239.3.1.80:4120
+动画,http://home.chenjl.com:9999/udp/239.3.1.80:4120
 动画,http://ikuai.zlsip.top:4022/udp/239.3.1.80:4120
 动画,http://iptv.ccj.gohome.link:55556/udp/239.3.1.80:4120
 动画,http://joyznm.i234.me:20000/udp/239.3.1.80:4120
@@ -437,8 +530,11 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 动画,http://www.abelstation.cn:4000/udp/239.3.1.80:4120
 动画,http://www.lishaoping.com:8012/udp/239.3.1.80:4120
 动画,http://yun.jinsome.com:8686/udp/239.3.1.80:4120
+卡酷少儿,http://123.113.254.161:8012/udp/239.3.1.189:8000
 卡酷少儿,http://125.34.48.135:7077/udp/239.3.1.189:8000
+卡酷少儿,http://218.241.192.50:8808/udp/239.3.1.189:8000
 卡酷少儿,http://dsm.ats.ink:8012/udp/239.3.1.189:8000
+卡酷少儿,http://home.chenjl.com:9999/udp/239.3.1.189:8000
 卡酷少儿,http://ikuai.zlsip.top:4022/udp/239.3.1.189:8000
 卡酷少儿,http://iptv.ccj.gohome.link:55556/udp/239.3.1.189:8000
 卡酷少儿,http://joyznm.i234.me:20000/udp/239.3.1.189:8000
@@ -457,9 +553,12 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 卡酷少儿,http://www.furymax.top:85/rtp/239.69.1.193:10800
 卡酷少儿,http://www.lishaoping.com:8012/udp/239.3.1.189:8000
 卡酷少儿,http://yun.jinsome.com:8686/udp/239.3.1.189:8000
+嘉佳卡通,http://123.113.254.161:8012/udp/239.3.1.147:9268
 嘉佳卡通,http://125.34.48.135:7077/udp/239.3.1.147:9268
+嘉佳卡通,http://218.241.192.50:8808/udp/239.3.1.147:9268
 嘉佳卡通,http://dsm.ats.ink:8012/udp/239.3.1.147:9268
 嘉佳卡通,http://gen8.cc:5555/udp/239.3.1.147:9268
+嘉佳卡通,http://home.chenjl.com:9999/udp/239.3.1.147:9268
 嘉佳卡通,http://ikuai.zlsip.top:4022/udp/239.3.1.147:9268
 嘉佳卡通,http://iptv.ccj.gohome.link:55556/udp/239.3.1.147:9268
 嘉佳卡通,http://joyznm.i234.me:20000/udp/239.3.1.147:9268
@@ -477,8 +576,10 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 嘉佳卡通,http://www.abelstation.cn:4000/udp/239.3.1.147:9268
 嘉佳卡通,http://www.lishaoping.com:8012/udp/239.3.1.147:9268
 少儿动画,http://125.34.48.135:7077/udp/239.3.1.199:9000
+少儿动画,http://218.241.192.50:8808/udp/239.3.1.199:9000
 少儿动画,http://dsm.ats.ink:8012/udp/239.3.1.199:9000
 少儿动画,http://gen8.cc:5555/udp/239.3.1.199:9000
+少儿动画,http://home.chenjl.com:9999/udp/239.3.1.199:9000
 少儿动画,http://ikuai.zlsip.top:4022/udp/239.3.1.199:9000
 少儿动画,http://iptv.ccj.gohome.link:55556/udp/239.3.1.199:9000
 少儿动画,http://joyznm.i234.me:20000/udp/239.3.1.199:9000
@@ -496,10 +597,13 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 少儿动画,http://www.abelstation.cn:4000/udp/239.3.1.199:9000
 少儿动画,http://www.lishaoping.com:8012/udp/239.3.1.199:9000
 少儿动画,http://yun.jinsome.com:8686/udp/239.3.1.199:9000
+金鹰卡通,http://123.113.254.161:8012/udp/239.3.1.51:9252
 金鹰卡通,http://125.34.48.135:7077/udp/239.3.1.51:9252
+金鹰卡通,http://218.241.192.50:8808/udp/239.3.1.51:9252
 金鹰卡通,http://dsm.ats.ink:8012/udp/239.3.1.51:9252
 金鹰卡通,http://gen8.cc:5555/udp/239.3.1.51:9252
 金鹰卡通,http://gmxw.7766.org:808/hls/69/index.m3u8
+金鹰卡通,http://home.chenjl.com:9999/udp/239.3.1.51:9252
 金鹰卡通,http://ikuai.zlsip.top:4022/udp/239.3.1.51:9252
 金鹰卡通,http://iptv.ccj.gohome.link:55556/udp/239.3.1.51:9252
 金鹰卡通,http://joyznm.i234.me:20000/udp/239.3.1.51:9252
@@ -522,30 +626,29 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 央视,#genre#
-
-CCTV-1,http://bjlive.u.pthv.gitv.tv:91/live/CCTV1-1500k/live.m3u8
-CCTV-1,http://47.102.200.34:18081/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV-2,http://47.102.200.34:18081/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV-3,http://47.102.200.34:18081/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV-4,http://47.102.200.34:18081/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV-5,http://47.102.200.34:18081/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV-5+,http://47.102.200.34:18081/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV-6,http://47.102.200.34:18081/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV-7,http://47.102.200.34:18081/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV-8,http://47.102.200.34:18081/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV-9,http://47.102.200.34:18081/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV-10,http://47.102.200.34:18081/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV-11,http://47.102.200.34:18081/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV-12,http://47.102.200.34:18081/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV-13,http://47.102.200.34:18081/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV-14,http://47.102.200.34:18081/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV-15,http://47.102.200.34:18081/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV-16,http://47.102.200.34:18081/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV-17,http://47.102.200.34:18081/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-CCTV-4K,http://47.102.200.34:18081/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV1,http://47.102.200.34:18081/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2,http://47.102.200.34:18081/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3,http://47.102.200.34:18081/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV4,http://47.102.200.34:18081/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV5,http://47.102.200.34:18081/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+,http://47.102.200.34:18081/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV6,http://47.102.200.34:18081/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7,http://47.102.200.34:18081/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8,http://47.102.200.34:18081/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9,http://47.102.200.34:18081/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10,http://47.102.200.34:18081/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11,http://47.102.200.34:18081/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12,http://47.102.200.34:18081/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13,http://47.102.200.34:18081/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV14,http://47.102.200.34:18081/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV15,http://47.102.200.34:18081/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV16,http://47.102.200.34:18081/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV17,http://47.102.200.34:18081/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV-1,http://123.113.254.161:8012/udp/239.3.1.129:8008
+CCTV-1,http://218.241.192.50:8808/udp/239.3.1.129:8008
 CCTV-1,http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
 CCTV-1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
-CCTV-1,http://ikuai.zlsip.top:4022/udp/239.3.1.129:8008
+CCTV-1,http://home.chenjl.com:9999/udp/239.3.1.129:8008
 CCTV-1,http://iptv.ccj.gohome.link:55556/udp/239.3.1.129:8008
 CCTV-1,http://joyznm.i234.me:20000/udp/239.3.1.129:8008
 CCTV-1,http://joyznm.x3322.net:20000/udp/239.3.1.129:8008
@@ -564,9 +667,11 @@ CCTV-1,http://www.lishaoping.com:8012/udp/239.3.1.129:8008
 CCTV-10,http://120.197.43.179:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://125.34.48.135:7077/udp/239.3.1.63:8116
 CCTV-10,http://210.22.75.86:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://218.241.192.50:8808/udp/239.3.1.63:8116
 CCTV-10,http://222.241.154.37:9901/tsfile/live/23010_1.m3u8
 CCTV-10,http://dsm.ats.ink:8012/udp/239.3.1.63:8116
 CCTV-10,http://gen8.cc:5555/udp/239.3.1.63:8116
+CCTV-10,http://home.chenjl.com:9999/udp/239.3.1.63:8116
 CCTV-10,http://ikuai.zlsip.top:4022/udp/239.3.1.63:8116
 CCTV-10,http://iptv.ccj.gohome.link:55556/udp/239.3.1.63:8116
 CCTV-10,http://joyznm.i234.me:20000/udp/239.3.1.63:8116
@@ -579,18 +684,20 @@ CCTV-10,http://qnap.zmychn.cn:4001/udp/239.3.1.63:8116
 CCTV-10,http://slyct.eatuo.com:8012/udp/239.3.1.63:8116
 CCTV-10,http://sweetown.fun:4000/udp/239.3.1.63:8116
 CCTV-10,http://wuyanjiang.cn:8012/udp/239.3.1.63:8116
-CCTV-10,http://www.abelstation.cn:4000/udp/239.3.1.63:8116
 CCTV-10,http://www.furymax.top:85/rtp/239.69.1.105:10268
 CCTV-10,http://www.lishaoping.com:8012/udp/239.3.1.63:8116
 CCTV-10,http://yun.jinsome.com:8686/udp/239.3.1.63:8116
 CCTV-11,http://119.163.199.98:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://120.197.43.179:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://123.113.254.161:8012/udp/239.3.1.152:8120
 CCTV-11,http://123.129.70.178:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://125.34.48.135:7077/udp/239.3.1.152:8120
+CCTV-11,http://218.241.192.50:8808/udp/239.3.1.152:8120
 CCTV-11,http://222.241.154.37:9901/tsfile/live/23011_1.m3u8
 CCTV-11,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
 CCTV-11,http://gen8.cc:5555/udp/239.3.1.152:8120
+CCTV-11,http://home.chenjl.com:9999/udp/239.3.1.152:8120
 CCTV-11,http://ikuai.zlsip.top:4022/udp/239.3.1.152:8120
 CCTV-11,http://iptv.ccj.gohome.link:55556/udp/239.3.1.152:8120
 CCTV-11,http://joyznm.i234.me:20000/udp/239.3.1.152:8120
@@ -605,14 +712,16 @@ CCTV-11,http://slyct.eatuo.com:8012/udp/239.3.1.152:8120
 CCTV-11,http://sweetown.fun:4000/udp/239.3.1.152:8120
 CCTV-11,http://wuyanjiang.cn:8012/udp/239.3.1.152:8120
 CCTV-11,http://wuzuo.fun:4022/udp/239.3.1.152:8120
-CCTV-11,http://www.abelstation.cn:4000/udp/239.3.1.152:8120
 CCTV-11,http://yun.jinsome.com:8686/udp/239.3.1.152:8120
 CCTV-12,http://119.163.199.98:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://123.113.254.161:8012/udp/239.3.1.64:8124
 CCTV-12,http://125.34.48.135:7077/udp/239.3.1.64:8124
 CCTV-12,http://210.22.75.86:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://218.241.192.50:8808/udp/239.3.1.64:8124
 CCTV-12,http://222.241.154.37:9901/tsfile/live/23012_1.m3u8
 CCTV-12,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
 CCTV-12,http://gen8.cc:5555/udp/239.3.1.64:8124
+CCTV-12,http://home.chenjl.com:9999/udp/239.3.1.64:8124
 CCTV-12,http://iptv.ccj.gohome.link:55556/udp/239.3.1.64:8124
 CCTV-12,http://joyznm.i234.me:20000/udp/239.3.1.64:8124
 CCTV-12,http://joyznm.x3322.net:20000/udp/239.3.1.64:8124
@@ -626,16 +735,17 @@ CCTV-12,http://slyct.eatuo.com:8012/udp/239.3.1.64:8124
 CCTV-12,http://sweetown.fun:4000/udp/239.3.1.64:8124
 CCTV-12,http://wuyanjiang.cn:8012/udp/239.3.1.64:8124
 CCTV-12,http://wuzuo.fun:4022/udp/239.3.1.64:8124
-CCTV-12,http://www.abelstation.cn:4000/udp/239.3.1.64:8124
 CCTV-12,http://www.lishaoping.com:8012/udp/239.3.1.64:8124
 CCTV-12,http://yun.jinsome.com:8686/udp/239.3.1.64:8124
 CCTV-13,http://112.123.206.32:808/hls/13/index.m3u8
 CCTV-13,http://123.129.70.178:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://125.34.48.135:7077/udp/239.3.1.124:8128
 CCTV-13,http://210.22.75.86:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://218.241.192.50:8808/udp/239.3.1.124:8128
 CCTV-13,http://222.241.154.37:9901/tsfile/live/23013_1.m3u8
 CCTV-13,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://dsm.ats.ink:8012/udp/239.3.1.124:8128
+CCTV-13,http://home.chenjl.com:9999/udp/239.3.1.124:8128
 CCTV-13,http://ikuai.zlsip.top:4022/udp/239.3.1.124:8128
 CCTV-13,http://iptv.ccj.gohome.link:55556/udp/239.3.1.124:8128
 CCTV-13,http://joyznm.i234.me:20000/udp/239.3.1.124:8128
@@ -651,17 +761,19 @@ CCTV-13,http://sweetown.fun:4000/udp/239.3.1.124:8128
 CCTV-13,http://weec.top:2222/udp/239.3.1.124:8128
 CCTV-13,http://wuyanjiang.cn:8012/udp/239.3.1.124:8128
 CCTV-13,http://wuzuo.fun:4022/udp/239.3.1.124:8128
-CCTV-13,http://www.abelstation.cn:4000/udp/239.3.1.124:8128
 CCTV-13,http://www.furymax.top:85/rtp/239.254.96.161:9040
 CCTV-13,http://www.lishaoping.com:8012/udp/239.3.1.124:8128
 CCTV-13,http://yun.jinsome.com:8686/udp/239.3.1.124:8128
 CCTV-14,http://120.197.43.179:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://123.113.254.161:8012/udp/239.3.1.65:8132
 CCTV-14,http://125.34.48.135:7077/udp/239.3.1.65:8132
 CCTV-14,http://210.22.75.86:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://218.241.192.50:8808/udp/239.3.1.65:8132
 CCTV-14,http://222.241.154.37:9901/tsfile/live/23014_1.m3u8
 CCTV-14,http://223.241.247.214:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
 CCTV-14,http://gen8.cc:5555/udp/239.3.1.65:8132
+CCTV-14,http://home.chenjl.com:9999/udp/239.3.1.65:8132
 CCTV-14,http://ikuai.zlsip.top:4022/udp/239.3.1.65:8132
 CCTV-14,http://iptv.ccj.gohome.link:55556/udp/239.3.1.65:8132
 CCTV-14,http://joyznm.i234.me:20000/udp/239.3.1.65:8132
@@ -676,16 +788,14 @@ CCTV-14,http://slyct.eatuo.com:8012/udp/239.3.1.65:8132
 CCTV-14,http://sweetown.fun:4000/udp/239.3.1.65:8132
 CCTV-14,http://wuyanjiang.cn:8012/udp/239.3.1.65:8132
 CCTV-14,http://wuzuo.fun:4022/udp/239.3.1.65:8132
-CCTV-14,http://www.abelstation.cn:4000/udp/239.3.1.65:8132
 CCTV-14,http://www.lishaoping.com:8012/udp/239.3.1.65:8132
 CCTV-14,http://yun.jinsome.com:8686/udp/239.3.1.65:8132
 CCTV-15,http://119.163.199.98:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://120.197.43.179:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://123.129.70.178:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://125.34.48.135:7077/udp/239.3.1.153:8136
+CCTV-15,http://218.241.192.50:8808/udp/239.3.1.153:8136
 CCTV-15,http://222.241.154.37:9901/tsfile/live/23015_1.m3u8
 CCTV-15,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
-CCTV-15,http://ikuai.zlsip.top:4022/udp/239.3.1.153:8136
 CCTV-15,http://iptv.ccj.gohome.link:55556/udp/239.3.1.153:8136
 CCTV-15,http://joyznm.i234.me:20000/udp/239.3.1.153:8136
 CCTV-15,http://joyznm.x3322.net:20000/udp/239.3.1.153:8136
@@ -698,11 +808,13 @@ CCTV-15,http://qnap.zmychn.cn:4001/udp/239.3.1.153:8136
 CCTV-15,http://sweetown.fun:4000/udp/239.3.1.153:8136
 CCTV-15,http://wuyanjiang.cn:8012/udp/239.3.1.153:8136
 CCTV-15,http://wuzuo.fun:4022/udp/239.3.1.153:8136
-CCTV-15,http://www.abelstation.cn:4000/udp/239.3.1.153:8136
 CCTV-15,http://www.lishaoping.com:8012/udp/239.3.1.153:8136
 CCTV-15,http://yun.jinsome.com:8686/udp/239.3.1.153:8136
+CCTV-16 奥林匹克,http://123.113.254.161:8012/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://125.34.48.135:7077/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://218.241.192.50:8808/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://home.chenjl.com:9999/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://ikuai.zlsip.top:4022/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://iptv.ccj.gohome.link:55556/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://joyznm.i234.me:20000/udp/239.3.1.184:8001
@@ -715,7 +827,6 @@ CCTV-16 奥林匹克,http://qnap.yjnhome.com:4001/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://qnap.zmychn.cn:4001/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://slyct.eatuo.com:8012/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://sweetown.fun:4000/udp/239.3.1.184:8001
-CCTV-16 奥林匹克,http://weec.top:2222/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://wuzuo.fun:4022/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://www.abelstation.cn:4000/udp/239.3.1.184:8001
@@ -725,10 +836,13 @@ CCTV-16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&
 CCTV-16,http://222.241.154.37:9901/tsfile/live/23016_1.m3u8
 CCTV-16,http://www.erbao1981.top:8188/udp/239.76.246.98:1234
 CCTV-16-4K,http://www.furymax.top:85/rtp/239.69.1.13:9718
+CCTV-17,http://123.113.254.161:8012/udp/239.3.1.151:8144
 CCTV-17,http://125.34.48.135:7077/udp/239.3.1.151:8144
+CCTV-17,http://218.241.192.50:8808/udp/239.3.1.151:8144
 CCTV-17,http://222.241.154.37:9901/tsfile/live/23017_1.m3u8
 CCTV-17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 CCTV-17,http://gen8.cc:5555/udp/239.3.1.151:8144
+CCTV-17,http://home.chenjl.com:9999/udp/239.3.1.151:8144
 CCTV-17,http://ikuai.zlsip.top:4022/udp/239.3.1.151:8144
 CCTV-17,http://iptv.ccj.gohome.link:55556/udp/239.3.1.151:8144
 CCTV-17,http://joyznm.x3322.net:20000/udp/239.3.1.151:8144
@@ -740,7 +854,6 @@ CCTV-17,http://qnap.yjnhome.com:4001/udp/239.3.1.151:8144
 CCTV-17,http://qnap.zmychn.cn:4001/udp/239.3.1.151:8144
 CCTV-17,http://slyct.eatuo.com:8012/udp/239.3.1.151:8144
 CCTV-17,http://sweetown.fun:4000/udp/239.3.1.151:8144
-CCTV-17,http://weec.top:2222/udp/239.3.1.151:8144
 CCTV-17,http://wuyanjiang.cn:8012/udp/239.3.1.151:8144
 CCTV-17,http://wuzuo.fun:4022/udp/239.3.1.151:8144
 CCTV-17,http://www.abelstation.cn:4000/udp/239.3.1.151:8144
@@ -750,11 +863,14 @@ CCTV-17,http://www.zzlag.top:9087/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&
 CCTV-17,http://yun.jinsome.com:8686/udp/239.3.1.151:8144
 CCTV-2,http://119.163.199.98:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://120.197.43.179:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://123.113.254.161:8012/udp/239.3.1.60:8084
 CCTV-2,http://125.34.48.135:7077/udp/239.3.1.60:8084
 CCTV-2,http://210.22.75.86:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://218.241.192.50:8808/udp/239.3.1.60:8084
 CCTV-2,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8
 CCTV-2,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
 CCTV-2,http://gen8.cc:5555/udp/239.3.1.60:8084
+CCTV-2,http://home.chenjl.com:9999/udp/239.3.1.60:8084
 CCTV-2,http://ikuai.zlsip.top:4022/udp/239.3.1.60:8084
 CCTV-2,http://iptv.ccj.gohome.link:55556/udp/239.3.1.60:8084
 CCTV-2,http://joyznm.i234.me:20000/udp/239.3.1.60:8084
@@ -767,15 +883,17 @@ CCTV-2,http://qnap.yjnhome.com:4001/udp/239.3.1.60:8084
 CCTV-2,http://qnap.zmychn.cn:4001/udp/239.3.1.60:8084
 CCTV-2,http://slyct.eatuo.com:8012/udp/239.3.1.60:8084
 CCTV-2,http://sweetown.fun:4000/udp/239.3.1.60:8084
-CCTV-2,http://weec.top:2222/udp/239.3.1.60:8084
 CCTV-2,http://wuyanjiang.cn:8012/udp/239.3.1.60:8084
 CCTV-2,http://wuzuo.fun:4022/udp/239.3.1.60:8084
 CCTV-2,http://www.abelstation.cn:4000/udp/239.3.1.60:8084
 CCTV-2,http://yun.jinsome.com:8686/udp/239.3.1.60:8084
+CCTV-3,http://123.113.254.161:8012/udp/239.3.1.172:8001
 CCTV-3,http://125.34.48.135:7077/udp/239.3.1.172:8001
+CCTV-3,http://218.241.192.50:8808/udp/239.3.1.172:8001
 CCTV-3,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8
 CCTV-3,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
 CCTV-3,http://gen8.cc:5555/udp/239.3.1.172:8001
+CCTV-3,http://home.chenjl.com:9999/udp/239.3.1.172:8001
 CCTV-3,http://ikuai.zlsip.top:4022/udp/239.3.1.172:8001
 CCTV-3,http://iptv.ccj.gohome.link:55556/udp/239.3.1.172:8001
 CCTV-3,http://joyznm.i234.me:20000/udp/239.3.1.172:8001
@@ -789,11 +907,13 @@ CCTV-3,http://qnap.zmychn.cn:4001/udp/239.3.1.172:8001
 CCTV-3,http://slyct.eatuo.com:8012/udp/239.3.1.172:8001
 CCTV-3,http://sweetown.fun:4000/udp/239.3.1.172:8001
 CCTV-3,http://wuyanjiang.cn:8012/udp/239.3.1.172:8001
-CCTV-3,http://www.abelstation.cn:4000/udp/239.3.1.172:8001
 CCTV-3,http://www.lishaoping.com:8012/udp/239.3.1.172:8001
+CCTV-4 中文国际 欧洲,http://123.113.254.161:8012/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://125.34.48.135:7077/udp/239.3.1.213:4220
+CCTV-4 中文国际 欧洲,http://218.241.192.50:8808/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://dsm.ats.ink:8012/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://gen8.cc:5555/udp/239.3.1.213:4220
+CCTV-4 中文国际 欧洲,http://home.chenjl.com:9999/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://ikuai.zlsip.top:4022/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://iptv.ccj.gohome.link:55556/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://joyznm.i234.me:20000/udp/239.3.1.213:4220
@@ -808,10 +928,11 @@ CCTV-4 中文国际 欧洲,http://slyct.eatuo.com:8012/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://sweetown.fun:4000/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://wuyanjiang.cn:8012/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://wuzuo.fun:4022/udp/239.3.1.213:4220
-CCTV-4 中文国际 欧洲,http://www.abelstation.cn:4000/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://yun.jinsome.com:8686/udp/239.3.1.213:4220
 CCTV-4 中文国际 美洲,http://125.34.48.135:7077/udp/239.3.1.214:4220
+CCTV-4 中文国际 美洲,http://218.241.192.50:8808/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://gen8.cc:5555/udp/239.3.1.214:4220
+CCTV-4 中文国际 美洲,http://home.chenjl.com:9999/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://ikuai.zlsip.top:4022/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://iptv.ccj.gohome.link:55556/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://joyznm.i234.me:20000/udp/239.3.1.214:4220
@@ -823,17 +944,19 @@ CCTV-4 中文国际 美洲,http://nas.audreyli.cn:4022/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://qnap.yjnhome.com:4001/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://qnap.zmychn.cn:4001/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://sweetown.fun:4000/udp/239.3.1.214:4220
-CCTV-4 中文国际 美洲,http://weec.top:2222/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://wuyanjiang.cn:8012/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://wuzuo.fun:4022/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://www.abelstation.cn:4000/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://www.lishaoping.com:8012/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://yun.jinsome.com:8686/udp/239.3.1.214:4220
 CCTV-4,http://120.197.43.179:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://123.113.254.161:8012/udp/239.3.1.105:8092
 CCTV-4,http://125.34.48.135:7077/udp/239.3.1.105:8092
+CCTV-4,http://218.241.192.50:8808/udp/239.3.1.105:8092
 CCTV-4,http://222.241.154.37:9901/tsfile/live/23004_1.m3u8
 CCTV-4,http://dsm.ats.ink:8012/udp/239.3.1.105:8092
 CCTV-4,http://gen8.cc:5555/udp/239.3.1.105:8092
+CCTV-4,http://home.chenjl.com:9999/udp/239.3.1.105:8092
 CCTV-4,http://ikuai.zlsip.top:4022/udp/239.3.1.105:8092
 CCTV-4,http://joyznm.i234.me:20000/udp/239.3.1.105:8092
 CCTV-4,http://joyznm.x3322.net:20000/udp/239.3.1.105:8092
@@ -847,13 +970,15 @@ CCTV-4,http://sweetown.fun:4000/udp/239.3.1.105:8092
 CCTV-4,http://weec.top:2222/udp/239.3.1.105:8092
 CCTV-4,http://wuyanjiang.cn:8012/udp/239.3.1.105:8092
 CCTV-4,http://wuzuo.fun:4022/udp/239.3.1.105:8092
-CCTV-4,http://www.abelstation.cn:4000/udp/239.3.1.105:8092
 CCTV-4,http://www.lishaoping.com:8012/udp/239.3.1.105:8092
 CCTV-4,http://yun.jinsome.com:8686/udp/239.3.1.105:8092
+CCTV-5+,http://123.113.254.161:8012/udp/239.3.1.130:8004
 CCTV-5+,http://125.34.48.135:7077/udp/239.3.1.130:8004
+CCTV-5+,http://218.241.192.50:8808/udp/239.3.1.130:8004
 CCTV-5+,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8
 CCTV-5+,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
 CCTV-5+,http://gen8.cc:5555/udp/239.3.1.130:8004
+CCTV-5+,http://home.chenjl.com:9999/udp/239.3.1.130:8004
 CCTV-5+,http://ikuai.zlsip.top:4022/udp/239.3.1.130:8004
 CCTV-5+,http://iptv.ccj.gohome.link:55556/udp/239.3.1.130:8004
 CCTV-5+,http://joyznm.i234.me:20000/udp/239.3.1.130:8004
@@ -866,19 +991,20 @@ CCTV-5+,http://qnap.yjnhome.com:4001/udp/239.3.1.130:8004
 CCTV-5+,http://qnap.zmychn.cn:4001/udp/239.3.1.130:8004
 CCTV-5+,http://slyct.eatuo.com:8012/udp/239.3.1.130:8004
 CCTV-5+,http://sweetown.fun:4000/udp/239.3.1.130:8004
-CCTV-5+,http://weec.top:2222/udp/239.3.1.130:8004
 CCTV-5+,http://wuyanjiang.cn:8012/udp/239.3.1.130:8004
 CCTV-5+,http://wuzuo.fun:4022/udp/239.3.1.130:8004
-CCTV-5+,http://www.abelstation.cn:4000/udp/239.3.1.130:8004
 CCTV-5+,http://www.furymax.top:85/rtp/239.69.1.12:9712
 CCTV-5+,http://www.lishaoping.com:8012/udp/239.3.1.130:8004
 CCTV-5+,http://www.zzlag.top:9087/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
 CCTV-5+,http://yun.jinsome.com:8686/udp/239.3.1.130:8004
 CCTV-5,http://121.24.99.16:8090/hls/13/index.m3u8
+CCTV-5,http://123.113.254.161:8012/udp/239.3.1.173:8001
 CCTV-5,http://125.34.48.135:7077/udp/239.3.1.173:8001
+CCTV-5,http://218.241.192.50:8808/udp/239.3.1.173:8001
 CCTV-5,http://222.241.154.37:9901/tsfile/live/23005_1.m3u8
 CCTV-5,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
 CCTV-5,http://gen8.cc:5555/udp/239.3.1.173:8001
+CCTV-5,http://home.chenjl.com:9999/udp/239.3.1.173:8001
 CCTV-5,http://ikuai.zlsip.top:4022/udp/239.3.1.173:8001
 CCTV-5,http://iptv.ccj.gohome.link:55556/udp/239.3.1.173:8001
 CCTV-5,http://joyznm.i234.me:20000/udp/239.3.1.173:8001
@@ -893,16 +1019,17 @@ CCTV-5,http://slyct.eatuo.com:8012/udp/239.3.1.173:8001
 CCTV-5,http://sweetown.fun:4000/udp/239.3.1.173:8001
 CCTV-5,http://wuyanjiang.cn:8012/udp/239.3.1.173:8001
 CCTV-5,http://wuzuo.fun:4022/udp/239.3.1.173:8001
-CCTV-5,http://www.abelstation.cn:4000/udp/239.3.1.173:8001
 CCTV-5,http://www.furymax.top:85/rtp/239.69.1.123:10376
 CCTV-5,http://www.lishaoping.com:8012/udp/239.3.1.173:8001
 CCTV-5,http://yun.jinsome.com:8686/udp/239.3.1.173:8001
 CCTV-6,http://120.197.43.179:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://123.113.254.161:8012/udp/239.3.1.174:8001
 CCTV-6,http://125.34.48.135:7077/udp/239.3.1.174:8001
+CCTV-6,http://218.241.192.50:8808/udp/239.3.1.174:8001
 CCTV-6,http://222.241.154.37:9901/tsfile/live/23006_1.m3u8
 CCTV-6,http://dsm.ats.ink:8012/udp/239.3.1.174:8001
 CCTV-6,http://gen8.cc:5555/udp/239.3.1.174:8001
-CCTV-6,http://ikuai.zlsip.top:4022/udp/239.3.1.174:8001
+CCTV-6,http://home.chenjl.com:9999/udp/239.3.1.174:8001
 CCTV-6,http://iptv.ccj.gohome.link:55556/udp/239.3.1.174:8001
 CCTV-6,http://joyznm.i234.me:20000/udp/239.3.1.174:8001
 CCTV-6,http://joyznm.x3322.net:20000/udp/239.3.1.174:8001
@@ -916,9 +1043,7 @@ CCTV-6,http://nas.audreyli.cn:4022/udp/239.3.1.174:8001
 CCTV-6,http://qnap.yjnhome.com:4001/udp/239.3.1.174:8001
 CCTV-6,http://qnap.zmychn.cn:4001/udp/239.3.1.174:8001
 CCTV-6,http://slyct.eatuo.com:8012/udp/239.3.1.174:8001
-CCTV-6,http://wuyanjiang.cn:8012/udp/239.3.1.174:8001
 CCTV-6,http://wuzuo.fun:4022/udp/239.3.1.174:8001
-CCTV-6,http://www.abelstation.cn:4000/udp/239.3.1.174:8001
 CCTV-6,http://www.furymax.top:85/rtp/239.69.1.124:10382
 CCTV-6,http://www.lishaoping.com:8012/udp/239.3.1.174:8001
 CCTV-6,http://yun.jinsome.com:8686/udp/239.3.1.174:8001
@@ -926,11 +1051,14 @@ CCTV-6,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011
 CCTV-6,https://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV-7,http://119.163.199.98:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://120.197.43.179:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://123.113.254.161:8012/udp/239.3.1.61:8104
 CCTV-7,http://125.34.48.135:7077/udp/239.3.1.61:8104
+CCTV-7,http://218.241.192.50:8808/udp/239.3.1.61:8104
 CCTV-7,http://222.241.154.37:9901/tsfile/live/23007_1.m3u8
 CCTV-7,http://223.241.247.214:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
 CCTV-7,http://gen8.cc:5555/udp/239.3.1.61:8104
+CCTV-7,http://home.chenjl.com:9999/udp/239.3.1.61:8104
 CCTV-7,http://ikuai.zlsip.top:4022/udp/239.3.1.61:8104
 CCTV-7,http://iptv.ccj.gohome.link:55556/udp/239.3.1.61:8104
 CCTV-7,http://joyznm.i234.me:20000/udp/239.3.1.61:8104
@@ -943,19 +1071,20 @@ CCTV-7,http://qnap.yjnhome.com:4001/udp/239.3.1.61:8104
 CCTV-7,http://qnap.zmychn.cn:4001/udp/239.3.1.61:8104
 CCTV-7,http://slyct.eatuo.com:8012/udp/239.3.1.61:8104
 CCTV-7,http://sweetown.fun:4000/udp/239.3.1.61:8104
-CCTV-7,http://weec.top:2222/udp/239.3.1.61:8104
 CCTV-7,http://wuyanjiang.cn:8012/udp/239.3.1.61:8104
 CCTV-7,http://wuzuo.fun:4022/udp/239.3.1.61:8104
 CCTV-7,http://www.lishaoping.com:8012/udp/239.3.1.61:8104
 CCTV-7,http://yun.jinsome.com:8686/udp/239.3.1.61:8104
 CCTV-8,http://119.163.199.98:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://120.197.43.179:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://123.113.254.161:8012/udp/239.3.1.175:8001
 CCTV-8,http://123.129.70.178:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://125.34.48.135:7077/udp/239.3.1.175:8001
+CCTV-8,http://218.241.192.50:8808/udp/239.3.1.175:8001
 CCTV-8,http://222.241.154.37:9901/tsfile/live/23008_1.m3u8
 CCTV-8,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
 CCTV-8,http://gen8.cc:5555/udp/239.3.1.175:8001
-CCTV-8,http://ikuai.zlsip.top:4022/udp/239.3.1.175:8001
+CCTV-8,http://home.chenjl.com:9999/udp/239.3.1.175:8001
 CCTV-8,http://iptv.ccj.gohome.link:55556/udp/239.3.1.175:8001
 CCTV-8,http://joyznm.i234.me:20000/udp/239.3.1.175:8001
 CCTV-8,http://joyznm.x3322.net:20000/udp/239.3.1.175:8001
@@ -969,17 +1098,19 @@ CCTV-8,http://slyct.eatuo.com:8012/udp/239.3.1.175:8001
 CCTV-8,http://sweetown.fun:4000/udp/239.3.1.175:8001
 CCTV-8,http://wuyanjiang.cn:8012/udp/239.3.1.175:8001
 CCTV-8,http://wuzuo.fun:4022/udp/239.3.1.175:8001
-CCTV-8,http://www.abelstation.cn:4000/udp/239.3.1.175:8001
 CCTV-8,http://www.furymax.top:85/rtp/239.69.1.125:10388
 CCTV-8,http://www.lishaoping.com:8012/udp/239.3.1.175:8001
 CCTV-8,http://yun.jinsome.com:8686/udp/239.3.1.175:8001
 CCTV-9,http://116.128.224.11:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://119.163.199.98:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://120.197.43.179:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://123.113.254.161:8012/udp/239.3.1.62:8112
 CCTV-9,http://125.34.48.135:7077/udp/239.3.1.62:8112
+CCTV-9,http://218.241.192.50:8808/udp/239.3.1.62:8112
 CCTV-9,http://222.241.154.37:9901/tsfile/live/23009_1.m3u8
 CCTV-9,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
 CCTV-9,http://gen8.cc:5555/udp/239.3.1.62:8112
+CCTV-9,http://home.chenjl.com:9999/udp/239.3.1.62:8112
 CCTV-9,http://ikuai.zlsip.top:4022/udp/239.3.1.62:8112
 CCTV-9,http://iptv.ccj.gohome.link:55556/udp/239.3.1.62:8112
 CCTV-9,http://joyznm.i234.me:20000/udp/239.3.1.62:8112
@@ -994,16 +1125,17 @@ CCTV-9,http://slyct.eatuo.com:8012/udp/239.3.1.62:8112
 CCTV-9,http://sweetown.fun:4000/udp/239.3.1.62:8112
 CCTV-9,http://wuyanjiang.cn:8012/udp/239.3.1.62:8112
 CCTV-9,http://wuzuo.fun:4022/udp/239.3.1.62:8112
-CCTV-9,http://www.abelstation.cn:4000/udp/239.3.1.62:8112
 CCTV-9,http://www.furymax.top:85/rtp/239.69.1.104:10262
 CCTV-9,http://www.lishaoping.com:8012/udp/239.3.1.62:8112
 CCTV-9,http://yun.jinsome.com:8686/udp/239.3.1.62:8112
 CCTV-世界地理,http://www.furymax.top:85/rtp/239.69.1.91:10186
 CCTV-高尔夫网球,http://www.furymax.top:85/rtp/239.69.1.83:10138
-CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
+CGTN 俄语,http://123.113.254.161:8012/udp/239.3.1.220:4220
 CGTN 俄语,http://125.34.48.135:7077/udp/239.3.1.220:4220
+CGTN 俄语,http://218.241.192.50:8808/udp/239.3.1.220:4220
 CGTN 俄语,http://dsm.ats.ink:8012/udp/239.3.1.220:4220
 CGTN 俄语,http://gen8.cc:5555/udp/239.3.1.220:4220
+CGTN 俄语,http://home.chenjl.com:9999/udp/239.3.1.220:4220
 CGTN 俄语,http://ikuai.zlsip.top:4022/udp/239.3.1.220:4220
 CGTN 俄语,http://iptv.ccj.gohome.link:55556/udp/239.3.1.220:4220
 CGTN 俄语,http://joyznm.i234.me:20000/udp/239.3.1.220:4220
@@ -1018,12 +1150,14 @@ CGTN 俄语,http://slyct.eatuo.com:8012/udp/239.3.1.220:4220
 CGTN 俄语,http://sweetown.fun:4000/udp/239.3.1.220:4220
 CGTN 俄语,http://wuyanjiang.cn:8012/udp/239.3.1.220:4220
 CGTN 俄语,http://wuzuo.fun:4022/udp/239.3.1.220:4220
-CGTN 俄语,http://www.abelstation.cn:4000/udp/239.3.1.220:4220
 CGTN 俄语,http://www.lishaoping.com:8012/udp/239.3.1.220:4220
 CGTN 俄语,http://yun.jinsome.com:8686/udp/239.3.1.220:4220
+CGTN 新闻,http://123.113.254.161:8012/udp/239.3.1.215:4220
 CGTN 新闻,http://125.34.48.135:7077/udp/239.3.1.215:4220
+CGTN 新闻,http://218.241.192.50:8808/udp/239.3.1.215:4220
 CGTN 新闻,http://dsm.ats.ink:8012/udp/239.3.1.215:4220
 CGTN 新闻,http://gen8.cc:5555/udp/239.3.1.215:4220
+CGTN 新闻,http://home.chenjl.com:9999/udp/239.3.1.215:4220
 CGTN 新闻,http://ikuai.zlsip.top:4022/udp/239.3.1.215:4220
 CGTN 新闻,http://iptv.ccj.gohome.link:55556/udp/239.3.1.215:4220
 CGTN 新闻,http://joyznm.i234.me:20000/udp/239.3.1.215:4220
@@ -1036,15 +1170,16 @@ CGTN 新闻,http://qnap.yjnhome.com:4001/udp/239.3.1.215:4220
 CGTN 新闻,http://qnap.zmychn.cn:4001/udp/239.3.1.215:4220
 CGTN 新闻,http://slyct.eatuo.com:8012/udp/239.3.1.215:4220
 CGTN 新闻,http://sweetown.fun:4000/udp/239.3.1.215:4220
-CGTN 新闻,http://weec.top:2222/udp/239.3.1.215:4220
 CGTN 新闻,http://wuyanjiang.cn:8012/udp/239.3.1.215:4220
 CGTN 新闻,http://wuzuo.fun:4022/udp/239.3.1.215:4220
-CGTN 新闻,http://www.abelstation.cn:4000/udp/239.3.1.215:4220
 CGTN 新闻,http://www.lishaoping.com:8012/udp/239.3.1.215:4220
 CGTN 新闻,http://yun.jinsome.com:8686/udp/239.3.1.215:4220
+CGTN 法语,http://123.113.254.161:8012/udp/239.3.1.218:4220
 CGTN 法语,http://125.34.48.135:7077/udp/239.3.1.218:4220
+CGTN 法语,http://218.241.192.50:8808/udp/239.3.1.218:4220
 CGTN 法语,http://dsm.ats.ink:8012/udp/239.3.1.218:4220
 CGTN 法语,http://gen8.cc:5555/udp/239.3.1.218:4220
+CGTN 法语,http://home.chenjl.com:9999/udp/239.3.1.218:4220
 CGTN 法语,http://iptv.ccj.gohome.link:55556/udp/239.3.1.218:4220
 CGTN 法语,http://joyznm.i234.me:20000/udp/239.3.1.218:4220
 CGTN 法语,http://joyznm.x3322.net:20000/udp/239.3.1.218:4220
@@ -1056,14 +1191,15 @@ CGTN 法语,http://qnap.yjnhome.com:4001/udp/239.3.1.218:4220
 CGTN 法语,http://qnap.zmychn.cn:4001/udp/239.3.1.218:4220
 CGTN 法语,http://slyct.eatuo.com:8012/udp/239.3.1.218:4220
 CGTN 法语,http://sweetown.fun:4000/udp/239.3.1.218:4220
-CGTN 法语,http://weec.top:2222/udp/239.3.1.218:4220
 CGTN 法语,http://wuyanjiang.cn:8012/udp/239.3.1.218:4220
 CGTN 法语,http://www.lishaoping.com:8012/udp/239.3.1.218:4220
 CGTN 法语,http://yun.jinsome.com:8686/udp/239.3.1.218:4220
+CGTN 西班牙语,http://123.113.254.161:8012/udp/239.3.1.217:4220
 CGTN 西班牙语,http://125.34.48.135:7077/udp/239.3.1.217:4220
+CGTN 西班牙语,http://218.241.192.50:8808/udp/239.3.1.217:4220
 CGTN 西班牙语,http://dsm.ats.ink:8012/udp/239.3.1.217:4220
 CGTN 西班牙语,http://gen8.cc:5555/udp/239.3.1.217:4220
-CGTN 西班牙语,http://ikuai.zlsip.top:4022/udp/239.3.1.217:4220
+CGTN 西班牙语,http://home.chenjl.com:9999/udp/239.3.1.217:4220
 CGTN 西班牙语,http://iptv.ccj.gohome.link:55556/udp/239.3.1.217:4220
 CGTN 西班牙语,http://joyznm.i234.me:20000/udp/239.3.1.217:4220
 CGTN 西班牙语,http://joyznm.x3322.net:20000/udp/239.3.1.217:4220
@@ -1076,13 +1212,14 @@ CGTN 西班牙语,http://qnap.zmychn.cn:4001/udp/239.3.1.217:4220
 CGTN 西班牙语,http://slyct.eatuo.com:8012/udp/239.3.1.217:4220
 CGTN 西班牙语,http://sweetown.fun:4000/udp/239.3.1.217:4220
 CGTN 西班牙语,http://wuyanjiang.cn:8012/udp/239.3.1.217:4220
-CGTN 西班牙语,http://www.abelstation.cn:4000/udp/239.3.1.217:4220
 CGTN 西班牙语,http://www.lishaoping.com:8012/udp/239.3.1.217:4220
 CGTN 西班牙语,http://yun.jinsome.com:8686/udp/239.3.1.217:4220
+CGTN 记录,http://123.113.254.161:8012/udp/239.3.1.216:4220
 CGTN 记录,http://125.34.48.135:7077/udp/239.3.1.216:4220
+CGTN 记录,http://218.241.192.50:8808/udp/239.3.1.216:4220
 CGTN 记录,http://dsm.ats.ink:8012/udp/239.3.1.216:4220
 CGTN 记录,http://gen8.cc:5555/udp/239.3.1.216:4220
-CGTN 记录,http://ikuai.zlsip.top:4022/udp/239.3.1.216:4220
+CGTN 记录,http://home.chenjl.com:9999/udp/239.3.1.216:4220
 CGTN 记录,http://iptv.ccj.gohome.link:55556/udp/239.3.1.216:4220
 CGTN 记录,http://joyznm.i234.me:20000/udp/239.3.1.216:4220
 CGTN 记录,http://joyznm.x3322.net:20000/udp/239.3.1.216:4220
@@ -1098,9 +1235,12 @@ CGTN 记录,http://weec.top:2222/udp/239.3.1.216:4220
 CGTN 记录,http://wuyanjiang.cn:8012/udp/239.3.1.216:4220
 CGTN 记录,http://www.lishaoping.com:8012/udp/239.3.1.216:4220
 CGTN 记录,http://yun.jinsome.com:8686/udp/239.3.1.216:4220
+CGTN 阿拉伯语,http://123.113.254.161:8012/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://125.34.48.135:7077/udp/239.3.1.219:4220
+CGTN 阿拉伯语,http://218.241.192.50:8808/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://dsm.ats.ink:8012/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://gen8.cc:5555/udp/239.3.1.219:4220
+CGTN 阿拉伯语,http://home.chenjl.com:9999/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://ikuai.zlsip.top:4022/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://iptv.ccj.gohome.link:55556/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://joyznm.i234.me:20000/udp/239.3.1.219:4220
@@ -1119,10 +1259,20 @@ CGTN 阿拉伯语,http://yun.jinsome.com:8686/udp/239.3.1.219:4220
 CGTN-纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN法语,http://www.furymax.top:85/rtp/239.69.1.235:11052
 CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
+CCTV4K,http://47.102.200.34:18081/live/program/live/cctv4k/15000000/mnf.m3u8
+CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 中国教育,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 中国教育,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视,#genre#
+广东卫视,http://bjlive.u.pthv.gitv.tv:91/live/GDWShd-8M/live.m3u8
+辽宁卫视,http://bjlive.u.pthv.gitv.tv:91/live/LNWShd-8M/live.m3u8
+安徽卫视,http://bjlive.u.pthv.gitv.tv:91/live/AHWShd-8M/live.m3u8
+天津卫视,http://bjlive.u.pthv.gitv.tv:91/live/TJWShd-8M/live.m3u8
+东南卫视,http://bjlive.u.pthv.gitv.tv:91/live/DNWShd-8M/live.m3u8
+黑龙江卫视,http://bjlive.u.pthv.gitv.tv:91/live/HLJWShd-8M/live.m3u8
+贵州卫视,http://bjlive.u.pthv.gitv.tv:91/live/GZWShd-8M/live.m3u8
+吉林卫视,http://bjlive.u.pthv.gitv.tv:91/live/JLWShd-8M/live.m3u8
 辽宁卫视,http://47.102.200.34:18081/live/program/live/lnwshd8m/8000000/mnf.m3u8
 山东卫视,http://47.102.200.34:18081/live/program/live/sdws8m/8000000/mnf.m3u8
 安徽卫视,http://47.102.200.34:18081/live/program/live/ahwshd8m/8000000/mnf.m3u8
@@ -1144,14 +1294,16 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 广西卫视,http://47.102.200.34:18081/live/program/live/gxwshd8m/8000000/mnf.m3u8
 云南卫视,http://47.102.200.34:18081/live/program/live/ynwshd8m/8000000/mnf.m3u8
 海南卫视,http://47.102.200.34:18081/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-海南卫视,http://119.4.5.125:5555/udp/239.93.0.80:5140
 厦门卫视,http://47.102.200.34:18081/live/program/live/xmws/1300000/mnf.m3u8
 内蒙古卫视,http://47.102.200.34:18081/live/program/live/nmgws/1300000/mnf.m3u8
 青海卫视,http://47.102.200.34:18081/live/program/live/qhws/1300000/mnf.m3u8
 新疆卫视,http://47.102.200.34:18081/live/program/live/xjws/1300000/mnf.m3u8
+三沙卫视,http://123.113.254.161:8012/udp/239.3.1.155:4120
 三沙卫视,http://125.34.48.135:7077/udp/239.3.1.155:4120
+三沙卫视,http://218.241.192.50:8808/udp/239.3.1.155:4120
 三沙卫视,http://dsm.ats.ink:8012/udp/239.3.1.155:4120
 三沙卫视,http://gen8.cc:5555/udp/239.3.1.155:4120
+三沙卫视,http://home.chenjl.com:9999/udp/239.3.1.155:4120
 三沙卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.155:4120
 三沙卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.155:4120
 三沙卫视,http://joyznm.i234.me:20000/udp/239.3.1.155:4120
@@ -1172,15 +1324,18 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 东南卫视,http://113.57.20.158:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://119.163.199.98:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://121.24.99.16:8090/hls/36/index.m3u8
+东南卫视,http://123.113.254.161:8012/udp/239.3.1.156:8148
 东南卫视,http://125.34.48.135:7077/udp/239.3.1.156:8148
 东南卫视,http://202.100.46.58:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://210.22.75.86:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://218.241.192.50:8808/udp/239.3.1.156:8148
 东南卫视,http://222.241.154.37:9901/tsfile/live/23037_1.m3u8
 东南卫视,http://222.241.154.37:9901/tsfile/live/23037_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://223.241.247.214:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://59.62.8.250:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://dsm.ats.ink:8012/udp/239.3.1.156:8148
 东南卫视,http://gen8.cc:5555/udp/239.3.1.156:8148
+东南卫视,http://home.chenjl.com:9999/udp/239.3.1.156:8148
 东南卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.156:8148
 东南卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.156:8148
 东南卫视,http://joyznm.i234.me:20000/udp/239.3.1.156:8148
@@ -1198,15 +1353,18 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 东南卫视,http://www.abelstation.cn:4000/udp/239.3.1.156:8148
 东南卫视,http://www.lishaoping.com:8012/udp/239.3.1.156:8148
 东南卫视,http://yun.jinsome.com:8686/udp/239.3.1.156:8148
+东方卫视,http://123.113.254.161:8012/udp/239.3.1.136:8032
 东方卫视,http://123.129.70.178:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://125.34.48.135:7077/udp/239.3.1.136:8032
 东方卫视,http://202.100.46.58:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://218.241.192.50:8808/udp/239.3.1.136:8032
 东方卫视,http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://222.241.154.37:9901/tsfile/live/23033_1.m3u8
 东方卫视,http://222.241.154.37:9901/tsfile/live/23033_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://223.241.247.214:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://dsm.ats.ink:8012/udp/239.3.1.136:8032
 东方卫视,http://gen8.cc:5555/udp/239.3.1.136:8032
+东方卫视,http://home.chenjl.com:9999/udp/239.3.1.136:8032
 东方卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.136:8032
 东方卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.136:8032
 东方卫视,http://joyznm.i234.me:20000/udp/239.3.1.136:8032
@@ -1226,12 +1384,15 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 东方卫视,http://yun.jinsome.com:8686/udp/239.3.1.136:8032
 云南卫视,http://116.128.224.11:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://121.24.99.16:8090/hls/41/index.m3u8
+云南卫视,http://123.113.254.161:8012/udp/239.3.1.26:8108
 云南卫视,http://125.34.48.135:7077/udp/239.3.1.26:8108
 云南卫视,http://210.22.75.86:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://218.241.192.50:8808/udp/239.3.1.26:8108
 云南卫视,http://222.241.154.37:9901/tsfile/live/23043_1.m3u8
 云南卫视,http://222.241.154.37:9901/tsfile/live/23043_1.m3u8?key=txiptv&playlive=1&authid=0
 云南卫视,http://dsm.ats.ink:8012/udp/239.3.1.26:8108
 云南卫视,http://gen8.cc:5555/udp/239.3.1.26:8108
+云南卫视,http://home.chenjl.com:9999/udp/239.3.1.26:8108
 云南卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.26:8108
 云南卫视,http://joyznm.i234.me:20000/udp/239.3.1.26:8108
 云南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.26:8108
@@ -1248,10 +1409,13 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 云南卫视,http://www.lishaoping.com:8012/udp/239.3.1.26:8108
 云南卫视,http://yun.jinsome.com:8686/udp/239.3.1.26:8108
 兵团卫视,http://121.24.99.16:8090/hls/54/index.m3u8
+兵团卫视,http://123.113.254.161:8012/udp/239.3.1.144:4120
 兵团卫视,http://124.94.193.136:9902/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://125.34.48.135:7077/udp/239.3.1.144:4120
+兵团卫视,http://218.241.192.50:8808/udp/239.3.1.144:4120
 兵团卫视,http://dsm.ats.ink:8012/udp/239.3.1.144:4120
 兵团卫视,http://gen8.cc:5555/udp/239.3.1.144:4120
+兵团卫视,http://home.chenjl.com:9999/udp/239.3.1.144:4120
 兵团卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.144:4120
 兵团卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.144:4120
 兵团卫视,http://joyznm.i234.me:20000/udp/239.3.1.144:4120
@@ -1272,10 +1436,13 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 兵团卫视,http://www.lishaoping.com:8012/udp/239.3.1.144:4120
 兵团卫视,http://yun.jinsome.com:8686/udp/239.3.1.144:4120
 内蒙古卫视,http://121.24.99.16:8090/hls/43/index.m3u8
+内蒙古卫视,http://123.113.254.161:8012/udp/239.3.1.43:8176
 内蒙古卫视,http://124.94.193.136:9902/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://125.34.48.135:7077/udp/239.3.1.43:8176
+内蒙古卫视,http://218.241.192.50:8808/udp/239.3.1.43:8176
 内蒙古卫视,http://dsm.ats.ink:8012/udp/239.3.1.43:8176
 内蒙古卫视,http://gen8.cc:5555/udp/239.3.1.43:8176
+内蒙古卫视,http://home.chenjl.com:9999/udp/239.3.1.43:8176
 内蒙古卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.43:8176
 内蒙古卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.43:8176
 内蒙古卫视,http://joyznm.i234.me:20000/udp/239.3.1.43:8176
@@ -1295,11 +1462,14 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 内蒙古卫视,http://www.lishaoping.com:8012/udp/239.3.1.43:8176
 内蒙古卫视,http://yun.jinsome.com:8686/udp/239.3.1.43:8176
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+厦门卫视,http://123.113.254.161:8012/udp/239.3.1.143:4120
 厦门卫视,http://124.94.193.136:9902/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,http://125.34.48.135:7077/udp/239.3.1.143:4120
 厦门卫视,http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://218.241.192.50:8808/udp/239.3.1.143:4120
 厦门卫视,http://dsm.ats.ink:8012/udp/239.3.1.143:4120
 厦门卫视,http://gen8.cc:5555/udp/239.3.1.143:4120
+厦门卫视,http://home.chenjl.com:9999/udp/239.3.1.143:4120
 厦门卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.143:4120
 厦门卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.143:4120
 厦门卫视,http://joyznm.i234.me:20000/udp/239.3.1.143:4120
@@ -1321,13 +1491,16 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 吉林卫视,http://116.128.224.11:9901/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://119.163.199.98:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://121.24.99.16:8090/hls/37/index.m3u8
+吉林卫视,http://123.113.254.161:8012/udp/239.3.1.240:8172
 吉林卫视,http://123.138.216.44:9902/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://125.34.48.135:7077/udp/239.3.1.240:8172
+吉林卫视,http://218.241.192.50:8808/udp/239.3.1.240:8172
 吉林卫视,http://223.241.247.214:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://59.173.243.210:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://dsm.ats.ink:8012/udp/239.3.1.240:8172
 吉林卫视,http://gen8.cc:5555/udp/239.3.1.240:8172
+吉林卫视,http://home.chenjl.com:9999/udp/239.3.1.240:8172
 吉林卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.240:8172
 吉林卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.240:8172
 吉林卫视,http://joyznm.i234.me:20000/udp/239.3.1.240:8172
@@ -1348,15 +1521,18 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 四川卫视,http://116.128.224.11:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视,http://119.163.199.98:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://121.24.99.16:8090/hls/58/index.m3u8
+四川卫视,http://123.113.254.161:8012/udp/239.3.1.29:8288
 四川卫视,http://124.94.193.136:9902/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://125.34.48.135:7077/udp/239.3.1.29:8288
 四川卫视,http://210.22.75.86:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://218.241.192.50:8808/udp/239.3.1.29:8288
 四川卫视,http://222.241.154.37:9901/tsfile/live/23041_1.m3u8
 四川卫视,http://222.241.154.37:9901/tsfile/live/23041_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://223.241.247.214:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://59.173.243.210:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://gen8.cc:5555/udp/239.3.1.29:8288
+四川卫视,http://home.chenjl.com:9999/udp/239.3.1.29:8288
 四川卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.29:8288
 四川卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.29:8288
 四川卫视,http://joyznm.i234.me:20000/udp/239.3.1.29:8288
@@ -1377,14 +1553,17 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 四川卫视,http://yun.jinsome.com:8686/udp/239.3.1.29:8288
 天津卫视,http://116.128.224.11:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://121.24.99.16:8090/hls/33/index.m3u8
+天津卫视,http://123.113.254.161:8012/udp/239.3.1.141:1234
 天津卫视,http://125.34.48.135:7077/udp/239.3.1.141:1234
 天津卫视,http://202.100.46.58:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://218.241.192.50:8808/udp/239.3.1.141:1234
 天津卫视,http://222.241.154.37:9901/tsfile/live/23032_1.m3u8
 天津卫视,http://222.241.154.37:9901/tsfile/live/23032_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://223.241.247.214:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://dsm.ats.ink:8012/udp/239.3.1.141:1234
 天津卫视,http://gen8.cc:5555/udp/239.3.1.141:1234
+天津卫视,http://home.chenjl.com:9999/udp/239.3.1.141:1234
 天津卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.141:1234
 天津卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.141:1234
 天津卫视,http://joyznm.i234.me:20000/udp/239.3.1.141:1234
@@ -1403,13 +1582,16 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 天津卫视,http://www.furymax.top:85/rtp/239.69.1.68:10048
 天津卫视,http://www.lishaoping.com:8012/udp/239.3.1.141:1234
 天津卫视,http://yun.jinsome.com:8686/udp/239.3.1.141:1234
+宁夏卫视,http://123.113.254.161:8012/udp/239.3.1.46:8124
 宁夏卫视,http://123.138.216.44:9902/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://124.94.193.136:9902/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://125.34.48.135:7077/udp/239.3.1.46:8124
 宁夏卫视,http://202.100.46.58:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://218.241.192.50:8808/udp/239.3.1.46:8124
 宁夏卫视,http://223.241.247.214:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://dsm.ats.ink:8012/udp/239.3.1.46:8124
 宁夏卫视,http://gen8.cc:5555/udp/239.3.1.46:8124
+宁夏卫视,http://home.chenjl.com:9999/udp/239.3.1.46:8124
 宁夏卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.46:8124
 宁夏卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.46:8124
 宁夏卫视,http://joyznm.i234.me:20000/udp/239.3.1.46:8124
@@ -1430,14 +1612,17 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 安徽卫视,http://116.128.224.11:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://119.163.199.98:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://121.24.99.16:8090/hls/81/index.m3u8
+安徽卫视,http://123.113.254.161:8012/udp/239.3.1.211:8064
 安徽卫视,http://125.34.48.135:7077/udp/239.3.1.211:8064
 安徽卫视,http://210.22.75.86:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://218.241.192.50:8808/udp/239.3.1.211:8064
 安徽卫视,http://222.241.154.37:9901/tsfile/live/23031_1.m3u8
 安徽卫视,http://222.241.154.37:9901/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://dsm.ats.ink:8012/udp/239.3.1.211:8064
 安徽卫视,http://gen8.cc:5555/udp/239.3.1.211:8064
+安徽卫视,http://home.chenjl.com:9999/udp/239.3.1.211:8064
 安徽卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.211:8064
 安徽卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.211:8064
 安徽卫视,http://mccx.cc:18888/udp/239.3.1.211:8064
@@ -1456,14 +1641,17 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 安徽卫视,http://yun.jinsome.com:8686/udp/239.3.1.211:8064
 山东卫视,http://119.163.199.98:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://121.24.99.16:8090/hls/39/index.m3u8
+山东卫视,http://123.113.254.161:8012/udp/239.3.1.209:8052
 山东卫视,http://125.34.48.135:7077/udp/239.3.1.209:8052
 山东卫视,http://210.22.75.86:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://218.241.192.50:8808/udp/239.3.1.209:8052
 山东卫视,http://222.241.154.37:9901/tsfile/live/23040_1.m3u8
 山东卫视,http://222.241.154.37:9901/tsfile/live/23040_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://223.241.247.214:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://dsm.ats.ink:8012/udp/239.3.1.209:8052
 山东卫视,http://gen8.cc:5555/udp/239.3.1.209:8052
+山东卫视,http://home.chenjl.com:9999/udp/239.3.1.209:8052
 山东卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.209:8052
 山东卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.209:8052
 山东卫视,http://joyznm.i234.me:20000/udp/239.3.1.209:8052
@@ -1484,13 +1672,16 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 山西卫视,http://113.25.252.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://116.128.224.11:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://121.24.99.16:8090/hls/35/index.m3u8
+山西卫视,http://123.113.254.161:8012/udp/239.3.1.42:8172
 山西卫视,http://124.94.193.136:9902/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://125.34.48.135:7077/udp/239.3.1.42:8172
 山西卫视,http://210.22.75.86:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://218.241.192.50:8808/udp/239.3.1.42:8172
 山西卫视,http://223.241.247.214:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://58.216.229.130:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://dsm.ats.ink:8012/udp/239.3.1.42:8172
 山西卫视,http://gen8.cc:5555/udp/239.3.1.42:8172
+山西卫视,http://home.chenjl.com:9999/udp/239.3.1.42:8172
 山西卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.42:8172
 山西卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.42:8172
 山西卫视,http://joyznm.i234.me:20000/udp/239.3.1.42:8172
@@ -1509,9 +1700,11 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 山西卫视,http://yun.jinsome.com:8686/udp/239.3.1.42:8172
 广东卫视,http://120.197.43.179:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://121.24.99.16:8090/hls/82/index.m3u8
+广东卫视,http://123.113.254.161:8012/udp/239.3.1.142:8048
 广东卫视,http://123.129.70.178:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://125.34.48.135:7077/udp/239.3.1.142:8048
 广东卫视,http://210.22.75.86:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://218.241.192.50:8808/udp/239.3.1.142:8048
 广东卫视,http://222.241.154.37:9901/tsfile/live/23038_1.m3u8
 广东卫视,http://222.241.154.37:9901/tsfile/live/23038_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://223.241.247.214:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1519,6 +1712,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://dsm.ats.ink:8012/udp/239.3.1.142:8048
 广东卫视,http://gen8.cc:5555/udp/239.3.1.142:8048
+广东卫视,http://home.chenjl.com:9999/udp/239.3.1.142:8048
 广东卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.142:8048
 广东卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.142:8048
 广东卫视,http://joyznm.i234.me:20000/udp/239.3.1.142:8048
@@ -1543,6 +1737,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 广西卫视,http://124.94.193.136:9902/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://125.34.48.135:7077/udp/239.3.1.39:8300
 广西卫视,http://210.22.75.86:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://218.241.192.50:8808/udp/239.3.1.39:8300
 广西卫视,http://222.241.154.37:9901/tsfile/live/23039_1.m3u8
 广西卫视,http://222.241.154.37:9901/tsfile/live/23039_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://223.241.247.214:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1550,6 +1745,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://dsm.ats.ink:8012/udp/239.3.1.39:8300
 广西卫视,http://gen8.cc:5555/udp/239.3.1.39:8300
+广西卫视,http://home.chenjl.com:9999/udp/239.3.1.39:8300
 广西卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.39:8300
 广西卫视,http://joyznm.i234.me:20000/udp/239.3.1.39:8300
 广西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.39:8300
@@ -1568,11 +1764,14 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 广西卫视,http://yun.jinsome.com:8686/udp/239.3.1.39:8300
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$延边广电
 新疆卫视,http://121.24.99.16:8090/hls/61/index.m3u8
+新疆卫视,http://123.113.254.161:8012/udp/239.3.1.48:8160
 新疆卫视,http://124.94.193.136:9902/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://125.34.48.135:7077/udp/239.3.1.48:8160
+新疆卫视,http://218.241.192.50:8808/udp/239.3.1.48:8160
 新疆卫视,http://58.216.229.130:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://dsm.ats.ink:8012/udp/239.3.1.48:8160
 新疆卫视,http://gen8.cc:5555/udp/239.3.1.48:8160
+新疆卫视,http://home.chenjl.com:9999/udp/239.3.1.48:8160
 新疆卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.48:8160
 新疆卫视,http://joyznm.i234.me:20000/udp/239.3.1.48:8160
 新疆卫视,http://joyznm.x3322.net:20000/udp/239.3.1.48:8160
@@ -1591,17 +1790,20 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 新疆卫视,http://yun.jinsome.com:8686/udp/239.3.1.48:8160
 江苏卫视,http://116.128.224.11:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://121.24.99.16:8090/hls/38/index.m3u8
+江苏卫视,http://123.113.254.161:8012/udp/239.3.1.135:8028
 江苏卫视,http://123.129.70.178:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://124.94.193.136:9902/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://125.34.48.135:7077/udp/239.3.1.135:8028
 江苏卫视,http://202.100.46.58:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://210.22.75.86:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://218.241.192.50:8808/udp/239.3.1.135:8028
 江苏卫视,http://222.241.154.37:9901/tsfile/live/23029_1.m3u8
 江苏卫视,http://222.241.154.37:9901/tsfile/live/23029_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://223.241.247.214:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://dsm.ats.ink:8012/udp/239.3.1.135:8028
 江苏卫视,http://gen8.cc:5555/udp/239.3.1.135:8028
+江苏卫视,http://home.chenjl.com:9999/udp/239.3.1.135:8028
 江苏卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.135:8028
 江苏卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.135:8028
 江苏卫视,http://joyznm.i234.me:20000/udp/239.3.1.135:8028
@@ -1623,13 +1825,16 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 江苏卫视,http://www.lishaoping.com:8012/udp/239.3.1.135:8028
 江苏卫视,http://yun.jinsome.com:8686/udp/239.3.1.135:8028
 江西卫视,http://121.24.99.16:8090/hls/55/index.m3u8
+江西卫视,http://123.113.254.161:8012/udp/239.3.1.123:8164
 江西卫视,http://125.34.48.135:7077/udp/239.3.1.123:8164
 江西卫视,http://210.22.75.86:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://218.241.192.50:8808/udp/239.3.1.123:8164
 江西卫视,http://222.241.154.37:9901/tsfile/live/23034_1.m3u8
 江西卫视,http://222.241.154.37:9901/tsfile/live/23034_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://223.241.247.214:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://dsm.ats.ink:8012/udp/239.3.1.123:8164
 江西卫视,http://gen8.cc:5555/udp/239.3.1.123:8164
+江西卫视,http://home.chenjl.com:9999/udp/239.3.1.123:8164
 江西卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.123:8164
 江西卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.123:8164
 江西卫视,http://joyznm.i234.me:20000/udp/239.3.1.123:8164
@@ -1650,13 +1855,16 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 江西卫视,http://yun.jinsome.com:8686/udp/239.3.1.123:8164
 河北卫视,http://116.128.224.11:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 河北卫视,http://121.24.99.16:8090/hls/25/index.m3u8
+河北卫视,http://123.113.254.161:8012/udp/239.3.1.148:8072
 河北卫视,http://125.34.48.135:7077/udp/239.3.1.148:8072
 河北卫视,http://210.22.75.86:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://218.241.192.50:8808/udp/239.3.1.148:8072
 河北卫视,http://222.241.154.37:9901/tsfile/live/23047_1.m3u8
 河北卫视,http://222.241.154.37:9901/tsfile/live/23047_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://dsm.ats.ink:8012/udp/239.3.1.148:8072
 河北卫视,http://gen8.cc:5555/udp/239.3.1.148:8072
+河北卫视,http://home.chenjl.com:9999/udp/239.3.1.148:8072
 河北卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.148:8072
 河北卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.148:8072
 河北卫视,http://joyznm.i234.me:20000/udp/239.3.1.148:8072
@@ -1679,14 +1887,17 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 河南卫视,http://113.25.252.226:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://116.128.224.11:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://121.24.99.16:8090/hls/34/index.m3u8
+河南卫视,http://123.113.254.161:8012/udp/239.3.1.27:8128
 河南卫视,http://125.34.48.135:7077/udp/239.3.1.27:8128
 河南卫视,http://202.100.46.58:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://210.22.75.86:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://218.241.192.50:8808/udp/239.3.1.27:8128
 河南卫视,http://222.241.154.37:9901/tsfile/live/23044_1.m3u8
 河南卫视,http://222.241.154.37:9901/tsfile/live/23044_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://dsm.ats.ink:8012/udp/239.3.1.27:8128
 河南卫视,http://gen8.cc:5555/udp/239.3.1.27:8128
+河南卫视,http://home.chenjl.com:9999/udp/239.3.1.27:8128
 河南卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.27:8128
 河南卫视,http://joyznm.i234.me:20000/udp/239.3.1.27:8128
 河南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.27:8128
@@ -1705,14 +1916,17 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 河南卫视,http://yun.jinsome.com:8686/udp/239.3.1.27:8128
 浙江卫视,http://116.128.224.11:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://121.24.99.16:8090/hls/79/index.m3u8
+浙江卫视,http://123.113.254.161:8012/udp/239.3.1.137:8036
 浙江卫视,http://123.129.70.178:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://125.34.48.135:7077/udp/239.3.1.137:8036
 浙江卫视,http://210.22.75.86:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://218.241.192.50:8808/udp/239.3.1.137:8036
 浙江卫视,http://222.241.154.37:9901/tsfile/live/23028_1.m3u8
 浙江卫视,http://222.241.154.37:9901/tsfile/live/23028_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://223.241.247.214:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.137:8036
 浙江卫视,http://gen8.cc:5555/udp/239.3.1.137:8036
+浙江卫视,http://home.chenjl.com:9999/udp/239.3.1.137:8036
 浙江卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.137:8036
 浙江卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.137:8036
 浙江卫视,http://joyznm.i234.me:20000/udp/239.3.1.137:8036
@@ -1734,6 +1948,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 深圳卫视,http://116.128.224.11:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://119.163.199.98:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://121.24.99.16:8090/hls/84/index.m3u8
+深圳卫视,http://123.113.254.161:8012/udp/239.3.1.134:8020
 深圳卫视,http://123.129.70.178:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://125.34.48.135:7077/udp/239.3.1.134:8020
 深圳卫视,http://202.100.46.58:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1743,6 +1958,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 深圳卫视,http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://dsm.ats.ink:8012/udp/239.3.1.134:8020
 深圳卫视,http://gen8.cc:5555/udp/239.3.1.134:8020
+深圳卫视,http://home.chenjl.com:9999/udp/239.3.1.134:8020
 深圳卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.134:8020
 深圳卫视,http://mccx.cc:18888/udp/239.3.1.134:8020
 深圳卫视,http://mingjd.cn:7077/udp/239.3.1.134:8020
@@ -1760,11 +1976,13 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 湖北卫视,http://116.128.224.11:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://119.163.199.98:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://121.24.99.16:8090/hls/57/index.m3u8
+湖北卫视,http://123.113.254.161:8012/udp/239.3.1.138:8044
 湖北卫视,http://123.129.70.178:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://125.34.48.135:7077/udp/239.3.1.138:8044
 湖北卫视,http://223.241.247.214:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://dsm.ats.ink:8012/udp/239.3.1.138:8044
 湖北卫视,http://gen8.cc:5555/udp/239.3.1.138:8044
+湖北卫视,http://home.chenjl.com:9999/udp/239.3.1.138:8044
 湖北卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.138:8044
 湖北卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.138:8044
 湖北卫视,http://joyznm.i234.me:20000/udp/239.3.1.138:8044
@@ -1785,12 +2003,14 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 湖北卫视,http://yun.jinsome.com:8686/udp/239.3.1.138:8044
 湖南卫视,http://116.128.224.11:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://121.24.99.16:8090/hls/56/index.m3u8
+湖南卫视,http://123.113.254.161:8012/udp/239.3.1.132:8012
 湖南卫视,http://123.129.70.178:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://125.34.48.135:7077/udp/239.3.1.132:8012
 湖南卫视,http://222.241.154.37:9901/tsfile/live/23019_1.m3u8
 湖南卫视,http://223.241.247.214:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://dsm.ats.ink:8012/udp/239.3.1.132:8012
 湖南卫视,http://gen8.cc:5555/udp/239.3.1.132:8012
+湖南卫视,http://home.chenjl.com:9999/udp/239.3.1.132:8012
 湖南卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.132:8012
 湖南卫视,http://joyznm.i234.me:20000/udp/239.3.1.132:8012
 湖南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.132:8012
@@ -1808,6 +2028,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 湖南卫视,http://yun.jinsome.com:8686/udp/239.3.1.132:8012
 甘肃卫视,http://116.128.224.11:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 甘肃卫视,http://117.27.190.42:9998/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://123.113.254.161:8012/udp/239.3.1.49:8188
 甘肃卫视,http://123.138.216.44:9902/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://124.94.193.136:9902/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://125.34.48.135:7077/udp/239.3.1.49:8188
@@ -1816,6 +2037,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 甘肃卫视,http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://dsm.ats.ink:8012/udp/239.3.1.49:8188
 甘肃卫视,http://gen8.cc:5555/udp/239.3.1.49:8188
+甘肃卫视,http://home.chenjl.com:9999/udp/239.3.1.49:8188
 甘肃卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.49:8188
 甘肃卫视,http://joyznm.i234.me:20000/udp/239.3.1.49:8188
 甘肃卫视,http://joyznm.x3322.net:20000/udp/239.3.1.49:8188
@@ -1839,6 +2061,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 西藏卫视,http://58.216.229.130:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://dsm.ats.ink:8012/udp/239.3.1.47:8164
 西藏卫视,http://gen8.cc:5555/udp/239.3.1.47:8164
+西藏卫视,http://home.chenjl.com:9999/udp/239.3.1.47:8164
 西藏卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.47:8164
 西藏卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.47:8164
 西藏卫视,http://joyznm.i234.me:20000/udp/239.3.1.47:8164
@@ -1859,6 +2082,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 贵州卫视,http://113.25.252.226:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://119.163.199.98:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://121.24.99.16:8090/hls/40/index.m3u8
+贵州卫视,http://123.113.254.161:8012/udp/239.3.1.149:8076
 贵州卫视,http://123.129.70.178:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://125.34.48.135:7077/udp/239.3.1.149:8076
 贵州卫视,http://202.100.46.58:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1866,6 +2090,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 贵州卫视,http://223.241.247.214:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://dsm.ats.ink:8012/udp/239.3.1.149:8076
 贵州卫视,http://gen8.cc:5555/udp/239.3.1.149:8076
+贵州卫视,http://home.chenjl.com:9999/udp/239.3.1.149:8076
 贵州卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.149:8076
 贵州卫视,http://joyznm.i234.me:20000/udp/239.3.1.149:8076
 贵州卫视,http://joyznm.x3322.net:20000/udp/239.3.1.149:8076
@@ -1886,12 +2111,14 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 辽宁卫视,http://113.25.252.226:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://119.163.199.98:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://121.24.99.16:8090/hls/59/index.m3u8
+辽宁卫视,http://123.113.254.161:8012/udp/239.3.1.210:8056
 辽宁卫视,http://123.129.70.178:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://125.34.48.135:7077/udp/239.3.1.210:8056
 辽宁卫视,http://222.241.154.37:9901/tsfile/live/23036_1.m3u8
 辽宁卫视,http://223.241.247.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://dsm.ats.ink:8012/udp/239.3.1.210:8056
 辽宁卫视,http://gen8.cc:5555/udp/239.3.1.210:8056
+辽宁卫视,http://home.chenjl.com:9999/udp/239.3.1.210:8056
 辽宁卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.210:8056
 辽宁卫视,http://joyznm.i234.me:20000/udp/239.3.1.210:8056
 辽宁卫视,http://joyznm.x3322.net:20000/udp/239.3.1.210:8056
@@ -1912,12 +2139,14 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 重庆卫视,http://116.128.224.11:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://119.163.199.98:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://121.24.99.16:8090/hls/78/index.m3u8
+重庆卫视,http://123.113.254.161:8012/udp/239.3.1.122:8160
 重庆卫视,http://123.129.70.178:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://125.34.48.135:7077/udp/239.3.1.122:8160
 重庆卫视,http://222.241.154.37:9901/tsfile/live/23042_1.m3u8
 重庆卫视,http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://dsm.ats.ink:8012/udp/239.3.1.122:8160
 重庆卫视,http://gen8.cc:5555/udp/239.3.1.122:8160
+重庆卫视,http://home.chenjl.com:9999/udp/239.3.1.122:8160
 重庆卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.122:8160
 重庆卫视,http://joyznm.i234.me:20000/udp/239.3.1.122:8160
 重庆卫视,http://joyznm.x3322.net:20000/udp/239.3.1.122:8160
@@ -1935,6 +2164,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 重庆卫视,http://yun.jinsome.com:8686/udp/239.3.1.122:8160
 陕西卫视,http://113.25.252.226:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://121.24.99.16:8090/hls/86/index.m3u8
+陕西卫视,http://123.113.254.161:8012/udp/239.3.1.41:8140
 陕西卫视,http://125.34.48.135:7077/udp/239.3.1.41:8140
 陕西卫视,http://202.100.46.58:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://222.241.154.37:9901/tsfile/live/23048_1.m3u8
@@ -1942,6 +2172,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 陕西卫视,http://61.136.67.238:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://dsm.ats.ink:8012/udp/239.3.1.41:8140
 陕西卫视,http://gen8.cc:5555/udp/239.3.1.41:8140
+陕西卫视,http://home.chenjl.com:9999/udp/239.3.1.41:8140
 陕西卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.41:8140
 陕西卫视,http://joyznm.i234.me:20000/udp/239.3.1.41:8140
 陕西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.41:8140
@@ -1961,6 +2192,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 青海卫视,http://113.25.252.226:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://119.163.199.98:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://121.24.99.16:8090/hls/51/index.m3u8
+青海卫视,http://123.113.254.161:8012/udp/239.3.1.44:8184
 青海卫视,http://123.138.216.44:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://124.94.193.136:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://125.34.48.135:7077/udp/239.3.1.44:8184
@@ -1968,6 +2200,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 青海卫视,http://222.241.154.37:9901/tsfile/live/23050_1.m3u8
 青海卫视,http://dsm.ats.ink:8012/udp/239.3.1.44:8184
 青海卫视,http://gen8.cc:5555/udp/239.3.1.44:8184
+青海卫视,http://home.chenjl.com:9999/udp/239.3.1.44:8184
 青海卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.44:8184
 青海卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.44:8184
 青海卫视,http://joyznm.i234.me:20000/udp/239.3.1.44:8184
@@ -1988,6 +2221,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 青海卫视,http://yun.jinsome.com:8686/udp/239.3.1.44:8184
 黑龙江卫视,http://119.163.199.98:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://121.24.99.16:8090/hls/42/index.m3u8
+黑龙江卫视,http://123.113.254.161:8012/udp/239.3.1.133:8016
 黑龙江卫视,http://123.129.70.178:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://123.138.216.44:9902/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://125.34.48.135:7077/udp/239.3.1.133:8016
@@ -1995,6 +2229,7 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 黑龙江卫视,http://223.241.247.214:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.133:8016
 黑龙江卫视,http://gen8.cc:5555/udp/239.3.1.133:8016
+黑龙江卫视,http://home.chenjl.com:9999/udp/239.3.1.133:8016
 黑龙江卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.133:8016
 黑龙江卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.133:8016
 黑龙江卫视,http://joyznm.i234.me:20000/udp/239.3.1.133:8016
@@ -2015,78 +2250,17 @@ CGTN西班牙语,http://www.furymax.top:85/rtp/239.69.1.234:11046
 黑龙江卫视,http://www.lishaoping.com:8012/udp/239.3.1.133:8016
 黑龙江卫视,http://yun.jinsome.com:8686/udp/239.3.1.133:8016
 
-北京,#genre#
-北京卫视,http://222.241.154.37:9901/tsfile/live/23030_1.m3u8
-北京卫视,http://119.163.199.98:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://121.24.99.16:8090/hls/32/index.m3u8
-北京卫视,http://125.34.48.135:7077/udp/239.3.1.241:8000
-北京卫视,http://202.100.46.58:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://210.22.75.86:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://222.241.154.37:9901/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://223.241.247.214:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://61.136.172.236:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://dsm.ats.ink:8012/udp/239.3.1.241:8000
-北京卫视,http://gen8.cc:5555/udp/239.3.1.241:8000
-北京卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.241:8000
-北京卫视,http://iptv.ccj.gohome.link:55556/udp/239.3.1.241:8000
-北京卫视,http://joyznm.i234.me:20000/udp/239.3.1.241:8000
-北京卫视,http://joyznm.x3322.net:20000/udp/239.3.1.241:8000
-北京卫视,http://mccx.cc:18888/udp/239.3.1.241:8000
-北京卫视,http://mingjd.cn:7077/udp/239.3.1.241:8000
-北京卫视,http://my.saopanda.top:18889/udp/239.3.1.241:8000
-北京卫视,http://nas.audreyli.cn:4022/udp/239.3.1.241:8000
-北京卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.241:8000
-北京卫视,http://qnap.zmychn.cn:4001/udp/239.3.1.241:8000
-北京卫视,http://slyct.eatuo.com:8012/udp/239.3.1.241:8000
-北京卫视,http://sweetown.fun:4000/udp/239.3.1.241:8000
-北京卫视,http://weec.top:2222/udp/239.3.1.241:8000
-北京卫视,http://wuyanjiang.cn:8012/udp/239.3.1.241:8000
-北京卫视,http://wuzuo.fun:4022/udp/239.3.1.241:8000
-北京卫视,http://www.lishaoping.com:8012/udp/239.3.1.241:8000
-北京卫视,http://yun.jinsome.com:8686/udp/239.3.1.241:8000
-
-上海,#genre#
-上海卫视,http://210.22.75.86:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-
-浙江,#genre#
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
-湖南,#genre#
-湖南经视,http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
-湖南都市,http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
-湖南爱晚,http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
-湖南娱乐,http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-湖南国际,http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
-湖南教育台,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
-
-湖北,#genre#
-武汉五台文体,http://www.furymax.top:85/rtp/239.69.1.147:10518
-湖北垄上,http://www.furymax.top:85/rtp/239.69.1.43:9898
-湖北教育,http://www.furymax.top:85/rtp/239.69.1.206:10878
-
-内蒙,#genre#
-内蒙卫视,http://58.216.229.130:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
-内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-
 其它,#genre#
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+收视指南,http://123.113.254.161:8012/udp/239.3.1.193:8012
 收视指南,http://125.34.48.135:7077/udp/239.3.1.193:8012
 收视指南,http://dsm.ats.ink:8012/udp/239.3.1.193:8012
 收视指南,http://gen8.cc:5555/udp/239.3.1.193:8012
+收视指南,http://home.chenjl.com:9999/udp/239.3.1.193:8012
 收视指南,http://ikuai.zlsip.top:4022/udp/239.3.1.193:8012
 收视指南,http://iptv.ccj.gohome.link:55556/udp/239.3.1.193:8012
 收视指南,http://joyznm.i234.me:20000/udp/239.3.1.193:8012
@@ -2104,9 +2278,11 @@ NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 收视指南,http://www.abelstation.cn:4000/udp/239.3.1.193:8012
 收视指南,http://www.lishaoping.com:8012/udp/239.3.1.193:8012
 收视指南,http://yun.jinsome.com:8686/udp/239.3.1.193:8012
+金鹰纪实,http://123.113.254.161:8012/udp/239.3.1.58:8156
 金鹰纪实,http://125.34.48.135:7077/udp/239.3.1.58:8156
 金鹰纪实,http://dsm.ats.ink:8012/udp/239.3.1.58:8156
 金鹰纪实,http://gen8.cc:5555/udp/239.3.1.58:8156
+金鹰纪实,http://home.chenjl.com:9999/udp/239.3.1.58:8156
 金鹰纪实,http://ikuai.zlsip.top:4022/udp/239.3.1.58:8156
 金鹰纪实,http://iptv.ccj.gohome.link:55556/udp/239.3.1.58:8156
 金鹰纪实,http://joyznm.i234.me:20000/udp/239.3.1.58:8156
