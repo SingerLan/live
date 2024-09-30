@@ -1,7 +1,7 @@
 数字付费,#genre#
-CHC动作电影,http://lvs.hunancatv.com:8060/live/CHCDZDY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
 CHC家庭影院,http://lvs.hunancatv.com:8060/live/CHCJTYY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
 CHC影迷电影,http://lvs.hunancatv.com:8060/live/CHCGQ.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
+CHC动作电影,http://lvs.hunancatv.com:8060/live/CHCDZDY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
 4K超清[超清],http://125.34.48.135:7077/udp/239.3.1.249:8001
 4K超清[超清],http://dsm.ats.ink:8012/udp/239.3.1.249:8001
 4K超清[超清],http://gen8.cc:5555/udp/239.3.1.249:8001
