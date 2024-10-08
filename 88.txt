@@ -2,45 +2,29 @@
 CHC家庭影院,http://lvs.hunancatv.com:8060/live/CHCJTYY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
 CHC影迷电影,http://lvs.hunancatv.com:8060/live/CHCGQ.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
 CHC动作电影,http://lvs.hunancatv.com:8060/live/CHCDZDY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111
+CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
+CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
+CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 4K超清[超清],http://125.34.48.135:7077/udp/239.3.1.249:8001
 4K超清[超清],http://dsm.ats.ink:8012/udp/239.3.1.249:8001
 4K超清[超清],http://gen8.cc:5555/udp/239.3.1.249:8001
-4K超清[超清],http://ikuai.zlsip.top:4022/udp/239.3.1.249:8001
 4K超清[超清],http://joyznm.i234.me:20000/udp/239.3.1.249:8001
 4K超清[超清],http://joyznm.x3322.net:20000/udp/239.3.1.249:8001
 4K超清[超清],http://my.saopanda.top:18889/udp/239.3.1.249:8001
 4K超清[超清],http://nas.audreyli.cn:4022/udp/239.3.1.249:8001
-4K超清[超清],http://qnap.yjnhome.com:4001/udp/239.3.1.249:8001
 4K超清[超清],http://slyct.eatuo.com:8012/udp/239.3.1.249:8001
 4K超清[超清],http://wuyanjiang.cn:8012/udp/239.3.1.249:8001
 4K超清[超清],http://wuzuo.fun:4022/udp/239.3.1.249:8001
 4K超清[超清],http://www.lishaoping.com:8012/udp/239.3.1.249:8001
 4K超清[超清],http://yun.jinsome.com:8686/udp/239.3.1.249:8001
-爱上4K[超清],http://125.34.48.135:7077/udp/239.3.1.236:2000
-爱上4K[超清],http://dsm.ats.ink:8012/udp/239.3.1.236:2000
-爱上4K[超清],http://gen8.cc:5555/udp/239.3.1.236:2000
-爱上4K[超清],http://ikuai.zlsip.top:4022/udp/239.3.1.236:2000
-爱上4K[超清],http://joyznm.i234.me:20000/udp/239.3.1.236:2000
-爱上4K[超清],http://joyznm.x3322.net:20000/udp/239.3.1.236:2000
-爱上4K[超清],http://my.saopanda.top:18889/udp/239.3.1.236:2000
-爱上4K[超清],http://nas.audreyli.cn:4022/udp/239.3.1.236:2000
-爱上4K[超清],http://qnap.yjnhome.com:4001/udp/239.3.1.236:2000
-爱上4K[超清],http://slyct.eatuo.com:8012/udp/239.3.1.236:2000
-爱上4K[超清],http://sweetown.fun:4000/udp/239.3.1.236:2000
-爱上4K[超清],http://wuyanjiang.cn:8012/udp/239.3.1.236:2000
-爱上4K[超清],http://wuzuo.fun:4022/udp/239.3.1.236:2000
-爱上4K[超清],http://www.lishaoping.com:8012/udp/239.3.1.236:2000
-爱上4K[超清],http://yun.jinsome.com:8686/udp/239.3.1.236:2000
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 军事,http://125.34.48.135:7077/udp/239.3.1.76:4120
 军事,http://dsm.ats.ink:8012/udp/239.3.1.76:4120
 军事,http://gen8.cc:5555/udp/239.3.1.76:4120
-军事,http://ikuai.zlsip.top:4022/udp/239.3.1.76:4120
 军事,http://joyznm.i234.me:20000/udp/239.3.1.76:4120
 军事,http://joyznm.x3322.net:20000/udp/239.3.1.76:4120
 军事,http://my.saopanda.top:18889/udp/239.3.1.76:4120
 军事,http://nas.audreyli.cn:4022/udp/239.3.1.76:4120
-军事,http://qnap.yjnhome.com:4001/udp/239.3.1.76:4120
 军事,http://slyct.eatuo.com:8012/udp/239.3.1.76:4120
 军事,http://wuyanjiang.cn:8012/udp/239.3.1.76:4120
 军事,http://wuzuo.fun:4022/udp/239.3.1.76:4120
@@ -50,12 +34,10 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 军旅剧场,http://125.34.48.135:7077/udp/239.3.1.68:4120
 军旅剧场,http://dsm.ats.ink:8012/udp/239.3.1.68:4120
 军旅剧场,http://gen8.cc:5555/udp/239.3.1.68:4120
-军旅剧场,http://ikuai.zlsip.top:4022/udp/239.3.1.68:4120
 军旅剧场,http://joyznm.i234.me:20000/udp/239.3.1.68:4120
 军旅剧场,http://joyznm.x3322.net:20000/udp/239.3.1.68:4120
 军旅剧场,http://my.saopanda.top:18889/udp/239.3.1.68:4120
 军旅剧场,http://nas.audreyli.cn:4022/udp/239.3.1.68:4120
-军旅剧场,http://qnap.yjnhome.com:4001/udp/239.3.1.68:4120
 军旅剧场,http://slyct.eatuo.com:8012/udp/239.3.1.68:4120
 军旅剧场,http://wuyanjiang.cn:8012/udp/239.3.1.68:4120
 军旅剧场,http://wuzuo.fun:4022/udp/239.3.1.68:4120
@@ -70,7 +52,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 动作影院,http://joyznm.x3322.net:20000/udp/239.3.1.92:4120
 动作影院,http://my.saopanda.top:18889/udp/239.3.1.92:4120
 动作影院,http://nas.audreyli.cn:4022/udp/239.3.1.92:4120
-动作影院,http://qnap.yjnhome.com:4001/udp/239.3.1.92:4120
 动作影院,http://slyct.eatuo.com:8012/udp/239.3.1.92:4120
 动作影院,http://wuyanjiang.cn:8012/udp/239.3.1.92:4120
 动作影院,http://wuzuo.fun:4022/udp/239.3.1.92:4120
@@ -85,7 +66,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 古装剧场,http://joyznm.x3322.net:20000/udp/239.3.1.69:4120
 古装剧场,http://my.saopanda.top:18889/udp/239.3.1.69:4120
 古装剧场,http://nas.audreyli.cn:4022/udp/239.3.1.69:4120
-古装剧场,http://qnap.yjnhome.com:4001/udp/239.3.1.69:4120
 古装剧场,http://slyct.eatuo.com:8012/udp/239.3.1.69:4120
 古装剧场,http://wuyanjiang.cn:8012/udp/239.3.1.69:4120
 古装剧场,http://wuzuo.fun:4022/udp/239.3.1.69:4120
@@ -95,12 +75,10 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 城市剧场,http://125.34.48.135:7077/udp/239.3.1.67:4120
 城市剧场,http://dsm.ats.ink:8012/udp/239.3.1.67:4120
 城市剧场,http://gen8.cc:5555/udp/239.3.1.67:4120
-城市剧场,http://ikuai.zlsip.top:4022/udp/239.3.1.67:4120
 城市剧场,http://joyznm.i234.me:20000/udp/239.3.1.67:4120
 城市剧场,http://joyznm.x3322.net:20000/udp/239.3.1.67:4120
 城市剧场,http://my.saopanda.top:18889/udp/239.3.1.67:4120
 城市剧场,http://nas.audreyli.cn:4022/udp/239.3.1.67:4120
-城市剧场,http://qnap.yjnhome.com:4001/udp/239.3.1.67:4120
 城市剧场,http://slyct.eatuo.com:8012/udp/239.3.1.67:4120
 城市剧场,http://wuyanjiang.cn:8012/udp/239.3.1.67:4120
 城市剧场,http://wuzuo.fun:4022/udp/239.3.1.67:4120
@@ -115,13 +93,11 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 戏曲,http://joyznm.x3322.net:20000/udp/239.3.1.78:4120
 戏曲,http://my.saopanda.top:18889/udp/239.3.1.78:4120
 戏曲,http://nas.audreyli.cn:4022/udp/239.3.1.78:4120
-戏曲,http://qnap.yjnhome.com:4001/udp/239.3.1.78:4120
 戏曲,http://slyct.eatuo.com:8012/udp/239.3.1.78:4120
 戏曲,http://wuyanjiang.cn:8012/udp/239.3.1.78:4120
 戏曲,http://wuzuo.fun:4022/udp/239.3.1.78:4120
 戏曲,http://www.lishaoping.com:8012/udp/239.3.1.78:4120
 戏曲,http://yun.jinsome.com:8686/udp/239.3.1.78:4120
-欢笑剧场,http://ipv4.sunjianwu.fun:8800/udp/239.49.8.106:8000?$盐成电信组播
 武侠剧场,http://125.34.48.135:7077/udp/239.3.1.90:4120
 武侠剧场,http://dsm.ats.ink:8012/udp/239.3.1.90:4120
 武侠剧场,http://gen8.cc:5555/udp/239.3.1.90:4120
@@ -130,7 +106,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 武侠剧场,http://joyznm.x3322.net:20000/udp/239.3.1.90:4120
 武侠剧场,http://my.saopanda.top:18889/udp/239.3.1.90:4120
 武侠剧场,http://nas.audreyli.cn:4022/udp/239.3.1.90:4120
-武侠剧场,http://qnap.yjnhome.com:4001/udp/239.3.1.90:4120
 武侠剧场,http://slyct.eatuo.com:8012/udp/239.3.1.90:4120
 武侠剧场,http://sweetown.fun:4000/udp/239.3.1.90:4120
 武侠剧场,http://wuyanjiang.cn:8012/udp/239.3.1.90:4120
@@ -145,7 +120,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘Baby,http://joyznm.x3322.net:20000/udp/239.3.1.238:8001
 淘Baby,http://my.saopanda.top:18889/udp/239.3.1.238:8001
 淘Baby,http://nas.audreyli.cn:4022/udp/239.3.1.238:8001
-淘Baby,http://qnap.yjnhome.com:4001/udp/239.3.1.238:8001
 淘Baby,http://slyct.eatuo.com:8012/udp/239.3.1.238:8001
 淘Baby,http://sweetown.fun:4000/udp/239.3.1.238:8001
 淘Baby,http://wuyanjiang.cn:8012/udp/239.3.1.238:8001
@@ -161,7 +135,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘剧场,http://joyznm.x3322.net:20000/udp/239.3.1.95:8001
 淘剧场,http://my.saopanda.top:18889/udp/239.3.1.95:8001
 淘剧场,http://nas.audreyli.cn:4022/udp/239.3.1.95:8001
-淘剧场,http://qnap.yjnhome.com:4001/udp/239.3.1.95:8001
 淘剧场,http://slyct.eatuo.com:8012/udp/239.3.1.95:8001
 淘剧场,http://sweetown.fun:4000/udp/239.3.1.95:8001
 淘剧场,http://wuyanjiang.cn:8012/udp/239.3.1.95:8001
@@ -177,7 +150,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘娱乐,http://joyznm.x3322.net:20000/udp/239.3.1.100:8001
 淘娱乐,http://my.saopanda.top:18889/udp/239.3.1.100:8001
 淘娱乐,http://nas.audreyli.cn:4022/udp/239.3.1.100:8001
-淘娱乐,http://qnap.yjnhome.com:4001/udp/239.3.1.100:8001
 淘娱乐,http://slyct.eatuo.com:8012/udp/239.3.1.100:8001
 淘娱乐,http://sweetown.fun:4000/udp/239.3.1.100:8001
 淘娱乐,http://wuyanjiang.cn:8012/udp/239.3.1.100:8001
@@ -193,7 +165,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘电影,http://my.saopanda.top:18889/udp/239.3.1.250:8001
 淘电影,http://nas.audreyli.cn:4022/udp/239.3.1.250:8001
 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2
-淘电影,http://qnap.yjnhome.com:4001/udp/239.3.1.250:8001
 淘电影,http://slyct.eatuo.com:8012/udp/239.3.1.250:8001
 淘电影,http://sweetown.fun:4000/udp/239.3.1.250:8001
 淘电影,http://wuyanjiang.cn:8012/udp/239.3.1.250:8001
@@ -209,7 +180,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 淘精彩,http://joyznm.x3322.net:20000/udp/239.3.1.178:8001
 淘精彩,http://my.saopanda.top:18889/udp/239.3.1.178:8001
 淘精彩,http://nas.audreyli.cn:4022/udp/239.3.1.178:8001
-淘精彩,http://qnap.yjnhome.com:4001/udp/239.3.1.178:8001
 淘精彩,http://slyct.eatuo.com:8012/udp/239.3.1.178:8001
 淘精彩,http://sweetown.fun:4000/udp/239.3.1.178:8001
 淘精彩,http://wuyanjiang.cn:8012/udp/239.3.1.178:8001
@@ -225,7 +195,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 热播剧场,http://joyznm.x3322.net:20000/udp/239.3.1.194:9020
 热播剧场,http://my.saopanda.top:18889/udp/239.3.1.194:9020
 热播剧场,http://nas.audreyli.cn:4022/udp/239.3.1.194:9020
-热播剧场,http://qnap.yjnhome.com:4001/udp/239.3.1.194:9020
 热播剧场,http://slyct.eatuo.com:8012/udp/239.3.1.194:9020
 热播剧场,http://sweetown.fun:4000/udp/239.3.1.194:9020
 热播剧场,http://wuyanjiang.cn:8012/udp/239.3.1.194:9020
@@ -238,10 +207,8 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 经典电影,http://gen8.cc:5555/udp/239.3.1.195:9024
 经典电影,http://ikuai.zlsip.top:4022/udp/239.3.1.195:9024
 经典电影,http://joyznm.i234.me:20000/udp/239.3.1.195:9024
-经典电影,http://joyznm.x3322.net:20000/udp/239.3.1.195:9024
 经典电影,http://my.saopanda.top:18889/udp/239.3.1.195:9024
 经典电影,http://nas.audreyli.cn:4022/udp/239.3.1.195:9024
-经典电影,http://qnap.yjnhome.com:4001/udp/239.3.1.195:9024
 经典电影,http://slyct.eatuo.com:8012/udp/239.3.1.195:9024
 经典电影,http://sweetown.fun:4000/udp/239.3.1.195:9024
 经典电影,http://wuyanjiang.cn:8012/udp/239.3.1.195:9024
@@ -255,7 +222,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 音乐现场,http://joyznm.x3322.net:20000/udp/239.3.1.70:4120
 音乐现场,http://my.saopanda.top:18889/udp/239.3.1.70:4120
 音乐现场,http://nas.audreyli.cn:4022/udp/239.3.1.70:4120
-音乐现场,http://qnap.yjnhome.com:4001/udp/239.3.1.70:4120
 音乐现场,http://slyct.eatuo.com:8012/udp/239.3.1.70:4120
 音乐现场,http://sweetown.fun:4000/udp/239.3.1.70:4120
 音乐现场,http://wuyanjiang.cn:8012/udp/239.3.1.70:4120
@@ -264,7 +230,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 音乐现场,http://www.lishaoping.com:8012/udp/239.3.1.70:4120
 音乐现场,http://yun.jinsome.com:8686/udp/239.3.1.70:4120
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
-中视经典,http://37.27.111.214:8080/live/47/hls.m3u8
 星光视界台,http://cfss.cc/cdn/yy/1353422557.flv
 电影星爷@代,http://cfss.cc/cdn/hy/11342412.flv
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -292,7 +257,6 @@ TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 tvbs新聞台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv072&token=512df05ba376d24347056188734991c661df7b2f5e014001
 tvbs歡樂台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv068&token=512df05ba376d24347056188734991c661df7b2f5e014001
 tvbs精采台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv067&token=512df05ba376d24347056188734991c661df7b2f5e014001
-TVB星河,http://183.234.34.236:8904/live1105.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 中視菁采,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv064&token=512df05ba376d24347056188734991c661df7b2f5e014001
@@ -306,20 +270,16 @@ TVB星河,http://183.234.34.236:8904/live1105.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 凤凰hk,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://122.224.232.226:8888/udp/233.50.200.191:5140
-凤凰中文,http://183.234.238.18:8927/live1129.m3u8
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://58.250.155.2:8180/TV00000000000000000031@HHZT
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,https://shenxian.serv00.net/fhx.php?id=zw
 凤凰卫视,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://122.224.232.226:8888/udp/233.50.200.192:5140
-凤凰资讯,http://183.234.238.18:8926/live1128.m3u8
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
 凤凰资讯,http://www.erbao1981.top:8188/udp/239.76.246.134:1234
-凤凰资讯,https://shenxian.serv00.net/fhx.php?id=zx
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 华视闽南台,rtmp://f13h.mine.nu/sat/tv111
@@ -330,8 +290,6 @@ TVB星河,http://183.234.34.236:8904/live1105.m3u8
 台湾民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 台視,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv066&token=512df05ba376d24347056188734991c661df7b2f5e014001
 台視,rtmp://f13h.mine.nu/sat/tv071
-寰宇新闻台湾,http://37.27.111.214:8080/live/63/hls.m3u8
-寰宇财经新闻,http://37.27.111.214:8080/live/65/hls.m3u8
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 无线华丽台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
@@ -387,7 +345,6 @@ TVB星河,http://183.234.34.236:8904/live1105.m3u8
 动画,http://joyznm.x3322.net:20000/udp/239.3.1.80:4120
 动画,http://my.saopanda.top:18889/udp/239.3.1.80:4120
 动画,http://nas.audreyli.cn:4022/udp/239.3.1.80:4120
-动画,http://qnap.yjnhome.com:4001/udp/239.3.1.80:4120
 动画,http://slyct.eatuo.com:8012/udp/239.3.1.80:4120
 动画,http://sweetown.fun:4000/udp/239.3.1.80:4120
 动画,http://wuyanjiang.cn:8012/udp/239.3.1.80:4120
@@ -402,7 +359,6 @@ TVB星河,http://183.234.34.236:8904/live1105.m3u8
 卡酷少儿,http://joyznm.x3322.net:20000/udp/239.3.1.189:8000
 卡酷少儿,http://my.saopanda.top:18889/udp/239.3.1.189:8000
 卡酷少儿,http://nas.audreyli.cn:4022/udp/239.3.1.189:8000
-卡酷少儿,http://qnap.yjnhome.com:4001/udp/239.3.1.189:8000
 卡酷少儿,http://slyct.eatuo.com:8012/udp/239.3.1.189:8000
 卡酷少儿,http://sweetown.fun:4000/udp/239.3.1.189:8000
 卡酷少儿,http://wuyanjiang.cn:8012/udp/239.3.1.189:8000
@@ -419,7 +375,6 @@ TVB星河,http://183.234.34.236:8904/live1105.m3u8
 嘉佳卡通,http://joyznm.x3322.net:20000/udp/239.3.1.147:9268
 嘉佳卡通,http://my.saopanda.top:18889/udp/239.3.1.147:9268
 嘉佳卡通,http://nas.audreyli.cn:4022/udp/239.3.1.147:9268
-嘉佳卡通,http://qnap.yjnhome.com:4001/udp/239.3.1.147:9268
 嘉佳卡通,http://slyct.eatuo.com:8012/udp/239.3.1.147:9268
 嘉佳卡通,http://sweetown.fun:4000/udp/239.3.1.147:9268
 嘉佳卡通,http://wuyanjiang.cn:8012/udp/239.3.1.147:9268
@@ -434,7 +389,6 @@ TVB星河,http://183.234.34.236:8904/live1105.m3u8
 少儿动画,http://joyznm.x3322.net:20000/udp/239.3.1.199:9000
 少儿动画,http://my.saopanda.top:18889/udp/239.3.1.199:9000
 少儿动画,http://nas.audreyli.cn:4022/udp/239.3.1.199:9000
-少儿动画,http://qnap.yjnhome.com:4001/udp/239.3.1.199:9000
 少儿动画,http://slyct.eatuo.com:8012/udp/239.3.1.199:9000
 少儿动画,http://sweetown.fun:4000/udp/239.3.1.199:9000
 少儿动画,http://wuyanjiang.cn:8012/udp/239.3.1.199:9000
@@ -451,7 +405,6 @@ TVB星河,http://183.234.34.236:8904/live1105.m3u8
 金鹰卡通,http://joyznm.x3322.net:20000/udp/239.3.1.51:9252
 金鹰卡通,http://my.saopanda.top:18889/udp/239.3.1.51:9252
 金鹰卡通,http://nas.audreyli.cn:4022/udp/239.3.1.51:9252
-金鹰卡通,http://qnap.yjnhome.com:4001/udp/239.3.1.51:9252
 金鹰卡通,http://slyct.eatuo.com:8012/udp/239.3.1.51:9252
 金鹰卡通,http://sweetown.fun:4000/udp/239.3.1.51:9252
 金鹰卡通,http://wuyanjiang.cn:8012/udp/239.3.1.51:9252
@@ -463,13 +416,13 @@ TVB星河,http://183.234.34.236:8904/live1105.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 央视,#genre#
+CCTV-1,http://117.114.153.26:8180/TV00000000000000000099@HHZT
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 CCTV-1,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 CCTV-1,http://joyznm.i234.me:20000/udp/239.3.1.129:8008
 CCTV-1,http://joyznm.x3322.net:20000/udp/239.3.1.129:8008
 CCTV-1,http://my.saopanda.top:18889/udp/239.3.1.129:8008
 CCTV-1,http://nas.audreyli.cn:4022/udp/239.3.1.129:8008
-CCTV-1,http://qnap.yjnhome.com:4001/udp/239.3.1.129:8008
 CCTV-1,http://slyct.eatuo.com:8012/udp/239.3.1.129:8008
 CCTV-1,http://sweetown.fun:4000/udp/239.3.1.129:8008
 CCTV-1,http://wuyanjiang.cn:8012/udp/239.3.1.129:8008
@@ -486,7 +439,6 @@ CCTV-2,http://joyznm.i234.me:20000/udp/239.3.1.60:8084
 CCTV-2,http://joyznm.x3322.net:20000/udp/239.3.1.60:8084
 CCTV-2,http://my.saopanda.top:18889/udp/239.3.1.60:8084
 CCTV-2,http://nas.audreyli.cn:4022/udp/239.3.1.60:8084
-CCTV-2,http://qnap.yjnhome.com:4001/udp/239.3.1.60:8084
 CCTV-2,http://slyct.eatuo.com:8012/udp/239.3.1.60:8084
 CCTV-2,http://sweetown.fun:4000/udp/239.3.1.60:8084
 CCTV-2,http://wuyanjiang.cn:8012/udp/239.3.1.60:8084
@@ -501,7 +453,6 @@ CCTV-3,http://joyznm.i234.me:20000/udp/239.3.1.172:8001
 CCTV-3,http://joyznm.x3322.net:20000/udp/239.3.1.172:8001
 CCTV-3,http://my.saopanda.top:18889/udp/239.3.1.172:8001
 CCTV-3,http://nas.audreyli.cn:4022/udp/239.3.1.172:8001
-CCTV-3,http://qnap.yjnhome.com:4001/udp/239.3.1.172:8001
 CCTV-3,http://slyct.eatuo.com:8012/udp/239.3.1.172:8001
 CCTV-3,http://sweetown.fun:4000/udp/239.3.1.172:8001
 CCTV-3,http://wuyanjiang.cn:8012/udp/239.3.1.172:8001
@@ -514,7 +465,6 @@ CCTV-4 中文国际 欧洲,http://joyznm.i234.me:20000/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://joyznm.x3322.net:20000/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://my.saopanda.top:18889/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://nas.audreyli.cn:4022/udp/239.3.1.213:4220
-CCTV-4 中文国际 欧洲,http://qnap.yjnhome.com:4001/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://slyct.eatuo.com:8012/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://sweetown.fun:4000/udp/239.3.1.213:4220
 CCTV-4 中文国际 欧洲,http://wuyanjiang.cn:8012/udp/239.3.1.213:4220
@@ -527,7 +477,6 @@ CCTV-4 中文国际 美洲,http://joyznm.i234.me:20000/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://joyznm.x3322.net:20000/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://my.saopanda.top:18889/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://nas.audreyli.cn:4022/udp/239.3.1.214:4220
-CCTV-4 中文国际 美洲,http://qnap.yjnhome.com:4001/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://sweetown.fun:4000/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://wuyanjiang.cn:8012/udp/239.3.1.214:4220
 CCTV-4 中文国际 美洲,http://wuzuo.fun:4022/udp/239.3.1.214:4220
@@ -543,7 +492,6 @@ CCTV-4,http://joyznm.i234.me:20000/udp/239.3.1.105:8092
 CCTV-4,http://joyznm.x3322.net:20000/udp/239.3.1.105:8092
 CCTV-4,http://my.saopanda.top:18889/udp/239.3.1.105:8092
 CCTV-4,http://nas.audreyli.cn:4022/udp/239.3.1.105:8092
-CCTV-4,http://qnap.yjnhome.com:4001/udp/239.3.1.105:8092
 CCTV-4,http://sweetown.fun:4000/udp/239.3.1.105:8092
 CCTV-4,http://wuyanjiang.cn:8012/udp/239.3.1.105:8092
 CCTV-4,http://wuzuo.fun:4022/udp/239.3.1.105:8092
@@ -557,7 +505,6 @@ CCTV-5+,http://joyznm.i234.me:20000/udp/239.3.1.130:8004
 CCTV-5+,http://joyznm.x3322.net:20000/udp/239.3.1.130:8004
 CCTV-5+,http://my.saopanda.top:18889/udp/239.3.1.130:8004
 CCTV-5+,http://nas.audreyli.cn:4022/udp/239.3.1.130:8004
-CCTV-5+,http://qnap.yjnhome.com:4001/udp/239.3.1.130:8004
 CCTV-5+,http://slyct.eatuo.com:8012/udp/239.3.1.130:8004
 CCTV-5+,http://sweetown.fun:4000/udp/239.3.1.130:8004
 CCTV-5+,http://wuyanjiang.cn:8012/udp/239.3.1.130:8004
@@ -575,7 +522,6 @@ CCTV-5,http://joyznm.i234.me:20000/udp/239.3.1.173:8001
 CCTV-5,http://joyznm.x3322.net:20000/udp/239.3.1.173:8001
 CCTV-5,http://my.saopanda.top:18889/udp/239.3.1.173:8001
 CCTV-5,http://nas.audreyli.cn:4022/udp/239.3.1.173:8001
-CCTV-5,http://qnap.yjnhome.com:4001/udp/239.3.1.173:8001
 CCTV-5,http://slyct.eatuo.com:8012/udp/239.3.1.173:8001
 CCTV-5,http://sweetown.fun:4000/udp/239.3.1.173:8001
 CCTV-5,http://wuyanjiang.cn:8012/udp/239.3.1.173:8001
@@ -594,13 +540,11 @@ CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8?key=txiptv&playlive=
 CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV-6,http://my.saopanda.top:18889/udp/239.3.1.174:8001
 CCTV-6,http://nas.audreyli.cn:4022/udp/239.3.1.174:8001
-CCTV-6,http://qnap.yjnhome.com:4001/udp/239.3.1.174:8001
 CCTV-6,http://slyct.eatuo.com:8012/udp/239.3.1.174:8001
 CCTV-6,http://wuzuo.fun:4022/udp/239.3.1.174:8001
 CCTV-6,http://www.furymax.top:85/rtp/239.69.1.124:10382
 CCTV-6,http://www.lishaoping.com:8012/udp/239.3.1.174:8001
 CCTV-6,http://yun.jinsome.com:8686/udp/239.3.1.174:8001
-CCTV-6,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8
 CCTV-6,https://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV-7,http://119.163.199.98:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://120.197.43.179:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -613,7 +557,6 @@ CCTV-7,http://joyznm.i234.me:20000/udp/239.3.1.61:8104
 CCTV-7,http://joyznm.x3322.net:20000/udp/239.3.1.61:8104
 CCTV-7,http://my.saopanda.top:18889/udp/239.3.1.61:8104
 CCTV-7,http://nas.audreyli.cn:4022/udp/239.3.1.61:8104
-CCTV-7,http://qnap.yjnhome.com:4001/udp/239.3.1.61:8104
 CCTV-7,http://slyct.eatuo.com:8012/udp/239.3.1.61:8104
 CCTV-7,http://sweetown.fun:4000/udp/239.3.1.61:8104
 CCTV-7,http://wuyanjiang.cn:8012/udp/239.3.1.61:8104
@@ -630,7 +573,6 @@ CCTV-8,http://joyznm.i234.me:20000/udp/239.3.1.175:8001
 CCTV-8,http://joyznm.x3322.net:20000/udp/239.3.1.175:8001
 CCTV-8,http://my.saopanda.top:18889/udp/239.3.1.175:8001
 CCTV-8,http://nas.audreyli.cn:4022/udp/239.3.1.175:8001
-CCTV-8,http://qnap.yjnhome.com:4001/udp/239.3.1.175:8001
 CCTV-8,http://slyct.eatuo.com:8012/udp/239.3.1.175:8001
 CCTV-8,http://sweetown.fun:4000/udp/239.3.1.175:8001
 CCTV-8,http://wuyanjiang.cn:8012/udp/239.3.1.175:8001
@@ -649,7 +591,6 @@ CCTV-9,http://joyznm.i234.me:20000/udp/239.3.1.62:8112
 CCTV-9,http://joyznm.x3322.net:20000/udp/239.3.1.62:8112
 CCTV-9,http://my.saopanda.top:18889/udp/239.3.1.62:8112
 CCTV-9,http://nas.audreyli.cn:4022/udp/239.3.1.62:8112
-CCTV-9,http://qnap.yjnhome.com:4001/udp/239.3.1.62:8112
 CCTV-9,http://slyct.eatuo.com:8012/udp/239.3.1.62:8112
 CCTV-9,http://sweetown.fun:4000/udp/239.3.1.62:8112
 CCTV-9,http://wuyanjiang.cn:8012/udp/239.3.1.62:8112
@@ -666,7 +607,6 @@ CCTV-10,http://ikuai.zlsip.top:4022/udp/239.3.1.63:8116
 CCTV-10,http://joyznm.i234.me:20000/udp/239.3.1.63:8116
 CCTV-10,http://my.saopanda.top:18889/udp/239.3.1.63:8116
 CCTV-10,http://nas.audreyli.cn:4022/udp/239.3.1.63:8116
-CCTV-10,http://qnap.yjnhome.com:4001/udp/239.3.1.63:8116
 CCTV-10,http://slyct.eatuo.com:8012/udp/239.3.1.63:8116
 CCTV-10,http://sweetown.fun:4000/udp/239.3.1.63:8116
 CCTV-10,http://wuyanjiang.cn:8012/udp/239.3.1.63:8116
@@ -685,7 +625,6 @@ CCTV-11,http://joyznm.i234.me:20000/udp/239.3.1.152:8120
 CCTV-11,http://joyznm.x3322.net:20000/udp/239.3.1.152:8120
 CCTV-11,http://my.saopanda.top:18889/udp/239.3.1.152:8120
 CCTV-11,http://nas.audreyli.cn:4022/udp/239.3.1.152:8120
-CCTV-11,http://qnap.yjnhome.com:4001/udp/239.3.1.152:8120
 CCTV-11,http://slyct.eatuo.com:8012/udp/239.3.1.152:8120
 CCTV-11,http://sweetown.fun:4000/udp/239.3.1.152:8120
 CCTV-11,http://wuyanjiang.cn:8012/udp/239.3.1.152:8120
@@ -700,7 +639,6 @@ CCTV-12,http://joyznm.i234.me:20000/udp/239.3.1.64:8124
 CCTV-12,http://joyznm.x3322.net:20000/udp/239.3.1.64:8124
 CCTV-12,http://my.saopanda.top:18889/udp/239.3.1.64:8124
 CCTV-12,http://nas.audreyli.cn:4022/udp/239.3.1.64:8124
-CCTV-12,http://qnap.yjnhome.com:4001/udp/239.3.1.64:8124
 CCTV-12,http://slyct.eatuo.com:8012/udp/239.3.1.64:8124
 CCTV-12,http://sweetown.fun:4000/udp/239.3.1.64:8124
 CCTV-12,http://wuyanjiang.cn:8012/udp/239.3.1.64:8124
@@ -718,7 +656,6 @@ CCTV-13,http://joyznm.i234.me:20000/udp/239.3.1.124:8128
 CCTV-13,http://joyznm.x3322.net:20000/udp/239.3.1.124:8128
 CCTV-13,http://my.saopanda.top:18889/udp/239.3.1.124:8128
 CCTV-13,http://nas.audreyli.cn:4022/udp/239.3.1.124:8128
-CCTV-13,http://qnap.yjnhome.com:4001/udp/239.3.1.124:8128
 CCTV-13,http://slyct.eatuo.com:8012/udp/239.3.1.124:8128
 CCTV-13,http://sweetown.fun:4000/udp/239.3.1.124:8128
 CCTV-13,http://wuyanjiang.cn:8012/udp/239.3.1.124:8128
@@ -737,7 +674,6 @@ CCTV-14,http://joyznm.i234.me:20000/udp/239.3.1.65:8132
 CCTV-14,http://joyznm.x3322.net:20000/udp/239.3.1.65:8132
 CCTV-14,http://my.saopanda.top:18889/udp/239.3.1.65:8132
 CCTV-14,http://nas.audreyli.cn:4022/udp/239.3.1.65:8132
-CCTV-14,http://qnap.yjnhome.com:4001/udp/239.3.1.65:8132
 CCTV-14,http://slyct.eatuo.com:8012/udp/239.3.1.65:8132
 CCTV-14,http://sweetown.fun:4000/udp/239.3.1.65:8132
 CCTV-14,http://wuyanjiang.cn:8012/udp/239.3.1.65:8132
@@ -752,7 +688,6 @@ CCTV-15,http://joyznm.i234.me:20000/udp/239.3.1.153:8136
 CCTV-15,http://joyznm.x3322.net:20000/udp/239.3.1.153:8136
 CCTV-15,http://my.saopanda.top:18889/udp/239.3.1.153:8136
 CCTV-15,http://nas.audreyli.cn:4022/udp/239.3.1.153:8136
-CCTV-15,http://qnap.yjnhome.com:4001/udp/239.3.1.153:8136
 CCTV-15,http://sweetown.fun:4000/udp/239.3.1.153:8136
 CCTV-15,http://wuyanjiang.cn:8012/udp/239.3.1.153:8136
 CCTV-15,http://wuzuo.fun:4022/udp/239.3.1.153:8136
@@ -765,7 +700,6 @@ CCTV-16 奥林匹克,http://joyznm.i234.me:20000/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://joyznm.x3322.net:20000/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://my.saopanda.top:18889/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://nas.audreyli.cn:4022/udp/239.3.1.184:8001
-CCTV-16 奥林匹克,http://qnap.yjnhome.com:4001/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://slyct.eatuo.com:8012/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://sweetown.fun:4000/udp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
@@ -779,11 +713,9 @@ CCTV-16-4K,http://www.furymax.top:85/rtp/239.69.1.13:9718
 CCTV-17,http://125.34.48.135:7077/udp/239.3.1.151:8144
 CCTV-17,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
 CCTV-17,http://gen8.cc:5555/udp/239.3.1.151:8144
-CCTV-17,http://ikuai.zlsip.top:4022/udp/239.3.1.151:8144
 CCTV-17,http://joyznm.x3322.net:20000/udp/239.3.1.151:8144
 CCTV-17,http://my.saopanda.top:18889/udp/239.3.1.151:8144
 CCTV-17,http://nas.audreyli.cn:4022/udp/239.3.1.151:8144
-CCTV-17,http://qnap.yjnhome.com:4001/udp/239.3.1.151:8144
 CCTV-17,http://slyct.eatuo.com:8012/udp/239.3.1.151:8144
 CCTV-17,http://sweetown.fun:4000/udp/239.3.1.151:8144
 CCTV-17,http://wuyanjiang.cn:8012/udp/239.3.1.151:8144
@@ -803,7 +735,6 @@ CGTN 俄语,http://joyznm.i234.me:20000/udp/239.3.1.220:4220
 CGTN 俄语,http://joyznm.x3322.net:20000/udp/239.3.1.220:4220
 CGTN 俄语,http://my.saopanda.top:18889/udp/239.3.1.220:4220
 CGTN 俄语,http://nas.audreyli.cn:4022/udp/239.3.1.220:4220
-CGTN 俄语,http://qnap.yjnhome.com:4001/udp/239.3.1.220:4220
 CGTN 俄语,http://slyct.eatuo.com:8012/udp/239.3.1.220:4220
 CGTN 俄语,http://sweetown.fun:4000/udp/239.3.1.220:4220
 CGTN 俄语,http://wuyanjiang.cn:8012/udp/239.3.1.220:4220
@@ -818,7 +749,6 @@ CGTN 新闻,http://joyznm.i234.me:20000/udp/239.3.1.215:4220
 CGTN 新闻,http://joyznm.x3322.net:20000/udp/239.3.1.215:4220
 CGTN 新闻,http://my.saopanda.top:18889/udp/239.3.1.215:4220
 CGTN 新闻,http://nas.audreyli.cn:4022/udp/239.3.1.215:4220
-CGTN 新闻,http://qnap.yjnhome.com:4001/udp/239.3.1.215:4220
 CGTN 新闻,http://slyct.eatuo.com:8012/udp/239.3.1.215:4220
 CGTN 新闻,http://sweetown.fun:4000/udp/239.3.1.215:4220
 CGTN 新闻,http://wuyanjiang.cn:8012/udp/239.3.1.215:4220
@@ -832,7 +762,6 @@ CGTN 法语,http://joyznm.i234.me:20000/udp/239.3.1.218:4220
 CGTN 法语,http://joyznm.x3322.net:20000/udp/239.3.1.218:4220
 CGTN 法语,http://my.saopanda.top:18889/udp/239.3.1.218:4220
 CGTN 法语,http://nas.audreyli.cn:4022/udp/239.3.1.218:4220
-CGTN 法语,http://qnap.yjnhome.com:4001/udp/239.3.1.218:4220
 CGTN 法语,http://slyct.eatuo.com:8012/udp/239.3.1.218:4220
 CGTN 法语,http://sweetown.fun:4000/udp/239.3.1.218:4220
 CGTN 法语,http://wuyanjiang.cn:8012/udp/239.3.1.218:4220
@@ -845,7 +774,6 @@ CGTN 西班牙语,http://joyznm.i234.me:20000/udp/239.3.1.217:4220
 CGTN 西班牙语,http://joyznm.x3322.net:20000/udp/239.3.1.217:4220
 CGTN 西班牙语,http://my.saopanda.top:18889/udp/239.3.1.217:4220
 CGTN 西班牙语,http://nas.audreyli.cn:4022/udp/239.3.1.217:4220
-CGTN 西班牙语,http://qnap.yjnhome.com:4001/udp/239.3.1.217:4220
 CGTN 西班牙语,http://slyct.eatuo.com:8012/udp/239.3.1.217:4220
 CGTN 西班牙语,http://sweetown.fun:4000/udp/239.3.1.217:4220
 CGTN 西班牙语,http://wuyanjiang.cn:8012/udp/239.3.1.217:4220
@@ -858,7 +786,6 @@ CGTN 记录,http://joyznm.i234.me:20000/udp/239.3.1.216:4220
 CGTN 记录,http://joyznm.x3322.net:20000/udp/239.3.1.216:4220
 CGTN 记录,http://my.saopanda.top:18889/udp/239.3.1.216:4220
 CGTN 记录,http://nas.audreyli.cn:4022/udp/239.3.1.216:4220
-CGTN 记录,http://qnap.yjnhome.com:4001/udp/239.3.1.216:4220
 CGTN 记录,http://slyct.eatuo.com:8012/udp/239.3.1.216:4220
 CGTN 记录,http://sweetown.fun:4000/udp/239.3.1.216:4220
 CGTN 记录,http://wuyanjiang.cn:8012/udp/239.3.1.216:4220
@@ -872,7 +799,6 @@ CGTN 阿拉伯语,http://joyznm.i234.me:20000/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://joyznm.x3322.net:20000/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://my.saopanda.top:18889/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://nas.audreyli.cn:4022/udp/239.3.1.219:4220
-CGTN 阿拉伯语,http://qnap.yjnhome.com:4001/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://slyct.eatuo.com:8012/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://sweetown.fun:4000/udp/239.3.1.219:4220
 CGTN 阿拉伯语,http://wuyanjiang.cn:8012/udp/239.3.1.219:4220
@@ -887,14 +813,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 中国教育,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视,#genre#
-广东卫视,http://bjlive.u.pthv.gitv.tv:91/live/GDWShd-8M/live.m3u8
-辽宁卫视,http://bjlive.u.pthv.gitv.tv:91/live/LNWShd-8M/live.m3u8
-安徽卫视,http://bjlive.u.pthv.gitv.tv:91/live/AHWShd-8M/live.m3u8
-天津卫视,http://bjlive.u.pthv.gitv.tv:91/live/TJWShd-8M/live.m3u8
-东南卫视,http://bjlive.u.pthv.gitv.tv:91/live/DNWShd-8M/live.m3u8
-黑龙江卫视,http://bjlive.u.pthv.gitv.tv:91/live/HLJWShd-8M/live.m3u8
-贵州卫视,http://bjlive.u.pthv.gitv.tv:91/live/GZWShd-8M/live.m3u8
-吉林卫视,http://bjlive.u.pthv.gitv.tv:91/live/JLWShd-8M/live.m3u8
 辽宁卫视,http://47.102.200.34:18081/live/program/live/lnwshd8m/8000000/mnf.m3u8
 山东卫视,http://47.102.200.34:18081/live/program/live/sdws8m/8000000/mnf.m3u8
 安徽卫视,http://47.102.200.34:18081/live/program/live/ahwshd8m/8000000/mnf.m3u8
@@ -928,7 +846,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 三沙卫视,http://joyznm.x3322.net:20000/udp/239.3.1.155:4120
 三沙卫视,http://my.saopanda.top:18889/udp/239.3.1.155:4120
 三沙卫视,http://nas.audreyli.cn:4022/udp/239.3.1.155:4120
-三沙卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.155:4120
 三沙卫视,http://slyct.eatuo.com:8012/udp/239.3.1.155:4120
 三沙卫视,http://sweetown.fun:4000/udp/239.3.1.155:4120
 三沙卫视,http://wuyanjiang.cn:8012/udp/239.3.1.155:4120
@@ -950,7 +867,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 东南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.156:8148
 东南卫视,http://my.saopanda.top:18889/udp/239.3.1.156:8148
 东南卫视,http://nas.audreyli.cn:4022/udp/239.3.1.156:8148
-东南卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.156:8148
 东南卫视,http://slyct.eatuo.com:8012/udp/239.3.1.156:8148
 东南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.156:8148
 东南卫视,http://wuzuo.fun:4022/udp/239.3.1.156:8148
@@ -969,9 +885,7 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 东方卫视,http://joyznm.x3322.net:20000/udp/239.3.1.136:8032
 东方卫视,http://my.saopanda.top:18889/udp/239.3.1.136:8032
 东方卫视,http://nas.audreyli.cn:4022/udp/239.3.1.136:8032
-东方卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.136:8032
 东方卫视,http://slyct.eatuo.com:8012/udp/239.3.1.136:8032
-东方卫视,http://sweetown.fun:4000/udp/239.3.1.136:8032
 东方卫视,http://wuyanjiang.cn:8012/udp/239.3.1.136:8032
 东方卫视,http://wuzuo.fun:4022/udp/239.3.1.136:8032
 东方卫视,http://www.furymax.top:85/rtp/239.254.96.142:8926
@@ -987,14 +901,11 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 云南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.26:8108
 云南卫视,http://my.saopanda.top:18889/udp/239.3.1.26:8108
 云南卫视,http://nas.audreyli.cn:4022/udp/239.3.1.26:8108
-云南卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.26:8108
 云南卫视,http://slyct.eatuo.com:8012/udp/239.3.1.26:8108
-云南卫视,http://sweetown.fun:4000/udp/239.3.1.26:8108
 云南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.26:8108
 云南卫视,http://wuzuo.fun:4022/udp/239.3.1.26:8108
 云南卫视,http://www.lishaoping.com:8012/udp/239.3.1.26:8108
 云南卫视,http://yun.jinsome.com:8686/udp/239.3.1.26:8108
-兵团卫视,http://121.24.99.16:8090/hls/54/index.m3u8
 兵团卫视,http://124.94.193.136:9902/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://125.34.48.135:7077/udp/239.3.1.144:4120
 兵团卫视,http://dsm.ats.ink:8012/udp/239.3.1.144:4120
@@ -1005,9 +916,7 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 兵团卫视,http://my.saopanda.top:18889/udp/239.3.1.144:4120
 兵团卫视,http://nas.audreyli.cn:4022/udp/239.3.1.144:4120
-兵团卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.144:4120
 兵团卫视,http://slyct.eatuo.com:8012/udp/239.3.1.144:4120
-兵团卫视,http://sweetown.fun:4000/udp/239.3.1.144:4120
 兵团卫视,http://wuyanjiang.cn:8012/udp/239.3.1.144:4120
 兵团卫视,http://wuzuo.fun:4022/udp/239.3.1.144:4120
 兵团卫视,http://www.abelstation.cn:4000/udp/239.3.1.144:4120
@@ -1023,7 +932,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 内蒙古卫视,http://joyznm.x3322.net:20000/udp/239.3.1.43:8176
 内蒙古卫视,http://my.saopanda.top:18889/udp/239.3.1.43:8176
 内蒙古卫视,http://nas.audreyli.cn:4022/udp/239.3.1.43:8176
-内蒙古卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.43:8176
 内蒙古卫视,http://slyct.eatuo.com:8012/udp/239.3.1.43:8176
 内蒙古卫视,http://sweetown.fun:4000/udp/239.3.1.43:8176
 内蒙古卫视,http://wuyanjiang.cn:8012/udp/239.3.1.43:8176
@@ -1042,7 +950,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 厦门卫视,http://joyznm.x3322.net:20000/udp/239.3.1.143:4120
 厦门卫视,http://my.saopanda.top:18889/udp/239.3.1.143:4120
 厦门卫视,http://nas.audreyli.cn:4022/udp/239.3.1.143:4120
-厦门卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.143:4120
 厦门卫视,http://slyct.eatuo.com:8012/udp/239.3.1.143:4120
 厦门卫视,http://sweetown.fun:4000/udp/239.3.1.143:4120
 厦门卫视,http://wuyanjiang.cn:8012/udp/239.3.1.143:4120
@@ -1066,7 +973,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 吉林卫视,http://joyznm.x3322.net:20000/udp/239.3.1.240:8172
 吉林卫视,http://my.saopanda.top:18889/udp/239.3.1.240:8172
 吉林卫视,http://nas.audreyli.cn:4022/udp/239.3.1.240:8172
-吉林卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.240:8172
 吉林卫视,http://slyct.eatuo.com:8012/udp/239.3.1.240:8172
 吉林卫视,http://sweetown.fun:4000/udp/239.3.1.240:8172
 吉林卫视,http://wuyanjiang.cn:8012/udp/239.3.1.240:8172
@@ -1089,7 +995,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 四川卫视,http://joyznm.x3322.net:20000/udp/239.3.1.29:8288
 四川卫视,http://my.saopanda.top:18889/udp/239.3.1.29:8288
 四川卫视,http://nas.audreyli.cn:4022/udp/239.3.1.29:8288
-四川卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.29:8288
 四川卫视,http://slyct.eatuo.com:8012/udp/239.3.1.29:8288
 四川卫视,http://sweetown.fun:4000/udp/239.3.1.29:8288
 四川卫视,http://wuyanjiang.cn:8012/udp/239.3.1.29:8288
@@ -1106,12 +1011,10 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://dsm.ats.ink:8012/udp/239.3.1.141:1234
 天津卫视,http://gen8.cc:5555/udp/239.3.1.141:1234
-天津卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.141:1234
 天津卫视,http://joyznm.i234.me:20000/udp/239.3.1.141:1234
 天津卫视,http://joyznm.x3322.net:20000/udp/239.3.1.141:1234
 天津卫视,http://my.saopanda.top:18889/udp/239.3.1.141:1234
 天津卫视,http://nas.audreyli.cn:4022/udp/239.3.1.141:1234
-天津卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.141:1234
 天津卫视,http://slyct.eatuo.com:8012/udp/239.3.1.141:1234
 天津卫视,http://sweetown.fun:4000/udp/239.3.1.141:1234
 天津卫视,http://wuyanjiang.cn:8012/udp/239.3.1.141:1234
@@ -1132,7 +1035,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 宁夏卫视,http://joyznm.x3322.net:20000/udp/239.3.1.46:8124
 宁夏卫视,http://my.saopanda.top:18889/udp/239.3.1.46:8124
 宁夏卫视,http://nas.audreyli.cn:4022/udp/239.3.1.46:8124
-宁夏卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.46:8124
 宁夏卫视,http://slyct.eatuo.com:8012/udp/239.3.1.46:8124
 宁夏卫视,http://sweetown.fun:4000/udp/239.3.1.46:8124
 宁夏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.46:8124
@@ -1152,7 +1054,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 安徽卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.211:8064
 安徽卫视,http://my.saopanda.top:18889/udp/239.3.1.211:8064
 安徽卫视,http://nas.audreyli.cn:4022/udp/239.3.1.211:8064
-安徽卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.211:8064
 安徽卫视,http://slyct.eatuo.com:8012/udp/239.3.1.211:8064
 安徽卫视,http://sweetown.fun:4000/udp/239.3.1.211:8064
 安徽卫视,http://wuyanjiang.cn:8012/udp/239.3.1.211:8064
@@ -1173,7 +1074,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 山东卫视,http://joyznm.x3322.net:20000/udp/239.3.1.209:8052
 山东卫视,http://my.saopanda.top:18889/udp/239.3.1.209:8052
 山东卫视,http://nas.audreyli.cn:4022/udp/239.3.1.209:8052
-山东卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.209:8052
 山东卫视,http://slyct.eatuo.com:8012/udp/239.3.1.209:8052
 山东卫视,http://sweetown.fun:4000/udp/239.3.1.209:8052
 山东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.209:8052
@@ -1196,7 +1096,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 山西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.42:8172
 山西卫视,http://my.saopanda.top:18889/udp/239.3.1.42:8172
 山西卫视,http://nas.audreyli.cn:4022/udp/239.3.1.42:8172
-山西卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.42:8172
 山西卫视,http://slyct.eatuo.com:8012/udp/239.3.1.42:8172
 山西卫视,http://sweetown.fun:4000/udp/239.3.1.42:8172
 山西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.42:8172
@@ -1218,7 +1117,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 广东卫视,http://joyznm.x3322.net:20000/udp/239.3.1.142:8048
 广东卫视,http://my.saopanda.top:18889/udp/239.3.1.142:8048
 广东卫视,http://nas.audreyli.cn:4022/udp/239.3.1.142:8048
-广东卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.142:8048
 广东卫视,http://slyct.eatuo.com:8012/udp/239.3.1.142:8048
 广东卫视,http://sweetown.fun:4000/udp/239.3.1.142:8048
 广东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.142:8048
@@ -1241,7 +1139,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 广西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.39:8300
 广西卫视,http://my.saopanda.top:18889/udp/239.3.1.39:8300
 广西卫视,http://nas.audreyli.cn:4022/udp/239.3.1.39:8300
-广西卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.39:8300
 广西卫视,http://slyct.eatuo.com:8012/udp/239.3.1.39:8300
 广西卫视,http://sweetown.fun:4000/udp/239.3.1.39:8300
 广西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.39:8300
@@ -1250,7 +1147,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 广西卫视,http://www.lishaoping.com:8012/udp/239.3.1.39:8300
 广西卫视,http://yun.jinsome.com:8686/udp/239.3.1.39:8300
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$延边广电
-新疆卫视,http://121.24.99.16:8090/hls/61/index.m3u8
 新疆卫视,http://124.94.193.136:9902/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://125.34.48.135:7077/udp/239.3.1.48:8160
 新疆卫视,http://58.216.229.130:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0
@@ -1260,7 +1156,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 新疆卫视,http://joyznm.x3322.net:20000/udp/239.3.1.48:8160
 新疆卫视,http://my.saopanda.top:18889/udp/239.3.1.48:8160
 新疆卫视,http://nas.audreyli.cn:4022/udp/239.3.1.48:8160
-新疆卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.48:8160
 新疆卫视,http://slyct.eatuo.com:8012/udp/239.3.1.48:8160
 新疆卫视,http://sweetown.fun:4000/udp/239.3.1.48:8160
 新疆卫视,http://wuyanjiang.cn:8012/udp/239.3.1.48:8160
@@ -1284,7 +1179,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 江苏卫视,http://joyznm.x3322.net:20000/udp/239.3.1.135:8028
 江苏卫视,http://my.saopanda.top:18889/udp/239.3.1.135:8028
 江苏卫视,http://nas.audreyli.cn:4022/udp/239.3.1.135:8028
-江苏卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.135:8028
 江苏卫视,http://slyct.eatuo.com:8012/udp/239.3.1.135:8028
 江苏卫视,http://sweetown.fun:4000/udp/239.3.1.135:8028
 江苏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.135:8028
@@ -1294,7 +1188,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 江苏卫视,http://www.furymax.top:85/rtp/239.69.1.174:10680
 江苏卫视,http://www.lishaoping.com:8012/udp/239.3.1.135:8028
 江苏卫视,http://yun.jinsome.com:8686/udp/239.3.1.135:8028
-江西卫视,http://121.24.99.16:8090/hls/55/index.m3u8
 江西卫视,http://125.34.48.135:7077/udp/239.3.1.123:8164
 江西卫视,http://210.22.75.86:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://223.241.247.214:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1305,7 +1198,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 江西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.123:8164
 江西卫视,http://my.saopanda.top:18889/udp/239.3.1.123:8164
 江西卫视,http://nas.audreyli.cn:4022/udp/239.3.1.123:8164
-江西卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.123:8164
 江西卫视,http://slyct.eatuo.com:8012/udp/239.3.1.123:8164
 江西卫视,http://sweetown.fun:4000/udp/239.3.1.123:8164
 江西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.123:8164
@@ -1325,7 +1217,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 河北卫视,http://joyznm.x3322.net:20000/udp/239.3.1.148:8072
 河北卫视,http://my.saopanda.top:18889/udp/239.3.1.148:8072
 河北卫视,http://nas.audreyli.cn:4022/udp/239.3.1.148:8072
-河北卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.148:8072
 河北卫视,http://slyct.eatuo.com:8012/udp/239.3.1.148:8072
 河北卫视,http://sweetown.fun:4000/udp/239.3.1.148:8072
 河北卫视,http://wuyanjiang.cn:8012/udp/239.3.1.148:8072
@@ -1347,7 +1238,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 河南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.27:8128
 河南卫视,http://my.saopanda.top:18889/udp/239.3.1.27:8128
 河南卫视,http://nas.audreyli.cn:4022/udp/239.3.1.27:8128
-河南卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.27:8128
 河南卫视,http://slyct.eatuo.com:8012/udp/239.3.1.27:8128
 河南卫视,http://sweetown.fun:4000/udp/239.3.1.27:8128
 河南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.27:8128
@@ -1368,7 +1258,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 浙江卫视,http://joyznm.x3322.net:20000/udp/239.3.1.137:8036
 浙江卫视,http://my.saopanda.top:18889/udp/239.3.1.137:8036
 浙江卫视,http://nas.audreyli.cn:4022/udp/239.3.1.137:8036
-浙江卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.137:8036
 浙江卫视,http://slyct.eatuo.com:8012/udp/239.3.1.137:8036
 浙江卫视,http://sweetown.fun:4000/udp/239.3.1.137:8036
 浙江卫视,http://wuyanjiang.cn:8012/udp/239.3.1.137:8036
@@ -1389,7 +1278,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 深圳卫视,http://gen8.cc:5555/udp/239.3.1.134:8020
 深圳卫视,http://my.saopanda.top:18889/udp/239.3.1.134:8020
 深圳卫视,http://nas.audreyli.cn:4022/udp/239.3.1.134:8020
-深圳卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.134:8020
 深圳卫视,http://slyct.eatuo.com:8012/udp/239.3.1.134:8020
 深圳卫视,http://sweetown.fun:4000/udp/239.3.1.134:8020
 深圳卫视,http://wuyanjiang.cn:8012/udp/239.3.1.134:8020
@@ -1410,7 +1298,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 湖北卫视,http://joyznm.x3322.net:20000/udp/239.3.1.138:8044
 湖北卫视,http://my.saopanda.top:18889/udp/239.3.1.138:8044
 湖北卫视,http://nas.audreyli.cn:4022/udp/239.3.1.138:8044
-湖北卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.138:8044
 湖北卫视,http://slyct.eatuo.com:8012/udp/239.3.1.138:8044
 湖北卫视,http://sweetown.fun:4000/udp/239.3.1.138:8044
 湖北卫视,http://wuyanjiang.cn:8012/udp/239.3.1.138:8044
@@ -1429,7 +1316,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 湖南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.132:8012
 湖南卫视,http://my.saopanda.top:18889/udp/239.3.1.132:8012
 湖南卫视,http://nas.audreyli.cn:4022/udp/239.3.1.132:8012
-湖南卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.132:8012
 湖南卫视,http://sweetown.fun:4000/udp/239.3.1.132:8012
 湖南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.132:8012
 湖南卫视,http://wuzuo.fun:4022/udp/239.3.1.132:8012
@@ -1448,7 +1334,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 甘肃卫视,http://joyznm.x3322.net:20000/udp/239.3.1.49:8188
 甘肃卫视,http://my.saopanda.top:18889/udp/239.3.1.49:8188
 甘肃卫视,http://nas.audreyli.cn:4022/udp/239.3.1.49:8188
-甘肃卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.49:8188
 甘肃卫视,http://slyct.eatuo.com:8012/udp/239.3.1.49:8188
 甘肃卫视,http://sweetown.fun:4000/udp/239.3.1.49:8188
 甘肃卫视,http://wuyanjiang.cn:8012/udp/239.3.1.49:8188
@@ -1467,7 +1352,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 西藏卫视,http://joyznm.x3322.net:20000/udp/239.3.1.47:8164
 西藏卫视,http://my.saopanda.top:18889/udp/239.3.1.47:8164
 西藏卫视,http://nas.audreyli.cn:4022/udp/239.3.1.47:8164
-西藏卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.47:8164
 西藏卫视,http://slyct.eatuo.com:8012/udp/239.3.1.47:8164
 西藏卫视,http://sweetown.fun:4000/udp/239.3.1.47:8164
 西藏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.47:8164
@@ -1488,7 +1372,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 贵州卫视,http://joyznm.x3322.net:20000/udp/239.3.1.149:8076
 贵州卫视,http://my.saopanda.top:18889/udp/239.3.1.149:8076
 贵州卫视,http://nas.audreyli.cn:4022/udp/239.3.1.149:8076
-贵州卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.149:8076
 贵州卫视,http://slyct.eatuo.com:8012/udp/239.3.1.149:8076
 贵州卫视,http://sweetown.fun:4000/udp/239.3.1.149:8076
 贵州卫视,http://wuyanjiang.cn:8012/udp/239.3.1.149:8076
@@ -1509,7 +1392,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 辽宁卫视,http://joyznm.x3322.net:20000/udp/239.3.1.210:8056
 辽宁卫视,http://my.saopanda.top:18889/udp/239.3.1.210:8056
 辽宁卫视,http://nas.audreyli.cn:4022/udp/239.3.1.210:8056
-辽宁卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.210:8056
 辽宁卫视,http://slyct.eatuo.com:8012/udp/239.3.1.210:8056
 辽宁卫视,http://sweetown.fun:4000/udp/239.3.1.210:8056
 辽宁卫视,http://wuyanjiang.cn:8012/udp/239.3.1.210:8056
@@ -1529,7 +1411,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 重庆卫视,http://joyznm.x3322.net:20000/udp/239.3.1.122:8160
 重庆卫视,http://my.saopanda.top:18889/udp/239.3.1.122:8160
 重庆卫视,http://nas.audreyli.cn:4022/udp/239.3.1.122:8160
-重庆卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.122:8160
 重庆卫视,http://slyct.eatuo.com:8012/udp/239.3.1.122:8160
 重庆卫视,http://wuyanjiang.cn:8012/udp/239.3.1.122:8160
 重庆卫视,http://wuzuo.fun:4022/udp/239.3.1.122:8160
@@ -1537,7 +1418,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 重庆卫视,http://www.lishaoping.com:8012/udp/239.3.1.122:8160
 重庆卫视,http://yun.jinsome.com:8686/udp/239.3.1.122:8160
 陕西卫视,http://113.25.252.226:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://121.24.99.16:8090/hls/86/index.m3u8
 陕西卫视,http://125.34.48.135:7077/udp/239.3.1.41:8140
 陕西卫视,http://202.100.46.58:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://223.241.247.214:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1548,7 +1428,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 陕西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.41:8140
 陕西卫视,http://my.saopanda.top:18889/udp/239.3.1.41:8140
 陕西卫视,http://nas.audreyli.cn:4022/udp/239.3.1.41:8140
-陕西卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.41:8140
 陕西卫视,http://slyct.eatuo.com:8012/udp/239.3.1.41:8140
 陕西卫视,http://sweetown.fun:4000/udp/239.3.1.41:8140
 陕西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.41:8140
@@ -1570,7 +1449,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 青海卫视,http://joyznm.x3322.net:20000/udp/239.3.1.44:8184
 青海卫视,http://my.saopanda.top:18889/udp/239.3.1.44:8184
 青海卫视,http://nas.audreyli.cn:4022/udp/239.3.1.44:8184
-青海卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.44:8184
 青海卫视,http://slyct.eatuo.com:8012/udp/239.3.1.44:8184
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=8b2f07cc1707359845$延边广电
 青海卫视,http://sweetown.fun:4000/udp/239.3.1.44:8184
@@ -1592,7 +1470,6 @@ CETV1,http://121.24.99.16:8090/hls/67/index.m3u8
 黑龙江卫视,http://joyznm.x3322.net:20000/udp/239.3.1.133:8016
 黑龙江卫视,http://my.saopanda.top:18889/udp/239.3.1.133:8016
 黑龙江卫视,http://nas.audreyli.cn:4022/udp/239.3.1.133:8016
-黑龙江卫视,http://qnap.yjnhome.com:4001/udp/239.3.1.133:8016
 黑龙江卫视,http://slyct.eatuo.com:8012/udp/239.3.1.133:8016
 黑龙江卫视,http://sweetown.fun:4000/udp/239.3.1.133:8016
 黑龙江卫视,http://wuyanjiang.cn:8012/udp/239.3.1.133:8016
@@ -1616,7 +1493,6 @@ NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 收视指南,http://joyznm.x3322.net:20000/udp/239.3.1.193:8012
 收视指南,http://my.saopanda.top:18889/udp/239.3.1.193:8012
 收视指南,http://nas.audreyli.cn:4022/udp/239.3.1.193:8012
-收视指南,http://qnap.yjnhome.com:4001/udp/239.3.1.193:8012
 收视指南,http://slyct.eatuo.com:8012/udp/239.3.1.193:8012
 收视指南,http://wuyanjiang.cn:8012/udp/239.3.1.193:8012
 收视指南,http://wuzuo.fun:4022/udp/239.3.1.193:8012
@@ -1631,7 +1507,6 @@ NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 金鹰纪实,http://joyznm.x3322.net:20000/udp/239.3.1.58:8156
 金鹰纪实,http://my.saopanda.top:18889/udp/239.3.1.58:8156
 金鹰纪实,http://nas.audreyli.cn:4022/udp/239.3.1.58:8156
-金鹰纪实,http://qnap.yjnhome.com:4001/udp/239.3.1.58:8156
 金鹰纪实,http://slyct.eatuo.com:8012/udp/239.3.1.58:8156
 金鹰纪实,http://sweetown.fun:4000/udp/239.3.1.58:8156
 金鹰纪实,http://wuyanjiang.cn:8012/udp/239.3.1.58:8156
@@ -1639,8 +1514,6 @@ NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 金鹰纪实,http://www.abelstation.cn:4000/udp/239.3.1.58:8156
 金鹰纪实,http://www.lishaoping.com:8012/udp/239.3.1.58:8156
 金鹰纪实,http://yun.jinsome.com:8686/udp/239.3.1.58:8156
-
-
 
 IPV6,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
