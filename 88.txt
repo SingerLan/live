@@ -379,7 +379,7 @@ HD看电影,http://wouu.net:9977/udp/239.93.42.47:5140
 4K超高清电影,http://wouu.net:9977/udp/239.93.1.156:5140
 4K乐享超清,http://wouu.net:9977/udp/239.93.0.43:5140
 
-港台
+港台,#genre#
 香港电影,http://swrh.ngtanyanfei.top:8081/dl/migu.php?id=xpfyt
 高清大片,http://tvbox6.icu/tv/migu.php?id=gqdp
 经典电影,http://tvbox6.icu/tv/migu.php?id=jdxgdy
