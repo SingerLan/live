@@ -5,7 +5,6 @@
         "name": "",
         "title": "CCTV-1 综合",
         "uris": [
-            "https://v.ddys.pro/v/movie/Handsome.Guys.2024.mp4",
             "https://www.xttv.com.cn/index/channel/index/id/155.html",
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8",
             "https://tv.cctv.com/live/cctv1",
