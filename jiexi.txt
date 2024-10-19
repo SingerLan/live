@@ -1,7 +1,7 @@
 [
     {
         "group": "央视",
-        "logo": "",
+        "logo": "https://live.fanmingming.com/tv/CCTV1.png",
         "name": "",
         "title": "CCTV-1 综合",
         "uris": [
