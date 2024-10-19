@@ -1363,5 +1363,14 @@
         "uris": [
             "http://player.tingfm.com/?id=742"
         ]
+    },
+    {
+        "group": "港台",
+        "logo": "",
+        "name": "",
+        "title": "龙华偶像",
+        "uris": [
+            "https://cdi.ofiii.com/ocean/video/playlist/PVULVvjorp4/master.m3u8"
+        ]
     }
 ]
