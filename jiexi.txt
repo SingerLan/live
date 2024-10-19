@@ -12,9 +12,7 @@
             "http://112.123.206.32:808/hls/1/index.m3u8",
             "http://117.114.153.26:8180/TV00000000000000000099@HHZT",
             "http://223.75.148.190:9901/tsfile/live/0001_1.m3u8?key=txiptv",
-            "http://36.35.16.98:9901/tsfile/live/0001_18.m3u8?key=txiptv&playlive=0&authid=0",
             "http://58.57.21.166:9901/tsfile/live/0001_1.m3u8",
-            "http://58.57.21.166:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://60.12.183.46:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0",
             "http://61.190.129.195:8686/rtp/238.1.78.166:7200",
             "http://dsm.ats.ink:8012/udp/239.3.1.129:8008",
@@ -1394,6 +1392,23 @@
         "title": "龙华偶像",
         "uris": [
             "https://cdi.ofiii.com/ocean/video/playlist/PVULVvjorp4/master.m3u8"
+        ]
+    },
+    {
+        "group": "电影",
+        "logo": "",
+        "name": "",
+        "title": "上甘岭",
+        "uris": [
+            "https://fjvtw.com/vod/play/129826/sid/1103033",
+            "https://fjvtw.com/vod/play/129826/sid/1103641",
+            "https://fjvtw.com/vod/play/129826/sid/1103642",
+            "https://fjvtw.com/vod/play/129826/sid/1104055",
+            "https://fjvtw.com/vod/play/129826/sid/1104056",
+            "https://fjvtw.com/vod/play/129826/sid/1104560",
+            "https://fjvtw.com/vod/play/129826/sid/1104561",
+            "https://fjvtw.com/vod/play/129826/sid/1104886",
+            "https://fjvtw.com/vod/play/129826/sid/1104885"
         ]
     }
 ]
