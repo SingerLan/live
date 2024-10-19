@@ -368,6 +368,7 @@
         "name": "",
         "title": "河南卫视",
         "uris": [
+            "https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8",
             "https://www.yangshipin.cn/tv/home?pid=600002525"
         ]
     },
@@ -882,42 +883,6 @@
         "title": "河北公共",
         "uris": [
             "https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6"
-        ]
-    },
-    {
-        "group": "河南",
-        "logo": "",
-        "name": "",
-        "title": "河南卫视频道",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8"
-        ]
-    },
-    {
-        "group": "河南",
-        "logo": "",
-        "name": "",
-        "title": "河南都市频道",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-henandushi/live.m3u8"
-        ]
-    },
-    {
-        "group": "河南",
-        "logo": "",
-        "name": "",
-        "title": "河南民生频道",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8"
-        ]
-    },
-    {
-        "group": "河南",
-        "logo": "",
-        "name": "",
-        "title": "河南梨园频道",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-henanliyuan/live.m3u8"
         ]
     },
     {
