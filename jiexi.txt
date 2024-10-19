@@ -1347,12 +1347,21 @@
         ]
     },
     {
-        "group": "其它",
+        "group": "凤凰卫视",
         "logo": "",
         "name": "",
-        "title": "CCTV1",
+        "title": "凤凰卫视中文台",
         "uris": [
-            "https://www.xttv.com.cn/index/channel/index/id/155.html"
+            "http://player.tingfm.com/?id=1222"
+        ]
+    },
+    {
+        "group": "凤凰卫视",
+        "logo": "",
+        "name": "",
+        "title": "凤凰卫视资讯台",
+        "uris": [
+            "http://player.tingfm.com/?id=742"
         ]
     }
 ]
