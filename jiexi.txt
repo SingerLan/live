@@ -5,10 +5,10 @@
         "name": "",
         "title": "CCTV-1 综合",
         "uris": [
+            "https://www.xttv.com.cn/index/channel/index/id/155.html",
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8",
             "https://tv.cctv.com/live/cctv1",
             "https://www.yangshipin.cn/tv/home?pid=600001859",
-            "https://www.xttv.com.cn/index/channel/index/id/155.html",
             "http://112.123.206.32:808/hls/1/index.m3u8",
             "http://117.114.153.26:8180/TV00000000000000000099@HHZT",
             "http://223.75.148.190:9901/tsfile/live/0001_1.m3u8?key=txiptv",
