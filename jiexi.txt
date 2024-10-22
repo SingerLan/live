@@ -2,9 +2,21 @@
         "group": "数字付费",
         "logo": "",
         "name": "",
-        "title": "北京IPTV4K超清",
+        "title": "淘电影",
         "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.249:8001"
+                "http://dsm.ats.ink:8012/udp/239.3.1.250:8001",
+                "http://gen8.cc:5555/udp/239.3.1.250:8001",
+                "http://joyznm.i234.me:20000/udp/239.3.1.250:8001",
+                "http://joyznm.x3322.net:20000/udp/239.3.1.250:8001",
+                "http://my.saopanda.top:18889/udp/239.3.1.250:8001",
+                "http://nas.audreyli.cn:4022/udp/239.3.1.250:8001",
+                "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2",
+                "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
+                "http://slyct.eatuo.com:8012/udp/239.3.1.250:8001",
+                "http://wuyanjiang.cn:8012/udp/239.3.1.250:8001",
+                "http://www.abelstation.cn:4000/udp/239.3.1.250:8001",
+                "http://www.lishaoping.com:8012/udp/239.3.1.250:8001",
+                "http://yun.jinsome.com:8686/udp/239.3.1.250:8001",
         ]
     },
     {
