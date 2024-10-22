@@ -1390,15 +1390,15 @@
         "name": "",
         "title": "上甘岭",
         "uris": [
-            "https://fjvtw.com/vod/play/129826/sid/1103033",
-            "https://fjvtw.com/vod/play/129826/sid/1103641",
-            "https://fjvtw.com/vod/play/129826/sid/1103642",
-            "https://fjvtw.com/vod/play/129826/sid/1104055",
-            "https://fjvtw.com/vod/play/129826/sid/1104056",
-            "https://fjvtw.com/vod/play/129826/sid/1104560",
-            "https://fjvtw.com/vod/play/129826/sid/1104561",
-            "https://fjvtw.com/vod/play/129826/sid/1104886",
-            "https://fjvtw.com/vod/play/129826/sid/1104885"
+            "https://www.9zhoukj.com/vod/play/129826/sid/1103033",
+            "https://www.9zhoukj.com/vod/play/129826/sid/1103641",
+            "https://www.9zhoukj.com/vod/play/129826/sid/1103642",
+            "https://www.9zhoukj.com/vod/play/129826/sid/1104055",
+            "https://www.9zhoukj.com/vod/play/129826/sid/1104056",
+            "https://www.9zhoukj.com/vod/play/129826/sid/1104560",
+            "https://www.9zhoukj.com/vod/play/129826/sid/1104561",
+            "https://www.9zhoukj.com/vod/play/129826/sid/1104886",
+            "https://www.9zhoukj.com/vod/play/129826/sid/1104885"
         ]
     }
 ]
