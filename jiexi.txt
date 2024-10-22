@@ -1,4 +1,12 @@
-[
+[{
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "北京IPTV4K超清",
+        "uris": [
+            "http://dsm.ats.ink:8012/udp/239.3.1.249:8001"
+        ]
+    },
     {
         "group": "央视",
         "logo": "https://live.fanmingming.com/tv/CCTV1.png",
