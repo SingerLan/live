@@ -1605,7 +1605,7 @@
         "title": "凤凰卫视中文台",
         "uris": [
             "http://player.tingfm.com/?id=1222",
-	    "http://zqhswlive.itv.cmvideo.cn:80/000000001000/1000000006000233001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=3&version=1.0&owaccmark=1000000006000233001&owchid=ystenlive&owsid=2345911729644987766&AuthInfo=jJNpoOLQtSi%2F2oQ6IAMLBOOW3dRKL79QZ41b6j9Lu7TkTmSVeQ%2BF2nD6szNt%2BZeB%2BL5HoLWci%2Bc6IDhp4biofg%3D%3D"
+	    "http://tptvo.mobaibox.com/alcdnbacksourceflag_223.105.252.60:80/PLTV/3/224/3221228527/1.m3u8?accountinfo=S27FcdSRgaC6i33FAdef9ZvaxU%2Fi3mQMf8sw80o4GyR5TOCskI%2Bi4fZMEz1RJ0Ds1sWx0jCQHI8rM0C2gk8C4dE%2B0hemUMcmphn5fxoOPKk9eFNUgAeYVMiJzWNHs2VLFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%2CEND&GuardEncType=2"
         ]
     },
     {
