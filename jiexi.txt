@@ -825,7 +825,6 @@
         "name": "",
         "title": "从地狱来的法官",
         "uris": [
-            "https://ddys.pro/the-judge-from-hell/?ep=4",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###第01集",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###第02集",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###第03集",
