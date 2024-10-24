@@ -1,22 +1,56 @@
-[{
+[
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "CHC家庭影院",
+        "uris": [
+            "http://lvs.hunancatv.com:8060/live/CHCJTYY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111",
+            "http://iptvcyp.top:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy"
+        ]
+    },
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "CHC影迷电影",
+        "uris": [
+            "http://lvs.hunancatv.com:8060/live/CHCGQ.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111",
+            "http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy",
+            "http://117.114.153.18:8180/TV00000000000000000094@HHZT"
+        ]
+    },
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "CHC动作电影",
+        "uris": [
+            "http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy",
+            "http://lvs.hunancatv.com:8060/live/CHCDZDY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111",
+            "http://117.114.153.18:8180/TV00000000000000000093@HHZT"
+        ]
+    },
+    {
         "group": "数字付费",
         "logo": "",
         "name": "",
         "title": "淘电影",
         "uris": [
-                "http://dsm.ats.ink:8012/udp/239.3.1.250:8001",
-                "http://gen8.cc:5555/udp/239.3.1.250:8001",
-                "http://joyznm.i234.me:20000/udp/239.3.1.250:8001",
-                "http://joyznm.x3322.net:20000/udp/239.3.1.250:8001",
-                "http://my.saopanda.top:18889/udp/239.3.1.250:8001",
-                "http://nas.audreyli.cn:4022/udp/239.3.1.250:8001",
-                "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2",
-                "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
-                "http://slyct.eatuo.com:8012/udp/239.3.1.250:8001",
-                "http://wuyanjiang.cn:8012/udp/239.3.1.250:8001",
-                "http://www.abelstation.cn:4000/udp/239.3.1.250:8001",
-                "http://www.lishaoping.com:8012/udp/239.3.1.250:8001",
-                "http://yun.jinsome.com:8686/udp/239.3.1.250:8001",
+            "http://dsm.ats.ink:8012/udp/239.3.1.250:8001",
+            "http://gen8.cc:5555/udp/239.3.1.250:8001",
+            "http://joyznm.i234.me:20000/udp/239.3.1.250:8001",
+            "http://joyznm.x3322.net:20000/udp/239.3.1.250:8001",
+            "http://my.saopanda.top:18889/udp/239.3.1.250:8001",
+            "http://nas.audreyli.cn:4022/udp/239.3.1.250:8001",
+            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2",
+            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
+            "http://slyct.eatuo.com:8012/udp/239.3.1.250:8001",
+            "http://wuyanjiang.cn:8012/udp/239.3.1.250:8001",
+            "http://www.abelstation.cn:4000/udp/239.3.1.250:8001",
+            "http://www.lishaoping.com:8012/udp/239.3.1.250:8001",
+            "http://yun.jinsome.com:8686/udp/239.3.1.250:8001"
         ]
     },
     {
@@ -835,15 +869,6 @@
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E08.mp4###第08集",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###第09集",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###第10集"
-        ]
-    },
-    {
-        "group": "电影",
-        "logo": "",
-        "name": "",
-        "title": "双狼",
-        "uris": [
-            "https://v.ddys.pro/v/movie/Wolfs.2024.mp4"
         ]
     }
 ]
