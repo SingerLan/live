@@ -836,5 +836,14 @@
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###第09集",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###第10集"
         ]
+    },
+    {
+        "group": "电影",
+        "logo": "",
+        "name": "",
+        "title": "双狼",
+        "uris": [
+            "https://v.ddys.pro/v/movie/Wolfs.2024.mp4"
+        ]
     }
 ]
