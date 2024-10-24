@@ -770,7 +770,7 @@
         ]
     },
     {
-        "group": "电影",
+        "group": "电视剧",
         "logo": "",
         "name": "",
         "title": "上甘岭",
@@ -784,6 +784,18 @@
             "https://www.9zhoukj.com/vod/play/129826/sid/1104561###第07集",
             "https://www.9zhoukj.com/vod/play/129826/sid/1104886###第08集",
             "https://www.9zhoukj.com/vod/play/129826/sid/1104885###第09集"
+        ]
+    },
+    {
+        "group": "电视剧",
+        "logo": "",
+        "name": "",
+        "title": "从地狱来的法官",
+        "uris": [
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###第01集",
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###第02集",
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###第03集",
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E04.mp4###第04集"
         ]
     }
 ]
