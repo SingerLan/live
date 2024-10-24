@@ -747,8 +747,17 @@
         "name": "",
         "title": "凤凰卫视中文台",
         "uris": [
-            "http://player.tingfm.com/?id=1222",
-        "http://tptvo.mobaibox.com/alcdnbacksourceflag_223.105.252.60:80/PLTV/3/224/3221228527/1.m3u8?accountinfo=S27FcdSRgaC6i33FAdef9ZvaxU%2Fi3mQMf8sw80o4GyR5TOCskI%2Bi4fZMEz1RJ0Ds1sWx0jCQHI8rM0C2gk8C4dE%2B0hemUMcmphn5fxoOPKk9eFNUgAeYVMiJzWNHs2VLFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%2CEND&GuardEncType=2"
+            "http://122.224.232.226:8888/udp/233.50.200.191:5140",
+            "http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8",
+            "http://58.250.155.2:8180/TV00000000000000000031@HHZT",
+            "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw",
+            "http://146.56.153.245:20121/bysid/258",
+            "http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8",
+            "http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv",
+            "http://wouu.net:9977/udp/239.93.0.162:2192",
+            "http://www.zzrs888.top/t.php?id=鳯凰衛視中文",
+            "http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192",
+            "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092"
         ]
     },
     {
@@ -757,7 +766,30 @@
         "name": "",
         "title": "凤凰卫视资讯台",
         "uris": [
-            "http://player.tingfm.com/?id=742"
+            "http://122.224.232.226:8888/udp/233.50.200.192:5140",
+            "http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8",
+            "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx",
+            "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2",
+            "https://dl.zhoujie218.top/new/fhx.php?id=fhzx",
+            "http://udnhls.skilldns.com:80/fhzx-cn.m3u8",
+            "http://www.erbao1981.top:8188/udp/239.76.246.134:1234",
+            "http://146.56.153.245:20121/bysid/257",
+            "http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv",
+            "http://wouu.net:9977/udp/239.93.0.118:2191",
+            "http://wouu.net:9977/udp/239.93.1.4:2191",
+            "http://www.zzrs888.top/t.php?id=鳯凰衛視資訊",
+            "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086"
+        ]
+    },
+    {
+        "group": "凤凰卫视",
+        "logo": "",
+        "name": "",
+        "title": "凤凰香港",
+        "uris": [
+            "http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8",
+            "http://58.144.154.93:80/qctv.fengshows.cn/0701phk72.m3u8",
+            "http://www.lebaobei.top:6868/udp/239.255.30.123:8231"
         ]
     },
     {
@@ -766,7 +798,8 @@
         "name": "",
         "title": "龙华偶像",
         "uris": [
-            "https://cdi.ofiii.com/ocean/video/playlist/PVULVvjorp4/master.m3u8"
+            "https://cdi.ofiii.com/ocean/video/playlist/PVULVvjorp4/master.m3u8",
+            "http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn"
         ]
     },
     {
@@ -795,7 +828,13 @@
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###第01集",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###第02集",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###第03集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E04.mp4###第04集"
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E04.mp4###第04集",
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E05.mp4###第05集",
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E06.mp4###第06集",
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E07.mp4###第07集",
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E08.mp4###第08集",
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###第09集",
+            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###第10集"
         ]
     }
 ]
