@@ -1,81 +1,5 @@
 [
     {
-        "title": "4K乐享超清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.43:5140"
-        ]
-    },
-    {
-        "title": "4K超清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.249:8001",
-            "http://dsm.ats.ink:8012/udp/239.3.1.249:8001",
-            "http://gen8.cc:5555/udp/239.3.1.249:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.249:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.249:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.249:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.249:8001",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.249:8001",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.249:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.249:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.249:8001",
-            "http://yun.jinsome.com:8686/udp/239.3.1.249:8001",
-            "http://wouu.net:9977/udp/239.93.1.156:5140"
-        ]
-    },
-    {
-        "title": "Amc电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv017"
-        ]
-    },
-    {
-        "title": "CAT电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv076",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv076"
-        ]
-    },
-    {
-        "title": "CCTV11-戏曲",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://36.35.16.98:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0"
-        ]
-    },
-    {
-        "title": "CCTV15-音乐",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://36.35.16.98:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0"
-        ]
-    },
-    {
-        "title": "CCTV6-电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://36.35.16.98:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0"
-        ]
-    },
-    {
         "title": "CCTV怀旧剧场",
         "group": "数字付费",
         "logo": "",
@@ -92,8 +16,6 @@
         "name": "",
         "uris": [
             "http://mryx.fun:1025/udp/239.11.0.67:1025",
-            "http://www.lizhinas.top:8688/rtp/239.252.219.86:5140",
-            "http://www.furymax.top:85/rtp/239.69.1.74:10084",
             "https://www.yangshipin.cn/tv/home?pid=600099655"
         ]
     },
@@ -104,19 +26,7 @@
         "name": "",
         "uris": [
             "http://mryx.fun:1025/udp/239.11.0.65:1025",
-            "http://www.lizhinas.top:8688/rtp/239.252.219.89:5140",
             "https://www.yangshipin.cn/tv/home?pid=600099658"
-        ]
-    },
-    {
-        "title": "CCTV风云足球",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://111.61.236.247:9081/hls/58/index.m3u8",
-            "http://www.lizhinas.top:8688/rtp/239.252.219.96:5140",
-            "http://www.furymax.top:85/rtp/239.69.1.81:10126"
         ]
     },
     {
@@ -191,16 +101,6 @@
         "name": "",
         "uris": [
             "http://218.202.220.2:5000/nn_live.m3u8?id=MTV"
-        ]
-    },
-    {
-        "title": "中视经典",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv080",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv080"
         ]
     },
     {
@@ -340,16 +240,6 @@
         ]
     },
     {
-        "title": "古典音乐",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv059",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv059"
-        ]
-    },
-    {
         "title": "古装剧场",
         "group": "数字付费",
         "logo": "",
@@ -437,16 +327,6 @@
         "name": "",
         "uris": [
             "http://wouu.net:9977/udp/239.93.0.144:5140"
-        ]
-    },
-    {
-        "title": "数位电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv011",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv011"
         ]
     },
     {
@@ -777,16 +657,6 @@
         ]
     },
     {
-        "title": "靖天电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv061",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv061"
-        ]
-    },
-    {
         "title": "音乐现场",
         "group": "数字付费",
         "logo": "",
@@ -822,18 +692,6 @@
         "name": "",
         "uris": [
             "http://37.27.111.214:8080/live/19/hls.m3u8",
-            "http://litv.zapi.us.kg/?id=litv-longturn03",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn03"
-        ]
-    },
-    {
-        "title": "龙华经典",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-longturn21",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn21"
         ]
     },
     {
@@ -1068,16 +926,6 @@
         "name": "",
         "uris": [
             "http://wouu.net:9977/udp/239.93.1.189:5140"
-        ]
-    },
-    {
-        "title": "爱放动漫",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-ftv15",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-ftv15"
         ]
     },
     {
@@ -1808,61 +1656,6 @@
         ]
     },
     {
-        "title": "CHANNEL-V",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.157:2194",
-            "http://wouu.net:9977/udp/239.93.1.7:2194"
-        ]
-    },
-    {
-        "title": "CTS华视新闻",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://37.27.111.214:8080/live/8/hls.m3u8"
-        ]
-    },
-    {
-        "title": "MoMo综合",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "rtmp://f13h.mine.nu/sat/tv761"
-        ]
-    },
-    {
-        "title": "TVB-jade",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8"
-        ]
-    },
-    {
-        "title": "TVBS ASIA",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8"
-        ]
-    },
-    {
-        "title": "TVBS NEWS",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://61.221.215.25:8800/hls/9/index.m3u8"
-        ]
-    },
-    {
         "title": "TVBS亚洲",
         "group": "港台",
         "logo": "",
@@ -1871,116 +1664,6 @@
             "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8",
             "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8",
             "http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8"
-        ]
-    },
-    {
-        "title": "tvbs新闻",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv072",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv072"
-        ]
-    },
-    {
-        "title": "tvbs欢乐",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv068",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv068"
-        ]
-    },
-    {
-        "title": "tvbs精采",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv067",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv067"
-        ]
-    },
-    {
-        "title": "tvbs闽南",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv073",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv073"
-        ]
-    },
-    {
-        "title": "中天娱乐",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctient"
-        ]
-    },
-    {
-        "title": "中天新闻",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://cdn.iptv8k.top/dl/jspd.php?id=1",
-            "http://cdn.iptv8k.top/dl/jspd.php?id=23",
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv009",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv009"
-        ]
-    },
-    {
-        "title": "中天综合",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ctizhonghe"
-        ]
-    },
-    {
-        "title": "中视",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://37.27.111.214:8080/live/7/hls.m3u8"
-        ]
-    },
-    {
-        "title": "中视新闻",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv074",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv074"
-        ]
-    },
-    {
-        "title": "中视菁采",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv064",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv064"
-        ]
-    },
-    {
-        "title": "中视闽南",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv040",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv040",
-            "rtmp://f13h.mine.nu/sat/tv091"
         ]
     },
     {
@@ -1994,92 +1677,16 @@
         ]
     },
     {
-        "title": "亚洲旅游",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-longturn17",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn17",
-            "http://37.27.111.214:8080/live/10/hls.m3u8"
-        ]
-    },
-    {
-        "title": "八大戏剧",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://61.221.215.25:8800/hls/39/index.m3u8"
-        ]
-    },
-    {
-        "title": "八大精彩",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv034",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv034"
-        ]
-    },
-    {
-        "title": "八大综合",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://61.221.215.25:8800/hls/56/index.m3u8",
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv039",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv039"
-        ]
-    },
-    {
-        "title": "公视戏剧",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv042",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv042"
-        ]
-    },
-    {
-        "title": "凤凰hk",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://php.jdshipin.com/TVOD/iptv.php?id=fhhk"
-        ]
-    },
-    {
         "title": "凤凰中文",
         "group": "港台",
         "logo": "",
         "name": "",
         "uris": [
             "http://122.224.232.226:8888/udp/233.50.200.191:5140",
-            "http://146.56.153.245:20121/bysid/258",
-            "http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8",
-            "http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8",
             "http://58.250.155.2:8180/TV00000000000000000031@HHZT",
-            "http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu001-golive.flv",
             "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw",
-            "http://wouu.net:9977/udp/239.93.0.162:2192",
             "http://www.zzrs888.top/t.php?id=鳯凰衛視中文",
-            "http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192",
-            "https://dl.zhoujie218.top/new/fhx.php?id=fhzw",
-            "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092"
-        ]
-    },
-    {
-        "title": "凤凰卫视",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8"
+            "http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192"
         ]
     },
     {
@@ -2089,15 +1696,9 @@
         "name": "",
         "uris": [
             "http://122.224.232.226:8888/udp/233.50.200.192:5140",
-            "http://146.56.153.245:20121/bysid/257",
             "http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8",
-            "http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv",
             "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx",
             "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2",
-            "http://udnhls.skilldns.com:80/fhzx-cn.m3u8",
-            "http://wouu.net:9977/udp/239.93.0.118:2191",
-            "http://wouu.net:9977/udp/239.93.1.4:2191",
-            "http://www.erbao1981.top:8188/udp/239.76.246.134:1234",
             "http://www.zzrs888.top/t.php?id=鳯凰衛視資訊",
             "https://dl.zhoujie218.top/new/fhx.php?id=fhzx",
             "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086"
@@ -2115,167 +1716,12 @@
         ]
     },
     {
-        "title": "动物星球",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://61.221.215.25:8800/hls/57/index.m3u8"
-        ]
-    },
-    {
-        "title": "华视新闻",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv052",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv052"
-        ]
-    },
-    {
-        "title": "华视闽南",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv041",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv041",
-            "rtmp://f13h.mine.nu/sat/tv111"
-        ]
-    },
-    {
-        "title": "博斯无限",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://37.27.111.214:8080/live/15/hls.m3u8",
-            "http://litv.zapi.us.kg/?id=litv-longturn10",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn10",
-            "http://litv.zapi.us.kg/?id=litv-longturn13",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn13"
-        ]
-    },
-    {
-        "title": "博斯网球",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-longturn09",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn09"
-        ]
-    },
-    {
-        "title": "博斯运动壹台",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-longturn07",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn07",
-            "http://litv.zapi.us.kg/?id=litv-longturn08",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn08"
-        ]
-    },
-    {
-        "title": "博斯高球壹台",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-longturn05",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn05",
-            "http://litv.zapi.us.kg/?id=litv-longturn06",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn06"
-        ]
-    },
-    {
-        "title": "博斯魅力",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-longturn04",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn04"
-        ]
-    },
-    {
-        "title": "台湾",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://61.221.215.25:8800/hls/58/index.m3u8"
-        ]
-    },
-    {
         "title": "台湾民視新聞",
         "group": "港台",
         "logo": "",
         "name": "",
         "uris": [
             "http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8"
-        ]
-    },
-    {
-        "title": "台視",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "rtmp://f13h.mine.nu/sat/tv071"
-        ]
-    },
-    {
-        "title": "大爱生活高清",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.42.71:5140"
-        ]
-    },
-    {
-        "title": "好消息壹",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-ftv16",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-ftv16"
-        ]
-    },
-    {
-        "title": "好消息贰",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-ftv17",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-ftv17"
-        ]
-    },
-    {
-        "title": "客家电视",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv043",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv043"
-        ]
-    },
-    {
-        "title": "寰宇新闻",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn14",
-            "http://litv.zapi.us.kg/?id=litv-longturn15",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn15"
         ]
     },
     {
@@ -2290,35 +1736,13 @@
         ]
     },
     {
-        "title": "東森超視",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "rtmp://f13h.mine.nu/sat/tv331"
-        ]
-    },
-    {
         "title": "民視",
         "group": "港台",
         "logo": "",
         "name": "",
         "uris": [
-            "rtmp://f13h.mine.nu/sat/tv051",
             "http://37.27.111.214:8080/live/6/hls.m3u8",
-            "http://37.27.111.214:8080/live/5/hls.m3u8",
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv156",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv001",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv156"
-        ]
-    },
-    {
-        "title": "民视影剧",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://serv00.bkpcp.top/litv3.php?id=litv-ftv09"
+            "http://37.27.111.214:8080/live/5/hls.m3u8"
         ]
     },
     {
@@ -2330,19 +1754,7 @@
             "http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8",
             "http://38.64.72.148/hls/modn/list/4012/playlist.m3u8",
             "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
-            "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
-            "http://litv.zapi.us.kg/?id=litv-ftv13",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-ftv13"
-        ]
-    },
-    {
-        "title": "民视旅游",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-ftv07",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-ftv07"
+            "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"
         ]
     },
     {
@@ -2351,31 +1763,7 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://37.27.111.214:8080/live/4/hls.m3u8",
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv003",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv003"
-        ]
-    },
-    {
-        "title": "民视综艺",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv004",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv004"
-        ]
-    },
-    {
-        "title": "民视闽南",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv002",
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv155",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv002",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv155"
+            "http://37.27.111.214:8080/live/4/hls.m3u8"
         ]
     },
     {
@@ -2409,232 +1797,13 @@
         ]
     },
     {
-        "title": "纬来体育台",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "rtmp://f13h.mine.nu/sat/tv721"
-        ]
-    },
-    {
-        "title": "纬来日本",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandjapan"
-        ]
-    },
-    {
-        "title": "纬来育乐台",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "rtmp://f13h.mine.nu/sat/tv701"
-        ]
-    },
-    {
-        "title": "靖天卡通",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv044",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv044"
-        ]
-    },
-    {
-        "title": "靖天国际",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv063",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv063"
-        ]
-    },
-    {
-        "title": "靖天戏剧",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv058",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058"
-        ]
-    },
-    {
-        "title": "靖天日本",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv047",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv047"
-        ]
-    },
-    {
-        "title": "靖天映画",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv055",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv055"
-        ]
-    },
-    {
-        "title": "靖天欢乐",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv054",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv054"
-        ]
-    },
-    {
-        "title": "靖天综合",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv046"
-        ]
-    },
-    {
-        "title": "靖天育乐",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv062",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv062"
-        ]
-    },
-    {
-        "title": "靖天资讯",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv065",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv065"
-        ]
-    },
-    {
-        "title": "靖洋卡通",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv057",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv057"
-        ]
-    },
-    {
-        "title": "靖洋戏剧",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv045",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv045"
-        ]
-    },
-    {
-        "title": "非凡商业",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv048",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv048",
-            "http://litv.zapi.us.kg/?id=4gtv-4gtv010",
-            "http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv010"
-        ]
-    },
-    {
         "title": "香港卫视",
         "group": "港台",
         "logo": "",
         "name": "",
         "uris": [
             "http://zhibo.hkstv.tv/livestream/mutfysrq.flv",
-            "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
             "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0"
-        ]
-    },
-    {
-        "title": "香港环球卫视",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "rtmp://live.pyscripter.com/HKgstv_com/www_hkgstv_com?auth_key=6001723702257-0-0-1a56ccd327477eb45e7da54c8be2a6b5"
-        ]
-    },
-    {
-        "title": "香港面包台",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
-            "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源"
-        ]
-    },
-    {
-        "title": "龙华偶像",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaidol_twn",
-            "http://litv.zapi.us.kg/?id=litv-longturn12",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn12"
-        ]
-    },
-    {
-        "title": "龙华卡通",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-longturn01",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn01"
-        ]
-    },
-    {
-        "title": "龙华戏剧",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuaxiju_twn",
-            "http://litv.zapi.us.kg/?id=litv-longturn18",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn18"
-        ]
-    },
-    {
-        "title": "龙华日韩",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://litv.zapi.us.kg/?id=litv-longturn11",
-            "http://serv00.bkpcp.top/litv3.php?id=litv-longturn11"
-        ]
-    },
-    {
-        "title": "龙华洋片",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=lunghuawestern_twn"
         ]
     },
     {
