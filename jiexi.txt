@@ -1647,6 +1647,15 @@
         ]
     },
     {
+        "title": "TVB翡翠台",
+        "group": "港台",
+        "logo": "",
+        "name": "",
+        "uris": [
+            "https://yeslivetv.com/channels/tvb-jade/"
+        ]
+    },
+    {
         "title": "ASTV亚洲卫视",
         "group": "港台",
         "logo": "",
