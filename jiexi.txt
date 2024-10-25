@@ -701,6 +701,262 @@
         ]
     },
     {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "广东影视",
+        "uris": [
+            "https://www.gdtv.cn/tvChannelDetail/53"
+        ]
+    },
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "广东嘉佳卡通",
+        "uris": [
+            "https://www.gdtv.cn/tvChannelDetail/66"
+        ]
+    },
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "深圳电视剧频道",
+        "uris": [
+            "https://www.sztv.com.cn/pindao/index.html?id=7880"
+        ]
+    },
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "湖南电影",
+        "uris": [
+            "https://live.mgtv.com/?channelId=221"
+        ]
+    },
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "湖南电视剧",
+        "uris": [
+            "https://live.mgtv.com/?channelId=484"
+        ]
+    },
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "金鹰卡通",
+        "uris": [
+            "https://live.mgtv.com/?channelId=287"
+        ]
+    },
+    {
+        "title": "BRTV少儿HD",
+        "group": "数字付费",
+        "uris": [
+            "http://221.221.153.193:8888/rtp/239.3.1.189:8000"
+        ]
+    },
+    {
+        "title": "优优宝贝",
+        "group": "数字付费",
+        "uris": [
+            "http://e1.woc.iiiya.cn:8888/rtp/239.61.3.70:9938"
+        ]
+    },
+    {
+        "title": "优漫卡通",
+        "group": "数字付费",
+        "uris": [
+            "http://iptvcyp.top:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://wouu.net:9977/udp/239.93.0.251:5140"
+        ]
+    },
+    {
+        "title": "内蒙古少儿",
+        "group": "数字付费",
+        "uris": [
+            "https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800"
+        ]
+    },
+    {
+        "title": "动画",
+        "group": "数字付费",
+        "uris": [
+            "http://221.221.153.193:8888/rtp/239.3.1.80:4120",
+            "http://dsm.ats.ink:8012/udp/239.3.1.80:4120",
+            "http://gen8.cc:5555/udp/239.3.1.80:4120",
+            "http://joyznm.i234.me:20000/udp/239.3.1.80:4120",
+            "http://joyznm.x3322.net:20000/udp/239.3.1.80:4120",
+            "http://my.saopanda.top:18889/udp/239.3.1.80:4120",
+            "http://nas.audreyli.cn:4022/udp/239.3.1.80:4120",
+            "http://slyct.eatuo.com:8012/udp/239.3.1.80:4120",
+            "http://sweetown.fun:4000/udp/239.3.1.80:4120",
+            "http://wuyanjiang.cn:8012/udp/239.3.1.80:4120",
+            "http://wuzuo.fun:4022/udp/239.3.1.80:4120",
+            "http://www.abelstation.cn:4000/udp/239.3.1.80:4120",
+            "http://www.lishaoping.com:8012/udp/239.3.1.80:4120",
+            "http://yun.jinsome.com:8686/udp/239.3.1.80:4120"
+        ]
+    },
+    {
+        "title": "卡酷动画",
+        "group": "数字付费",
+        "uris": [
+            "http://iptvcyp.top:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://dsm.ats.ink:8012/udp/239.3.1.189:8000",
+            "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.222:9320",
+            "http://joyznm.i234.me:20000/udp/239.3.1.189:8000",
+            "http://joyznm.x3322.net:20000/udp/239.3.1.189:8000",
+            "http://my.saopanda.top:18889/udp/239.3.1.189:8000",
+            "http://nas.audreyli.cn:4022/udp/239.3.1.189:8000",
+            "http://slyct.eatuo.com:8012/udp/239.3.1.189:8000",
+            "http://sweetown.fun:4000/udp/239.3.1.189:8000",
+            "http://wuyanjiang.cn:8012/udp/239.3.1.189:8000",
+            "http://wuzuo.fun:4022/udp/239.3.1.189:8000",
+            "http://www.abelstation.cn:4000/udp/239.3.1.189:8000",
+            "http://www.furymax.top:85/rtp/239.69.1.193:10800",
+            "http://www.lishaoping.com:8012/udp/239.3.1.189:8000",
+            "http://yun.jinsome.com:8686/udp/239.3.1.189:8000"
+        ]
+    },
+    {
+        "title": "嘉佳卡通",
+        "group": "数字付费",
+        "uris": [
+            "http://221.221.153.193:8888/rtp/239.3.1.147:9268",
+            "http://dsm.ats.ink:8012/udp/239.3.1.147:9268",
+            "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.72:8426",
+            "http://gen8.cc:5555/udp/239.3.1.147:9268",
+            "http://iptvcyp.top:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://joyznm.i234.me:20000/udp/239.3.1.147:9268",
+            "http://joyznm.x3322.net:20000/udp/239.3.1.147:9268",
+            "http://my.saopanda.top:18889/udp/239.3.1.147:9268",
+            "http://nas.audreyli.cn:4022/udp/239.3.1.147:9268",
+            "http://slyct.eatuo.com:8012/udp/239.3.1.147:9268",
+            "http://sweetown.fun:4000/udp/239.3.1.147:9268",
+            "http://wuyanjiang.cn:8012/udp/239.3.1.147:9268",
+            "http://wuzuo.fun:4022/udp/239.3.1.147:9268",
+            "http://www.abelstation.cn:4000/udp/239.3.1.147:9268",
+            "http://www.lishaoping.com:8012/udp/239.3.1.147:9268"
+        ]
+    },
+    {
+        "title": "宝宝动画高清",
+        "group": "数字付费",
+        "uris": [
+            "http://wouu.net:9977/udp/239.93.0.147:5140"
+        ]
+    },
+    {
+        "title": "少儿动画",
+        "group": "数字付费",
+        "uris": [
+            "http://221.221.153.193:8888/rtp/239.3.1.199:9000",
+            "http://dsm.ats.ink:8012/udp/239.3.1.199:9000",
+            "http://gen8.cc:5555/udp/239.3.1.199:9000",
+            "http://ikuai.zlsip.top:4022/udp/239.3.1.199:9000",
+            "http://joyznm.i234.me:20000/udp/239.3.1.199:9000",
+            "http://joyznm.x3322.net:20000/udp/239.3.1.199:9000",
+            "http://my.saopanda.top:18889/udp/239.3.1.199:9000",
+            "http://nas.audreyli.cn:4022/udp/239.3.1.199:9000",
+            "http://slyct.eatuo.com:8012/udp/239.3.1.199:9000",
+            "http://sweetown.fun:4000/udp/239.3.1.199:9000",
+            "http://wuyanjiang.cn:8012/udp/239.3.1.199:9000",
+            "http://wuzuo.fun:4022/udp/239.3.1.199:9000",
+            "http://www.abelstation.cn:4000/udp/239.3.1.199:9000",
+            "http://www.lishaoping.com:8012/udp/239.3.1.199:9000",
+            "http://wouu.net:9977/udp/239.93.0.193:9000"
+        ]
+    },
+    {
+        "title": "少儿天地",
+        "group": "数字付费",
+        "uris": [
+            "http://wouu.net:9977/udp/239.93.42.34:5140"
+        ]
+    },
+    {
+        "title": "广东少儿高清",
+        "group": "数字付费",
+        "uris": [
+            "http://1b6467f415.iok.la:9931/tsfile/live/1019_1.m3u8"
+        ]
+    },
+    {
+        "title": "新动漫台",
+        "group": "数字付费",
+        "uris": [
+            "http://e1.woc.iiiya.cn:8888/rtp/239.61.3.18:9628"
+        ]
+    },
+    {
+        "title": "浙江少儿",
+        "group": "数字付费",
+        "uris": [
+            "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
+        ]
+    },
+    {
+        "title": "熊猫少儿高清",
+        "group": "数字付费",
+        "uris": [
+            "http://wouu.net:9977/udp/239.93.1.189:5140"
+        ]
+    },
+    {
+        "title": "爱放动漫",
+        "group": "数字付费",
+        "uris": [
+            "http://litv.zapi.us.kg/?id=litv-ftv15",
+            "http://serv00.bkpcp.top/litv3.php?id=litv-ftv15"
+        ]
+    },
+    {
+        "title": "福建少儿",
+        "group": "数字付费",
+        "uris": [
+            "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.9:8048"
+        ]
+    },
+    {
+        "title": "金鹰卡通",
+        "group": "数字付费",
+        "uris": [
+            "http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8",
+            "http://221.221.153.193:8888/rtp/239.3.1.51:9252",
+            "http://60.12.183.46:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0",
+            "http://dsm.ats.ink:8012/udp/239.3.1.51:9252",
+            "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.221:9314",
+            "http://gen8.cc:5555/udp/239.3.1.51:9252",
+            "http://gmxw.7766.org:808/hls/69/index.m3u8",
+            "http://ikuai.zlsip.top:4022/udp/239.3.1.51:9252",
+            "http://iptvcyp.top:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://joyznm.i234.me:20000/udp/239.3.1.51:9252",
+            "http://joyznm.x3322.net:20000/udp/239.3.1.51:9252",
+            "http://my.saopanda.top:18889/udp/239.3.1.51:9252",
+            "http://nas.audreyli.cn:4022/udp/239.3.1.51:9252",
+            "http://slyct.eatuo.com:8012/udp/239.3.1.51:9252",
+            "http://wouu.net:9977/udp/239.93.0.108:5140",
+            "http://wuyanjiang.cn:8012/udp/239.3.1.51:9252",
+            "http://www.abelstation.cn:4000/udp/239.3.1.51:9252",
+            "http://www.furymax.top:85/rtp/239.69.1.248:11130",
+            "http://www.lishaoping.com:8012/udp/239.3.1.51:9252",
+            "http://yun.jinsome.com:8686/udp/239.3.1.51:9252"
+        ]
+    },
+    {
+        "title": "青春动漫",
+        "group": "数字付费",
+        "uris": [
+            "http://wouu.net:9977/udp/239.93.0.146:5140"
+        ]
+    },
+    {
         "title": "CCTV-1 综合",
         "logo": "https://live.fanmingming.com/tv/CCTV1.png",
         "name": "",
