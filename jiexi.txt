@@ -75,6 +75,24 @@
         "group": "数字付费",
         "logo": "",
         "name": "",
+        "title": "广州综合频道",
+        "uris": [
+            "https://www.gztv.com/#/channel"
+        ]
+    },
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "title": "广州新闻频道",
+        "uris": [
+            "https://www.gztv.com/#/channel"
+        ]
+    },
+    {
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
         "title": "深圳电视剧频道",
         "uris": [
             "https://www.sztv.com.cn/pindao/index.html?id=7880"
