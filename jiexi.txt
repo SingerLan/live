@@ -1,11 +1,19 @@
 [
     {
+        "title": "天翼轮播",
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "uris": [
+            "http://live5g.nty.tv189.com:80/live/98000000000000000001658200465881.m3u8?sign=30652482729befc6bf8f13511e2829f3&qualityCode=&qualityid=256&version=1&guid=0a62ffdc-b94f-973b-14f4-2ff0fc14e72a&app=115020310221&cookie=b3dc3d31701a5962d7c29253a7b6b65d&session=b3dc3d31701a5962d7c29253a7b6b65d&uid=104300466310963241031&uname=MTk5MTc3MzIzODA%3D&time=20241102125532&videotype=1&cid=C8000000000000000001658200465881&cname=&cateid=&dev=000001&ep=1&os=30&ps=0099&clienttype=M2104K10AC&appver=5.5.40.13&res=1080%2A2174&channelid=01180720&pid=1000000432&orderid=&nid=&cp=20200001&sp=00000014&ip=MTkyLjE2OC43Mi4xNjU%3D&ipSign=9517fd0bf8faa655990a4dffe358e13e&cdntoken=api_6725b0c4d39f1&a=1fEvzJUUX2hJe19bC%2F5BTXjJdnAouplHAgj9FwJ9d6Q4bsBQ5Lq50R%2F2IKYbaRYl&pvv=&t=6725e904&playseek=1&tx=20241102125543&sx=3756c4ac6f83b1b5939fc0e06b17242f"
+        ]
+    },
+    {
         "title": "CCTV怀旧剧场",
         "group": "数字付费",
         "logo": "",
         "name": "",
         "uris": [
-            "http://mryx.fun:1025/udp/239.11.0.64:1025",
             "https://www.yangshipin.cn/tv/home?pid=600099620"
         ]
     },
@@ -15,7 +23,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://mryx.fun:1025/udp/239.11.0.67:1025",
             "https://www.yangshipin.cn/tv/home?pid=600099655"
         ]
     },
@@ -25,7 +32,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://mryx.fun:1025/udp/239.11.0.65:1025",
             "https://www.yangshipin.cn/tv/home?pid=600099658"
         ]
     },
@@ -35,12 +41,9 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://www.furymax.top:85/rtp/239.69.1.242:11094",
-            "http://e1.woc.iiiya.cn:8888/rtp/239.61.3.16:9616",
-            "http://117.114.153.18:8180/TV00000000000000000093@HHZT",
-            "http://iptvcyp.top:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://lvs.hunancatv.com:8060/live/CHCDZDY.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111",
-            "http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy"
+            "http://118.81.148.155:5555/rtp/226.0.2.94:8012",
+            "http://115.60.241.249:2000/rtp/225.1.4.208:1261"
+            "http://222.137.119.167:4000/rtp/225.1.4.208:1261"
         ]
     },
     {
@@ -1644,6 +1647,15 @@
         "name": "",
         "uris": [
             "http://www.furymax.top:85/rtp/239.69.1.83:10138"
+        ]
+    },
+    {
+        "title": "纬来电影",
+        "group": "港台",
+        "logo": "",
+        "name": "",
+        "uris": [
+            "https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1"
         ]
     },
     {
