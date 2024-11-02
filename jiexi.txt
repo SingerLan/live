@@ -1686,7 +1686,8 @@
             "http://58.250.155.2:8180/TV00000000000000000031@HHZT",
             "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw",
             "http://www.zzrs888.top/t.php?id=鳯凰衛視中文",
-            "http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192"
+            "http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192",
+            "http://cdn3.1678520.xyz:80/live/live2.1.php?id=fhzw"
         ]
     },
     {
@@ -2989,6 +2990,27 @@
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E08.mp4###第08集",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###第09集",
             "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###第10集"
+        ]
+    },
+    {
+        "group": "松视",
+        "logo": "",
+        "name": "",
+        "title": "松视1",
+        "uris": [
+            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639652.m3u8###松视1",
+            "http://mtw.so/6wCBqQ###松视1(备用)",
+            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639653.m3u8###松视2",
+            "http://mtw.so/6hAvWA###松视3",
+            "http://u9v.cn/6hAvUu###潘朵拉",
+            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476368.m3u8###彩虹依限",
+            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476369.m3u8###彩虹电影",
+            "http://m6z.cn/6vMxT6###彩虹电影(备用)",
+            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476371.m3u8###惊艳台",
+            "http://m6z.cn/61I2Cw###惊艳台(备用)",
+            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476372.m3u8###香蕉台",
+            "http://u9v.cn/5FZsLd###香蕉台(备用)",
+            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476370.m3u8###极限电影"
         ]
     }
 ]
