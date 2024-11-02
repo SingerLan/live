@@ -85,15 +85,6 @@
         ]
     },
     {
-        "title": "全球大片",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.105:5140"
-        ]
-    },
-    {
         "title": "军事",
         "group": "数字付费",
         "logo": "",
@@ -112,15 +103,6 @@
             "http://www.abelstation.cn:4000/udp/239.3.1.76:4120",
             "http://www.lishaoping.com:8012/udp/239.3.1.76:4120",
             "http://yun.jinsome.com:8686/udp/239.3.1.76:4120"
-        ]
-    },
-    {
-        "title": "军事迷必看大片",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://tvbox6.icu/tv/migu.php?id=jsdp"
         ]
     },
     {
@@ -362,15 +344,6 @@
         ]
     },
     {
-        "title": "武汉二台电视剧",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://www.furymax.top:85/rtp/239.69.1.146:10512"
-        ]
-    },
-    {
         "title": "淘4K超清",
         "group": "数字付费",
         "logo": "",
@@ -385,7 +358,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.238:8001",
             "http://dsm.ats.ink:8012/udp/239.3.1.238:8001",
             "http://gen8.cc:5555/udp/239.3.1.238:8001",
             "http://joyznm.i234.me:20000/udp/239.3.1.238:8001",
@@ -473,7 +445,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.178:8001",
             "http://gen8.cc:5555/udp/239.3.1.178:8001",
             "http://joyznm.i234.me:20000/udp/239.3.1.178:8001",
             "http://joyznm.x3322.net:20000/udp/239.3.1.178:8001",
