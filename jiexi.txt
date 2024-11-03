@@ -30,14 +30,18 @@
 		"group": "数字付费",
 		"logo": "",
 		"name": "",
-		"uris": []
+		"uris": [
+			"http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D"
+		]
 	},
 	{
 		"title": "CHC家庭影院",
 		"group": "数字付费",
 		"logo": "",
 		"name": "",
-		"uris": []
+		"uris": [
+			"http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D"
+		]
 	},
 	{
 		"title": "CHC影迷电影",
@@ -51,7 +55,7 @@
 		"group": "数字付费",
 		"logo": "",
 		"name": "",
-		"uris": []
+		"uris": ["http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D"]
 	},
 	{
 		"title": "JJ斗地主",
@@ -505,6 +509,7 @@
 		"name": "CCTV1",
 		"group": "央视",
 		"uris": [
+			"http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8",
 			"https://www.xttv.com.cn/index/channel/index/id/155.html",
 			"https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8",
 			"https://tv.cctv.com/live/cctv1",
