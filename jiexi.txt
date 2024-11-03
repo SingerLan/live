@@ -1,14 +1,5 @@
 [
     {
-        "title": "天翼轮播",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://live5g.nty.tv189.com:80/live/98000000000000000001658200465881.m3u8?sign=30652482729befc6bf8f13511e2829f3&qualityCode=&qualityid=256&version=1&guid=0a62ffdc-b94f-973b-14f4-2ff0fc14e72a&app=115020310221&cookie=b3dc3d31701a5962d7c29253a7b6b65d&session=b3dc3d31701a5962d7c29253a7b6b65d&uid=104300466310963241031&uname=MTk5MTc3MzIzODA%3D&time=20241102125532&videotype=1&cid=C8000000000000000001658200465881&cname=&cateid=&dev=000001&ep=1&os=30&ps=0099&clienttype=M2104K10AC&appver=5.5.40.13&res=1080%2A2174&channelid=01180720&pid=1000000432&orderid=&nid=&cp=20200001&sp=00000014&ip=MTkyLjE2OC43Mi4xNjU%3D&ipSign=9517fd0bf8faa655990a4dffe358e13e&cdntoken=api_6725b0c4d39f1&a=1fEvzJUUX2hJe19bC%2F5BTXjJdnAouplHAgj9FwJ9d6Q4bsBQ5Lq50R%2F2IKYbaRYl&pvv=&t=6725e904&playseek=1&tx=20241102125543&sx=3756c4ac6f83b1b5939fc0e06b17242f"
-        ]
-    },
-    {
         "title": "CCTV怀旧剧场",
         "group": "数字付费",
         "logo": "",
@@ -41,8 +32,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://118.81.148.155:5555/rtp/226.0.2.94:8012",
-            "http://222.137.119.167:4000/rtp/225.1.4.208:1261"
         ]
     },
     {
@@ -90,28 +79,15 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.76:4120",
             "http://dsm.ats.ink:8012/udp/239.3.1.76:4120",
             "http://gen8.cc:5555/udp/239.3.1.76:4120",
             "http://joyznm.i234.me:20000/udp/239.3.1.76:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.76:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.76:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.76:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.76:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.76:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.76:4120",
             "http://www.abelstation.cn:4000/udp/239.3.1.76:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.76:4120",
-            "http://yun.jinsome.com:8686/udp/239.3.1.76:4120"
-        ]
-    },
-    {
-        "title": "军事高清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.204:9076"
+            "http://www.lishaoping.com:8012/udp/239.3.1.76:4120"
         ]
     },
     {
@@ -120,19 +96,15 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.68:4120",
             "http://dsm.ats.ink:8012/udp/239.3.1.68:4120",
             "http://gen8.cc:5555/udp/239.3.1.68:4120",
             "http://joyznm.i234.me:20000/udp/239.3.1.68:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.68:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.68:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.68:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.68:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.68:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.68:4120",
             "http://www.abelstation.cn:4000/udp/239.3.1.68:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.68:4120",
-            "http://yun.jinsome.com:8686/udp/239.3.1.68:4120"
+            "http://www.lishaoping.com:8012/udp/239.3.1.68:4120"
         ]
     },
     {
@@ -141,56 +113,14 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.92:4120",
             "http://dsm.ats.ink:8012/udp/239.3.1.92:4120",
-            "http://gen8.cc:5555/udp/239.3.1.92:4120",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.92:4120",
             "http://joyznm.i234.me:20000/udp/239.3.1.92:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.92:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.92:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.92:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.92:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.92:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.92:4120",
             "http://www.abelstation.cn:4000/udp/239.3.1.92:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.92:4120",
-            "http://yun.jinsome.com:8686/udp/239.3.1.92:4120"
-        ]
-    },
-    {
-        "title": "北京淘Baby",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://218.241.192.50:8808/udp/239.3.1.238:8001"
-        ]
-    },
-    {
-        "title": "北京淘剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://218.241.192.50:8808/udp/239.3.1.95:8001"
-        ]
-    },
-    {
-        "title": "北京淘娱乐",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://218.241.192.50:8808/udp/239.3.1.100:8001"
-        ]
-    },
-    {
-        "title": "北京淘精彩",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://218.241.192.50:8808/udp/239.3.1.178:8001"
+            "http://www.lishaoping.com:8012/udp/239.3.1.92:4120"
         ]
     },
     {
@@ -199,28 +129,13 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.69:4120",
             "http://dsm.ats.ink:8012/udp/239.3.1.69:4120",
-            "http://gen8.cc:5555/udp/239.3.1.69:4120",
             "http://joyznm.i234.me:20000/udp/239.3.1.69:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.69:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.69:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.69:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.69:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.69:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.69:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.69:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.69:4120",
-            "http://yun.jinsome.com:8686/udp/239.3.1.69:4120"
-        ]
-    },
-    {
-        "title": "台湾音乐台",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://61.221.215.25:8800/hls/49/index.m3u8"
+            "http://www.abelstation.cn:4000/udp/239.3.1.69:4120"
         ]
     },
     {
@@ -229,29 +144,14 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.67:4120",
             "http://dsm.ats.ink:8012/udp/239.3.1.67:4120",
-            "http://gen8.cc:5555/udp/239.3.1.67:4120",
             "http://joyznm.i234.me:20000/udp/239.3.1.67:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.67:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.67:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.67:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.67:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.67:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.67:4120",
             "http://www.abelstation.cn:4000/udp/239.3.1.67:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.67:4120",
-            "http://yun.jinsome.com:8686/udp/239.3.1.67:4120"
-        ]
-    },
-    {
-        "title": "峨眉电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.1.54:5140",
-            "http://wouu.net:9977/udp/239.93.0.252:5140"
+            "http://www.lishaoping.com:8012/udp/239.3.1.67:4120"
         ]
     },
     {
@@ -260,27 +160,13 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.78:4120",
-            "http://gen8.cc:5555/udp/239.3.1.78:4120",
             "http://joyznm.i234.me:20000/udp/239.3.1.78:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.78:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.78:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.78:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.78:4120",
             "http://wouu.net:9977/udp/239.93.0.217:9208",
             "http://wuyanjiang.cn:8012/udp/239.3.1.78:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.78:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.78:4120",
-            "http://yun.jinsome.com:8686/udp/239.3.1.78:4120"
-        ]
-    },
-    {
-        "title": "戏曲精选",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.144:5140"
+            "http://www.lishaoping.com:8012/udp/239.3.1.78:4120"
         ]
     },
     {
@@ -294,34 +180,6 @@
         ]
     },
     {
-        "title": "星光视界台",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://cfss.cc/cdn/yy/1353422557.flv"
-        ]
-    },
-    {
-        "title": "星光院线",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.139:5140"
-        ]
-    },
-    {
-        "title": "梨园频道",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://e1.woc.iiiya.cn:8888/rtp/239.61.3.19:9634",
-            "http://www.furymax.top:85/rtp/239.69.1.33:9838"
-        ]
-    },
-    {
         "title": "武侠剧场",
         "group": "数字付费",
         "logo": "",
@@ -329,18 +187,13 @@
         "uris": [
             "http://221.221.153.193:8888/rtp/239.3.1.90:4120",
             "http://dsm.ats.ink:8012/udp/239.3.1.90:4120",
-            "http://gen8.cc:5555/udp/239.3.1.90:4120",
             "http://joyznm.i234.me:20000/udp/239.3.1.90:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.90:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.90:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.90:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.90:4120",
             "http://sweetown.fun:4000/udp/239.3.1.90:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.90:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.90:4120",
             "http://www.abelstation.cn:4000/udp/239.3.1.90:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.90:4120",
-            "http://yun.jinsome.com:8686/udp/239.3.1.90:4120"
+            "http://www.lishaoping.com:8012/udp/239.3.1.90:4120"
         ]
     },
     {
@@ -363,14 +216,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.238:8001",
             "http://joyznm.x3322.net:20000/udp/239.3.1.238:8001",
             "http://my.saopanda.top:18889/udp/239.3.1.238:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.238:8001",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.238:8001",
-            "http://sweetown.fun:4000/udp/239.3.1.238:8001",
             "http://wuyanjiang.cn:8012/udp/239.3.1.238:8001",
             "http://wuzuo.fun:4022/udp/239.3.1.238:8001",
-            "http://www.abelstation.cn:4000/udp/239.3.1.238:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.238:8001",
-            "http://yun.jinsome.com:8686/udp/239.3.1.238:8001"
+            "http://www.abelstation.cn:4000/udp/239.3.1.238:8001"
         ]
     },
     {
@@ -385,15 +233,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.95:8001",
             "http://joyznm.x3322.net:20000/udp/239.3.1.95:8001",
             "http://my.saopanda.top:18889/udp/239.3.1.95:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.95:8001",
             "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.95:8001",
-            "http://sweetown.fun:4000/udp/239.3.1.95:8001",
             "http://wuyanjiang.cn:8012/udp/239.3.1.95:8001",
             "http://wuzuo.fun:4022/udp/239.3.1.95:8001",
-            "http://www.abelstation.cn:4000/udp/239.3.1.95:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.95:8001",
-            "http://yun.jinsome.com:8686/udp/239.3.1.95:8001"
+            "http://www.abelstation.cn:4000/udp/239.3.1.95:8001"
         ]
     },
     {
@@ -405,16 +248,11 @@
             "http://dsm.ats.ink:8012/udp/239.3.1.100:8001",
             "http://gen8.cc:5555/udp/239.3.1.100:8001",
             "http://joyznm.i234.me:20000/udp/239.3.1.100:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.100:8001",
             "http://my.saopanda.top:18889/udp/239.3.1.100:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.100:8001",
             "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.100:8001",
             "http://sweetown.fun:4000/udp/239.3.1.100:8001",
             "http://wuyanjiang.cn:8012/udp/239.3.1.100:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.100:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.100:8001",
-            "http://yun.jinsome.com:8686/udp/239.3.1.100:8001"
+            "http://wuzuo.fun:4022/udp/239.3.1.100:8001"
         ]
     },
     {
@@ -423,55 +261,15 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.250:8001",
             "http://gen8.cc:5555/udp/239.3.1.250:8001",
             "http://joyznm.i234.me:20000/udp/239.3.1.250:8001",
             "http://joyznm.x3322.net:20000/udp/239.3.1.250:8001",
             "http://my.saopanda.top:18889/udp/239.3.1.250:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.250:8001",
             "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2",
             "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.250:8001",
             "http://wuyanjiang.cn:8012/udp/239.3.1.250:8001",
-            "http://www.abelstation.cn:4000/udp/239.3.1.250:8001",
             "http://www.lishaoping.com:8012/udp/239.3.1.250:8001",
-            "http://yun.jinsome.com:8686/udp/239.3.1.250:8001",
-            "http://221.221.153.193:8888/rtp/239.3.1.250:8001"
-        ]
-    },
-    {
-        "title": "淘精彩",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://gen8.cc:5555/udp/239.3.1.178:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.178:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.178:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.178:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.178:8001",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.178:8001",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.178:8001",
-            "http://www.abelstation.cn:4000/udp/239.3.1.178:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.178:8001"
-        ]
-    },
-    {
-        "title": "游戏风云",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.136:5140"
-        ]
-    },
-    {
-        "title": "湖南电视剧",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://iptvcyp.top:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0"
+            "http://yun.jinsome.com:8686/udp/239.3.1.250:8001"
         ]
     },
     {
@@ -480,57 +278,15 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://1b6467f415.iok.la:9931/tsfile/live/1124_1.m3u8",
-            "http://221.221.153.193:8888/rtp/239.3.1.194:9020",
             "http://dsm.ats.ink:8012/udp/239.3.1.194:9020",
             "http://gen8.cc:5555/udp/239.3.1.194:9020",
             "http://joyznm.i234.me:20000/udp/239.3.1.194:9020",
             "http://joyznm.x3322.net:20000/udp/239.3.1.194:9020",
             "http://my.saopanda.top:18889/udp/239.3.1.194:9020",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.194:9020",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.194:9020",
-            "http://wouu.net:9977/udp/239.93.0.56:9020",
             "http://wuyanjiang.cn:8012/udp/239.3.1.194:9020",
             "http://wuzuo.fun:4022/udp/239.3.1.194:9020",
             "http://www.abelstation.cn:4000/udp/239.3.1.194:9020",
-            "http://www.lishaoping.com:8012/udp/239.3.1.194:9020",
-            "http://yun.jinsome.com:8686/udp/239.3.1.194:9020"
-        ]
-    },
-    {
-        "title": "热血剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.1.198:5140"
-        ]
-    },
-    {
-        "title": "热门剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.140:5140"
-        ]
-    },
-    {
-        "title": "爱经典高清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.42.13:5140"
-        ]
-    },
-    {
-        "title": "爱院线高清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.42.11:5140"
+            "http://www.lishaoping.com:8012/udp/239.3.1.194:9020"
         ]
     },
     {
@@ -539,54 +295,15 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.195:9024",
             "http://dsm.ats.ink:8012/udp/239.3.1.195:9024",
             "http://gen8.cc:5555/udp/239.3.1.195:9024",
             "http://joyznm.i234.me:20000/udp/239.3.1.195:9024",
             "http://my.saopanda.top:18889/udp/239.3.1.195:9024",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.195:9024",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.195:9024",
             "http://wouu.net:9977/udp/239.93.0.57:9024",
             "http://wuyanjiang.cn:8012/udp/239.3.1.195:9024",
             "http://wuzuo.fun:4022/udp/239.3.1.195:9024",
             "http://www.abelstation.cn:4000/udp/239.3.1.195:9024",
             "http://www.lishaoping.com:8012/udp/239.3.1.195:9024"
-        ]
-    },
-    {
-        "title": "经典重温",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D"
-        ]
-    },
-    {
-        "title": "谍战剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.95:5140"
-        ]
-    },
-    {
-        "title": "足球高清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.197:9040"
-        ]
-    },
-    {
-        "title": "都市剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.42.30:5140"
         ]
     },
     {
@@ -610,13 +327,8 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.70:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.70:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.70:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.70:4120",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.70:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.70:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.70:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.70:4120",
-            "http://yun.jinsome.com:8686/udp/239.3.1.70:4120",
-            "http://wouu.net:9977/udp/239.93.0.198:9044"
+            "http://www.abelstation.cn:4000/udp/239.3.1.70:4120"
         ]
     },
     {
@@ -626,15 +338,6 @@
         "name": "",
         "uris": [
             "http://swrh.ngtanyanfei.top:8081/dl/migu.php?id=xpfyt"
-        ]
-    },
-    {
-        "title": "龙华电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://37.27.111.214:8080/live/19/hls.m3u8"
         ]
     },
     {
@@ -693,28 +396,11 @@
     },
     {
         "title": "BRTV少儿HD",
+        "logo": "",
+        "name": "",
         "group": "数字付费",
         "uris": [
             "http://221.221.153.193:8888/rtp/239.3.1.189:8000"
-        ]
-    },
-    {
-        "title": "优优宝贝",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://e1.woc.iiiya.cn:8888/rtp/239.61.3.70:9938"
-        ]
-    },
-    {
-        "title": "优漫卡通",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://iptvcyp.top:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://wouu.net:9977/udp/239.93.0.251:5140"
         ]
     },
     {
@@ -732,20 +418,15 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.80:4120",
             "http://dsm.ats.ink:8012/udp/239.3.1.80:4120",
             "http://gen8.cc:5555/udp/239.3.1.80:4120",
             "http://joyznm.i234.me:20000/udp/239.3.1.80:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.80:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.80:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.80:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.80:4120",
             "http://sweetown.fun:4000/udp/239.3.1.80:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.80:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.80:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.80:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.80:4120",
-            "http://yun.jinsome.com:8686/udp/239.3.1.80:4120"
+            "http://www.abelstation.cn:4000/udp/239.3.1.80:4120"
         ]
     },
     {
@@ -754,21 +435,15 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://iptvcyp.top:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.189:8000",
             "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.222:9320",
             "http://joyznm.i234.me:20000/udp/239.3.1.189:8000",
             "http://joyznm.x3322.net:20000/udp/239.3.1.189:8000",
             "http://my.saopanda.top:18889/udp/239.3.1.189:8000",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.189:8000",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.189:8000",
             "http://sweetown.fun:4000/udp/239.3.1.189:8000",
             "http://wuyanjiang.cn:8012/udp/239.3.1.189:8000",
             "http://wuzuo.fun:4022/udp/239.3.1.189:8000",
             "http://www.abelstation.cn:4000/udp/239.3.1.189:8000",
-            "http://www.furymax.top:85/rtp/239.69.1.193:10800",
-            "http://www.lishaoping.com:8012/udp/239.3.1.189:8000",
-            "http://yun.jinsome.com:8686/udp/239.3.1.189:8000"
         ]
     },
     {
@@ -777,7 +452,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.147:9268",
             "http://dsm.ats.ink:8012/udp/239.3.1.147:9268",
             "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.72:8426",
             "http://gen8.cc:5555/udp/239.3.1.147:9268",
@@ -785,22 +459,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.147:9268",
             "http://joyznm.x3322.net:20000/udp/239.3.1.147:9268",
             "http://my.saopanda.top:18889/udp/239.3.1.147:9268",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.147:9268",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.147:9268",
             "http://sweetown.fun:4000/udp/239.3.1.147:9268",
             "http://wuyanjiang.cn:8012/udp/239.3.1.147:9268",
             "http://wuzuo.fun:4022/udp/239.3.1.147:9268",
-            "http://www.abelstation.cn:4000/udp/239.3.1.147:9268",
-            "http://www.lishaoping.com:8012/udp/239.3.1.147:9268"
-        ]
-    },
-    {
-        "title": "宝宝动画高清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.147:5140"
+            "http://www.abelstation.cn:4000/udp/239.3.1.147:9268"
         ]
     },
     {
@@ -809,48 +471,16 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://221.221.153.193:8888/rtp/239.3.1.199:9000",
             "http://dsm.ats.ink:8012/udp/239.3.1.199:9000",
             "http://gen8.cc:5555/udp/239.3.1.199:9000",
             "http://ikuai.zlsip.top:4022/udp/239.3.1.199:9000",
             "http://joyznm.i234.me:20000/udp/239.3.1.199:9000",
             "http://joyznm.x3322.net:20000/udp/239.3.1.199:9000",
             "http://my.saopanda.top:18889/udp/239.3.1.199:9000",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.199:9000",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.199:9000",
             "http://sweetown.fun:4000/udp/239.3.1.199:9000",
             "http://wuyanjiang.cn:8012/udp/239.3.1.199:9000",
             "http://wuzuo.fun:4022/udp/239.3.1.199:9000",
-            "http://www.abelstation.cn:4000/udp/239.3.1.199:9000",
-            "http://www.lishaoping.com:8012/udp/239.3.1.199:9000",
-            "http://wouu.net:9977/udp/239.93.0.193:9000"
-        ]
-    },
-    {
-        "title": "少儿天地",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.42.34:5140"
-        ]
-    },
-    {
-        "title": "广东少儿高清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://1b6467f415.iok.la:9931/tsfile/live/1019_1.m3u8"
-        ]
-    },
-    {
-        "title": "新动漫台",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://e1.woc.iiiya.cn:8888/rtp/239.61.3.18:9628"
+            "http://www.abelstation.cn:4000/udp/239.3.1.199:9000"
         ]
     },
     {
@@ -863,24 +493,6 @@
         ]
     },
     {
-        "title": "熊猫少儿高清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.1.189:5140"
-        ]
-    },
-    {
-        "title": "福建少儿",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.9:8048"
-        ]
-    },
-    {
         "title": "金鹰卡通",
         "group": "数字付费",
         "logo": "",
@@ -888,39 +500,20 @@
         "uris": [
             "http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8",
             "http://221.221.153.193:8888/rtp/239.3.1.51:9252",
-            "http://60.12.183.46:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.51:9252",
-            "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.221:9314",
             "http://gen8.cc:5555/udp/239.3.1.51:9252",
-            "http://gmxw.7766.org:808/hls/69/index.m3u8",
             "http://ikuai.zlsip.top:4022/udp/239.3.1.51:9252",
-            "http://iptvcyp.top:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://joyznm.i234.me:20000/udp/239.3.1.51:9252",
             "http://joyznm.x3322.net:20000/udp/239.3.1.51:9252",
             "http://my.saopanda.top:18889/udp/239.3.1.51:9252",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.51:9252",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.51:9252",
-            "http://wouu.net:9977/udp/239.93.0.108:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.51:9252",
-            "http://www.abelstation.cn:4000/udp/239.3.1.51:9252",
-            "http://www.furymax.top:85/rtp/239.69.1.248:11130",
-            "http://www.lishaoping.com:8012/udp/239.3.1.51:9252",
-            "http://yun.jinsome.com:8686/udp/239.3.1.51:9252"
-        ]
-    },
-    {
-        "title": "青春动漫",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.146:5140"
+            "http://www.abelstation.cn:4000/udp/239.3.1.51:9252"
         ]
     },
     {
         "title": "CCTV-1 综合",
         "logo": "https://live.fanmingming.com/tv/CCTV1.png",
-        "name": "",
+        "name": "CCTV1",
         "group": "央视",
         "uris": [
             "https://www.xttv.com.cn/index/channel/index/id/155.html",
@@ -931,13 +524,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.129:8008",
             "http://joyznm.x3322.net:20000/udp/239.3.1.129:8008",
             "http://my.saopanda.top:18889/udp/239.3.1.129:8008",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.129:8008",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.129:8008",
             "http://sweetown.fun:4000/udp/239.3.1.129:8008",
-            "http://tvbox6.icu/tv/migu.php?id=cctv1",
             "http://wuyanjiang.cn:8012/udp/239.3.1.129:8008",
             "http://www.abelstation.cn:4000/udp/239.3.1.129:8008",
-            "http://www.furymax.top:85/rtp/239.254.96.96:8550",
             "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8"
         ]
     },
@@ -966,14 +555,11 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.60:8084",
             "http://joyznm.x3322.net:20000/udp/239.3.1.60:8084",
             "http://my.saopanda.top:18889/udp/239.3.1.60:8084",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.60:8084",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.60:8084",
             "http://sweetown.fun:4000/udp/239.3.1.60:8084",
             "http://wouu.net:9977/udp/239.93.1.23:6000",
             "http://wuyanjiang.cn:8012/udp/239.3.1.60:8084",
             "http://wuzuo.fun:4022/udp/239.3.1.60:8084",
             "http://www.abelstation.cn:4000/udp/239.3.1.60:8084",
-            "http://www.furymax.top:85/rtp/239.69.1.102:10250",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140",
             "http://yun.jinsome.com:8686/udp/239.3.1.60:8084"
         ]
@@ -998,12 +584,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.172:8001",
             "http://joyznm.x3322.net:20000/udp/239.3.1.172:8001",
             "http://my.saopanda.top:18889/udp/239.3.1.172:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.172:8001",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.172:8001",
             "http://sweetown.fun:4000/udp/239.3.1.172:8001",
             "http://wouu.net:9977/udp/239.93.1.11:2223",
             "http://wuyanjiang.cn:8012/udp/239.3.1.172:8001",
-            "http://www.furymax.top:85/rtp/239.69.1.122:10370",
             "http://www.lishaoping.com:8012/udp/239.3.1.172:8001",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140"
         ]
@@ -1031,11 +614,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.105:8092",
             "http://joyznm.x3322.net:20000/udp/239.3.1.105:8092",
             "http://my.saopanda.top:18889/udp/239.3.1.105:8092",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.105:8092",
             "http://sweetown.fun:4000/udp/239.3.1.105:8092",
             "http://wuyanjiang.cn:8012/udp/239.3.1.105:8092",
             "http://wuzuo.fun:4022/udp/239.3.1.105:8092",
-            "http://www.furymax.top:85/rtp/239.69.1.138:10466",
             "http://www.lishaoping.com:8012/udp/239.3.1.105:8092",
             "http://yun.jinsome.com:8686/udp/239.3.1.105:8092"
         ]
@@ -1059,14 +640,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.130:8004",
             "http://joyznm.x3322.net:20000/udp/239.3.1.130:8004",
             "http://my.saopanda.top:18889/udp/239.3.1.130:8004",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.130:8004",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.130:8004",
             "http://sweetown.fun:4000/udp/239.3.1.130:8004",
             "http://wouu.net:9977/udp/239.93.1.36:8004",
             "http://wuyanjiang.cn:8012/udp/239.3.1.130:8004",
             "http://wuzuo.fun:4022/udp/239.3.1.130:8004",
-            "http://www.furymax.top:85/rtp/239.254.96.234:9484",
-            "http://www.furymax.top:85/rtp/239.69.1.12:9712",
             "http://www.lishaoping.com:8012/udp/239.3.1.130:8004",
             "http://www.zzlag.top:9087/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1",
             "http://yun.jinsome.com:8686/udp/239.3.1.130:8004",
@@ -1098,13 +675,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.173:8001",
             "http://joyznm.x3322.net:20000/udp/239.3.1.173:8001",
             "http://my.saopanda.top:18889/udp/239.3.1.173:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.173:8001",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.173:8001",
             "http://sweetown.fun:4000/udp/239.3.1.173:8001",
-            "http://tvbox6.icu/tv/migu.php?id=cctv5",
             "http://wuyanjiang.cn:8012/udp/239.3.1.173:8001",
             "http://wuzuo.fun:4022/udp/239.3.1.173:8001",
-            "http://www.furymax.top:85/rtp/239.69.1.123:10376",
             "http://www.lishaoping.com:8012/udp/239.3.1.173:8001",
             "http://yun.jinsome.com:8686/udp/239.3.1.173:8001"
         ]
@@ -1134,12 +707,8 @@
             "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0",
             "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202",
             "http://my.saopanda.top:18889/udp/239.3.1.174:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.174:8001",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.174:8001",
-            "http://tvbox6.icu/tv/migu.php?id=cctv6",
             "http://wouu.net:9977/udp/239.93.1.13:2226",
             "http://wuzuo.fun:4022/udp/239.3.1.174:8001",
-            "http://www.furymax.top:85/rtp/239.69.1.124:10382",
             "http://www.lishaoping.com:8012/udp/239.3.1.174:8001",
             "http://yun.jinsome.com:8686/udp/239.3.1.174:8001",
             "https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8"
@@ -1171,14 +740,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.61:8104",
             "http://joyznm.x3322.net:20000/udp/239.3.1.61:8104",
             "http://my.saopanda.top:18889/udp/239.3.1.61:8104",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.61:8104",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.61:8104",
             "http://sweetown.fun:4000/udp/239.3.1.61:8104",
-            "http://tvbox6.icu/tv/migu.php?id=cctv7",
             "http://wouu.net:9977/udp/239.93.1.67:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.61:8104",
             "http://wuzuo.fun:4022/udp/239.3.1.61:8104",
-            "http://www.furymax.top:85/rtp/239.69.1.103:10256",
             "http://www.lishaoping.com:8012/udp/239.3.1.61:8104",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.120:5140",
             "http://yun.jinsome.com:8686/udp/239.3.1.61:8104"
@@ -1207,13 +772,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.175:8001",
             "http://joyznm.x3322.net:20000/udp/239.3.1.175:8001",
             "http://my.saopanda.top:18889/udp/239.3.1.175:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.175:8001",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.175:8001",
             "http://sweetown.fun:4000/udp/239.3.1.175:8001",
             "http://wouu.net:9977/udp/239.93.42.39:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.175:8001",
             "http://wuzuo.fun:4022/udp/239.3.1.175:8001",
-            "http://www.furymax.top:85/rtp/239.69.1.125:10388",
             "http://www.lishaoping.com:8012/udp/239.3.1.175:8001",
             "http://yun.jinsome.com:8686/udp/239.3.1.175:8001"
         ]
@@ -1242,14 +804,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.62:8112",
             "http://joyznm.x3322.net:20000/udp/239.3.1.62:8112",
             "http://my.saopanda.top:18889/udp/239.3.1.62:8112",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.62:8112",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.62:8112",
             "http://sweetown.fun:4000/udp/239.3.1.62:8112",
-            "http://tvbox6.icu/tv/migu.php?id=cctv9",
             "http://wouu.net:9977/udp/239.93.1.24:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.62:8112",
             "http://wuzuo.fun:4022/udp/239.3.1.62:8112",
-            "http://www.furymax.top:85/rtp/239.69.1.104:10262",
             "http://www.lishaoping.com:8012/udp/239.3.1.62:8112",
             "http://yun.jinsome.com:8686/udp/239.3.1.62:8112"
         ]
@@ -1276,12 +834,9 @@
             "http://gen8.cc:5555/udp/239.3.1.63:8116",
             "http://joyznm.i234.me:20000/udp/239.3.1.63:8116",
             "http://my.saopanda.top:18889/udp/239.3.1.63:8116",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.63:8116",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.63:8116",
             "http://sweetown.fun:4000/udp/239.3.1.63:8116",
             "http://wouu.net:9977/udp/239.93.1.28:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.63:8116",
-            "http://www.furymax.top:85/rtp/239.69.1.105:10268",
             "http://www.lishaoping.com:8012/udp/239.3.1.63:8116",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.122:5140",
             "http://yun.jinsome.com:8686/udp/239.3.1.63:8116"
@@ -1313,13 +868,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.152:8120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.152:8120",
             "http://my.saopanda.top:18889/udp/239.3.1.152:8120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.152:8120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.152:8120",
             "http://sweetown.fun:4000/udp/239.3.1.152:8120",
             "http://wouu.net:9977/udp/239.93.0.102:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.152:8120",
             "http://wuzuo.fun:4022/udp/239.3.1.152:8120",
-            "http://www.furymax.top:85/rtp/239.69.1.154:10560",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.11:5140",
             "http://yun.jinsome.com:8686/udp/239.3.1.152:8120"
         ]
@@ -1347,12 +899,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.64:8124",
             "http://joyznm.x3322.net:20000/udp/239.3.1.64:8124",
             "http://my.saopanda.top:18889/udp/239.3.1.64:8124",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.64:8124",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.64:8124",
             "http://sweetown.fun:4000/udp/239.3.1.64:8124",
             "http://wuyanjiang.cn:8012/udp/239.3.1.64:8124",
             "http://wuzuo.fun:4022/udp/239.3.1.64:8124",
-            "http://www.furymax.top:85/rtp/239.69.1.106:10274",
             "http://www.lishaoping.com:8012/udp/239.3.1.64:8124",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.123:5140",
             "http://yun.jinsome.com:8686/udp/239.3.1.64:8124"
@@ -1382,13 +931,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.124:8128",
             "http://joyznm.x3322.net:20000/udp/239.3.1.124:8128",
             "http://my.saopanda.top:18889/udp/239.3.1.124:8128",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.124:8128",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.124:8128",
             "http://sweetown.fun:4000/udp/239.3.1.124:8128",
             "http://wouu.net:9977/udp/239.93.0.66:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.124:8128",
             "http://wuzuo.fun:4022/udp/239.3.1.124:8128",
-            "http://www.furymax.top:85/rtp/239.254.96.161:9040",
             "http://www.lishaoping.com:8012/udp/239.3.1.124:8128",
             "http://yun.jinsome.com:8686/udp/239.3.1.124:8128"
         ]
@@ -1416,12 +962,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.65:8132",
             "http://joyznm.x3322.net:20000/udp/239.3.1.65:8132",
             "http://my.saopanda.top:18889/udp/239.3.1.65:8132",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.65:8132",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.65:8132",
             "http://sweetown.fun:4000/udp/239.3.1.65:8132",
             "http://wuyanjiang.cn:8012/udp/239.3.1.65:8132",
             "http://wuzuo.fun:4022/udp/239.3.1.65:8132",
-            "http://www.furymax.top:85/rtp/239.69.1.107:10280",
             "http://www.lishaoping.com:8012/udp/239.3.1.65:8132",
             "http://yun.jinsome.com:8686/udp/239.3.1.65:8132"
         ]
@@ -1447,11 +990,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.153:8136",
             "http://joyznm.x3322.net:20000/udp/239.3.1.153:8136",
             "http://my.saopanda.top:18889/udp/239.3.1.153:8136",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.153:8136",
             "http://sweetown.fun:4000/udp/239.3.1.153:8136",
             "http://wuyanjiang.cn:8012/udp/239.3.1.153:8136",
             "http://wuzuo.fun:4022/udp/239.3.1.153:8136",
-            "http://www.furymax.top:85/rtp/239.69.1.155:10566",
             "http://www.lishaoping.com:8012/udp/239.3.1.153:8136",
             "http://yun.jinsome.com:8686/udp/239.3.1.153:8136"
         ]
@@ -1468,8 +1009,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.184:8001",
             "http://joyznm.x3322.net:20000/udp/239.3.1.184:8001",
             "http://my.saopanda.top:18889/udp/239.3.1.184:8001",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.184:8001",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.184:8001",
             "http://sweetown.fun:4000/udp/239.3.1.184:8001",
             "http://wuyanjiang.cn:8012/udp/239.3.1.184:8001",
             "http://wuzuo.fun:4022/udp/239.3.1.184:8001",
@@ -1482,9 +1021,6 @@
             "http://221.221.153.193:8888/rtp/239.3.1.184:8001",
             "http://iptvcyp.top:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://www.erbao1981.top:8188/udp/239.76.246.98:1234",
-            "http://www.furymax.top:85/rtp/239.69.1.247:11124",
-            "http://www.furymax.top:85/rtp/239.69.1.13:9718",
-            "http://www.furymax.top:85/rtp/239.69.1.249:11136"
         ]
     },
     {
@@ -1506,14 +1042,11 @@
             "http://iptvcyp.top:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://joyznm.x3322.net:20000/udp/239.3.1.151:8144",
             "http://my.saopanda.top:18889/udp/239.3.1.151:8144",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.151:8144",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.151:8144",
             "http://sweetown.fun:4000/udp/239.3.1.151:8144",
             "http://wuyanjiang.cn:8012/udp/239.3.1.151:8144",
             "http://wuzuo.fun:4022/udp/239.3.1.151:8144",
             "http://www.abelstation.cn:4000/udp/239.3.1.151:8144",
             "http://www.erbao1981.top:8188/udp/239.76.245.239:1234",
-            "http://www.furymax.top:85/rtp/239.69.1.152:10548",
             "http://www.lishaoping.com:8012/udp/239.3.1.151:8144",
             "http://www.zzlag.top:9087/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1",
             "http://yun.jinsome.com:8686/udp/239.3.1.151:8144"
@@ -1531,8 +1064,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.213:4220",
             "http://joyznm.x3322.net:20000/udp/239.3.1.213:4220",
             "http://my.saopanda.top:18889/udp/239.3.1.213:4220",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.213:4220",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.213:4220",
             "http://sweetown.fun:4000/udp/239.3.1.213:4220",
             "http://wuyanjiang.cn:8012/udp/239.3.1.213:4220",
             "http://wuzuo.fun:4022/udp/239.3.1.213:4220",
@@ -1552,7 +1083,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.214:4220",
             "http://joyznm.x3322.net:20000/udp/239.3.1.214:4220",
             "http://my.saopanda.top:18889/udp/239.3.1.214:4220",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.214:4220",
             "http://sweetown.fun:4000/udp/239.3.1.214:4220",
             "http://wuyanjiang.cn:8012/udp/239.3.1.214:4220",
             "http://wuzuo.fun:4022/udp/239.3.1.214:4220",
@@ -1577,7 +1107,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://www.furymax.top:85/rtp/239.69.1.91:10186"
         ]
     },
     {
@@ -1586,7 +1115,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://www.furymax.top:85/rtp/239.69.1.83:10138"
         ]
     },
     {
@@ -1783,8 +1311,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.155:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.155:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.155:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.155:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.155:4120",
             "http://sweetown.fun:4000/udp/239.3.1.155:4120",
             "http://wouu.net:9977/udp/239.93.42.58:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.155:4120",
@@ -1820,12 +1346,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.156:8148",
             "http://joyznm.x3322.net:20000/udp/239.3.1.156:8148",
             "http://my.saopanda.top:18889/udp/239.3.1.156:8148",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.156:8148",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.156:8148",
             "http://wuyanjiang.cn:8012/udp/239.3.1.156:8148",
             "http://wuzuo.fun:4022/udp/239.3.1.156:8148",
             "http://www.abelstation.cn:4000/udp/239.3.1.156:8148",
-            "http://www.furymax.top:85/rtp/239.69.1.108:10286",
             "http://www.lishaoping.com:8012/udp/239.3.1.156:8148",
             "https://www.yangshipin.cn/tv/home?pid=600002484"
         ]
@@ -1853,12 +1376,8 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.136:8032",
             "http://joyznm.x3322.net:20000/udp/239.3.1.136:8032",
             "http://my.saopanda.top:18889/udp/239.3.1.136:8032",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.136:8032",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.136:8032",
             "http://wuyanjiang.cn:8012/udp/239.3.1.136:8032",
             "http://wuzuo.fun:4022/udp/239.3.1.136:8032",
-            "http://www.furymax.top:85/rtp/239.254.96.142:8926",
-            "http://www.furymax.top:85/rtp/239.69.1.173:10674",
             "http://www.lishaoping.com:8012/udp/239.3.1.136:8032",
             "https://www.yangshipin.cn/tv/home?pid=600002483"
         ]
@@ -1884,8 +1403,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.26:8108",
             "http://joyznm.x3322.net:20000/udp/239.3.1.26:8108",
             "http://my.saopanda.top:18889/udp/239.3.1.26:8108",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.26:8108",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.26:8108",
             "http://wuyanjiang.cn:8012/udp/239.3.1.26:8108",
             "http://wuzuo.fun:4022/udp/239.3.1.26:8108",
             "http://www.lishaoping.com:8012/udp/239.3.1.26:8108",
@@ -1908,8 +1425,6 @@
             "http://joyznm.x3322.net:20000/udp/239.3.1.144:4120",
             "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0",
             "http://my.saopanda.top:18889/udp/239.3.1.144:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.144:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.144:4120",
             "http://wouu.net:9977/udp/239.93.42.43:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.144:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.144:4120",
@@ -1933,8 +1448,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.43:8176",
             "http://joyznm.x3322.net:20000/udp/239.3.1.43:8176",
             "http://my.saopanda.top:18889/udp/239.3.1.43:8176",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.43:8176",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.43:8176",
             "http://sweetown.fun:4000/udp/239.3.1.43:8176",
             "http://wuyanjiang.cn:8012/udp/239.3.1.43:8176",
             "http://wuzuo.fun:4022/udp/239.3.1.43:8176",
@@ -1959,8 +1472,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.143:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.143:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.143:4120",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.143:4120",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.143:4120",
             "http://sweetown.fun:4000/udp/239.3.1.143:4120",
             "http://wouu.net:9977/udp/239.93.42.57:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.143:4120",
@@ -1997,14 +1508,11 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.240:8172",
             "http://joyznm.x3322.net:20000/udp/239.3.1.240:8172",
             "http://my.saopanda.top:18889/udp/239.3.1.240:8172",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.240:8172",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.240:8172",
             "http://sweetown.fun:4000/udp/239.3.1.240:8172",
             "http://wouu.net:9977/udp/239.93.0.248:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.240:8172",
             "http://wuzuo.fun:4022/udp/239.3.1.240:8172",
             "http://www.abelstation.cn:4000/udp/239.3.1.240:8172",
-            "http://www.furymax.top:85/rtp/239.69.1.212:10914",
             "http://www.lishaoping.com:8012/udp/239.3.1.240:8172",
             "http://yun.jinsome.com:8686/udp/239.3.1.240:8172"
         ]
@@ -2034,15 +1542,12 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.29:8288",
             "http://joyznm.x3322.net:20000/udp/239.3.1.29:8288",
             "http://my.saopanda.top:18889/udp/239.3.1.29:8288",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.29:8288",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.29:8288",
             "http://sweetown.fun:4000/udp/239.3.1.29:8288",
             "http://wouu.net:9977/udp/239.93.0.169:5140",
             "http://wouu.net:9977/udp/239.93.0.20:1235",
             "http://wuyanjiang.cn:8012/udp/239.3.1.29:8288",
             "http://wuzuo.fun:4022/udp/239.3.1.29:8288",
             "http://www.abelstation.cn:4000/udp/239.3.1.29:8288",
-            "http://www.furymax.top:85/rtp/239.69.1.169:10650",
             "http://www.lishaoping.com:8012/udp/239.3.1.29:8288",
             "http://yun.jinsome.com:8686/udp/239.3.1.29:8288",
             "https://www.yangshipin.cn/tv/home?pid=600002516"
@@ -2072,14 +1577,11 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.141:1234",
             "http://joyznm.x3322.net:20000/udp/239.3.1.141:1234",
             "http://my.saopanda.top:18889/udp/239.3.1.141:1234",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.141:1234",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.141:1234",
             "http://sweetown.fun:4000/udp/239.3.1.141:1234",
             "http://wouu.net:9977/udp/239.93.0.167:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.141:1234",
             "http://wuzuo.fun:4022/udp/239.3.1.141:1234",
             "http://www.abelstation.cn:4000/udp/239.3.1.141:1234",
-            "http://www.furymax.top:85/rtp/239.69.1.68:10048",
             "http://www.lishaoping.com:8012/udp/239.3.1.141:1234"
         ]
     },
@@ -2102,8 +1604,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.46:8124",
             "http://joyznm.x3322.net:20000/udp/239.3.1.46:8124",
             "http://my.saopanda.top:18889/udp/239.3.1.46:8124",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.46:8124",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.46:8124",
             "http://sweetown.fun:4000/udp/239.3.1.46:8124",
             "http://wouu.net:9977/udp/239.93.0.247:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.46:8124",
@@ -2137,14 +1637,11 @@
             "http://e1.woc.iiiya.cn:8888/rtp/239.61.2.248:9476",
             "http://gen8.cc:5555/udp/239.3.1.211:8064",
             "http://my.saopanda.top:18889/udp/239.3.1.211:8064",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.211:8064",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.211:8064",
             "http://sweetown.fun:4000/udp/239.3.1.211:8064",
             "http://wouu.net:9977/udp/239.93.1.106:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.211:8064",
             "http://wuzuo.fun:4022/udp/239.3.1.211:8064",
             "http://www.abelstation.cn:4000/udp/239.3.1.211:8064",
-            "http://www.furymax.top:85/rtp/239.69.1.70:10060",
             "http://www.lishaoping.com:8012/udp/239.3.1.211:8064",
             "http://yun.jinsome.com:8686/udp/239.3.1.211:8064",
             "https://www.yangshipin.cn/tv/home?pid=600002532"
@@ -2174,8 +1671,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.209:8052",
             "http://joyznm.x3322.net:20000/udp/239.3.1.209:8052",
             "http://my.saopanda.top:18889/udp/239.3.1.209:8052",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.209:8052",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.209:8052",
             "http://sweetown.fun:4000/udp/239.3.1.209:8052",
             "http://wuyanjiang.cn:8012/udp/239.3.1.209:8052",
             "http://wuzuo.fun:4022/udp/239.3.1.209:8052",
@@ -2208,8 +1703,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.42:8172",
             "http://joyznm.x3322.net:20000/udp/239.3.1.42:8172",
             "http://my.saopanda.top:18889/udp/239.3.1.42:8172",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.42:8172",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.42:8172",
             "http://sweetown.fun:4000/udp/239.3.1.42:8172",
             "http://wouu.net:9977/udp/239.93.0.6:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.42:8172",
@@ -2242,14 +1735,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.142:8048",
             "http://joyznm.x3322.net:20000/udp/239.3.1.142:8048",
             "http://my.saopanda.top:18889/udp/239.3.1.142:8048",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.142:8048",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.142:8048",
             "http://sweetown.fun:4000/udp/239.3.1.142:8048",
-            "http://tvbox6.icu/tv/migu.php?id=gdws",
             "http://wuyanjiang.cn:8012/udp/239.3.1.142:8048",
             "http://wuzuo.fun:4022/udp/239.3.1.142:8048",
             "http://www.abelstation.cn:4000/udp/239.3.1.142:8048",
-            "http://www.furymax.top:85/rtp/239.254.96.140:8914",
             "http://www.lishaoping.com:8012/udp/239.3.1.142:8048",
             "http://yun.jinsome.com:8686/udp/239.3.1.142:8048",
             "https://www.yangshipin.cn/tv/home?pid=600002485"
@@ -2281,15 +1770,12 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.39:8300",
             "http://joyznm.x3322.net:20000/udp/239.3.1.39:8300",
             "http://my.saopanda.top:18889/udp/239.3.1.39:8300",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.39:8300",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.39:8300",
             "http://sweetown.fun:4000/udp/239.3.1.39:8300",
             "http://wouu.net:9977/udp/239.93.42.46:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.39:8300",
             "http://wuzuo.fun:4022/udp/239.3.1.39:8300",
             "http://www.abelstation.cn:4000/udp/239.3.1.39:8300",
             "http://www.dsmcloud.top:8888/udp/239.81.0.107:4056",
-            "http://www.furymax.top:85/rtp/239.69.1.191:10788",
             "http://www.lishaoping.com:8012/udp/239.3.1.39:8300",
             "http://yun.jinsome.com:8686/udp/239.3.1.39:8300",
             "https://www.yangshipin.cn/tv/home?pid=600002509"
@@ -2331,8 +1817,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.48:8160",
             "http://joyznm.x3322.net:20000/udp/239.3.1.48:8160",
             "http://my.saopanda.top:18889/udp/239.3.1.48:8160",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.48:8160",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.48:8160",
             "http://sweetown.fun:4000/udp/239.3.1.48:8160",
             "http://wouu.net:9977/udp/239.93.0.194:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.48:8160",
@@ -2366,15 +1850,11 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.135:8028",
             "http://joyznm.x3322.net:20000/udp/239.3.1.135:8028",
             "http://my.saopanda.top:18889/udp/239.3.1.135:8028",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.135:8028",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.135:8028",
             "http://sweetown.fun:4000/udp/239.3.1.135:8028",
             "http://wouu.net:9977/udp/239.93.0.89:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.135:8028",
             "http://wuzuo.fun:4022/udp/239.3.1.135:8028",
             "http://www.abelstation.cn:4000/udp/239.3.1.135:8028",
-            "http://www.furymax.top:85/rtp/239.254.96.144:8938",
-            "http://www.furymax.top:85/rtp/239.69.1.174:10680",
             "http://www.lishaoping.com:8012/udp/239.3.1.135:8028",
             "http://yun.jinsome.com:8686/udp/239.3.1.135:8028",
             "https://www.yangshipin.cn/tv/home?pid=600002521"
@@ -2400,14 +1880,11 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.123:8164",
             "http://joyznm.x3322.net:20000/udp/239.3.1.123:8164",
             "http://my.saopanda.top:18889/udp/239.3.1.123:8164",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.123:8164",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.123:8164",
             "http://sweetown.fun:4000/udp/239.3.1.123:8164",
             "http://wouu.net:9977/udp/239.93.0.134:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.123:8164",
             "http://wuzuo.fun:4022/udp/239.3.1.123:8164",
             "http://www.abelstation.cn:4000/udp/239.3.1.123:8164",
-            "http://www.furymax.top:85/rtp/239.69.1.126:10394",
             "http://www.lishaoping.com:8012/udp/239.3.1.123:8164",
             "http://yun.jinsome.com:8686/udp/239.3.1.123:8164",
             "https://www.yangshipin.cn/tv/home?pid=600002503"
@@ -2435,15 +1912,11 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.148:8072",
             "http://joyznm.x3322.net:20000/udp/239.3.1.148:8072",
             "http://my.saopanda.top:18889/udp/239.3.1.148:8072",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.148:8072",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.148:8072",
             "http://sweetown.fun:4000/udp/239.3.1.148:8072",
             "http://wouu.net:9977/udp/239.93.0.132:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.148:8072",
             "http://wuzuo.fun:4022/udp/239.3.1.148:8072",
             "http://www.abelstation.cn:4000/udp/239.3.1.148:8072",
-            "http://www.furymax.top:85/rtp/239.254.96.113:9616",
-            "http://www.furymax.top:85/rtp/239.69.1.157:10578",
             "http://www.lishaoping.com:8012/udp/239.3.1.148:8072",
             "http://yun.jinsome.com:8686/udp/239.3.1.148:8072",
             "https://www.yangshipin.cn/tv/home?pid=600002493"
@@ -2475,14 +1948,11 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.27:8128",
             "http://joyznm.x3322.net:20000/udp/239.3.1.27:8128",
             "http://my.saopanda.top:18889/udp/239.3.1.27:8128",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.27:8128",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.27:8128",
             "http://sweetown.fun:4000/udp/239.3.1.27:8128",
             "http://wouu.net:9977/udp/239.93.42.45:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.27:8128",
             "http://wuzuo.fun:4022/udp/239.3.1.27:8128",
             "http://www.abelstation.cn:4000/udp/239.3.1.27:8128",
-            "http://www.furymax.top:85/rtp/239.69.1.168:10644",
             "http://www.lishaoping.com:8012/udp/239.3.1.27:8128",
             "http://yun.jinsome.com:8686/udp/239.3.1.27:8128",
             "https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8",
@@ -2512,14 +1982,11 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.137:8036",
             "http://joyznm.x3322.net:20000/udp/239.3.1.137:8036",
             "http://my.saopanda.top:18889/udp/239.3.1.137:8036",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.137:8036",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.137:8036",
             "http://sweetown.fun:4000/udp/239.3.1.137:8036",
             "http://wouu.net:9977/udp/239.93.0.124:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.137:8036",
             "http://wuzuo.fun:4022/udp/239.3.1.137:8036",
             "http://www.abelstation.cn:4000/udp/239.3.1.137:8036",
-            "http://www.furymax.top:85/rtp/239.254.96.143:8932",
             "http://www.lishaoping.com:8012/udp/239.3.1.137:8036",
             "http://yun.jinsome.com:8686/udp/239.3.1.137:8036",
             "https://www.yangshipin.cn/tv/home?pid=600002520"
@@ -2546,13 +2013,10 @@
             "http://e1.woc.iiiya.cn:8888/rtp/239.61.3.46:9794",
             "http://gen8.cc:5555/udp/239.3.1.134:8020",
             "http://my.saopanda.top:18889/udp/239.3.1.134:8020",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.134:8020",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.134:8020",
             "http://sweetown.fun:4000/udp/239.3.1.134:8020",
             "http://wuyanjiang.cn:8012/udp/239.3.1.134:8020",
             "http://wuzuo.fun:4022/udp/239.3.1.134:8020",
             "http://www.abelstation.cn:4000/udp/239.3.1.134:8020",
-            "http://www.furymax.top:85/rtp/239.254.96.137:8896",
             "http://www.lishaoping.com:8012/udp/239.3.1.134:8020",
             "http://yun.jinsome.com:8686/udp/239.3.1.134:8020",
             "https://www.yangshipin.cn/tv/home?pid=600002481"
@@ -2582,15 +2046,12 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.138:8044",
             "http://joyznm.x3322.net:20000/udp/239.3.1.138:8044",
             "http://my.saopanda.top:18889/udp/239.3.1.138:8044",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.138:8044",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.138:8044",
             "http://sweetown.fun:4000/udp/239.3.1.138:8044",
             "http://wouu.net:9977/udp/239.93.0.250:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.138:8044",
             "https://www.yangshipin.cn/tv/home?pid=600002508",
             "http://wuzuo.fun:4022/udp/239.3.1.138:8044",
             "http://www.abelstation.cn:4000/udp/239.3.1.138:8044",
-            "http://www.furymax.top:85/rtp/239.254.96.115:8664",
             "http://www.lishaoping.com:8012/udp/239.3.1.138:8044",
             "http://yun.jinsome.com:8686/udp/239.3.1.138:8044"
         ]
@@ -2616,13 +2077,11 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.132:8012",
             "http://joyznm.x3322.net:20000/udp/239.3.1.132:8012",
             "http://my.saopanda.top:18889/udp/239.3.1.132:8012",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.132:8012",
             "https://www.yangshipin.cn/tv/home?pid=600002475",
             "http://sweetown.fun:4000/udp/239.3.1.132:8012",
             "http://wouu.net:9977/udp/239.93.0.88:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.132:8012",
             "http://wuzuo.fun:4022/udp/239.3.1.132:8012",
-            "http://www.furymax.top:85/rtp/239.254.96.139:8908",
             "http://www.lishaoping.com:8012/udp/239.3.1.132:8012",
             "http://yun.jinsome.com:8686/udp/239.3.1.132:8012"
         ]
@@ -2648,8 +2107,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.49:8188",
             "http://joyznm.x3322.net:20000/udp/239.3.1.49:8188",
             "http://my.saopanda.top:18889/udp/239.3.1.49:8188",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.49:8188",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.49:8188",
             "http://sweetown.fun:4000/udp/239.3.1.49:8188",
             "http://wuyanjiang.cn:8012/udp/239.3.1.49:8188",
             "http://wuzuo.fun:4022/udp/239.3.1.49:8188",
@@ -2675,9 +2132,7 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.47:8164",
             "http://joyznm.x3322.net:20000/udp/239.3.1.47:8164",
             "http://my.saopanda.top:18889/udp/239.3.1.47:8164",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.47:8164",
             "http://php.jdshipin.com/xztv.php?id=ws",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.47:8164",
             "http://sweetown.fun:4000/udp/239.3.1.47:8164",
             "http://wouu.net:9977/udp/239.93.0.175:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.47:8164",
@@ -2716,13 +2171,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.149:8076",
             "http://joyznm.x3322.net:20000/udp/239.3.1.149:8076",
             "http://my.saopanda.top:18889/udp/239.3.1.149:8076",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.149:8076",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.149:8076",
             "http://sweetown.fun:4000/udp/239.3.1.149:8076",
             "http://wuyanjiang.cn:8012/udp/239.3.1.149:8076",
             "http://wuzuo.fun:4022/udp/239.3.1.149:8076",
             "http://www.abelstation.cn:4000/udp/239.3.1.149:8076",
-            "http://www.furymax.top:85/rtp/239.69.1.150:10536",
             "http://www.lishaoping.com:8012/udp/239.3.1.149:8076",
             "https://www.yangshipin.cn/tv/home?pid=600002490"
         ]
@@ -2751,12 +2203,9 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.210:8056",
             "http://joyznm.x3322.net:20000/udp/239.3.1.210:8056",
             "http://my.saopanda.top:18889/udp/239.3.1.210:8056",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.210:8056",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.210:8056",
             "http://sweetown.fun:4000/udp/239.3.1.210:8056",
             "http://wuyanjiang.cn:8012/udp/239.3.1.210:8056",
             "http://wuzuo.fun:4022/udp/239.3.1.210:8056",
-            "http://www.furymax.top:85/rtp/239.69.1.71:10066",
             "http://www.lishaoping.com:8012/udp/239.3.1.210:8056",
             "http://yun.jinsome.com:8686/udp/239.3.1.210:8056",
             "https://www.yangshipin.cn/tv/home?pid=600002505"
@@ -2785,13 +2234,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.122:8160",
             "http://joyznm.x3322.net:20000/udp/239.3.1.122:8160",
             "http://my.saopanda.top:18889/udp/239.3.1.122:8160",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.122:8160",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.122:8160",
             "http://wouu.net:9977/udp/239.93.1.107:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.122:8160",
             "http://wuzuo.fun:4022/udp/239.3.1.122:8160",
             "http://www.abelstation.cn:4000/udp/239.3.1.122:8160",
-            "http://www.furymax.top:85/rtp/239.69.1.149:10530",
             "http://www.lishaoping.com:8012/udp/239.3.1.122:8160",
             "http://yun.jinsome.com:8686/udp/239.3.1.122:8160",
             "https://www.yangshipin.cn/tv/home?pid=600002531"
@@ -2823,10 +2269,7 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.41:8140",
             "http://joyznm.x3322.net:20000/udp/239.3.1.41:8140",
             "http://my.saopanda.top:18889/udp/239.3.1.41:8140",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.41:8140",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.41:8140",
             "http://sweetown.fun:4000/udp/239.3.1.41:8140",
-            "http://tvbox6.icu/tv/migu.php?id=sxws",
             "http://wuyanjiang.cn:8012/udp/239.3.1.41:8140",
             "http://wuzuo.fun:4022/udp/239.3.1.41:8140",
             "http://www.abelstation.cn:4000/udp/239.3.1.41:8140",
@@ -2856,8 +2299,6 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.44:8184",
             "http://joyznm.x3322.net:20000/udp/239.3.1.44:8184",
             "http://my.saopanda.top:18889/udp/239.3.1.44:8184",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.44:8184",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.44:8184",
             "http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=8b2f07cc1707359845$延边广电",
             "http://sweetown.fun:4000/udp/239.3.1.44:8184",
             "http://wouu.net:9977/udp/239.93.0.192:5140",
@@ -2889,13 +2330,10 @@
             "http://joyznm.i234.me:20000/udp/239.3.1.133:8016",
             "http://joyznm.x3322.net:20000/udp/239.3.1.133:8016",
             "http://my.saopanda.top:18889/udp/239.3.1.133:8016",
-            "http://nas.audreyli.cn:4022/udp/239.3.1.133:8016",
-            "http://slyct.eatuo.com:8012/udp/239.3.1.133:8016",
             "http://sweetown.fun:4000/udp/239.3.1.133:8016",
             "http://wuyanjiang.cn:8012/udp/239.3.1.133:8016",
             "http://wuzuo.fun:4022/udp/239.3.1.133:8016",
             "http://www.abelstation.cn:4000/udp/239.3.1.133:8016",
-            "http://www.furymax.top:85/rtp/239.254.96.138:8902",
             "http://www.lishaoping.com:8012/udp/239.3.1.133:8016",
             "https://www.yangshipin.cn/tv/home?pid=600002498"
         ]
