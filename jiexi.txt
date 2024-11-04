@@ -31,7 +31,7 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D"
+            "http://124.165.112.159:8084/rtp/226.0.2.94:8012"
         ]
     },
     {
@@ -40,7 +40,7 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D"
+            "http://124.165.112.159:8084/rtp/226.0.2.240:9820"
         ]
     },
     {
@@ -55,7 +55,7 @@
         "group": "数字付费",
         "logo": "",
         "name": "",
-        "uris": ["http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D"]
+        "uris": ["http://124.165.112.159:8084/rtp/226.0.2.93:8004"]
     },
     {
         "title": "JJ斗地主",
@@ -212,6 +212,7 @@
         "logo": "",
         "name": "",
         "uris": [
+            "http://114.243.104.126:8888/rtp/239.3.1.238:8001",
             "http://dsm.ats.ink:8012/udp/239.3.1.238:8001",
             "http://gen8.cc:5555/udp/239.3.1.238:8001",
             "http://joyznm.i234.me:20000/udp/239.3.1.238:8001",
@@ -228,6 +229,7 @@
         "logo": "",
         "name": "",
         "uris": [
+            "http://114.243.104.126:8888/rtp/239.3.1.95:8001",
             "http://dsm.ats.ink:8012/udp/239.3.1.95:8001",
             "http://gen8.cc:5555/udp/239.3.1.95:8001",
             "http://joyznm.i234.me:20000/udp/239.3.1.95:8001",
@@ -245,6 +247,7 @@
         "logo": "",
         "name": "",
         "uris": [
+            "http://114.243.104.126:8888/rtp/239.3.1.100:8001",
             "http://dsm.ats.ink:8012/udp/239.3.1.100:8001",
             "http://gen8.cc:5555/udp/239.3.1.100:8001",
             "http://joyznm.i234.me:20000/udp/239.3.1.100:8001",
@@ -261,6 +264,7 @@
         "logo": "",
         "name": "",
         "uris": [
+            "http://114.243.104.126:8888/rtp/239.3.1.250:8001",
             "http://gen8.cc:5555/udp/239.3.1.250:8001",
             "http://joyznm.i234.me:20000/udp/239.3.1.250:8001",
             "http://joyznm.x3322.net:20000/udp/239.3.1.250:8001",
@@ -369,7 +373,7 @@
     {
         "group": "数字付费",
         "logo": "",
-        "name": "",
+        "name": "湖南电影",
         "title": "湖南电影",
         "uris": [
             "https://live.mgtv.com/?channelId=221"
@@ -378,7 +382,7 @@
     {
         "group": "数字付费",
         "logo": "",
-        "name": "",
+        "name": "湖南电视剧",
         "title": "湖南电视剧",
         "uris": [
             "https://live.mgtv.com/?channelId=484"
@@ -387,18 +391,20 @@
     {
         "group": "数字付费",
         "logo": "",
-        "name": "",
+        "name": "金鹰卡通",
         "title": "金鹰卡通",
         "uris": [
-            "https://live.mgtv.com/?channelId=287"
+            "https://live.mgtv.com/?channelId=287",
+            "http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8",
+            "http://dsm.ats.ink:8012/udp/239.3.1.51:9252",
+            "http://gen8.cc:5555/udp/239.3.1.51:9252",
+            "http://ikuai.zlsip.top:4022/udp/239.3.1.51:9252",
+            "http://joyznm.i234.me:20000/udp/239.3.1.51:9252",
+            "http://joyznm.x3322.net:20000/udp/239.3.1.51:9252",
+            "http://my.saopanda.top:18889/udp/239.3.1.51:9252",
+            "http://wuyanjiang.cn:8012/udp/239.3.1.51:9252",
+            "http://www.abelstation.cn:4000/udp/239.3.1.51:9252"
         ]
-    },
-    {
-        "title": "BRTV少儿HD",
-        "logo": "",
-        "name": "",
-        "group": "数字付费",
-        "uris": []
     },
     {
         "title": "内蒙古少儿",
@@ -432,6 +438,7 @@
         "logo": "",
         "name": "",
         "uris": [
+            "http://114.243.104.126:8888/rtp/239.3.1.189:8000",
             "http://dsm.ats.ink:8012/udp/239.3.1.189:8000",
             "http://joyznm.i234.me:20000/udp/239.3.1.189:8000",
             "http://joyznm.x3322.net:20000/udp/239.3.1.189:8000",
@@ -487,28 +494,15 @@
         ]
     },
     {
-        "title": "金鹰卡通",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.51:9252",
-            "http://gen8.cc:5555/udp/239.3.1.51:9252",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.51:9252",
-            "http://joyznm.i234.me:20000/udp/239.3.1.51:9252",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.51:9252",
-            "http://my.saopanda.top:18889/udp/239.3.1.51:9252",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.51:9252",
-            "http://www.abelstation.cn:4000/udp/239.3.1.51:9252"
-        ]
-    },
-    {
         "title": "CCTV-1 综合",
         "logo": "https://live.fanmingming.com/tv/CCTV1.png",
         "name": "CCTV1",
         "group": "央视",
         "uris": [
+            "http://124.165.112.159:8084/rtp/226.0.2.16:8040",
+            "http://124.165.112.159:8084/rtp/226.0.2.18:8056",
+            "http://124.165.112.159:8084/rtp/226.0.2.153:9136",
+            "http://175.150.152.34:9005/rtp/232.0.0.27:1234",
             "http://114.243.104.126:8888/rtp/239.3.1.129:8008",
             "http://180.172.21.168:4022/udp/239.45.3.145:5140",
             "https://www.xttv.com.cn/index/channel/index/id/155.html",
@@ -531,8 +525,6 @@
         "logo": "https://live.fanmingming.com/tv/CCTV2.png",
         "name": "CCTV2",
         "uris": [
-            "http://175.150.152.34:9005/rtp/232.0.0.164:1234",
-            "http://175.150.152.34:9005/rtp/232.0.0.27:1234",
             "http://114.243.104.126:8888/rtp/239.3.1.60:8084",
             "https://tv.cctv.com/live/cctv2",
             "https://www.yangshipin.cn/tv/home?pid=600001800",
@@ -642,6 +634,10 @@
         "logo": "",
         "name": "",
         "uris": [
+            "http://114.243.104.126:8888/rtp/239.3.1.174:8001",
+            "http://124.165.112.159:8084/rtp/226.0.2.23:8096",
+            "http://124.165.112.159:8084/rtp/226.0.2.210:9592",
+            "http://175.150.152.34:9005/rtp/232.0.0.172:1234",
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8",
             "https://tv.cctv.com/live/cctv6",
             "https://www.yangshipin.cn/tv/home?pid=600108442",
@@ -735,6 +731,10 @@
         "logo": "",
         "name": "",
         "uris": [
+            "http://124.165.112.159:8084/rtp/226.0.2.27:8128",
+            "http://124.165.112.159:8084/rtp/226.0.2.162:9208",
+            "http://114.243.104.126:8888/rtp/239.3.1.63:8116",
+            "http://175.150.152.34:9005/rtp/232.0.0.138:1234",
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8",
             "https://tv.cctv.com/live/cctv10",
             "https://www.yangshipin.cn/tv/home?pid=600001805",
@@ -1916,12 +1916,30 @@
         ]
     },
     {
+        "title": "辽宁体育",
+        "logo": "",
+        "name": "辽宁体育",
+        "group": "辽宁",
+        "uris": [
+            "http://175.150.152.34:9005/rtp/232.0.0.164:1234"
+        ]
+    },
+    {
+        "title": "辽宁都市",
+        "logo": "",
+        "name": "辽宁都市",
+        "group": "辽宁",
+        "uris": [
+            "http://175.150.152.34:9005/rtp/232.0.0.154:1234"
+        ]
+    },
+    {
         "title": "CCTV-1 综合",
         "logo": "https://live.fanmingming.com/tv/CCTV1.png",
         "name": "CCTV1",
         "group": "IPV6",
         "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8",
+            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8"
         ]
     },
     {
@@ -1930,7 +1948,7 @@
         "name": "CCTV2",
         "group": "IPV6",
         "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8",
+            "http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8"
         ]
     },
     {
@@ -1939,7 +1957,7 @@
         "name": "CCTV3",
         "group": "IPV6",
         "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8",
+            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8"
         ]
     },
     {
@@ -1948,7 +1966,7 @@
         "name": "CCTV5",
         "group": "IPV6",
         "uris": [
-            "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226146/index.m3u8",
+            "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226146/index.m3u8"
         ]
     }
 ]
