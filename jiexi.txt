@@ -28,8 +28,8 @@
     {
         "title": "CHC动作电影",
         "group": "数字付费",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",
+        "name": "CHC动作电影",
         "uris": [
             "http://124.165.112.159:8084/rtp/226.0.2.94:8012"
         ]
@@ -37,8 +37,8 @@
     {
         "title": "CHC家庭影院",
         "group": "数字付费",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",
+        "name": "CHC家庭影院",
         "uris": [
             "http://124.165.112.159:8084/rtp/226.0.2.240:9820"
         ]
@@ -46,15 +46,15 @@
     {
         "title": "CHC影迷电影",
         "group": "数字付费",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",
+        "name": "CHC影迷电影",
         "uris": []
     },
     {
         "title": "CHC高清电影",
         "group": "数字付费",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png",
+        "name": "CHC高清电影",
         "uris": ["http://124.165.112.159:8084/rtp/226.0.2.93:8004"]
     },
     {
@@ -64,15 +64,6 @@
         "name": "",
         "uris": [
             "http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2"
-        ]
-    },
-    {
-        "title": "体育休闲",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7EmLWY-QzDYXsJkNAKn1-dovWeB79V2zVBN-rY4mYJto4m9yeQDOdwgEuNxJAYqysGGQ9O-6YRGQ7HwCypA-Dp8oUoczUh-bqb1BhGngFvRaI%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240730213323%2C162944%2CEND&GuardEncType=2"
         ]
     },
     {
@@ -433,11 +424,12 @@
         ]
     },
     {
-        "title": "卡酷动画",
+        "title": "卡酷少儿",
         "group": "数字付费",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",
+        "name": "卡酷少儿",
         "uris": [
+            "https://www.brtn.cn/btv/btvsy_index",
             "http://114.243.104.126:8888/rtp/239.3.1.189:8000",
             "http://dsm.ats.ink:8012/udp/239.3.1.189:8000",
             "http://joyznm.i234.me:20000/udp/239.3.1.189:8000",
@@ -487,8 +479,8 @@
     {
         "title": "浙江少儿",
         "group": "数字付费",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png",
+        "name": "浙江少儿",
         "uris": [
             "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
         ]
@@ -499,10 +491,8 @@
         "name": "CCTV1",
         "group": "央视",
         "uris": [
-            "http://124.165.112.159:8084/rtp/226.0.2.16:8040",
             "http://124.165.112.159:8084/rtp/226.0.2.18:8056",
             "http://124.165.112.159:8084/rtp/226.0.2.153:9136",
-            "http://175.150.152.34:9005/rtp/232.0.0.27:1234",
             "http://114.243.104.126:8888/rtp/239.3.1.129:8008",
             "http://180.172.21.168:4022/udp/239.45.3.145:5140",
             "https://www.xttv.com.cn/index/channel/index/id/155.html",
@@ -544,8 +534,8 @@
     {
         "title": "CCTV-3 综艺",
         "group": "央视",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/CCTV3.png",
+        "name": "CCTV3",
         "uris": [
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8",
             "https://tv.cctv.com/live/cctv3",
@@ -1935,7 +1925,7 @@
     },
     {
         "title": "北京卫视",
-        "logo": "",
+        "logo": "https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",
         "name": "北京卫视",
         "group": "北京",
         "uris": [
@@ -1984,7 +1974,9 @@
         "name": "BRTV体育休闲",
         "group": "北京",
         "uris": [
-            "https://www.brtn.cn/btv/btvsy_index"
+            "https://www.brtn.cn/btv/btvsy_index",
+            "http://114.243.104.126:8888/rtp/239.3.1.243:8000",
+            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7EmLWY-QzDYXsJkNAKn1-dovWeB79V2zVBN-rY4mYJto4m9yeQDOdwgEuNxJAYqysGGQ9O-6YRGQ7HwCypA-Dp8oUoczUh-bqb1BhGngFvRaI%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240730213323%2C162944%2CEND&GuardEncType=2"
         ]
     },
     {
@@ -2011,7 +2003,16 @@
         "name": "卡酷少儿",
         "group": "北京",
         "uris": [
-            "https://www.brtn.cn/btv/btvsy_index"
+            "https://www.brtn.cn/btv/btvsy_index",
+            "http://114.243.104.126:8888/rtp/239.3.1.189:8000",
+            "http://dsm.ats.ink:8012/udp/239.3.1.189:8000",
+            "http://joyznm.i234.me:20000/udp/239.3.1.189:8000",
+            "http://joyznm.x3322.net:20000/udp/239.3.1.189:8000",
+            "http://my.saopanda.top:18889/udp/239.3.1.189:8000",
+            "http://sweetown.fun:4000/udp/239.3.1.189:8000",
+            "http://wuyanjiang.cn:8012/udp/239.3.1.189:8000",
+            "http://wuzuo.fun:4022/udp/239.3.1.189:8000",
+            "http://www.abelstation.cn:4000/udp/239.3.1.189:8000"
         ]
     },
     {
