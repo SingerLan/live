@@ -1934,9 +1934,81 @@
         ]
     },
     {
+        "title": "北京卫视",
+        "logo": "",
+        "name": "北京卫视",
+        "group": "北京",
+        "uris": [
+            "https://www.brtn.cn/btv/btvsy_index"
+        ]
+    },
+    {
         "title": "BRTV文艺",
         "logo": "",
         "name": "BRTV文艺",
+        "group": "北京",
+        "uris": [
+            "https://www.brtn.cn/btv/btvsy_index"
+        ]
+    },
+    {
+        "title": "BRTV纪实科教",
+        "logo": "",
+        "name": "BRTV纪实科教",
+        "group": "北京",
+        "uris": [
+            "https://www.brtn.cn/btv/btvsy_index"
+        ]
+    },
+    {
+        "title": "BRTV影视",
+        "logo": "",
+        "name": "BRTV影视",
+        "group": "北京",
+        "uris": [
+            "https://www.brtn.cn/btv/btvsy_index"
+        ]
+    },
+    {
+        "title": "BRTV财经",
+        "logo": "",
+        "name": "BRTV财经",
+        "group": "北京",
+        "uris": [
+            "https://www.brtn.cn/btv/btvsy_index"
+        ]
+    },
+    {
+        "title": "BRTV体育休闲",
+        "logo": "",
+        "name": "BRTV体育休闲",
+        "group": "北京",
+        "uris": [
+            "https://www.brtn.cn/btv/btvsy_index"
+        ]
+    },
+    {
+        "title": "BRTV i生活",
+        "logo": "",
+        "name": "BRTV i生活",
+        "group": "北京",
+        "uris": [
+            "https://www.brtn.cn/btv/btvsy_index"
+        ]
+    },
+    {
+        "title": "BRTV新闻",
+        "logo": "",
+        "name": "BRTV新闻",
+        "group": "北京",
+        "uris": [
+            "https://www.brtn.cn/btv/btvsy_index"
+        ]
+    },
+    {
+        "title": "卡酷少儿",
+        "logo": "",
+        "name": "卡酷少儿",
         "group": "北京",
         "uris": [
             "https://www.brtn.cn/btv/btvsy_index"
