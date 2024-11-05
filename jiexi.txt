@@ -67,6 +67,15 @@
         ]
     },
     {
+        "title": "1905国外",
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "uris": [
+            "https://www.1905.com/1905tv/live/"
+        ]
+    },
+    {
         "title": "JJ斗地主",
         "group": "数字付费",
         "logo": "",
