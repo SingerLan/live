@@ -97,8 +97,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.76:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.76:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.76:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.76:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.76:4120"
+            "http://www.abelstation.cn:4000/udp/239.3.1.76:4120"       
         ]
     },
     {
@@ -114,8 +113,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.68:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.68:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.68:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.68:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.68:4120"
+            "http://www.abelstation.cn:4000/udp/239.3.1.68:4120"
         ]
     },
     {
@@ -130,8 +128,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.92:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.92:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.92:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.92:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.92:4120"
+            "http://www.abelstation.cn:4000/udp/239.3.1.92:4120"
         ]
     },
     {
@@ -161,8 +158,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.67:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.67:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.67:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.67:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.67:4120"
+            "http://www.abelstation.cn:4000/udp/239.3.1.67:4120"
         ]
     },
     {
@@ -176,8 +172,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.78:4120",
             "http://wouu.net:9977/udp/239.93.0.217:9208",
             "http://wuyanjiang.cn:8012/udp/239.3.1.78:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.78:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.78:4120"
+            "http://wuzuo.fun:4022/udp/239.3.1.78:4120"
         ]
     },
     {
@@ -202,8 +197,7 @@
             "http://sweetown.fun:4000/udp/239.3.1.90:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.90:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.90:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.90:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.90:4120"
+            "http://www.abelstation.cn:4000/udp/239.3.1.90:4120"
         ]
     },
     {
@@ -280,8 +274,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.250:8001",
             "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2",
             "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.250:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.250:8001"
+            "http://wuyanjiang.cn:8012/udp/239.3.1.250:8001"
         ]
     },
     {
@@ -297,8 +290,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.194:9020",
             "http://wuyanjiang.cn:8012/udp/239.3.1.194:9020",
             "http://wuzuo.fun:4022/udp/239.3.1.194:9020",
-            "http://www.abelstation.cn:4000/udp/239.3.1.194:9020",
-            "http://www.lishaoping.com:8012/udp/239.3.1.194:9020"
+            "http://www.abelstation.cn:4000/udp/239.3.1.194:9020"
         ]
     },
     {
@@ -314,8 +306,7 @@
             "http://wouu.net:9977/udp/239.93.0.57:9024",
             "http://wuyanjiang.cn:8012/udp/239.3.1.195:9024",
             "http://wuzuo.fun:4022/udp/239.3.1.195:9024",
-            "http://www.abelstation.cn:4000/udp/239.3.1.195:9024",
-            "http://www.lishaoping.com:8012/udp/239.3.1.195:9024"
+            "http://www.abelstation.cn:4000/udp/239.3.1.195:9024"
         ]
     },
     {
@@ -537,7 +528,6 @@
             "https://tv.cctv.com/live/cctv2",
             "https://www.yangshipin.cn/tv/home?pid=600001800",
             "http://112.123.206.32:808/hls/2/index.m3u8",
-            "http://210.22.75.86:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.60:8084",
             "http://gen8.cc:5555/udp/239.3.1.60:8084",
             "http://joyznm.i234.me:20000/udp/239.3.1.60:8084",
@@ -566,7 +556,6 @@
             "http://sweetown.fun:4000/udp/239.3.1.172:8001",
             "http://wouu.net:9977/udp/239.93.1.11:2223",
             "http://wuyanjiang.cn:8012/udp/239.3.1.172:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.172:8001",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140"
         ]
     },
@@ -586,8 +575,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.105:8092",
             "http://sweetown.fun:4000/udp/239.3.1.105:8092",
             "http://wuyanjiang.cn:8012/udp/239.3.1.105:8092",
-            "http://wuzuo.fun:4022/udp/239.3.1.105:8092",
-            "http://www.lishaoping.com:8012/udp/239.3.1.105:8092"
+            "http://wuzuo.fun:4022/udp/239.3.1.105:8092"
         ]
     },
     {
@@ -609,7 +597,6 @@
             "http://wouu.net:9977/udp/239.93.1.36:8004",
             "http://wuyanjiang.cn:8012/udp/239.3.1.130:8004",
             "http://wuzuo.fun:4022/udp/239.3.1.130:8004",
-            "http://www.lishaoping.com:8012/udp/239.3.1.130:8004",
             "http://www.zzlag.top:9087/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1",
             "http://zy.otioi.cn/live/migu.php?token=4zfvOqMj&id=cctv5p"
         ]
@@ -632,8 +619,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.173:8001",
             "http://sweetown.fun:4000/udp/239.3.1.173:8001",
             "http://wuyanjiang.cn:8012/udp/239.3.1.173:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.173:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.173:8001"
+            "http://wuzuo.fun:4022/udp/239.3.1.173:8001"
         ]
     },
     {
@@ -661,7 +647,6 @@
             "http://my.saopanda.top:18889/udp/239.3.1.174:8001",
             "http://wouu.net:9977/udp/239.93.1.13:2226",
             "http://wuzuo.fun:4022/udp/239.3.1.174:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.174:8001",
             "https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8"
         ]
     },
@@ -674,7 +659,6 @@
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8",
             "https://tv.cctv.com/live/cctv7",
             "https://www.yangshipin.cn/tv/home?pid=600004092",
-            "http://123.166.61.70:8003/hls/42/index.m3u8",
             "http://124.116.183.146:9901/tsfile/live/0007_1.m3u8",
             "http://223.241.247.214:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.61:8104",
@@ -686,7 +670,6 @@
             "http://wouu.net:9977/udp/239.93.1.67:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.61:8104",
             "http://wuzuo.fun:4022/udp/239.3.1.61:8104",
-            "http://www.lishaoping.com:8012/udp/239.3.1.61:8104",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.120:5140"
         ]
     },
@@ -708,8 +691,7 @@
             "http://sweetown.fun:4000/udp/239.3.1.175:8001",
             "http://wouu.net:9977/udp/239.93.42.39:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.175:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.175:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.175:8001"
+            "http://wuzuo.fun:4022/udp/239.3.1.175:8001"
         ]
     },
     {
@@ -730,8 +712,7 @@
             "http://sweetown.fun:4000/udp/239.3.1.62:8112",
             "http://wouu.net:9977/udp/239.93.1.24:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.62:8112",
-            "http://wuzuo.fun:4022/udp/239.3.1.62:8112",
-            "http://www.lishaoping.com:8012/udp/239.3.1.62:8112"
+            "http://wuzuo.fun:4022/udp/239.3.1.62:8112"
         ]
     },
     {
@@ -747,7 +728,6 @@
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8",
             "https://tv.cctv.com/live/cctv10",
             "https://www.yangshipin.cn/tv/home?pid=600001805",
-            "http://210.22.75.86:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.63:8116",
             "http://gen8.cc:5555/udp/239.3.1.63:8116",
             "http://joyznm.i234.me:20000/udp/239.3.1.63:8116",
@@ -755,7 +735,6 @@
             "http://sweetown.fun:4000/udp/239.3.1.63:8116",
             "http://wouu.net:9977/udp/239.93.1.28:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.63:8116",
-            "http://www.lishaoping.com:8012/udp/239.3.1.63:8116",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.122:5140"
         ]
     },
@@ -769,7 +748,6 @@
             "https://tv.cctv.com/live/cctv11",
             "https://www.yangshipin.cn/tv/home?pid=600001806",
             "http://117.114.153.18:8180/TV00000000000000000002@HHZT",
-            "http://123.166.61.70:8003/hls/43/index.m3u8",
             "http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.152:8120",
             "http://gen8.cc:5555/udp/239.3.1.152:8120",
@@ -802,7 +780,6 @@
             "http://sweetown.fun:4000/udp/239.3.1.64:8124",
             "http://wuyanjiang.cn:8012/udp/239.3.1.64:8124",
             "http://wuzuo.fun:4022/udp/239.3.1.64:8124",
-            "http://www.lishaoping.com:8012/udp/239.3.1.64:8124",
             "http://ycsj.aguihome.com:4022/rtp/233.50.201.123:5140"
         ]
     },
@@ -816,7 +793,6 @@
             "https://tv.cctv.com/live/cctv13",
             "https://www.yangshipin.cn/tv/home?pid=600001811",
             "http://112.123.206.32:808/hls/13/index.m3u8",
-            "http://210.22.75.86:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.124:8128",
             "http://joyznm.i234.me:20000/udp/239.3.1.124:8128",
@@ -825,8 +801,7 @@
             "http://sweetown.fun:4000/udp/239.3.1.124:8128",
             "http://wouu.net:9977/udp/239.93.0.66:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.124:8128",
-            "http://wuzuo.fun:4022/udp/239.3.1.124:8128",
-            "http://www.lishaoping.com:8012/udp/239.3.1.124:8128"
+            "http://wuzuo.fun:4022/udp/239.3.1.124:8128"
         ]
     },
     {
@@ -846,8 +821,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.65:8132",
             "http://sweetown.fun:4000/udp/239.3.1.65:8132",
             "http://wuyanjiang.cn:8012/udp/239.3.1.65:8132",
-            "http://wuzuo.fun:4022/udp/239.3.1.65:8132",
-            "http://www.lishaoping.com:8012/udp/239.3.1.65:8132"
+            "http://wuzuo.fun:4022/udp/239.3.1.65:8132"
         ]
     },
     {
@@ -864,8 +838,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.153:8136",
             "http://sweetown.fun:4000/udp/239.3.1.153:8136",
             "http://wuyanjiang.cn:8012/udp/239.3.1.153:8136",
-            "http://wuzuo.fun:4022/udp/239.3.1.153:8136",
-            "http://www.lishaoping.com:8012/udp/239.3.1.153:8136"
+            "http://wuzuo.fun:4022/udp/239.3.1.153:8136"
         ]
     },
     {
@@ -884,10 +857,7 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.184:8001",
             "http://wuzuo.fun:4022/udp/239.3.1.184:8001",
             "http://www.abelstation.cn:4000/udp/239.3.1.184:8001",
-            "http://www.lishaoping.com:8012/udp/239.3.1.184:8001",
             "http://117.114.153.18:8180/TV00000000000000000136@HHZT",
-            "http://123.166.61.70:8003/hls/16/index.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://www.erbao1981.top:8188/udp/239.76.246.98:1234"
         ]
     },
@@ -911,7 +881,6 @@
             "http://wuzuo.fun:4022/udp/239.3.1.151:8144",
             "http://www.abelstation.cn:4000/udp/239.3.1.151:8144",
             "http://www.erbao1981.top:8188/udp/239.76.245.239:1234",
-            "http://www.lishaoping.com:8012/udp/239.3.1.151:8144",
             "http://www.zzlag.top:9087/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1"
         ]
     },
@@ -947,8 +916,7 @@
             "http://sweetown.fun:4000/udp/239.3.1.214:4220",
             "http://wuyanjiang.cn:8012/udp/239.3.1.214:4220",
             "http://wuzuo.fun:4022/udp/239.3.1.214:4220",
-            "http://www.abelstation.cn:4000/udp/239.3.1.214:4220",
-            "http://www.lishaoping.com:8012/udp/239.3.1.214:4220"
+            "http://www.abelstation.cn:4000/udp/239.3.1.214:4220"
         ]
     },
     {
@@ -1010,15 +978,6 @@
         ]
     },
     {
-        "title": "台湾民視新聞",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8"
-        ]
-    },
-    {
         "title": "星空卫视",
         "group": "港台",
         "logo": "",
@@ -1051,10 +1010,15 @@
     },
     {
         "group": "卫视",
-        "logo": "",
-        "name": "",
         "title": "北京卫视",
+        "logo": "https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",
+        "name": "北京卫视",
         "uris": [
+            "http://124.165.112.159:8084/rtp/226.0.2.39:8224",
+            "http://175.150.152.34:9005/rtp/232.0.0.117:1234",
+            "http://124.165.112.159:8084/rtp/226.0.2.177:9328",
+            "http://114.243.104.126:8888/rtp/239.3.1.241:8000",
+            "https://www.brtn.cn/btv/btvsy_index",
             "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8",
             "https://www.yangshipin.cn/tv/home?pid=600002309"
         ]
@@ -1066,15 +1030,12 @@
         "name": "",
         "uris": [
             "http://gen8.cc:5555/udp/239.3.1.155:4120",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.155:4120",
             "http://joyznm.i234.me:20000/udp/239.3.1.155:4120",
             "http://joyznm.x3322.net:20000/udp/239.3.1.155:4120",
             "http://my.saopanda.top:18889/udp/239.3.1.155:4120",
-            "http://sweetown.fun:4000/udp/239.3.1.155:4120",
             "http://wouu.net:9977/udp/239.93.42.58:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.155:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.155:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.155:4120"
+            "http://www.abelstation.cn:4000/udp/239.3.1.155:4120"
         ]
     },
     {
@@ -1083,12 +1044,7 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://123.138.216.44:9902/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.166.61.70:8003/hls/53/index.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://210.22.75.86:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://58.19.38.162:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://59.62.8.250:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.156:8148",
             "http://gen8.cc:5555/udp/239.3.1.156:8148",
@@ -1098,7 +1054,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.156:8148",
             "http://wuzuo.fun:4022/udp/239.3.1.156:8148",
             "http://www.abelstation.cn:4000/udp/239.3.1.156:8148",
-            "http://www.lishaoping.com:8012/udp/239.3.1.156:8148",
             "https://www.yangshipin.cn/tv/home?pid=600002484"
         ]
     },
@@ -1110,7 +1065,6 @@
         "uris": [
             "http://117.114.153.18:8180/TV00000000000000000138@HHZT",
             "http://1b6467f415.iok.la:9931/tsfile/live/1061_1.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://36.135.52.57:9901/tsfile/live/0107_1.m3u8?key=txiptv",
@@ -1121,7 +1075,6 @@
             "http://my.saopanda.top:18889/udp/239.3.1.136:8032",
             "http://wuyanjiang.cn:8012/udp/239.3.1.136:8032",
             "http://wuzuo.fun:4022/udp/239.3.1.136:8032",
-            "http://www.lishaoping.com:8012/udp/239.3.1.136:8032",
             "https://www.yangshipin.cn/tv/home?pid=600002483"
         ]
     },
@@ -1132,15 +1085,13 @@
         "name": "",
         "uris": [
             "http://110.53.52.63:8888/newlive/live/hls/26/live.m3u8",
-            "http://210.22.75.86:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.26:8108",
             "http://gen8.cc:5555/udp/239.3.1.26:8108",
             "http://joyznm.i234.me:20000/udp/239.3.1.26:8108",
             "http://joyznm.x3322.net:20000/udp/239.3.1.26:8108",
             "http://my.saopanda.top:18889/udp/239.3.1.26:8108",
             "http://wuyanjiang.cn:8012/udp/239.3.1.26:8108",
-            "http://wuzuo.fun:4022/udp/239.3.1.26:8108",
-            "http://www.lishaoping.com:8012/udp/239.3.1.26:8108"
+            "http://wuzuo.fun:4022/udp/239.3.1.26:8108"
         ]
     },
     {
@@ -1161,7 +1112,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.144:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.144:4120",
             "http://www.abelstation.cn:4000/udp/239.3.1.144:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.144:4120",
             "https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8"
         ]
     },
@@ -1181,7 +1131,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.43:8176",
             "http://wuzuo.fun:4022/udp/239.3.1.43:8176",
             "http://www.abelstation.cn:4000/udp/239.3.1.43:8176",
-            "http://www.lishaoping.com:8012/udp/239.3.1.43:8176",
             "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880"
         ]
     },
@@ -1192,7 +1141,6 @@
         "name": "",
         "uris": [
             "http://124.128.73.58:9901/tsfile/live/0129_1.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.143:4120",
             "http://gen8.cc:5555/udp/239.3.1.143:4120",
             "http://ikuai.zlsip.top:4022/udp/239.3.1.143:4120",
@@ -1203,8 +1151,7 @@
             "http://wouu.net:9977/udp/239.93.42.57:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.143:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.143:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.143:4120",
-            "http://www.lishaoping.com:8012/udp/239.3.1.143:4120"
+            "http://www.abelstation.cn:4000/udp/239.3.1.143:4120"
         ]
     },
     {
@@ -1215,7 +1162,6 @@
         "uris": [
             "http://110.53.52.63:8888/newlive/live/hls/34/live.m3u8",
             "http://113.25.252.226:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.138.216.44:9902/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://1b6467f415.iok.la:9931/tsfile/live/1076_1.m3u8",
             "http://223.241.247.214:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://59.173.243.210:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
@@ -1229,8 +1175,7 @@
             "http://wouu.net:9977/udp/239.93.0.248:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.240:8172",
             "http://wuzuo.fun:4022/udp/239.3.1.240:8172",
-            "http://www.abelstation.cn:4000/udp/239.3.1.240:8172",
-            "http://www.lishaoping.com:8012/udp/239.3.1.240:8172"
+            "http://www.abelstation.cn:4000/udp/239.3.1.240:8172"
         ]
     },
     {
@@ -1239,8 +1184,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://123.166.61.70:8003/hls/24/index.m3u8",
-            "http://210.22.75.86:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://219.147.200.9:18080/newlive/live/hls/48/live.m3u8",
             "http://223.241.247.214:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://59.173.243.210:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0",
@@ -1255,7 +1198,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.29:8288",
             "http://wuzuo.fun:4022/udp/239.3.1.29:8288",
             "http://www.abelstation.cn:4000/udp/239.3.1.29:8288",
-            "http://www.lishaoping.com:8012/udp/239.3.1.29:8288",
             "https://www.yangshipin.cn/tv/home?pid=600002516"
         ]
     },
@@ -1266,11 +1208,8 @@
         "name": "",
         "uris": [
             "http://117.114.153.18:8180/TV00000000000000000085@HHZT",
-            "http://123.166.61.70:8003/hls/57/index.m3u8",
             "http://1b6467f415.iok.la:9931/tsfile/live/1064_1.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://58.19.38.162:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.141:1234",
             "http://gen8.cc:5555/udp/239.3.1.141:1234",
@@ -1281,8 +1220,7 @@
             "http://wouu.net:9977/udp/239.93.0.167:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.141:1234",
             "http://wuzuo.fun:4022/udp/239.3.1.141:1234",
-            "http://www.abelstation.cn:4000/udp/239.3.1.141:1234",
-            "http://www.lishaoping.com:8012/udp/239.3.1.141:1234"
+            "http://www.abelstation.cn:4000/udp/239.3.1.141:1234"
         ]
     },
     {
@@ -1291,8 +1229,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://123.138.216.44:9902/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://202.100.46.58:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://219.147.200.9:18080/newlive/live/hls/53/live.m3u8",
             "http://223.241.247.214:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.46:8124",
@@ -1304,8 +1240,7 @@
             "http://wouu.net:9977/udp/239.93.0.247:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.46:8124",
             "http://wuzuo.fun:4022/udp/239.3.1.46:8124",
-            "http://www.abelstation.cn:4000/udp/239.3.1.46:8124",
-            "http://www.lishaoping.com:8012/udp/239.3.1.46:8124"
+            "http://www.abelstation.cn:4000/udp/239.3.1.46:8124"
         ]
     },
     {
@@ -1316,9 +1251,6 @@
         "uris": [
             "http://1.30.178.49:9901/tsfile/live/0130_1.m3u8?key=txiptv",
             "http://117.114.153.18:8180/TV00000000000000000087@HHZT",
-            "http://123.166.61.70:8003/hls/55/index.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://210.22.75.86:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.211:8064",
@@ -1329,7 +1261,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.211:8064",
             "http://wuzuo.fun:4022/udp/239.3.1.211:8064",
             "http://www.abelstation.cn:4000/udp/239.3.1.211:8064",
-            "http://www.lishaoping.com:8012/udp/239.3.1.211:8064",
             "https://www.yangshipin.cn/tv/home?pid=600002532"
         ]
     },
@@ -1340,8 +1271,6 @@
         "name": "",
         "uris": [
             "http://1b6467f415.iok.la:9931/tsfile/live/1065_1.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://210.22.75.86:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.209:8052",
@@ -1353,7 +1282,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.209:8052",
             "http://wuzuo.fun:4022/udp/239.3.1.209:8052",
             "http://www.abelstation.cn:4000/udp/239.3.1.209:8052",
-            "http://www.lishaoping.com:8012/udp/239.3.1.209:8052",
             "https://www.yangshipin.cn/tv/home?pid=600002513"
         ]
     },
@@ -1364,7 +1292,6 @@
         "name": "",
         "uris": [
             "http://113.25.252.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://210.22.75.86:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://219.147.200.9:18080/newlive/live/hls/40/live.m3u8",
             "http://223.241.247.214:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://58.216.229.130:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
@@ -1376,8 +1303,7 @@
             "http://sweetown.fun:4000/udp/239.3.1.42:8172",
             "http://wouu.net:9977/udp/239.93.0.6:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.42:8172",
-            "http://wuzuo.fun:4022/udp/239.3.1.42:8172",
-            "http://www.lishaoping.com:8012/udp/239.3.1.42:8172"
+            "http://wuzuo.fun:4022/udp/239.3.1.42:8172"
         ]
     },
     {
@@ -1386,10 +1312,7 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://123.166.61.70:8003/hls/21/index.m3u8",
-            "http://210.22.75.86:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://58.19.38.162:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.142:8048",
             "http://gen8.cc:5555/udp/239.3.1.142:8048",
@@ -1400,7 +1323,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.142:8048",
             "http://wuzuo.fun:4022/udp/239.3.1.142:8048",
             "http://www.abelstation.cn:4000/udp/239.3.1.142:8048",
-            "http://www.lishaoping.com:8012/udp/239.3.1.142:8048",
             "https://www.yangshipin.cn/tv/home?pid=600002485"
         ]
     },
@@ -1413,7 +1335,6 @@
             "http://110.53.52.63:8888/newlive/live/hls/25/live.m3u8",
             "http://113.25.252.226:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://1b6467f415.iok.la:9931/tsfile/live/1082_1.m3u8",
-            "http://210.22.75.86:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://58.216.229.130:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
@@ -1428,7 +1349,6 @@
             "http://wuzuo.fun:4022/udp/239.3.1.39:8300",
             "http://www.abelstation.cn:4000/udp/239.3.1.39:8300",
             "http://www.dsmcloud.top:8888/udp/239.81.0.107:4056",
-            "http://www.lishaoping.com:8012/udp/239.3.1.39:8300",
             "https://www.yangshipin.cn/tv/home?pid=600002509"
         ]
     },
@@ -1467,8 +1387,7 @@
             "http://wouu.net:9977/udp/239.93.0.194:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.48:8160",
             "http://wuzuo.fun:4022/udp/239.3.1.48:8160",
-            "http://www.abelstation.cn:4000/udp/239.3.1.48:8160",
-            "http://www.lishaoping.com:8012/udp/239.3.1.48:8160"
+            "http://www.abelstation.cn:4000/udp/239.3.1.48:8160"
         ]
     },
     {
@@ -1478,8 +1397,6 @@
         "name": "",
         "uris": [
             "http://110.53.52.63:8888/newlive/live/hls/21/live.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://210.22.75.86:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://36.135.52.57:9901/tsfile/live/0127_1.m3u8?key=txiptv",
             "http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
@@ -1494,7 +1411,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.135:8028",
             "http://wuzuo.fun:4022/udp/239.3.1.135:8028",
             "http://www.abelstation.cn:4000/udp/239.3.1.135:8028",
-            "http://www.lishaoping.com:8012/udp/239.3.1.135:8028",
             "https://www.yangshipin.cn/tv/home?pid=600002521"
         ]
     },
@@ -1505,7 +1421,6 @@
         "name": "",
         "uris": [
             "http://1b6467f415.iok.la:9931/tsfile/live/1066_1.m3u8",
-            "http://210.22.75.86:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.123:8164",
             "http://gen8.cc:5555/udp/239.3.1.123:8164",
@@ -1517,7 +1432,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.123:8164",
             "http://wuzuo.fun:4022/udp/239.3.1.123:8164",
             "http://www.abelstation.cn:4000/udp/239.3.1.123:8164",
-            "http://www.lishaoping.com:8012/udp/239.3.1.123:8164",
             "https://www.yangshipin.cn/tv/home?pid=600002503"
         ]
     },
@@ -1527,7 +1441,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://210.22.75.86:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://220.164.192.48:50085/tsfile/live/0113_1.m3u8",
             "http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.148:8072",
@@ -1540,7 +1453,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.148:8072",
             "http://wuzuo.fun:4022/udp/239.3.1.148:8072",
             "http://www.abelstation.cn:4000/udp/239.3.1.148:8072",
-            "http://www.lishaoping.com:8012/udp/239.3.1.148:8072",
             "https://www.yangshipin.cn/tv/home?pid=600002493"
         ]
     },
@@ -1552,10 +1464,6 @@
         "uris": [
             "http://113.25.252.226:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://117.72.68.25:9930/hn.php?id=hnws",
-            "http://123.138.216.44:9902/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.166.61.70:8003/hls/52/index.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://210.22.75.86:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.27:8128",
             "http://gen8.cc:5555/udp/239.3.1.27:8128",
@@ -1567,7 +1475,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.27:8128",
             "http://wuzuo.fun:4022/udp/239.3.1.27:8128",
             "http://www.abelstation.cn:4000/udp/239.3.1.27:8128",
-            "http://www.lishaoping.com:8012/udp/239.3.1.27:8128",
             "https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8",
             "https://www.yangshipin.cn/tv/home?pid=600002525"
         ]
@@ -1580,7 +1487,6 @@
         "uris": [
             "https://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8",
             "http://1b6467f415.iok.la:9931/tsfile/live/1059_1.m3u8",
-            "http://210.22.75.86:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
             "http://dsm.ats.ink:8012/udp/239.3.1.137:8036",
@@ -1593,7 +1499,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.137:8036",
             "http://wuzuo.fun:4022/udp/239.3.1.137:8036",
             "http://www.abelstation.cn:4000/udp/239.3.1.137:8036",
-            "http://www.lishaoping.com:8012/udp/239.3.1.137:8036",
             "https://www.yangshipin.cn/tv/home?pid=600002520"
         ]
     },
@@ -1603,9 +1508,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://123.166.61.70:8003/hls/61/index.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://210.22.75.86:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://61.163.181.78:9901/tsfile/live/1041_1.m3u8",
             "http://dsm.ats.ink:8012/udp/239.3.1.134:8020",
@@ -1615,7 +1517,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.134:8020",
             "http://wuzuo.fun:4022/udp/239.3.1.134:8020",
             "http://www.abelstation.cn:4000/udp/239.3.1.134:8020",
-            "http://www.lishaoping.com:8012/udp/239.3.1.134:8020",
             "https://www.yangshipin.cn/tv/home?pid=600002481"
         ]
     },
@@ -1640,8 +1541,7 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.138:8044",
             "https://www.yangshipin.cn/tv/home?pid=600002508",
             "http://wuzuo.fun:4022/udp/239.3.1.138:8044",
-            "http://www.abelstation.cn:4000/udp/239.3.1.138:8044",
-            "http://www.lishaoping.com:8012/udp/239.3.1.138:8044"
+            "http://www.abelstation.cn:4000/udp/239.3.1.138:8044"
         ]
     },
     {
@@ -1650,7 +1550,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://202.100.46.58:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.132:8012",
             "http://gen8.cc:5555/udp/239.3.1.132:8012",
@@ -1661,8 +1560,7 @@
             "http://sweetown.fun:4000/udp/239.3.1.132:8012",
             "http://wouu.net:9977/udp/239.93.0.88:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.132:8012",
-            "http://wuzuo.fun:4022/udp/239.3.1.132:8012",
-            "http://www.lishaoping.com:8012/udp/239.3.1.132:8012"
+            "http://wuzuo.fun:4022/udp/239.3.1.132:8012"
         ]
     },
     {
@@ -1672,9 +1570,6 @@
         "name": "",
         "uris": [
             "http://117.27.190.42:9998/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.138.216.44:9902/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://202.100.46.58:9901/tsfile/live/1035_1.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.49:8188",
             "http://gen8.cc:5555/udp/239.3.1.49:8188",
@@ -1684,8 +1579,7 @@
             "http://sweetown.fun:4000/udp/239.3.1.49:8188",
             "http://wuyanjiang.cn:8012/udp/239.3.1.49:8188",
             "http://wuzuo.fun:4022/udp/239.3.1.49:8188",
-            "http://www.abelstation.cn:4000/udp/239.3.1.49:8188",
-            "http://www.lishaoping.com:8012/udp/239.3.1.49:8188"
+            "http://www.abelstation.cn:4000/udp/239.3.1.49:8188"
         ]
     },
     {
@@ -1707,8 +1601,7 @@
             "http://wouu.net:9977/udp/239.93.0.175:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.47:8164",
             "http://wuzuo.fun:4022/udp/239.3.1.47:8164",
-            "http://www.abelstation.cn:4000/udp/239.3.1.47:8164",
-            "http://www.lishaoping.com:8012/udp/239.3.1.47:8164"
+            "http://www.abelstation.cn:4000/udp/239.3.1.47:8164"
         ]
     },
     {
@@ -1719,10 +1612,7 @@
         "uris": [
             "http://1.30.178.49:9901/tsfile/live/0120_1.m3u8?key=txiptv",
             "http://113.25.252.226:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.166.61.70:8003/hls/54/index.m3u8",
             "http://1b6467f415.iok.la:9931/tsfile/live/1071_1.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1034_1.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://220.164.192.48:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.149:8076",
@@ -1734,7 +1624,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.149:8076",
             "http://wuzuo.fun:4022/udp/239.3.1.149:8076",
             "http://www.abelstation.cn:4000/udp/239.3.1.149:8076",
-            "http://www.lishaoping.com:8012/udp/239.3.1.149:8076",
             "https://www.yangshipin.cn/tv/home?pid=600002490"
         ]
     },
@@ -1745,7 +1634,6 @@
         "name": "",
         "uris": [
             "http://113.25.252.226:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.166.61.70:8003/hls/20/index.m3u8",
             "http://221.213.69.82:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://61.157.139.15:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
@@ -1757,7 +1645,6 @@
             "http://sweetown.fun:4000/udp/239.3.1.210:8056",
             "http://wuyanjiang.cn:8012/udp/239.3.1.210:8056",
             "http://wuzuo.fun:4022/udp/239.3.1.210:8056",
-            "http://www.lishaoping.com:8012/udp/239.3.1.210:8056",
             "https://www.yangshipin.cn/tv/home?pid=600002505"
         ]
     },
@@ -1768,8 +1655,6 @@
         "name": "",
         "uris": [
             "http://113.25.252.226:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.138.216.44:9902/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.166.61.70:8003/hls/62/index.m3u8",
             "http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.122:8160",
             "http://gen8.cc:5555/udp/239.3.1.122:8160",
@@ -1780,7 +1665,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.122:8160",
             "http://wuzuo.fun:4022/udp/239.3.1.122:8160",
             "http://www.abelstation.cn:4000/udp/239.3.1.122:8160",
-            "http://www.lishaoping.com:8012/udp/239.3.1.122:8160",
             "https://www.yangshipin.cn/tv/home?pid=600002531"
         ]
     },
@@ -1792,9 +1676,6 @@
         "uris": [
             "http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8",
             "http://113.25.252.226:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.138.216.44:9902/tsfile/live/0136_1.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1017_1.m3u8",
-            "http://202.100.46.58:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=tvbox6_com&playlive=1&authid=0",
             "http://223.241.247.214:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://61.136.67.238:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
@@ -1806,8 +1687,7 @@
             "http://sweetown.fun:4000/udp/239.3.1.41:8140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.41:8140",
             "http://wuzuo.fun:4022/udp/239.3.1.41:8140",
-            "http://www.abelstation.cn:4000/udp/239.3.1.41:8140",
-            "http://www.lishaoping.com:8012/udp/239.3.1.41:8140"
+            "http://www.abelstation.cn:4000/udp/239.3.1.41:8140"
         ]
     },
     {
@@ -1818,8 +1698,6 @@
         "uris": [
             "http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8",
             "http://113.25.252.226:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.138.216.44:9902/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://202.100.46.58:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://dsm.ats.ink:8012/udp/239.3.1.44:8184",
             "http://gen8.cc:5555/udp/239.3.1.44:8184",
             "http://ikuai.zlsip.top:4022/udp/239.3.1.44:8184",
@@ -1831,8 +1709,7 @@
             "http://wouu.net:9977/udp/239.93.0.192:5140",
             "http://wuyanjiang.cn:8012/udp/239.3.1.44:8184",
             "http://wuzuo.fun:4022/udp/239.3.1.44:8184",
-            "http://www.abelstation.cn:4000/udp/239.3.1.44:8184",
-            "http://www.lishaoping.com:8012/udp/239.3.1.44:8184"
+            "http://www.abelstation.cn:4000/udp/239.3.1.44:8184"
         ]
     },
     {
@@ -1841,8 +1718,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://123.138.216.44:9902/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://123.166.61.70:8003/hls/14/index.m3u8",
             "http://223.241.247.214:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
             "http://36.135.52.57:9901/tsfile/live/0143_1.m3u8?key=txiptv",
             "http://59.173.183.242:9901/tsfile/live/0143_1.m3u8?key=txiptv",
@@ -1855,7 +1730,6 @@
             "http://wuyanjiang.cn:8012/udp/239.3.1.133:8016",
             "http://wuzuo.fun:4022/udp/239.3.1.133:8016",
             "http://www.abelstation.cn:4000/udp/239.3.1.133:8016",
-            "http://www.lishaoping.com:8012/udp/239.3.1.133:8016",
             "https://www.yangshipin.cn/tv/home?pid=600002498"
         ]
     },
