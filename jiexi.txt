@@ -584,8 +584,8 @@
     {
         "title": "CCTV-5+ 体育赛事",
         "group": "央视",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/CCTV6.png",
+        "name": "CCTV6",
         "uris": [
             "https://tv.cctv.com/live/cctv5plus",
             "https://www.yangshipin.cn/tv/home?pid=600001817",
@@ -633,6 +633,7 @@
         "logo": "",
         "name": "",
         "uris": [
+            "https://www.1905.com/cctv6/live/",
             "http://114.243.104.126:8888/rtp/239.3.1.174:8001",
             "http://124.165.112.159:8084/rtp/226.0.2.23:8096",
             "http://124.165.112.159:8084/rtp/226.0.2.210:9592",
