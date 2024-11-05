@@ -2035,6 +2035,87 @@
         ]
     },
     {
+        "title": "江苏卫视",
+        "logo": "https://live.fanmingming.com/tv/江苏卫视.png",
+        "name": "江苏卫视",
+        "group": "江苏",
+        "uris": [
+            "https://live.jstv.com/"
+        ]
+    },
+    {
+        "title": "江苏城市",
+        "logo": "https://live.fanmingming.com/tv/江苏城市.png",
+        "name": "江苏城市",
+        "group": "江苏",
+        "uris": [
+            "https://live.jstv.com/"
+        ]
+    },
+    {
+        "title": "江苏综艺",
+        "logo": "https://live.fanmingming.com/tv/江苏综艺.png",
+        "name": "江苏综艺",
+        "group": "江苏",
+        "uris": [
+            "https://live.jstv.com/"
+        ]
+    },
+    {
+        "title": "江苏影视",
+        "logo": "https://live.fanmingming.com/tv/江苏影视.png",
+        "name": "江苏影视",
+        "group": "江苏",
+        "uris": [
+            "https://live.jstv.com/"
+        ]
+    },
+    {
+        "title": "江苏新闻",
+        "logo": "https://live.fanmingming.com/tv/江苏新闻.png",
+        "name": "江苏新闻",
+        "group": "江苏",
+        "uris": [
+            "https://live.jstv.com/"
+        ]
+    },
+    {
+        "title": "江苏教育",
+        "logo": "https://live.fanmingming.com/tv/江苏教育.png",
+        "name": "江苏教育",
+        "group": "江苏",
+        "uris": [
+            "https://live.jstv.com/"
+        ]
+    },
+    {
+        "title": "体育休闲",
+        "logo": "https://live.fanmingming.com/tv/体育休闲.png",
+        "name": "体育休闲",
+        "group": "江苏",
+        "uris": [
+            "https://live.jstv.com/"
+        ]
+    },
+    {
+        "title": "优漫卡通",
+        "logo": "https://live.fanmingming.com/tv/优漫卡通.png",
+        "name": "优漫卡通",
+        "group": "江苏",
+        "uris": [
+            "https://live.jstv.com/"
+        ]
+    },
+    {
+        "title": "江苏国际",
+        "logo": "https://live.fanmingming.com/tv/江苏国际.png",
+        "name": "江苏国际",
+        "group": "江苏",
+        "uris": [
+            "https://live.jstv.com/"
+        ]
+    },
+    {
         "title": "CCTV-1 综合",
         "logo": "https://live.fanmingming.com/tv/CCTV1.png",
         "name": "CCTV1",
