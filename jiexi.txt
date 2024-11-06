@@ -1,4 +1,5 @@
-[{
+[
+    {
         "title": "CCTV怀旧剧场",
         "group": "数字付费",
         "logo": "",
@@ -30,18 +31,14 @@
         "group": "数字付费",
         "logo": "https://live.fanmingming.com/tv/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",
         "name": "CHC动作电影",
-        "uris": [
-            "http://124.165.112.159:8084/rtp/226.0.2.94:8012"
-        ]
+        "uris": []
     },
     {
         "title": "CHC家庭影院",
         "group": "数字付费",
         "logo": "https://live.fanmingming.com/tv/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",
         "name": "CHC家庭影院",
-        "uris": [
-            "http://124.165.112.159:8084/rtp/226.0.2.240:9820"
-        ]
+        "uris": []
     },
     {
         "title": "CHC影迷电影",
@@ -55,7 +52,7 @@
         "group": "数字付费",
         "logo": "https://live.fanmingming.com/tv/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png",
         "name": "CHC高清电影",
-        "uris": ["http://124.165.112.159:8084/rtp/226.0.2.93:8004"]
+        "uris": []
     },
     {
         "title": "1905",
@@ -97,7 +94,7 @@
             "http://my.saopanda.top:18889/udp/239.3.1.76:4120",
             "http://wuyanjiang.cn:8012/udp/239.3.1.76:4120",
             "http://wuzuo.fun:4022/udp/239.3.1.76:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.76:4120"       
+            "http://www.abelstation.cn:4000/udp/239.3.1.76:4120"
         ]
     },
     {
@@ -372,7 +369,7 @@
     },
     {
         "group": "数字付费",
-        "logo": "",
+        "logo": "https://live.fanmingming.com/tv/湖南电影.png",
         "name": "湖南电影",
         "title": "湖南电影",
         "uris": [
@@ -381,7 +378,7 @@
     },
     {
         "group": "数字付费",
-        "logo": "",
+        "logo": "https://live.fanmingming.com/tv/湖南电视剧.png",
         "name": "湖南电视剧",
         "title": "湖南电视剧",
         "uris": [
@@ -500,8 +497,6 @@
         "name": "CCTV1",
         "group": "央视",
         "uris": [
-            "http://124.165.112.159:8084/rtp/226.0.2.18:8056",
-            "http://124.165.112.159:8084/rtp/226.0.2.153:9136",
             "http://114.243.104.126:8888/rtp/239.3.1.129:8008",
             "http://180.172.21.168:4022/udp/239.45.3.145:5140",
             "https://www.xttv.com.cn/index/channel/index/id/155.html",
@@ -562,8 +557,8 @@
     {
         "title": "CCTV-4 中文国际（亚）",
         "group": "央视",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/CCTV4.png",
+        "name": "CCTV4",
         "uris": [
             "https://tv.cctv.com/live/cctv4",
             "https://www.yangshipin.cn/tv/home?pid=600001814",
@@ -581,8 +576,8 @@
     {
         "title": "CCTV-5+ 体育赛事",
         "group": "央视",
-        "logo": "https://live.fanmingming.com/tv/CCTV6.png",
-        "name": "CCTV6",
+        "logo": "https://live.fanmingming.com/tv/CCTV5+.png",
+        "name": "CCTV5+",
         "uris": [
             "https://tv.cctv.com/live/cctv5plus",
             "https://www.yangshipin.cn/tv/home?pid=600001817",
@@ -604,8 +599,8 @@
     {
         "title": "CCTV-5 体育",
         "group": "央视",
-        "logo": "",
-        "name": "",
+        "logo": "https://live.fanmingming.com/tv/CCTV5.png",
+        "name": "CCTV5",
         "uris": [
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8",
             "https://tv.cctv.com/live/cctv5",
@@ -630,8 +625,6 @@
         "uris": [
             "https://www.1905.com/cctv6/live/",
             "http://114.243.104.126:8888/rtp/239.3.1.174:8001",
-            "http://124.165.112.159:8084/rtp/226.0.2.23:8096",
-            "http://124.165.112.159:8084/rtp/226.0.2.210:9592",
             "http://175.150.152.34:9005/rtp/232.0.0.172:1234",
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8",
             "https://tv.cctv.com/live/cctv6",
@@ -721,8 +714,6 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://124.165.112.159:8084/rtp/226.0.2.27:8128",
-            "http://124.165.112.159:8084/rtp/226.0.2.162:9208",
             "http://114.243.104.126:8888/rtp/239.3.1.63:8116",
             "http://175.150.152.34:9005/rtp/232.0.0.138:1234",
             "https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8",
@@ -1014,9 +1005,7 @@
         "logo": "https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",
         "name": "北京卫视",
         "uris": [
-            "http://124.165.112.159:8084/rtp/226.0.2.39:8224",
             "http://175.150.152.34:9005/rtp/232.0.0.117:1234",
-            "http://124.165.112.159:8084/rtp/226.0.2.177:9328",
             "http://114.243.104.126:8888/rtp/239.3.1.241:8000",
             "https://www.brtn.cn/btv/btvsy_index",
             "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8",
@@ -1822,7 +1811,11 @@
         "name": "北京卫视",
         "group": "北京",
         "uris": [
-            "https://www.brtn.cn/btv/btvsy_index"
+            "http://175.150.152.34:9005/rtp/232.0.0.117:1234",
+            "http://114.243.104.126:8888/rtp/239.3.1.241:8000",
+            "https://www.brtn.cn/btv/btvsy_index",
+            "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8",
+            "https://www.yangshipin.cn/tv/home?pid=600002309"
         ]
     },
     {
