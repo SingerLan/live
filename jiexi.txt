@@ -1,14 +1,5 @@
 [
-    {
-        "title": "胖炸",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://m.huya.com/baozha"
-        ]
-    },
-    {
+   {
         "title": "CCTV怀旧剧场",
         "group": "数字付费",
         "logo": "",
@@ -959,13 +950,23 @@
         ]
     },
     {
+        "title": "凤凰香港",
+        "group": "港台",
+        "logo": "",
+        "name": "",
+        "uris": [
+            "http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=hk"
+        ]
+    },
+    {
         "title": "凤凰中文",
         "group": "港台",
         "logo": "",
         "name": "",
         "uris": [
             "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw",
-            "http://cdn3.1678520.xyz:80/live/live2.1.php?id=fhzw"
+            "http://cdn3.1678520.xyz:80/live/live2.1.php?id=fhzw",
+            "http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=cn"
         ]
     },
     {
@@ -974,7 +975,8 @@
         "logo": "",
         "name": "",
         "uris": [
-            "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx"
+            "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx",
+            "http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=info"
         ]
     },
     {
