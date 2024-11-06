@@ -1,5 +1,14 @@
 [
     {
+        "title": "胖炸",
+        "group": "数字付费",
+        "logo": "",
+        "name": "",
+        "uris": [
+            "https://m.huya.com/baozha"
+        ]
+    },
+    {
         "title": "CCTV怀旧剧场",
         "group": "数字付费",
         "logo": "",
@@ -1005,7 +1014,6 @@
         "logo": "https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",
         "name": "北京卫视",
         "uris": [
-            "http://175.150.152.34:9005/rtp/232.0.0.117:1234",
             "http://114.243.104.126:8888/rtp/239.3.1.241:8000",
             "https://www.brtn.cn/btv/btvsy_index",
             "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8",
@@ -1811,7 +1819,6 @@
         "name": "北京卫视",
         "group": "北京",
         "uris": [
-            "http://175.150.152.34:9005/rtp/232.0.0.117:1234",
             "http://114.243.104.126:8888/rtp/239.3.1.241:8000",
             "https://www.brtn.cn/btv/btvsy_index",
             "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8",
