@@ -1,2021 +1,951 @@
-[
-    {
-        "title": "CCTV怀旧剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://www.yangshipin.cn/tv/home?pid=600099620"
-        ]
-    },
-    {
-        "title": "CCTV第一剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://www.yangshipin.cn/tv/home?pid=600099655"
-        ]
-    },
-    {
-        "title": "CCTV风云剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://www.yangshipin.cn/tv/home?pid=600099658"
-        ]
-    },
-    {
-        "title": "CHC动作电影",
-        "group": "数字付费",
-        "logo": "https://live.fanmingming.com/tv/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png",
-        "name": "CHC动作电影",
-        "uris": []
-    },
-    {
-        "title": "CHC家庭影院",
-        "group": "数字付费",
-        "logo": "https://live.fanmingming.com/tv/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png",
-        "name": "CHC家庭影院",
-        "uris": []
-    },
-    {
-        "title": "CHC影迷电影",
-        "group": "数字付费",
-        "logo": "https://live.fanmingming.com/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png",
-        "name": "CHC影迷电影",
-        "uris": []
-    },
-    {
-        "title": "CHC高清电影",
-        "group": "数字付费",
-        "logo": "https://live.fanmingming.com/tv/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png",
-        "name": "CHC高清电影",
-        "uris": []
-    },
-    {
-        "title": "1905",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://www.1905.com/xl/live/"
-        ]
-    },
-    {
-        "title": "1905国外",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://www.1905.com/1905tv/live/"
-        ]
-    },
-    {
-        "title": "JJ斗地主",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2"
-        ]
-    },
-    {
-        "title": "军事",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.76:4120",
-            "http://gen8.cc:5555/udp/239.3.1.76:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.76:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.76:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.76:4120",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.76:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.76:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.76:4120"
-        ]
-    },
-    {
-        "title": "军旅剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.68:4120",
-            "http://gen8.cc:5555/udp/239.3.1.68:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.68:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.68:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.68:4120",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.68:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.68:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.68:4120"
-        ]
-    },
-    {
-        "title": "动作影院",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.92:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.92:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.92:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.92:4120",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.92:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.92:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.92:4120"
-        ]
-    },
-    {
-        "title": "古装剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.69:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.69:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.69:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.69:4120",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.69:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.69:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.69:4120"
-        ]
-    },
-    {
-        "title": "城市剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.67:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.67:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.67:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.67:4120",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.67:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.67:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.67:4120"
-        ]
-    },
-    {
-        "title": "戏曲",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://joyznm.i234.me:20000/udp/239.3.1.78:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.78:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.78:4120",
-            "http://wouu.net:9977/udp/239.93.0.217:9208",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.78:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.78:4120"
-        ]
-    },
-    {
-        "title": "斗鱼电影-邵氏影院",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519",
-            "http://maomao.kandiantv.cn/douyu1.php?id=4246519"
-        ]
-    },
-    {
-        "title": "武侠剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.90:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.90:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.90:4120",
-            "http://sweetown.fun:4000/udp/239.3.1.90:4120",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.90:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.90:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.90:4120"
-        ]
-    },
-    {
-        "title": "淘4K超清",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2"
-        ]
-    },
-    {
-        "title": "淘Baby",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://114.243.104.126:8888/rtp/239.3.1.238:8001",
-            "http://dsm.ats.ink:8012/udp/239.3.1.238:8001",
-            "http://gen8.cc:5555/udp/239.3.1.238:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.238:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.238:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.238:8001",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.238:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.238:8001",
-            "http://www.abelstation.cn:4000/udp/239.3.1.238:8001"
-        ]
-    },
-    {
-        "title": "淘剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://114.243.104.126:8888/rtp/239.3.1.95:8001",
-            "http://dsm.ats.ink:8012/udp/239.3.1.95:8001",
-            "http://gen8.cc:5555/udp/239.3.1.95:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.95:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.95:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.95:8001",
-            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.95:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.95:8001",
-            "http://www.abelstation.cn:4000/udp/239.3.1.95:8001"
-        ]
-    },
-    {
-        "title": "淘娱乐",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://114.243.104.126:8888/rtp/239.3.1.100:8001",
-            "http://dsm.ats.ink:8012/udp/239.3.1.100:8001",
-            "http://gen8.cc:5555/udp/239.3.1.100:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.100:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.100:8001",
-            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
-            "http://sweetown.fun:4000/udp/239.3.1.100:8001",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.100:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.100:8001"
-        ]
-    },
-    {
-        "title": "淘电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://114.243.104.126:8888/rtp/239.3.1.250:8001",
-            "http://gen8.cc:5555/udp/239.3.1.250:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.250:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.250:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.250:8001",
-            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2",
-            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.250:8001"
-        ]
-    },
-    {
-        "title": "热播剧场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.194:9020",
-            "http://gen8.cc:5555/udp/239.3.1.194:9020",
-            "http://joyznm.i234.me:20000/udp/239.3.1.194:9020",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.194:9020",
-            "http://my.saopanda.top:18889/udp/239.3.1.194:9020",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.194:9020",
-            "http://wuzuo.fun:4022/udp/239.3.1.194:9020",
-            "http://www.abelstation.cn:4000/udp/239.3.1.194:9020"
-        ]
-    },
-    {
-        "title": "经典电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.195:9024",
-            "http://gen8.cc:5555/udp/239.3.1.195:9024",
-            "http://joyznm.i234.me:20000/udp/239.3.1.195:9024",
-            "http://my.saopanda.top:18889/udp/239.3.1.195:9024",
-            "http://wouu.net:9977/udp/239.93.0.57:9024",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.195:9024",
-            "http://wuzuo.fun:4022/udp/239.3.1.195:9024",
-            "http://www.abelstation.cn:4000/udp/239.3.1.195:9024"
-        ]
-    },
-    {
-        "title": "重温经典",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://ali.hlspull.yximgs.com/live/awei_cwjd.flv",
-            "http://mtw.so/5NPX0U"
-        ]
-    },
-    {
-        "title": "音乐现场",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.70:4120",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.70:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.70:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.70:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.70:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.70:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.70:4120"
-        ]
-    },
-    {
-        "title": "香港电影",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://swrh.ngtanyanfei.top:8081/dl/migu.php?id=xpfyt"
-        ]
-    },
-    {
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "title": "广东影视",
-        "uris": [
-            "https://www.gdtv.cn/tvChannelDetail/53"
-        ]
-    },
-    {
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "title": "广东嘉佳卡通",
-        "uris": [
-            "https://www.gdtv.cn/tvChannelDetail/66"
-        ]
-    },
-    {
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "title": "深圳电视剧频道",
-        "uris": [
-            "https://www.sztv.com.cn/pindao/index.html?id=7880"
-        ]
-    },
-    {
-        "group": "数字付费",
-        "logo": "https://live.fanmingming.com/tv/湖南电影.png",
-        "name": "湖南电影",
-        "title": "湖南电影",
-        "uris": [
-            "https://live.mgtv.com/?channelId=221"
-        ]
-    },
-    {
-        "group": "数字付费",
-        "logo": "https://live.fanmingming.com/tv/湖南电视剧.png",
-        "name": "湖南电视剧",
-        "title": "湖南电视剧",
-        "uris": [
-            "https://live.mgtv.com/?channelId=484"
-        ]
-    },
-    {
-        "group": "数字付费",
-        "logo": "",
-        "name": "金鹰卡通",
-        "title": "金鹰卡通",
-        "uris": [
-            "https://live.mgtv.com/?channelId=287",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.51:9252",
-            "http://gen8.cc:5555/udp/239.3.1.51:9252",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.51:9252",
-            "http://joyznm.i234.me:20000/udp/239.3.1.51:9252",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.51:9252",
-            "http://my.saopanda.top:18889/udp/239.3.1.51:9252",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.51:9252",
-            "http://www.abelstation.cn:4000/udp/239.3.1.51:9252"
-        ]
-    },
-    {
-        "title": "内蒙古少儿",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800"
-        ]
-    },
-    {
-        "title": "动画",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.80:4120",
-            "http://gen8.cc:5555/udp/239.3.1.80:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.80:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.80:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.80:4120",
-            "http://sweetown.fun:4000/udp/239.3.1.80:4120",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.80:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.80:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.80:4120"
-        ]
-    },
-    {
-        "title": "卡酷少儿",
-        "group": "数字付费",
-        "logo": "https://live.fanmingming.com/tv/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png",
-        "name": "卡酷少儿",
-        "uris": [
-            "https://www.brtn.cn/btv/btvsy_index",
-            "http://114.243.104.126:8888/rtp/239.3.1.189:8000",
-            "http://dsm.ats.ink:8012/udp/239.3.1.189:8000",
-            "http://joyznm.i234.me:20000/udp/239.3.1.189:8000",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.189:8000",
-            "http://my.saopanda.top:18889/udp/239.3.1.189:8000",
-            "http://sweetown.fun:4000/udp/239.3.1.189:8000",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.189:8000",
-            "http://wuzuo.fun:4022/udp/239.3.1.189:8000",
-            "http://www.abelstation.cn:4000/udp/239.3.1.189:8000"
-        ]
-    },
-    {
-        "title": "嘉佳卡通",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.147:9268",
-            "http://gen8.cc:5555/udp/239.3.1.147:9268",
-            "http://joyznm.i234.me:20000/udp/239.3.1.147:9268",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.147:9268",
-            "http://my.saopanda.top:18889/udp/239.3.1.147:9268",
-            "http://sweetown.fun:4000/udp/239.3.1.147:9268",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.147:9268",
-            "http://wuzuo.fun:4022/udp/239.3.1.147:9268",
-            "http://www.abelstation.cn:4000/udp/239.3.1.147:9268"
-        ]
-    },
-    {
-        "title": "少儿动画",
-        "group": "数字付费",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://dsm.ats.ink:8012/udp/239.3.1.199:9000",
-            "http://gen8.cc:5555/udp/239.3.1.199:9000",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.199:9000",
-            "http://joyznm.i234.me:20000/udp/239.3.1.199:9000",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.199:9000",
-            "http://my.saopanda.top:18889/udp/239.3.1.199:9000",
-            "http://sweetown.fun:4000/udp/239.3.1.199:9000",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.199:9000",
-            "http://wuzuo.fun:4022/udp/239.3.1.199:9000",
-            "http://www.abelstation.cn:4000/udp/239.3.1.199:9000"
-        ]
-    },
-    {
-        "title": "浙江少儿",
-        "group": "数字付费",
-        "logo": "https://live.fanmingming.com/tv/%E6%B5%99%E6%B1%9F%E5%B0%91%E5%84%BF.png",
-        "name": "浙江少儿",
-        "uris": [
-            "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
-        ]
-    },
-    {
-        "title": "CCTV-1 综合",
-        "logo": "https://live.fanmingming.com/tv/CCTV1.png",
-        "name": "CCTV1",
-        "group": "央视",
-        "uris": [
-            "http://114.243.104.126:8888/rtp/239.3.1.129:8008",
-            "http://180.172.21.168:4022/udp/239.45.3.145:5140",
-            "https://www.xttv.com.cn/index/channel/index/id/155.html",
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8",
-            "https://tv.cctv.com/live/cctv1",
-            "https://www.yangshipin.cn/tv/home?pid=600001859",
-            "http://dsm.ats.ink:8012/udp/239.3.1.129:8008",
-            "http://joyznm.i234.me:20000/udp/239.3.1.129:8008",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.129:8008",
-            "http://my.saopanda.top:18889/udp/239.3.1.129:8008",
-            "http://sweetown.fun:4000/udp/239.3.1.129:8008",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.129:8008",
-            "http://www.abelstation.cn:4000/udp/239.3.1.129:8008",
-            "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8"
-        ]
-    },
-    {
-        "title": "CCTV-2 财经",
-        "group": "央视",
-        "logo": "https://live.fanmingming.com/tv/CCTV2.png",
-        "name": "CCTV2",
-        "uris": [
-            "http://114.243.104.126:8888/rtp/239.3.1.60:8084",
-            "https://tv.cctv.com/live/cctv2",
-            "https://www.yangshipin.cn/tv/home?pid=600001800",
-            "http://112.123.206.32:808/hls/2/index.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.60:8084",
-            "http://gen8.cc:5555/udp/239.3.1.60:8084",
-            "http://joyznm.i234.me:20000/udp/239.3.1.60:8084",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.60:8084",
-            "http://my.saopanda.top:18889/udp/239.3.1.60:8084",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.60:8084",
-            "http://wuzuo.fun:4022/udp/239.3.1.60:8084",
-            "http://www.abelstation.cn:4000/udp/239.3.1.60:8084",
-            "http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140"
-        ]
-    },
-    {
-        "title": "CCTV-3 综艺",
-        "group": "央视",
-        "logo": "https://live.fanmingming.com/tv/CCTV3.png",
-        "name": "CCTV3",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8",
-            "https://tv.cctv.com/live/cctv3",
-            "http://dsm.ats.ink:8012/udp/239.3.1.172:8001",
-            "http://gen8.cc:5555/udp/239.3.1.172:8001",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.172:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.172:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.172:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.172:8001",
-            "http://sweetown.fun:4000/udp/239.3.1.172:8001",
-            "http://wouu.net:9977/udp/239.93.1.11:2223",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.172:8001",
-            "http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140"
-        ]
-    },
-    {
-        "title": "CCTV-4 中文国际（亚）",
-        "group": "央视",
-        "logo": "https://live.fanmingming.com/tv/CCTV4.png",
-        "name": "CCTV4",
-        "uris": [
-            "https://tv.cctv.com/live/cctv4",
-            "https://www.yangshipin.cn/tv/home?pid=600001814",
-            "http://dsm.ats.ink:8012/udp/239.3.1.105:8092",
-            "http://enlen.vip:4022/rtp/239.200.200.128:8652",
-            "http://gen8.cc:5555/udp/239.3.1.105:8092",
-            "http://joyznm.i234.me:20000/udp/239.3.1.105:8092",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.105:8092",
-            "http://my.saopanda.top:18889/udp/239.3.1.105:8092",
-            "http://sweetown.fun:4000/udp/239.3.1.105:8092",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.105:8092",
-            "http://wuzuo.fun:4022/udp/239.3.1.105:8092"
-        ]
-    },
-    {
-        "title": "CCTV-5+ 体育赛事",
-        "group": "央视",
-        "logo": "https://live.fanmingming.com/tv/CCTV5+.png",
-        "name": "CCTV5+",
-        "uris": [
-            "https://tv.cctv.com/live/cctv5plus",
-            "https://www.yangshipin.cn/tv/home?pid=600001817",
-            "http://1.30.178.49:9901/tsfile/live/0016_1.m3u8?key=txiptv",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1025_1.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.130:8004",
-            "http://gen8.cc:5555/udp/239.3.1.130:8004",
-            "http://joyznm.i234.me:20000/udp/239.3.1.130:8004",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.130:8004",
-            "http://my.saopanda.top:18889/udp/239.3.1.130:8004",
-            "http://sweetown.fun:4000/udp/239.3.1.130:8004",
-            "http://wouu.net:9977/udp/239.93.1.36:8004",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.130:8004",
-            "http://wuzuo.fun:4022/udp/239.3.1.130:8004",
-            "http://www.zzlag.top:9087/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1",
-            "http://zy.otioi.cn/live/migu.php?token=4zfvOqMj&id=cctv5p"
-        ]
-    },
-    {
-        "title": "CCTV-5 体育",
-        "group": "央视",
-        "logo": "https://live.fanmingming.com/tv/CCTV5.png",
-        "name": "CCTV5",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8",
-            "https://tv.cctv.com/live/cctv5",
-            "https://www.yangshipin.cn/tv/home?pid=600001818",
-            "http://123.113.236.69:8012/rtp/239.3.1.108:8001",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1024_1.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.173:8001",
-            "http://gen8.cc:5555/udp/239.3.1.173:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.173:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.173:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.173:8001",
-            "http://sweetown.fun:4000/udp/239.3.1.173:8001",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.173:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.173:8001"
-        ]
-    },
-    {
-        "title": "CCTV-6 电影",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://www.1905.com/cctv6/live/",
-            "http://114.243.104.126:8888/rtp/239.3.1.174:8001",
-            "http://175.150.152.34:9005/rtp/232.0.0.172:1234",
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8",
-            "https://tv.cctv.com/live/cctv6",
-            "https://www.yangshipin.cn/tv/home?pid=600108442",
-            "http://112.123.206.32:808/hls/7/index.m3u8",
-            "http://36.135.52.57:9901/tsfile/live/0006_1.m3u8?key=txiptv",
-            "http://dsm.ats.ink:8012/udp/239.3.1.174:8001",
-            "http://gen8.cc:5555/udp/239.3.1.174:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.174:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.174:8001",
-            "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0",
-            "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202",
-            "http://my.saopanda.top:18889/udp/239.3.1.174:8001",
-            "http://wouu.net:9977/udp/239.93.1.13:2226",
-            "http://wuzuo.fun:4022/udp/239.3.1.174:8001",
-            "https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8"
-        ]
-    },
-    {
-        "title": "CCTV-7 国防军事",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8",
-            "https://tv.cctv.com/live/cctv7",
-            "https://www.yangshipin.cn/tv/home?pid=600004092",
-            "http://124.116.183.146:9901/tsfile/live/0007_1.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.61:8104",
-            "http://gen8.cc:5555/udp/239.3.1.61:8104",
-            "http://joyznm.i234.me:20000/udp/239.3.1.61:8104",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.61:8104",
-            "http://my.saopanda.top:18889/udp/239.3.1.61:8104",
-            "http://sweetown.fun:4000/udp/239.3.1.61:8104",
-            "http://wouu.net:9977/udp/239.93.1.67:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.61:8104",
-            "http://wuzuo.fun:4022/udp/239.3.1.61:8104",
-            "http://ycsj.aguihome.com:4022/rtp/233.50.201.120:5140"
-        ]
-    },
-    {
-        "title": "CCTV-8 电视剧",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://tv.cctv.com/live/cctv8",
-            "https://www.yangshipin.cn/tv/home?pid=600001803",
-            "http://123.129.70.178:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.157.139.15:9901/tsfile/live/2378_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.175:8001",
-            "http://gen8.cc:5555/udp/239.3.1.175:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.175:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.175:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.175:8001",
-            "http://sweetown.fun:4000/udp/239.3.1.175:8001",
-            "http://wouu.net:9977/udp/239.93.42.39:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.175:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.175:8001"
-        ]
-    },
-    {
-        "title": "CCTV-9 纪录",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8",
-            "https://tv.cctv.com/live/cctvjilu",
-            "https://www.yangshipin.cn/tv/home?pid=600004078",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1029_1.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.62:8112",
-            "http://gen8.cc:5555/udp/239.3.1.62:8112",
-            "http://joyznm.i234.me:20000/udp/239.3.1.62:8112",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.62:8112",
-            "http://my.saopanda.top:18889/udp/239.3.1.62:8112",
-            "http://sweetown.fun:4000/udp/239.3.1.62:8112",
-            "http://wouu.net:9977/udp/239.93.1.24:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.62:8112",
-            "http://wuzuo.fun:4022/udp/239.3.1.62:8112"
-        ]
-    },
-    {
-        "title": "CCTV-10 科教",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://114.243.104.126:8888/rtp/239.3.1.63:8116",
-            "http://175.150.152.34:9005/rtp/232.0.0.138:1234",
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8",
-            "https://tv.cctv.com/live/cctv10",
-            "https://www.yangshipin.cn/tv/home?pid=600001805",
-            "http://dsm.ats.ink:8012/udp/239.3.1.63:8116",
-            "http://gen8.cc:5555/udp/239.3.1.63:8116",
-            "http://joyznm.i234.me:20000/udp/239.3.1.63:8116",
-            "http://my.saopanda.top:18889/udp/239.3.1.63:8116",
-            "http://sweetown.fun:4000/udp/239.3.1.63:8116",
-            "http://wouu.net:9977/udp/239.93.1.28:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.63:8116",
-            "http://ycsj.aguihome.com:4022/rtp/233.50.201.122:5140"
-        ]
-    },
-    {
-        "title": "CCTV-11 戏曲",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8",
-            "https://tv.cctv.com/live/cctv11",
-            "https://www.yangshipin.cn/tv/home?pid=600001806",
-            "http://117.114.153.18:8180/TV00000000000000000002@HHZT",
-            "http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.152:8120",
-            "http://gen8.cc:5555/udp/239.3.1.152:8120",
-            "http://home.yulei.online:9999/rtp/226.0.2.28:8136",
-            "http://joyznm.i234.me:20000/udp/239.3.1.152:8120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.152:8120",
-            "http://my.saopanda.top:18889/udp/239.3.1.152:8120",
-            "http://sweetown.fun:4000/udp/239.3.1.152:8120",
-            "http://wouu.net:9977/udp/239.93.0.102:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.152:8120",
-            "http://wuzuo.fun:4022/udp/239.3.1.152:8120",
-            "http://ycsj.aguihome.com:4022/rtp/233.50.201.11:5140"
-        ]
-    },
-    {
-        "title": "CCTV-12 社会与法",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8",
-            "https://tv.cctv.com/live/cctv12",
-            "https://www.yangshipin.cn/tv/home?pid=600001807",
-            "http://123.113.236.69:8012/rtp/239.3.1.12:8232",
-            "http://dsm.ats.ink:8012/udp/239.3.1.64:8124",
-            "http://gen8.cc:5555/udp/239.3.1.64:8124",
-            "http://joyznm.i234.me:20000/udp/239.3.1.64:8124",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.64:8124",
-            "http://my.saopanda.top:18889/udp/239.3.1.64:8124",
-            "http://sweetown.fun:4000/udp/239.3.1.64:8124",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.64:8124",
-            "http://wuzuo.fun:4022/udp/239.3.1.64:8124",
-            "http://ycsj.aguihome.com:4022/rtp/233.50.201.123:5140"
-        ]
-    },
-    {
-        "title": "CCTV-13 新闻",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8",
-            "https://tv.cctv.com/live/cctv13",
-            "https://www.yangshipin.cn/tv/home?pid=600001811",
-            "http://112.123.206.32:808/hls/13/index.m3u8",
-            "http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.124:8128",
-            "http://joyznm.i234.me:20000/udp/239.3.1.124:8128",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.124:8128",
-            "http://my.saopanda.top:18889/udp/239.3.1.124:8128",
-            "http://sweetown.fun:4000/udp/239.3.1.124:8128",
-            "http://wouu.net:9977/udp/239.93.0.66:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.124:8128",
-            "http://wuzuo.fun:4022/udp/239.3.1.124:8128"
-        ]
-    },
-    {
-        "title": "CCTV-14 少儿",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://tv.cctv.com/live/cctvchild",
-            "https://www.yangshipin.cn/tv/home?pid=600001809",
-            "http://223.241.247.214:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.157.139.15:9901/tsfile/live/2384_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.65:8132",
-            "http://gen8.cc:5555/udp/239.3.1.65:8132",
-            "http://joyznm.i234.me:20000/udp/239.3.1.65:8132",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.65:8132",
-            "http://my.saopanda.top:18889/udp/239.3.1.65:8132",
-            "http://sweetown.fun:4000/udp/239.3.1.65:8132",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.65:8132",
-            "http://wuzuo.fun:4022/udp/239.3.1.65:8132"
-        ]
-    },
-    {
-        "title": "CCTV-15 音乐",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://tv.cctv.com/live/cctv15",
-            "https://www.yangshipin.cn/tv/home?pid=600001815",
-            "http://dsm.ats.ink:8012/udp/239.3.1.153:8136",
-            "http://joyznm.i234.me:20000/udp/239.3.1.153:8136",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.153:8136",
-            "http://my.saopanda.top:18889/udp/239.3.1.153:8136",
-            "http://sweetown.fun:4000/udp/239.3.1.153:8136",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.153:8136",
-            "http://wuzuo.fun:4022/udp/239.3.1.153:8136"
-        ]
-    },
-    {
-        "title": "CCTV-16 奥林匹克",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://tv.cctv.com/live/cctv16",
-            "https://www.yangshipin.cn/tv/home?pid=600098637",
-            "http://dsm.ats.ink:8012/udp/239.3.1.184:8001",
-            "http://joyznm.i234.me:20000/udp/239.3.1.184:8001",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.184:8001",
-            "http://my.saopanda.top:18889/udp/239.3.1.184:8001",
-            "http://sweetown.fun:4000/udp/239.3.1.184:8001",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.184:8001",
-            "http://wuzuo.fun:4022/udp/239.3.1.184:8001",
-            "http://www.abelstation.cn:4000/udp/239.3.1.184:8001",
-            "http://117.114.153.18:8180/TV00000000000000000136@HHZT",
-            "http://www.erbao1981.top:8188/udp/239.76.246.98:1234"
-        ]
-    },
-    {
-        "title": "CCTV-17 农业农村",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://tv.cctv.com/live/cctv17",
-            "https://www.yangshipin.cn/tv/home?pid=600001810",
-            "http://123.113.236.69:8012/rtp/239.3.1.151:8144",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8",
-            "http://buffaloft.ignorelist.com:8888/rtp/239.3.1.151:8144",
-            "http://dsm.ats.ink:8012/udp/239.3.1.151:8144",
-            "http://gen8.cc:5555/udp/239.3.1.151:8144",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.151:8144",
-            "http://my.saopanda.top:18889/udp/239.3.1.151:8144",
-            "http://sweetown.fun:4000/udp/239.3.1.151:8144",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.151:8144",
-            "http://wuzuo.fun:4022/udp/239.3.1.151:8144",
-            "http://www.abelstation.cn:4000/udp/239.3.1.151:8144",
-            "http://www.erbao1981.top:8188/udp/239.76.245.239:1234",
-            "http://www.zzlag.top:9087/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1"
-        ]
-    },
-    {
-        "title": "CCTV-4 中文国际（欧）",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://tv.cctv.com/live/cctveurope",
-            "http://dsm.ats.ink:8012/udp/239.3.1.213:4220",
-            "http://gen8.cc:5555/udp/239.3.1.213:4220",
-            "http://joyznm.i234.me:20000/udp/239.3.1.213:4220",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.213:4220",
-            "http://my.saopanda.top:18889/udp/239.3.1.213:4220",
-            "http://sweetown.fun:4000/udp/239.3.1.213:4220",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.213:4220",
-            "http://wuzuo.fun:4022/udp/239.3.1.213:4220"
-        ]
-    },
-    {
-        "title": "CCTV-4 中文国际（美）",
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://tv.cctv.com/live/cctvamerica",
-            "http://gen8.cc:5555/udp/239.3.1.214:4220",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.214:4220",
-            "http://joyznm.i234.me:20000/udp/239.3.1.214:4220",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.214:4220",
-            "http://my.saopanda.top:18889/udp/239.3.1.214:4220",
-            "http://sweetown.fun:4000/udp/239.3.1.214:4220",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.214:4220",
-            "http://wuzuo.fun:4022/udp/239.3.1.214:4220",
-            "http://www.abelstation.cn:4000/udp/239.3.1.214:4220"
-        ]
-    },
-    {
-        "group": "央视",
-        "logo": "",
-        "name": "",
-        "title": "CCTV4k",
-        "uris": [
-            "https://www.yangshipin.cn/tv/home?pid=600002264"
-        ]
-    },
-    {
-        "title": "纬来电影",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1"
-        ]
-    },
-    {
-        "title": "TVBS亚洲",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8",
-            "http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8"
-        ]
-    },
-    {
-        "title": "亚洲卫视",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8",
-            "https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0",
-            "https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8"
-        ]
-    },
-    {
-        "title": "凤凰中文",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw",
-            "http://cdn3.1678520.xyz:80/live/live2.1.php?id=fhzw",
-            "http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=cn"
-        ]
-    },
-    {
-        "title": "凤凰资讯",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx",
-            "http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=info"
-        ]
-    },
-    {
-        "title": "星空卫视",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0"
-        ]
-    },
-    {
-        "title": "民视新闻",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8",
-            "http://38.64.72.148/hls/modn/list/4012/playlist.m3u8",
-            "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
-            "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"
-        ]
-    },
-    {
-        "title": "香港卫视",
-        "group": "港台",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://zhibo.hkstv.tv/livestream/mutfysrq.flv",
-            "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0"
-        ]
-    },
-    {
-        "group": "卫视",
-        "title": "北京卫视",
-        "logo": "https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",
-        "name": "北京卫视",
-        "uris": [
-            "http://114.243.104.126:8888/rtp/239.3.1.241:8000",
-            "https://www.brtn.cn/btv/btvsy_index",
-            "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8",
-            "https://www.yangshipin.cn/tv/home?pid=600002309"
-        ]
-    },
-    {
-        "title": "三沙卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://gen8.cc:5555/udp/239.3.1.155:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.155:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.155:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.155:4120",
-            "http://wouu.net:9977/udp/239.93.42.58:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.155:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.155:4120"
-        ]
-    },
-    {
-        "title": "东南卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://223.241.247.214:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://59.62.8.250:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.156:8148",
-            "http://gen8.cc:5555/udp/239.3.1.156:8148",
-            "http://joyznm.i234.me:20000/udp/239.3.1.156:8148",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.156:8148",
-            "http://my.saopanda.top:18889/udp/239.3.1.156:8148",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.156:8148",
-            "http://wuzuo.fun:4022/udp/239.3.1.156:8148",
-            "http://www.abelstation.cn:4000/udp/239.3.1.156:8148",
-            "https://www.yangshipin.cn/tv/home?pid=600002484"
-        ]
-    },
-    {
-        "title": "东方卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://117.114.153.18:8180/TV00000000000000000138@HHZT",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1061_1.m3u8",
-            "http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://223.241.247.214:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://36.135.52.57:9901/tsfile/live/0107_1.m3u8?key=txiptv",
-            "http://dsm.ats.ink:8012/udp/239.3.1.136:8032",
-            "http://gen8.cc:5555/udp/239.3.1.136:8032",
-            "http://joyznm.i234.me:20000/udp/239.3.1.136:8032",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.136:8032",
-            "http://my.saopanda.top:18889/udp/239.3.1.136:8032",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.136:8032",
-            "http://wuzuo.fun:4022/udp/239.3.1.136:8032",
-            "https://www.yangshipin.cn/tv/home?pid=600002483"
-        ]
-    },
-    {
-        "title": "云南卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://110.53.52.63:8888/newlive/live/hls/26/live.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.26:8108",
-            "http://gen8.cc:5555/udp/239.3.1.26:8108",
-            "http://joyznm.i234.me:20000/udp/239.3.1.26:8108",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.26:8108",
-            "http://my.saopanda.top:18889/udp/239.3.1.26:8108",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.26:8108",
-            "http://wuzuo.fun:4022/udp/239.3.1.26:8108"
-        ]
-    },
-    {
-        "title": "兵团卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://1b6467f415.iok.la:9931/tsfile/live/1092_1.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.144:4120",
-            "http://gen8.cc:5555/udp/239.3.1.144:4120",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.144:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.144:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.144:4120",
-            "http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0",
-            "http://my.saopanda.top:18889/udp/239.3.1.144:4120",
-            "http://wouu.net:9977/udp/239.93.42.43:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.144:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.144:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.144:4120",
-            "https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8"
-        ]
-    },
-    {
-        "title": "内蒙古卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://58.51.111.46:1111/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0thid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.43:8176",
-            "http://gen8.cc:5555/udp/239.3.1.43:8176",
-            "http://joyznm.i234.me:20000/udp/239.3.1.43:8176",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.43:8176",
-            "http://my.saopanda.top:18889/udp/239.3.1.43:8176",
-            "http://sweetown.fun:4000/udp/239.3.1.43:8176",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.43:8176",
-            "http://wuzuo.fun:4022/udp/239.3.1.43:8176",
-            "http://www.abelstation.cn:4000/udp/239.3.1.43:8176",
-            "https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880"
-        ]
-    },
-    {
-        "title": "厦门卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://124.128.73.58:9901/tsfile/live/0129_1.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.143:4120",
-            "http://gen8.cc:5555/udp/239.3.1.143:4120",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.143:4120",
-            "http://joyznm.i234.me:20000/udp/239.3.1.143:4120",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.143:4120",
-            "http://my.saopanda.top:18889/udp/239.3.1.143:4120",
-            "http://sweetown.fun:4000/udp/239.3.1.143:4120",
-            "http://wouu.net:9977/udp/239.93.42.57:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.143:4120",
-            "http://wuzuo.fun:4022/udp/239.3.1.143:4120",
-            "http://www.abelstation.cn:4000/udp/239.3.1.143:4120"
-        ]
-    },
-    {
-        "title": "吉林卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://110.53.52.63:8888/newlive/live/hls/34/live.m3u8",
-            "http://113.25.252.226:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1076_1.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://59.173.243.210:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.240:8172",
-            "http://gen8.cc:5555/udp/239.3.1.240:8172",
-            "http://joyznm.i234.me:20000/udp/239.3.1.240:8172",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.240:8172",
-            "http://my.saopanda.top:18889/udp/239.3.1.240:8172",
-            "http://sweetown.fun:4000/udp/239.3.1.240:8172",
-            "http://wouu.net:9977/udp/239.93.0.248:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.240:8172",
-            "http://wuzuo.fun:4022/udp/239.3.1.240:8172",
-            "http://www.abelstation.cn:4000/udp/239.3.1.240:8172"
-        ]
-    },
-    {
-        "title": "四川卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://219.147.200.9:18080/newlive/live/hls/48/live.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://59.173.243.210:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://gen8.cc:5555/udp/239.3.1.29:8288",
-            "http://joyznm.i234.me:20000/udp/239.3.1.29:8288",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.29:8288",
-            "http://my.saopanda.top:18889/udp/239.3.1.29:8288",
-            "http://sweetown.fun:4000/udp/239.3.1.29:8288",
-            "http://wouu.net:9977/udp/239.93.0.169:5140",
-            "http://wouu.net:9977/udp/239.93.0.20:1235",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.29:8288",
-            "http://wuzuo.fun:4022/udp/239.3.1.29:8288",
-            "http://www.abelstation.cn:4000/udp/239.3.1.29:8288",
-            "https://www.yangshipin.cn/tv/home?pid=600002516"
-        ]
-    },
-    {
-        "title": "天津卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://117.114.153.18:8180/TV00000000000000000085@HHZT",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1064_1.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.141:1234",
-            "http://gen8.cc:5555/udp/239.3.1.141:1234",
-            "http://joyznm.i234.me:20000/udp/239.3.1.141:1234",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.141:1234",
-            "http://my.saopanda.top:18889/udp/239.3.1.141:1234",
-            "http://sweetown.fun:4000/udp/239.3.1.141:1234",
-            "http://wouu.net:9977/udp/239.93.0.167:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.141:1234",
-            "http://wuzuo.fun:4022/udp/239.3.1.141:1234",
-            "http://www.abelstation.cn:4000/udp/239.3.1.141:1234"
-        ]
-    },
-    {
-        "title": "宁夏卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://219.147.200.9:18080/newlive/live/hls/53/live.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.46:8124",
-            "http://gen8.cc:5555/udp/239.3.1.46:8124",
-            "http://joyznm.i234.me:20000/udp/239.3.1.46:8124",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.46:8124",
-            "http://my.saopanda.top:18889/udp/239.3.1.46:8124",
-            "http://sweetown.fun:4000/udp/239.3.1.46:8124",
-            "http://wouu.net:9977/udp/239.93.0.247:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.46:8124",
-            "http://wuzuo.fun:4022/udp/239.3.1.46:8124",
-            "http://www.abelstation.cn:4000/udp/239.3.1.46:8124"
-        ]
-    },
-    {
-        "title": "安徽卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://1.30.178.49:9901/tsfile/live/0130_1.m3u8?key=txiptv",
-            "http://117.114.153.18:8180/TV00000000000000000087@HHZT",
-            "http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.211:8064",
-            "http://gen8.cc:5555/udp/239.3.1.211:8064",
-            "http://my.saopanda.top:18889/udp/239.3.1.211:8064",
-            "http://sweetown.fun:4000/udp/239.3.1.211:8064",
-            "http://wouu.net:9977/udp/239.93.1.106:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.211:8064",
-            "http://wuzuo.fun:4022/udp/239.3.1.211:8064",
-            "http://www.abelstation.cn:4000/udp/239.3.1.211:8064",
-            "https://www.yangshipin.cn/tv/home?pid=600002532"
-        ]
-    },
-    {
-        "title": "山东卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://1b6467f415.iok.la:9931/tsfile/live/1065_1.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.209:8052",
-            "http://gen8.cc:5555/udp/239.3.1.209:8052",
-            "http://joyznm.i234.me:20000/udp/239.3.1.209:8052",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.209:8052",
-            "http://my.saopanda.top:18889/udp/239.3.1.209:8052",
-            "http://sweetown.fun:4000/udp/239.3.1.209:8052",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.209:8052",
-            "http://wuzuo.fun:4022/udp/239.3.1.209:8052",
-            "http://www.abelstation.cn:4000/udp/239.3.1.209:8052",
-            "https://www.yangshipin.cn/tv/home?pid=600002513"
-        ]
-    },
-    {
-        "title": "山西卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://113.25.252.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://219.147.200.9:18080/newlive/live/hls/40/live.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://58.216.229.130:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.42:8172",
-            "http://gen8.cc:5555/udp/239.3.1.42:8172",
-            "http://joyznm.i234.me:20000/udp/239.3.1.42:8172",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.42:8172",
-            "http://my.saopanda.top:18889/udp/239.3.1.42:8172",
-            "http://sweetown.fun:4000/udp/239.3.1.42:8172",
-            "http://wouu.net:9977/udp/239.93.0.6:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.42:8172",
-            "http://wuzuo.fun:4022/udp/239.3.1.42:8172"
-        ]
-    },
-    {
-        "title": "广东卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://223.241.247.214:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.142:8048",
-            "http://gen8.cc:5555/udp/239.3.1.142:8048",
-            "http://joyznm.i234.me:20000/udp/239.3.1.142:8048",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.142:8048",
-            "http://my.saopanda.top:18889/udp/239.3.1.142:8048",
-            "http://sweetown.fun:4000/udp/239.3.1.142:8048",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.142:8048",
-            "http://wuzuo.fun:4022/udp/239.3.1.142:8048",
-            "http://www.abelstation.cn:4000/udp/239.3.1.142:8048",
-            "https://www.yangshipin.cn/tv/home?pid=600002485"
-        ]
-    },
-    {
-        "title": "广西卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://110.53.52.63:8888/newlive/live/hls/25/live.m3u8",
-            "http://113.25.252.226:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1082_1.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://58.216.229.130:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.39:8300",
-            "http://gen8.cc:5555/udp/239.3.1.39:8300",
-            "http://joyznm.i234.me:20000/udp/239.3.1.39:8300",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.39:8300",
-            "http://my.saopanda.top:18889/udp/239.3.1.39:8300",
-            "http://sweetown.fun:4000/udp/239.3.1.39:8300",
-            "http://wouu.net:9977/udp/239.93.42.46:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.39:8300",
-            "http://wuzuo.fun:4022/udp/239.3.1.39:8300",
-            "http://www.abelstation.cn:4000/udp/239.3.1.39:8300",
-            "http://www.dsmcloud.top:8888/udp/239.81.0.107:4056",
-            "https://www.yangshipin.cn/tv/home?pid=600002509"
-        ]
-    },
-    {
-        "title": "康巴卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://wouu.net:9977/udp/239.93.0.41:5140"
-        ]
-    },
-    {
-        "title": "延边卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$延边广电"
-        ]
-    },
-    {
-        "title": "新疆卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://106.124.91.222:9901/tsfile/live/21212_1.m3u8",
-            "http://58.216.229.130:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.48:8160",
-            "http://gen8.cc:5555/udp/239.3.1.48:8160",
-            "http://joyznm.i234.me:20000/udp/239.3.1.48:8160",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.48:8160",
-            "http://my.saopanda.top:18889/udp/239.3.1.48:8160",
-            "http://sweetown.fun:4000/udp/239.3.1.48:8160",
-            "http://wouu.net:9977/udp/239.93.0.194:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.48:8160",
-            "http://wuzuo.fun:4022/udp/239.3.1.48:8160",
-            "http://www.abelstation.cn:4000/udp/239.3.1.48:8160"
-        ]
-    },
-    {
-        "title": "江苏卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://110.53.52.63:8888/newlive/live/hls/21/live.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://36.135.52.57:9901/tsfile/live/0127_1.m3u8?key=txiptv",
-            "http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.163.181.78:9901/tsfile/live/1044_1.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.135:8028",
-            "http://gen8.cc:5555/udp/239.3.1.135:8028",
-            "http://joyznm.i234.me:20000/udp/239.3.1.135:8028",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.135:8028",
-            "http://my.saopanda.top:18889/udp/239.3.1.135:8028",
-            "http://sweetown.fun:4000/udp/239.3.1.135:8028",
-            "http://wouu.net:9977/udp/239.93.0.89:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.135:8028",
-            "http://wuzuo.fun:4022/udp/239.3.1.135:8028",
-            "http://www.abelstation.cn:4000/udp/239.3.1.135:8028",
-            "https://www.yangshipin.cn/tv/home?pid=600002521"
-        ]
-    },
-    {
-        "title": "江西卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://1b6467f415.iok.la:9931/tsfile/live/1066_1.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.123:8164",
-            "http://gen8.cc:5555/udp/239.3.1.123:8164",
-            "http://joyznm.i234.me:20000/udp/239.3.1.123:8164",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.123:8164",
-            "http://my.saopanda.top:18889/udp/239.3.1.123:8164",
-            "http://sweetown.fun:4000/udp/239.3.1.123:8164",
-            "http://wouu.net:9977/udp/239.93.0.134:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.123:8164",
-            "http://wuzuo.fun:4022/udp/239.3.1.123:8164",
-            "http://www.abelstation.cn:4000/udp/239.3.1.123:8164",
-            "https://www.yangshipin.cn/tv/home?pid=600002503"
-        ]
-    },
-    {
-        "title": "河北卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://220.164.192.48:50085/tsfile/live/0113_1.m3u8",
-            "http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.148:8072",
-            "http://gen8.cc:5555/udp/239.3.1.148:8072",
-            "http://joyznm.i234.me:20000/udp/239.3.1.148:8072",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.148:8072",
-            "http://my.saopanda.top:18889/udp/239.3.1.148:8072",
-            "http://sweetown.fun:4000/udp/239.3.1.148:8072",
-            "http://wouu.net:9977/udp/239.93.0.132:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.148:8072",
-            "http://wuzuo.fun:4022/udp/239.3.1.148:8072",
-            "http://www.abelstation.cn:4000/udp/239.3.1.148:8072",
-            "https://www.yangshipin.cn/tv/home?pid=600002493"
-        ]
-    },
-    {
-        "title": "河南卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://113.25.252.226:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://117.72.68.25:9930/hn.php?id=hnws",
-            "http://223.241.247.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.27:8128",
-            "http://gen8.cc:5555/udp/239.3.1.27:8128",
-            "http://joyznm.i234.me:20000/udp/239.3.1.27:8128",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.27:8128",
-            "http://my.saopanda.top:18889/udp/239.3.1.27:8128",
-            "http://sweetown.fun:4000/udp/239.3.1.27:8128",
-            "http://wouu.net:9977/udp/239.93.42.45:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.27:8128",
-            "http://wuzuo.fun:4022/udp/239.3.1.27:8128",
-            "http://www.abelstation.cn:4000/udp/239.3.1.27:8128",
-            "https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8",
-            "https://www.yangshipin.cn/tv/home?pid=600002525"
-        ]
-    },
-    {
-        "title": "浙江卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "https://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1059_1.m3u8",
-            "http://223.241.247.214:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.137:8036",
-            "http://gen8.cc:5555/udp/239.3.1.137:8036",
-            "http://joyznm.i234.me:20000/udp/239.3.1.137:8036",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.137:8036",
-            "http://my.saopanda.top:18889/udp/239.3.1.137:8036",
-            "http://sweetown.fun:4000/udp/239.3.1.137:8036",
-            "http://wouu.net:9977/udp/239.93.0.124:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.137:8036",
-            "http://wuzuo.fun:4022/udp/239.3.1.137:8036",
-            "http://www.abelstation.cn:4000/udp/239.3.1.137:8036",
-            "https://www.yangshipin.cn/tv/home?pid=600002520"
-        ]
-    },
-    {
-        "title": "深圳卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.163.181.78:9901/tsfile/live/1041_1.m3u8",
-            "http://dsm.ats.ink:8012/udp/239.3.1.134:8020",
-            "http://gen8.cc:5555/udp/239.3.1.134:8020",
-            "http://my.saopanda.top:18889/udp/239.3.1.134:8020",
-            "http://sweetown.fun:4000/udp/239.3.1.134:8020",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.134:8020",
-            "http://wuzuo.fun:4022/udp/239.3.1.134:8020",
-            "http://www.abelstation.cn:4000/udp/239.3.1.134:8020",
-            "https://www.yangshipin.cn/tv/home?pid=600002481"
-        ]
-    },
-    {
-        "title": "湖北卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://1.30.178.49:9901/tsfile/live/0132_1.m3u8?key=txiptv",
-            "http://117.114.153.18:8180/TV00000000000000000086@HHZT",
-            "http://223.241.247.214:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://36.135.52.57:9901/tsfile/live/0132_1.m3u8?key=txiptv",
-            "http://58.51.111.46:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.138:8044",
-            "http://gen8.cc:5555/udp/239.3.1.138:8044",
-            "http://joyznm.i234.me:20000/udp/239.3.1.138:8044",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.138:8044",
-            "http://my.saopanda.top:18889/udp/239.3.1.138:8044",
-            "http://sweetown.fun:4000/udp/239.3.1.138:8044",
-            "http://wouu.net:9977/udp/239.93.0.250:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.138:8044",
-            "https://www.yangshipin.cn/tv/home?pid=600002508",
-            "http://wuzuo.fun:4022/udp/239.3.1.138:8044",
-            "http://www.abelstation.cn:4000/udp/239.3.1.138:8044"
-        ]
-    },
-    {
-        "title": "湖南卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://223.241.247.214:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.132:8012",
-            "http://gen8.cc:5555/udp/239.3.1.132:8012",
-            "http://joyznm.i234.me:20000/udp/239.3.1.132:8012",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.132:8012",
-            "http://my.saopanda.top:18889/udp/239.3.1.132:8012",
-            "https://www.yangshipin.cn/tv/home?pid=600002475",
-            "http://sweetown.fun:4000/udp/239.3.1.132:8012",
-            "http://wouu.net:9977/udp/239.93.0.88:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.132:8012",
-            "http://wuzuo.fun:4022/udp/239.3.1.132:8012"
-        ]
-    },
-    {
-        "title": "甘肃卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://117.27.190.42:9998/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.49:8188",
-            "http://gen8.cc:5555/udp/239.3.1.49:8188",
-            "http://joyznm.i234.me:20000/udp/239.3.1.49:8188",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.49:8188",
-            "http://my.saopanda.top:18889/udp/239.3.1.49:8188",
-            "http://sweetown.fun:4000/udp/239.3.1.49:8188",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.49:8188",
-            "http://wuzuo.fun:4022/udp/239.3.1.49:8188",
-            "http://www.abelstation.cn:4000/udp/239.3.1.49:8188"
-        ]
-    },
-    {
-        "title": "西藏卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://113.25.252.226:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://117.72.68.25:9930/xizang.php?id=0",
-            "http://58.216.229.130:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.47:8164",
-            "http://gen8.cc:5555/udp/239.3.1.47:8164",
-            "http://joyznm.i234.me:20000/udp/239.3.1.47:8164",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.47:8164",
-            "http://my.saopanda.top:18889/udp/239.3.1.47:8164",
-            "http://php.jdshipin.com/xztv.php?id=ws",
-            "http://sweetown.fun:4000/udp/239.3.1.47:8164",
-            "http://wouu.net:9977/udp/239.93.0.175:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.47:8164",
-            "http://wuzuo.fun:4022/udp/239.3.1.47:8164",
-            "http://www.abelstation.cn:4000/udp/239.3.1.47:8164"
-        ]
-    },
-    {
-        "title": "贵州卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://1.30.178.49:9901/tsfile/live/0120_1.m3u8?key=txiptv",
-            "http://113.25.252.226:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://1b6467f415.iok.la:9931/tsfile/live/1071_1.m3u8",
-            "http://220.164.192.48:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0",
-            "http://223.241.247.214:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.149:8076",
-            "http://gen8.cc:5555/udp/239.3.1.149:8076",
-            "http://joyznm.i234.me:20000/udp/239.3.1.149:8076",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.149:8076",
-            "http://my.saopanda.top:18889/udp/239.3.1.149:8076",
-            "http://sweetown.fun:4000/udp/239.3.1.149:8076",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.149:8076",
-            "http://wuzuo.fun:4022/udp/239.3.1.149:8076",
-            "http://www.abelstation.cn:4000/udp/239.3.1.149:8076",
-            "https://www.yangshipin.cn/tv/home?pid=600002490"
-        ]
-    },
-    {
-        "title": "辽宁卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://113.25.252.226:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://221.213.69.82:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0",
-            "http://223.241.247.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.157.139.15:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.210:8056",
-            "http://gen8.cc:5555/udp/239.3.1.210:8056",
-            "http://joyznm.i234.me:20000/udp/239.3.1.210:8056",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.210:8056",
-            "http://my.saopanda.top:18889/udp/239.3.1.210:8056",
-            "http://sweetown.fun:4000/udp/239.3.1.210:8056",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.210:8056",
-            "http://wuzuo.fun:4022/udp/239.3.1.210:8056",
-            "https://www.yangshipin.cn/tv/home?pid=600002505"
-        ]
-    },
-    {
-        "title": "重庆卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://113.25.252.226:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.122:8160",
-            "http://gen8.cc:5555/udp/239.3.1.122:8160",
-            "http://joyznm.i234.me:20000/udp/239.3.1.122:8160",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.122:8160",
-            "http://my.saopanda.top:18889/udp/239.3.1.122:8160",
-            "http://wouu.net:9977/udp/239.93.1.107:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.122:8160",
-            "http://wuzuo.fun:4022/udp/239.3.1.122:8160",
-            "http://www.abelstation.cn:4000/udp/239.3.1.122:8160",
-            "https://www.yangshipin.cn/tv/home?pid=600002531"
-        ]
-    },
-    {
-        "title": "陕西卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8",
-            "http://113.25.252.226:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=tvbox6_com&playlive=1&authid=0",
-            "http://223.241.247.214:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://61.136.67.238:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.41:8140",
-            "http://gen8.cc:5555/udp/239.3.1.41:8140",
-            "http://joyznm.i234.me:20000/udp/239.3.1.41:8140",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.41:8140",
-            "http://my.saopanda.top:18889/udp/239.3.1.41:8140",
-            "http://sweetown.fun:4000/udp/239.3.1.41:8140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.41:8140",
-            "http://wuzuo.fun:4022/udp/239.3.1.41:8140",
-            "http://www.abelstation.cn:4000/udp/239.3.1.41:8140"
-        ]
-    },
-    {
-        "title": "青海卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8",
-            "http://113.25.252.226:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://dsm.ats.ink:8012/udp/239.3.1.44:8184",
-            "http://gen8.cc:5555/udp/239.3.1.44:8184",
-            "http://ikuai.zlsip.top:4022/udp/239.3.1.44:8184",
-            "http://joyznm.i234.me:20000/udp/239.3.1.44:8184",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.44:8184",
-            "http://my.saopanda.top:18889/udp/239.3.1.44:8184",
-            "http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=8b2f07cc1707359845$延边广电",
-            "http://sweetown.fun:4000/udp/239.3.1.44:8184",
-            "http://wouu.net:9977/udp/239.93.0.192:5140",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.44:8184",
-            "http://wuzuo.fun:4022/udp/239.3.1.44:8184",
-            "http://www.abelstation.cn:4000/udp/239.3.1.44:8184"
-        ]
-    },
-    {
-        "title": "黑龙江卫视",
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "uris": [
-            "http://223.241.247.214:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0",
-            "http://36.135.52.57:9901/tsfile/live/0143_1.m3u8?key=txiptv",
-            "http://59.173.183.242:9901/tsfile/live/0143_1.m3u8?key=txiptv",
-            "http://dsm.ats.ink:8012/udp/239.3.1.133:8016",
-            "http://gen8.cc:5555/udp/239.3.1.133:8016",
-            "http://joyznm.i234.me:20000/udp/239.3.1.133:8016",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.133:8016",
-            "http://my.saopanda.top:18889/udp/239.3.1.133:8016",
-            "http://sweetown.fun:4000/udp/239.3.1.133:8016",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.133:8016",
-            "http://wuzuo.fun:4022/udp/239.3.1.133:8016",
-            "http://www.abelstation.cn:4000/udp/239.3.1.133:8016",
-            "https://www.yangshipin.cn/tv/home?pid=600002498"
-        ]
-    },
-    {
-        "group": "卫视",
-        "logo": "",
-        "name": "",
-        "title": "海南卫视",
-        "uris": [
-            "https://www.yangshipin.cn/tv/home?pid=600002506"
-        ]
-    },
-    {
-        "group": "电视剧",
-        "logo": "",
-        "name": "",
-        "title": "上甘岭",
-        "uris": [
-            "https://www.9zhoukj.com/vod/play/129826/sid/1103033###第01集",
-            "https://www.9zhoukj.com/vod/play/129826/sid/1103641###第02集",
-            "https://www.9zhoukj.com/vod/play/129826/sid/1103642###第03集",
-            "https://www.9zhoukj.com/vod/play/129826/sid/1104055###第04集",
-            "https://www.9zhoukj.com/vod/play/129826/sid/1104056###第05集",
-            "https://www.9zhoukj.com/vod/play/129826/sid/1104560###第06集",
-            "https://www.9zhoukj.com/vod/play/129826/sid/1104561###第07集",
-            "https://www.9zhoukj.com/vod/play/129826/sid/1104886###第08集",
-            "https://www.9zhoukj.com/vod/play/129826/sid/1104885###第09集"
-        ]
-    },
-    {
-        "group": "电视剧",
-        "logo": "",
-        "name": "",
-        "title": "从地狱来的法官",
-        "uris": [
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###第01集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###第02集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###第03集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E04.mp4###第04集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E05.mp4###第05集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E06.mp4###第06集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E07.mp4###第07集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E08.mp4###第08集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###第09集",
-            "https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###第10集"
-        ]
-    },
-    {
-        "group": "松视",
-        "logo": "",
-        "name": "",
-        "title": "松视1",
-        "uris": [
-            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639652.m3u8###松视1",
-            "http://mtw.so/6wCBqQ###松视1(备用)",
-            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639653.m3u8###松视2",
-            "http://mtw.so/6hAvWA###松视3",
-            "http://u9v.cn/6hAvUu###潘朵拉",
-            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476368.m3u8###彩虹依限",
-            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476369.m3u8###彩虹电影",
-            "http://m6z.cn/6vMxT6###彩虹电影(备用)",
-            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476371.m3u8###惊艳台",
-            "http://m6z.cn/61I2Cw###惊艳台(备用)",
-            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476372.m3u8###香蕉台",
-            "http://u9v.cn/5FZsLd###香蕉台(备用)",
-            "http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476370.m3u8###极限电影"
-        ]
-    },
-    {
-        "title": "辽宁体育",
-        "logo": "",
-        "name": "辽宁体育",
-        "group": "辽宁",
-        "uris": [
-            "http://175.150.152.34:9005/rtp/232.0.0.164:1234"
-        ]
-    },
-    {
-        "title": "辽宁都市",
-        "logo": "",
-        "name": "辽宁都市",
-        "group": "辽宁",
-        "uris": [
-            "http://175.150.152.34:9005/rtp/232.0.0.154:1234"
-        ]
-    },
-    {
-        "title": "北京卫视",
-        "logo": "https://live.fanmingming.com/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png",
-        "name": "北京卫视",
-        "group": "北京",
-        "uris": [
-            "http://114.243.104.126:8888/rtp/239.3.1.241:8000",
-            "https://www.brtn.cn/btv/btvsy_index",
-            "https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8",
-            "https://www.yangshipin.cn/tv/home?pid=600002309"
-        ]
-    },
-    {
-        "title": "BRTV文艺",
-        "logo": "",
-        "name": "BRTV文艺",
-        "group": "北京",
-        "uris": [
-            "https://www.brtn.cn/btv/btvsy_index"
-        ]
-    },
-    {
-        "title": "BRTV纪实科教",
-        "logo": "",
-        "name": "BRTV纪实科教",
-        "group": "北京",
-        "uris": [
-            "https://www.brtn.cn/btv/btvsy_index"
-        ]
-    },
-    {
-        "title": "BRTV影视",
-        "logo": "",
-        "name": "BRTV影视",
-        "group": "北京",
-        "uris": [
-            "https://www.brtn.cn/btv/btvsy_index"
-        ]
-    },
-    {
-        "title": "BRTV财经",
-        "logo": "",
-        "name": "BRTV财经",
-        "group": "北京",
-        "uris": [
-            "https://www.brtn.cn/btv/btvsy_index"
-        ]
-    },
-    {
-        "title": "BRTV体育休闲",
-        "logo": "",
-        "name": "BRTV体育休闲",
-        "group": "北京",
-        "uris": [
-            "https://www.brtn.cn/btv/btvsy_index",
-            "http://114.243.104.126:8888/rtp/239.3.1.243:8000",
-            "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7EmLWY-QzDYXsJkNAKn1-dovWeB79V2zVBN-rY4mYJto4m9yeQDOdwgEuNxJAYqysGGQ9O-6YRGQ7HwCypA-Dp8oUoczUh-bqb1BhGngFvRaI%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240730213323%2C162944%2CEND&GuardEncType=2"
-        ]
-    },
-    {
-        "title": "BRTV i生活",
-        "logo": "",
-        "name": "BRTV i生活",
-        "group": "北京",
-        "uris": [
-            "https://www.brtn.cn/btv/btvsy_index"
-        ]
-    },
-    {
-        "title": "BRTV新闻",
-        "logo": "",
-        "name": "BRTV新闻",
-        "group": "北京",
-        "uris": [
-            "https://www.brtn.cn/btv/btvsy_index"
-        ]
-    },
-    {
-        "title": "卡酷少儿",
-        "logo": "",
-        "name": "卡酷少儿",
-        "group": "北京",
-        "uris": [
-            "https://www.brtn.cn/btv/btvsy_index",
-            "http://114.243.104.126:8888/rtp/239.3.1.189:8000",
-            "http://dsm.ats.ink:8012/udp/239.3.1.189:8000",
-            "http://joyznm.i234.me:20000/udp/239.3.1.189:8000",
-            "http://joyznm.x3322.net:20000/udp/239.3.1.189:8000",
-            "http://my.saopanda.top:18889/udp/239.3.1.189:8000",
-            "http://sweetown.fun:4000/udp/239.3.1.189:8000",
-            "http://wuyanjiang.cn:8012/udp/239.3.1.189:8000",
-            "http://wuzuo.fun:4022/udp/239.3.1.189:8000",
-            "http://www.abelstation.cn:4000/udp/239.3.1.189:8000"
-        ]
-    },
-    {
-        "title": "江苏卫视",
-        "logo": "https://live.fanmingming.com/tv/江苏卫视.png",
-        "name": "江苏卫视",
-        "group": "江苏",
-        "uris": [
-            "https://live.jstv.com/"
-        ]
-    },
-    {
-        "title": "江苏城市",
-        "logo": "https://live.fanmingming.com/tv/江苏城市.png",
-        "name": "江苏城市",
-        "group": "江苏",
-        "uris": [
-            "https://live.jstv.com/"
-        ]
-    },
-    {
-        "title": "江苏综艺",
-        "logo": "https://live.fanmingming.com/tv/江苏综艺.png",
-        "name": "江苏综艺",
-        "group": "江苏",
-        "uris": [
-            "https://live.jstv.com/"
-        ]
-    },
-    {
-        "title": "江苏影视",
-        "logo": "https://live.fanmingming.com/tv/江苏影视.png",
-        "name": "江苏影视",
-        "group": "江苏",
-        "uris": [
-            "https://live.jstv.com/"
-        ]
-    },
-    {
-        "title": "江苏新闻",
-        "logo": "https://live.fanmingming.com/tv/江苏新闻.png",
-        "name": "江苏新闻",
-        "group": "江苏",
-        "uris": [
-            "https://live.jstv.com/"
-        ]
-    },
-    {
-        "title": "江苏教育",
-        "logo": "https://live.fanmingming.com/tv/江苏教育.png",
-        "name": "江苏教育",
-        "group": "江苏",
-        "uris": [
-            "https://live.jstv.com/"
-        ]
-    },
-    {
-        "title": "体育休闲",
-        "logo": "https://live.fanmingming.com/tv/体育休闲.png",
-        "name": "体育休闲",
-        "group": "江苏",
-        "uris": [
-            "https://live.jstv.com/"
-        ]
-    },
-    {
-        "title": "优漫卡通",
-        "logo": "https://live.fanmingming.com/tv/优漫卡通.png",
-        "name": "优漫卡通",
-        "group": "江苏",
-        "uris": [
-            "https://live.jstv.com/"
-        ]
-    },
-    {
-        "title": "江苏国际",
-        "logo": "https://live.fanmingming.com/tv/江苏国际.png",
-        "name": "江苏国际",
-        "group": "江苏",
-        "uris": [
-            "https://live.jstv.com/"
-        ]
-    },
-    {
-        "title": "CCTV-1 综合",
-        "logo": "https://live.fanmingming.com/tv/CCTV1.png",
-        "name": "CCTV1",
-        "group": "IPV6",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8"
-        ]
-    },
-    {
-        "title": "CCTV-2",
-        "logo": "https://live.fanmingming.com/tv/CCTV2.png",
-        "name": "CCTV2",
-        "group": "IPV6",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8"
-        ]
-    },
-    {
-        "title": "CCTV-3",
-        "logo": "https://live.fanmingming.com/tv/CCTV3.png",
-        "name": "CCTV3",
-        "group": "IPV6",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8"
-        ]
-    },
-    {
-        "title": "CCTV-5",
-        "logo": "https://live.fanmingming.com/tv/CCTV5.png",
-        "name": "CCTV5",
-        "group": "IPV6",
-        "uris": [
-            "http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226146/index.m3u8"
-        ]
-    }
-]
+数字付费,#genre#
+CCTV怀旧剧场,https://www.yangshipin.cn/tv/home?pid=600099620###WEB
+CCTV第一剧场,https://www.yangshipin.cn/tv/home?pid=600099655###WEB
+CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB
+CHC动作电影,
+CHC家庭影院,
+CHC影迷电影,
+CHC高清电影,
+1905,https://www.1905.com/xl/live/###WEB
+1905国外,https://www.1905.com/1905tv/live/###WEB
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+军事,http://dsm.ats.ink:8012/udp/239.3.1.76:4120
+军事,http://gen8.cc:5555/udp/239.3.1.76:4120
+军事,http://joyznm.i234.me:20000/udp/239.3.1.76:4120
+军事,http://joyznm.x3322.net:20000/udp/239.3.1.76:4120
+军事,http://my.saopanda.top:18889/udp/239.3.1.76:4120
+军事,http://wuyanjiang.cn:8012/udp/239.3.1.76:4120
+军事,http://wuzuo.fun:4022/udp/239.3.1.76:4120
+军事,http://www.abelstation.cn:4000/udp/239.3.1.76:4120
+军旅剧场,http://dsm.ats.ink:8012/udp/239.3.1.68:4120
+军旅剧场,http://gen8.cc:5555/udp/239.3.1.68:4120
+军旅剧场,http://joyznm.i234.me:20000/udp/239.3.1.68:4120
+军旅剧场,http://joyznm.x3322.net:20000/udp/239.3.1.68:4120
+军旅剧场,http://my.saopanda.top:18889/udp/239.3.1.68:4120
+军旅剧场,http://wuyanjiang.cn:8012/udp/239.3.1.68:4120
+军旅剧场,http://wuzuo.fun:4022/udp/239.3.1.68:4120
+军旅剧场,http://www.abelstation.cn:4000/udp/239.3.1.68:4120
+动作影院,http://dsm.ats.ink:8012/udp/239.3.1.92:4120
+动作影院,http://joyznm.i234.me:20000/udp/239.3.1.92:4120
+动作影院,http://joyznm.x3322.net:20000/udp/239.3.1.92:4120
+动作影院,http://my.saopanda.top:18889/udp/239.3.1.92:4120
+动作影院,http://wuyanjiang.cn:8012/udp/239.3.1.92:4120
+动作影院,http://wuzuo.fun:4022/udp/239.3.1.92:4120
+动作影院,http://www.abelstation.cn:4000/udp/239.3.1.92:4120
+古装剧场,http://dsm.ats.ink:8012/udp/239.3.1.69:4120
+古装剧场,http://joyznm.i234.me:20000/udp/239.3.1.69:4120
+古装剧场,http://joyznm.x3322.net:20000/udp/239.3.1.69:4120
+古装剧场,http://my.saopanda.top:18889/udp/239.3.1.69:4120
+古装剧场,http://wuyanjiang.cn:8012/udp/239.3.1.69:4120
+古装剧场,http://wuzuo.fun:4022/udp/239.3.1.69:4120
+古装剧场,http://www.abelstation.cn:4000/udp/239.3.1.69:4120
+城市剧场,http://dsm.ats.ink:8012/udp/239.3.1.67:4120
+城市剧场,http://joyznm.i234.me:20000/udp/239.3.1.67:4120
+城市剧场,http://joyznm.x3322.net:20000/udp/239.3.1.67:4120
+城市剧场,http://my.saopanda.top:18889/udp/239.3.1.67:4120
+城市剧场,http://wuyanjiang.cn:8012/udp/239.3.1.67:4120
+城市剧场,http://wuzuo.fun:4022/udp/239.3.1.67:4120
+城市剧场,http://www.abelstation.cn:4000/udp/239.3.1.67:4120
+戏曲,http://joyznm.i234.me:20000/udp/239.3.1.78:4120
+戏曲,http://joyznm.x3322.net:20000/udp/239.3.1.78:4120
+戏曲,http://my.saopanda.top:18889/udp/239.3.1.78:4120
+戏曲,http://wouu.net:9977/udp/239.93.0.217:9208
+戏曲,http://wuyanjiang.cn:8012/udp/239.3.1.78:4120
+戏曲,http://wuzuo.fun:4022/udp/239.3.1.78:4120
+斗鱼电影-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+斗鱼电影-邵氏影院,http://maomao.kandiantv.cn/douyu1.php?id=4246519
+武侠剧场,http://dsm.ats.ink:8012/udp/239.3.1.90:4120
+武侠剧场,http://joyznm.i234.me:20000/udp/239.3.1.90:4120
+武侠剧场,http://my.saopanda.top:18889/udp/239.3.1.90:4120
+武侠剧场,http://sweetown.fun:4000/udp/239.3.1.90:4120
+武侠剧场,http://wuyanjiang.cn:8012/udp/239.3.1.90:4120
+武侠剧场,http://wuzuo.fun:4022/udp/239.3.1.90:4120
+武侠剧场,http://www.abelstation.cn:4000/udp/239.3.1.90:4120
+淘4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2
+淘Baby,http://114.243.104.126:8888/rtp/239.3.1.238:8001
+淘Baby,http://dsm.ats.ink:8012/udp/239.3.1.238:8001
+淘Baby,http://gen8.cc:5555/udp/239.3.1.238:8001
+淘Baby,http://joyznm.i234.me:20000/udp/239.3.1.238:8001
+淘Baby,http://joyznm.x3322.net:20000/udp/239.3.1.238:8001
+淘Baby,http://my.saopanda.top:18889/udp/239.3.1.238:8001
+淘Baby,http://wuyanjiang.cn:8012/udp/239.3.1.238:8001
+淘Baby,http://wuzuo.fun:4022/udp/239.3.1.238:8001
+淘Baby,http://www.abelstation.cn:4000/udp/239.3.1.238:8001
+淘剧场,http://114.243.104.126:8888/rtp/239.3.1.95:8001
+淘剧场,http://dsm.ats.ink:8012/udp/239.3.1.95:8001
+淘剧场,http://gen8.cc:5555/udp/239.3.1.95:8001
+淘剧场,http://joyznm.i234.me:20000/udp/239.3.1.95:8001
+淘剧场,http://joyznm.x3322.net:20000/udp/239.3.1.95:8001
+淘剧场,http://my.saopanda.top:18889/udp/239.3.1.95:8001
+淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2
+淘剧场,http://wuyanjiang.cn:8012/udp/239.3.1.95:8001
+淘剧场,http://wuzuo.fun:4022/udp/239.3.1.95:8001
+淘剧场,http://www.abelstation.cn:4000/udp/239.3.1.95:8001
+淘娱乐,http://114.243.104.126:8888/rtp/239.3.1.100:8001
+淘娱乐,http://dsm.ats.ink:8012/udp/239.3.1.100:8001
+淘娱乐,http://gen8.cc:5555/udp/239.3.1.100:8001
+淘娱乐,http://joyznm.i234.me:20000/udp/239.3.1.100:8001
+淘娱乐,http://my.saopanda.top:18889/udp/239.3.1.100:8001
+淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2
+淘娱乐,http://sweetown.fun:4000/udp/239.3.1.100:8001
+淘娱乐,http://wuyanjiang.cn:8012/udp/239.3.1.100:8001
+淘娱乐,http://wuzuo.fun:4022/udp/239.3.1.100:8001
+淘电影,http://114.243.104.126:8888/rtp/239.3.1.250:8001
+淘电影,http://gen8.cc:5555/udp/239.3.1.250:8001
+淘电影,http://joyznm.i234.me:20000/udp/239.3.1.250:8001
+淘电影,http://joyznm.x3322.net:20000/udp/239.3.1.250:8001
+淘电影,http://my.saopanda.top:18889/udp/239.3.1.250:8001
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2
+淘电影,http://wuyanjiang.cn:8012/udp/239.3.1.250:8001
+热播剧场,http://dsm.ats.ink:8012/udp/239.3.1.194:9020
+热播剧场,http://gen8.cc:5555/udp/239.3.1.194:9020
+热播剧场,http://joyznm.i234.me:20000/udp/239.3.1.194:9020
+热播剧场,http://joyznm.x3322.net:20000/udp/239.3.1.194:9020
+热播剧场,http://my.saopanda.top:18889/udp/239.3.1.194:9020
+热播剧场,http://wuyanjiang.cn:8012/udp/239.3.1.194:9020
+热播剧场,http://wuzuo.fun:4022/udp/239.3.1.194:9020
+热播剧场,http://www.abelstation.cn:4000/udp/239.3.1.194:9020
+经典电影,http://dsm.ats.ink:8012/udp/239.3.1.195:9024
+经典电影,http://gen8.cc:5555/udp/239.3.1.195:9024
+经典电影,http://joyznm.i234.me:20000/udp/239.3.1.195:9024
+经典电影,http://my.saopanda.top:18889/udp/239.3.1.195:9024
+经典电影,http://wouu.net:9977/udp/239.93.0.57:9024
+经典电影,http://wuyanjiang.cn:8012/udp/239.3.1.195:9024
+经典电影,http://wuzuo.fun:4022/udp/239.3.1.195:9024
+经典电影,http://www.abelstation.cn:4000/udp/239.3.1.195:9024
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://mtw.so/5NPX0U
+音乐现场,http://dsm.ats.ink:8012/udp/239.3.1.70:4120
+音乐现场,http://ikuai.zlsip.top:4022/udp/239.3.1.70:4120
+音乐现场,http://joyznm.i234.me:20000/udp/239.3.1.70:4120
+音乐现场,http://joyznm.x3322.net:20000/udp/239.3.1.70:4120
+音乐现场,http://my.saopanda.top:18889/udp/239.3.1.70:4120
+音乐现场,http://wuzuo.fun:4022/udp/239.3.1.70:4120
+音乐现场,http://www.abelstation.cn:4000/udp/239.3.1.70:4120
+香港电影,http://swrh.ngtanyanfei.top:8081/dl/migu.php?id=xpfyt
+广东影视,https://www.gdtv.cn/tvChannelDetail/53###WEB
+广东嘉佳卡通,https://www.gdtv.cn/tvChannelDetail/66###WEB
+深圳电视剧频道,https://www.sztv.com.cn/pindao/index.html?id=7880###WEB
+湖南电影,https://live.mgtv.com/?channelId=221###WEB
+湖南电视剧,https://live.mgtv.com/?channelId=484###WEB
+金鹰卡通,https://live.mgtv.com/?channelId=287###WEB
+金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
+金鹰卡通,http://dsm.ats.ink:8012/udp/239.3.1.51:9252
+金鹰卡通,http://gen8.cc:5555/udp/239.3.1.51:9252
+金鹰卡通,http://ikuai.zlsip.top:4022/udp/239.3.1.51:9252
+金鹰卡通,http://joyznm.i234.me:20000/udp/239.3.1.51:9252
+金鹰卡通,http://joyznm.x3322.net:20000/udp/239.3.1.51:9252
+金鹰卡通,http://my.saopanda.top:18889/udp/239.3.1.51:9252
+金鹰卡通,http://wuyanjiang.cn:8012/udp/239.3.1.51:9252
+金鹰卡通,http://www.abelstation.cn:4000/udp/239.3.1.51:9252
+内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+动画,http://dsm.ats.ink:8012/udp/239.3.1.80:4120
+动画,http://gen8.cc:5555/udp/239.3.1.80:4120
+动画,http://joyznm.i234.me:20000/udp/239.3.1.80:4120
+动画,http://joyznm.x3322.net:20000/udp/239.3.1.80:4120
+动画,http://my.saopanda.top:18889/udp/239.3.1.80:4120
+动画,http://sweetown.fun:4000/udp/239.3.1.80:4120
+动画,http://wuyanjiang.cn:8012/udp/239.3.1.80:4120
+动画,http://wuzuo.fun:4022/udp/239.3.1.80:4120
+动画,http://www.abelstation.cn:4000/udp/239.3.1.80:4120
+卡酷少儿,https://www.brtn.cn/btv/btvsy_index###WEB
+卡酷少儿,http://114.243.104.126:8888/rtp/239.3.1.189:8000
+卡酷少儿,http://dsm.ats.ink:8012/udp/239.3.1.189:8000
+卡酷少儿,http://joyznm.i234.me:20000/udp/239.3.1.189:8000
+卡酷少儿,http://joyznm.x3322.net:20000/udp/239.3.1.189:8000
+卡酷少儿,http://my.saopanda.top:18889/udp/239.3.1.189:8000
+卡酷少儿,http://sweetown.fun:4000/udp/239.3.1.189:8000
+卡酷少儿,http://wuyanjiang.cn:8012/udp/239.3.1.189:8000
+卡酷少儿,http://wuzuo.fun:4022/udp/239.3.1.189:8000
+卡酷少儿,http://www.abelstation.cn:4000/udp/239.3.1.189:8000
+嘉佳卡通,http://dsm.ats.ink:8012/udp/239.3.1.147:9268
+嘉佳卡通,http://gen8.cc:5555/udp/239.3.1.147:9268
+嘉佳卡通,http://joyznm.i234.me:20000/udp/239.3.1.147:9268
+嘉佳卡通,http://joyznm.x3322.net:20000/udp/239.3.1.147:9268
+嘉佳卡通,http://my.saopanda.top:18889/udp/239.3.1.147:9268
+嘉佳卡通,http://sweetown.fun:4000/udp/239.3.1.147:9268
+嘉佳卡通,http://wuyanjiang.cn:8012/udp/239.3.1.147:9268
+嘉佳卡通,http://wuzuo.fun:4022/udp/239.3.1.147:9268
+嘉佳卡通,http://www.abelstation.cn:4000/udp/239.3.1.147:9268
+少儿动画,http://dsm.ats.ink:8012/udp/239.3.1.199:9000
+少儿动画,http://gen8.cc:5555/udp/239.3.1.199:9000
+少儿动画,http://ikuai.zlsip.top:4022/udp/239.3.1.199:9000
+少儿动画,http://joyznm.i234.me:20000/udp/239.3.1.199:9000
+少儿动画,http://joyznm.x3322.net:20000/udp/239.3.1.199:9000
+少儿动画,http://my.saopanda.top:18889/udp/239.3.1.199:9000
+少儿动画,http://sweetown.fun:4000/udp/239.3.1.199:9000
+少儿动画,http://wuyanjiang.cn:8012/udp/239.3.1.199:9000
+少儿动画,http://wuzuo.fun:4022/udp/239.3.1.199:9000
+少儿动画,http://www.abelstation.cn:4000/udp/239.3.1.199:9000
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+CCTV-1 综合,http://114.243.104.126:8888/rtp/239.3.1.129:8008
+CCTV-1 综合,http://180.172.21.168:4022/udp/239.45.3.145:5140
+CCTV-1 综合,https://www.xttv.com.cn/index/channel/index/id/155.html
+CCTV-1 综合,https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8
+CCTV-1 综合,https://tv.cctv.com/live/cctv1
+CCTV-1 综合,https://www.yangshipin.cn/tv/home?pid=600001859
+CCTV-1 综合,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
+CCTV-1 综合,http://joyznm.i234.me:20000/udp/239.3.1.129:8008
+CCTV-1 综合,http://joyznm.x3322.net:20000/udp/239.3.1.129:8008
+CCTV-1 综合,http://my.saopanda.top:18889/udp/239.3.1.129:8008
+CCTV-1 综合,http://sweetown.fun:4000/udp/239.3.1.129:8008
+CCTV-1 综合,http://wuyanjiang.cn:8012/udp/239.3.1.129:8008
+CCTV-1 综合,http://www.abelstation.cn:4000/udp/239.3.1.129:8008
+CCTV-1 综合,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+CCTV-2 财经,http://114.243.104.126:8888/rtp/239.3.1.60:8084
+CCTV-2 财经,https://tv.cctv.com/live/cctv2
+CCTV-2 财经,https://www.yangshipin.cn/tv/home?pid=600001800
+CCTV-2 财经,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2 财经,http://dsm.ats.ink:8012/udp/239.3.1.60:8084
+CCTV-2 财经,http://gen8.cc:5555/udp/239.3.1.60:8084
+CCTV-2 财经,http://joyznm.i234.me:20000/udp/239.3.1.60:8084
+CCTV-2 财经,http://joyznm.x3322.net:20000/udp/239.3.1.60:8084
+CCTV-2 财经,http://my.saopanda.top:18889/udp/239.3.1.60:8084
+CCTV-2 财经,http://wuyanjiang.cn:8012/udp/239.3.1.60:8084
+CCTV-2 财经,http://wuzuo.fun:4022/udp/239.3.1.60:8084
+CCTV-2 财经,http://www.abelstation.cn:4000/udp/239.3.1.60:8084
+CCTV-2 财经,http://ycsj.aguihome.com:4022/rtp/233.50.201.119:5140
+CCTV-3 综艺,https://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8
+CCTV-3 综艺,https://tv.cctv.com/live/cctv3
+CCTV-3 综艺,http://dsm.ats.ink:8012/udp/239.3.1.172:8001
+CCTV-3 综艺,http://gen8.cc:5555/udp/239.3.1.172:8001
+CCTV-3 综艺,http://ikuai.zlsip.top:4022/udp/239.3.1.172:8001
+CCTV-3 综艺,http://joyznm.i234.me:20000/udp/239.3.1.172:8001
+CCTV-3 综艺,http://joyznm.x3322.net:20000/udp/239.3.1.172:8001
+CCTV-3 综艺,http://my.saopanda.top:18889/udp/239.3.1.172:8001
+CCTV-3 综艺,http://sweetown.fun:4000/udp/239.3.1.172:8001
+CCTV-3 综艺,http://wouu.net:9977/udp/239.93.1.11:2223
+CCTV-3 综艺,http://wuyanjiang.cn:8012/udp/239.3.1.172:8001
+CCTV-3 综艺,http://ycsj.aguihome.com:4022/rtp/233.50.201.196:5140
+CCTV-4 中文国际（亚）,https://tv.cctv.com/live/cctv4
+CCTV-4 中文国际（亚）,https://www.yangshipin.cn/tv/home?pid=600001814
+CCTV-4 中文国际（亚）,http://dsm.ats.ink:8012/udp/239.3.1.105:8092
+CCTV-4 中文国际（亚）,http://enlen.vip:4022/rtp/239.200.200.128:8652
+CCTV-4 中文国际（亚）,http://gen8.cc:5555/udp/239.3.1.105:8092
+CCTV-4 中文国际（亚）,http://joyznm.i234.me:20000/udp/239.3.1.105:8092
+CCTV-4 中文国际（亚）,http://joyznm.x3322.net:20000/udp/239.3.1.105:8092
+CCTV-4 中文国际（亚）,http://my.saopanda.top:18889/udp/239.3.1.105:8092
+CCTV-4 中文国际（亚）,http://sweetown.fun:4000/udp/239.3.1.105:8092
+CCTV-4 中文国际（亚）,http://wuyanjiang.cn:8012/udp/239.3.1.105:8092
+CCTV-4 中文国际（亚）,http://wuzuo.fun:4022/udp/239.3.1.105:8092
+CCTV-5+ 体育赛事,https://tv.cctv.com/live/cctv5plus
+CCTV-5+ 体育赛事,https://www.yangshipin.cn/tv/home?pid=600001817
+CCTV-5+ 体育赛事,http://1.30.178.49:9901/tsfile/live/0016_1.m3u8?key=txiptv
+CCTV-5+ 体育赛事,http://1b6467f415.iok.la:9931/tsfile/live/1025_1.m3u8
+CCTV-5+ 体育赛事,http://dsm.ats.ink:8012/udp/239.3.1.130:8004
+CCTV-5+ 体育赛事,http://gen8.cc:5555/udp/239.3.1.130:8004
+CCTV-5+ 体育赛事,http://joyznm.i234.me:20000/udp/239.3.1.130:8004
+CCTV-5+ 体育赛事,http://joyznm.x3322.net:20000/udp/239.3.1.130:8004
+CCTV-5+ 体育赛事,http://my.saopanda.top:18889/udp/239.3.1.130:8004
+CCTV-5+ 体育赛事,http://sweetown.fun:4000/udp/239.3.1.130:8004
+CCTV-5+ 体育赛事,http://wouu.net:9977/udp/239.93.1.36:8004
+CCTV-5+ 体育赛事,http://wuyanjiang.cn:8012/udp/239.3.1.130:8004
+CCTV-5+ 体育赛事,http://wuzuo.fun:4022/udp/239.3.1.130:8004
+CCTV-5+ 体育赛事,http://www.zzlag.top:9087/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-5+ 体育赛事,http://zy.otioi.cn/live/migu.php?token=4zfvOqMj&id=cctv5p
+CCTV-5 体育,https://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8
+CCTV-5 体育,https://tv.cctv.com/live/cctv5
+CCTV-5 体育,https://www.yangshipin.cn/tv/home?pid=600001818
+CCTV-5 体育,http://123.113.236.69:8012/rtp/239.3.1.108:8001
+CCTV-5 体育,http://1b6467f415.iok.la:9931/tsfile/live/1024_1.m3u8
+CCTV-5 体育,http://dsm.ats.ink:8012/udp/239.3.1.173:8001
+CCTV-5 体育,http://gen8.cc:5555/udp/239.3.1.173:8001
+CCTV-5 体育,http://joyznm.i234.me:20000/udp/239.3.1.173:8001
+CCTV-5 体育,http://joyznm.x3322.net:20000/udp/239.3.1.173:8001
+CCTV-5 体育,http://my.saopanda.top:18889/udp/239.3.1.173:8001
+CCTV-5 体育,http://sweetown.fun:4000/udp/239.3.1.173:8001
+CCTV-5 体育,http://wuyanjiang.cn:8012/udp/239.3.1.173:8001
+CCTV-5 体育,http://wuzuo.fun:4022/udp/239.3.1.173:8001
+CCTV-6 电影,https://www.1905.com/cctv6/live/
+CCTV-6 电影,http://114.243.104.126:8888/rtp/239.3.1.174:8001
+CCTV-6 电影,http://175.150.152.34:9005/rtp/232.0.0.172:1234
+CCTV-6 电影,https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8
+CCTV-6 电影,https://tv.cctv.com/live/cctv6
+CCTV-6 电影,https://www.yangshipin.cn/tv/home?pid=600108442
+CCTV-6 电影,http://112.123.206.32:808/hls/7/index.m3u8
+CCTV-6 电影,http://36.135.52.57:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV-6 电影,http://dsm.ats.ink:8012/udp/239.3.1.174:8001
+CCTV-6 电影,http://gen8.cc:5555/udp/239.3.1.174:8001
+CCTV-6 电影,http://joyznm.i234.me:20000/udp/239.3.1.174:8001
+CCTV-6 电影,http://joyznm.x3322.net:20000/udp/239.3.1.174:8001
+CCTV-6 电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0
+CCTV-6 电影,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV-6 电影,http://my.saopanda.top:18889/udp/239.3.1.174:8001
+CCTV-6 电影,http://wouu.net:9977/udp/239.93.1.13:2226
+CCTV-6 电影,http://wuzuo.fun:4022/udp/239.3.1.174:8001
+CCTV-6 电影,https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
+CCTV-7 国防军事,https://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8
+CCTV-7 国防军事,https://tv.cctv.com/live/cctv7
+CCTV-7 国防军事,https://www.yangshipin.cn/tv/home?pid=600004092
+CCTV-7 国防军事,http://124.116.183.146:9901/tsfile/live/0007_1.m3u8
+CCTV-7 国防军事,http://223.241.247.214:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7 国防军事,http://dsm.ats.ink:8012/udp/239.3.1.61:8104
+CCTV-7 国防军事,http://gen8.cc:5555/udp/239.3.1.61:8104
+CCTV-7 国防军事,http://joyznm.i234.me:20000/udp/239.3.1.61:8104
+CCTV-7 国防军事,http://joyznm.x3322.net:20000/udp/239.3.1.61:8104
+CCTV-7 国防军事,http://my.saopanda.top:18889/udp/239.3.1.61:8104
+CCTV-7 国防军事,http://sweetown.fun:4000/udp/239.3.1.61:8104
+CCTV-7 国防军事,http://wouu.net:9977/udp/239.93.1.67:5140
+CCTV-7 国防军事,http://wuyanjiang.cn:8012/udp/239.3.1.61:8104
+CCTV-7 国防军事,http://wuzuo.fun:4022/udp/239.3.1.61:8104
+CCTV-7 国防军事,http://ycsj.aguihome.com:4022/rtp/233.50.201.120:5140
+CCTV-8 电视剧,https://tv.cctv.com/live/cctv8
+CCTV-8 电视剧,https://www.yangshipin.cn/tv/home?pid=600001803
+CCTV-8 电视剧,http://123.129.70.178:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://61.157.139.15:9901/tsfile/live/2378_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://dsm.ats.ink:8012/udp/239.3.1.175:8001
+CCTV-8 电视剧,http://gen8.cc:5555/udp/239.3.1.175:8001
+CCTV-8 电视剧,http://joyznm.i234.me:20000/udp/239.3.1.175:8001
+CCTV-8 电视剧,http://joyznm.x3322.net:20000/udp/239.3.1.175:8001
+CCTV-8 电视剧,http://my.saopanda.top:18889/udp/239.3.1.175:8001
+CCTV-8 电视剧,http://sweetown.fun:4000/udp/239.3.1.175:8001
+CCTV-8 电视剧,http://wouu.net:9977/udp/239.93.42.39:5140
+CCTV-8 电视剧,http://wuyanjiang.cn:8012/udp/239.3.1.175:8001
+CCTV-8 电视剧,http://wuzuo.fun:4022/udp/239.3.1.175:8001
+CCTV-9 纪录,https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8
+CCTV-9 纪录,https://tv.cctv.com/live/cctvjilu
+CCTV-9 纪录,https://www.yangshipin.cn/tv/home?pid=600004078
+CCTV-9 纪录,http://1b6467f415.iok.la:9931/tsfile/live/1029_1.m3u8
+CCTV-9 纪录,http://dsm.ats.ink:8012/udp/239.3.1.62:8112
+CCTV-9 纪录,http://gen8.cc:5555/udp/239.3.1.62:8112
+CCTV-9 纪录,http://joyznm.i234.me:20000/udp/239.3.1.62:8112
+CCTV-9 纪录,http://joyznm.x3322.net:20000/udp/239.3.1.62:8112
+CCTV-9 纪录,http://my.saopanda.top:18889/udp/239.3.1.62:8112
+CCTV-9 纪录,http://sweetown.fun:4000/udp/239.3.1.62:8112
+CCTV-9 纪录,http://wouu.net:9977/udp/239.93.1.24:5140
+CCTV-9 纪录,http://wuyanjiang.cn:8012/udp/239.3.1.62:8112
+CCTV-9 纪录,http://wuzuo.fun:4022/udp/239.3.1.62:8112
+CCTV-10 科教,http://114.243.104.126:8888/rtp/239.3.1.63:8116
+CCTV-10 科教,http://175.150.152.34:9005/rtp/232.0.0.138:1234
+CCTV-10 科教,https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8
+CCTV-10 科教,https://tv.cctv.com/live/cctv10
+CCTV-10 科教,https://www.yangshipin.cn/tv/home?pid=600001805
+CCTV-10 科教,http://dsm.ats.ink:8012/udp/239.3.1.63:8116
+CCTV-10 科教,http://gen8.cc:5555/udp/239.3.1.63:8116
+CCTV-10 科教,http://joyznm.i234.me:20000/udp/239.3.1.63:8116
+CCTV-10 科教,http://my.saopanda.top:18889/udp/239.3.1.63:8116
+CCTV-10 科教,http://sweetown.fun:4000/udp/239.3.1.63:8116
+CCTV-10 科教,http://wouu.net:9977/udp/239.93.1.28:5140
+CCTV-10 科教,http://wuyanjiang.cn:8012/udp/239.3.1.63:8116
+CCTV-10 科教,http://ycsj.aguihome.com:4022/rtp/233.50.201.122:5140
+CCTV-11 戏曲,https://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8
+CCTV-11 戏曲,https://tv.cctv.com/live/cctv11
+CCTV-11 戏曲,https://www.yangshipin.cn/tv/home?pid=600001806
+CCTV-11 戏曲,http://117.114.153.18:8180/TV00000000000000000002@HHZT
+CCTV-11 戏曲,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://dsm.ats.ink:8012/udp/239.3.1.152:8120
+CCTV-11 戏曲,http://gen8.cc:5555/udp/239.3.1.152:8120
+CCTV-11 戏曲,http://home.yulei.online:9999/rtp/226.0.2.28:8136
+CCTV-11 戏曲,http://joyznm.i234.me:20000/udp/239.3.1.152:8120
+CCTV-11 戏曲,http://joyznm.x3322.net:20000/udp/239.3.1.152:8120
+CCTV-11 戏曲,http://my.saopanda.top:18889/udp/239.3.1.152:8120
+CCTV-11 戏曲,http://sweetown.fun:4000/udp/239.3.1.152:8120
+CCTV-11 戏曲,http://wouu.net:9977/udp/239.93.0.102:5140
+CCTV-11 戏曲,http://wuyanjiang.cn:8012/udp/239.3.1.152:8120
+CCTV-11 戏曲,http://wuzuo.fun:4022/udp/239.3.1.152:8120
+CCTV-11 戏曲,http://ycsj.aguihome.com:4022/rtp/233.50.201.11:5140
+CCTV-12 社会与法,https://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8
+CCTV-12 社会与法,https://tv.cctv.com/live/cctv12
+CCTV-12 社会与法,https://www.yangshipin.cn/tv/home?pid=600001807
+CCTV-12 社会与法,http://123.113.236.69:8012/rtp/239.3.1.12:8232
+CCTV-12 社会与法,http://dsm.ats.ink:8012/udp/239.3.1.64:8124
+CCTV-12 社会与法,http://gen8.cc:5555/udp/239.3.1.64:8124
+CCTV-12 社会与法,http://joyznm.i234.me:20000/udp/239.3.1.64:8124
+CCTV-12 社会与法,http://joyznm.x3322.net:20000/udp/239.3.1.64:8124
+CCTV-12 社会与法,http://my.saopanda.top:18889/udp/239.3.1.64:8124
+CCTV-12 社会与法,http://sweetown.fun:4000/udp/239.3.1.64:8124
+CCTV-12 社会与法,http://wuyanjiang.cn:8012/udp/239.3.1.64:8124
+CCTV-12 社会与法,http://wuzuo.fun:4022/udp/239.3.1.64:8124
+CCTV-12 社会与法,http://ycsj.aguihome.com:4022/rtp/233.50.201.123:5140
+CCTV-13 新闻,https://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8
+CCTV-13 新闻,https://tv.cctv.com/live/cctv13
+CCTV-13 新闻,https://www.yangshipin.cn/tv/home?pid=600001811
+CCTV-13 新闻,http://112.123.206.32:808/hls/13/index.m3u8
+CCTV-13 新闻,http://223.151.49.74:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13 新闻,http://dsm.ats.ink:8012/udp/239.3.1.124:8128
+CCTV-13 新闻,http://joyznm.i234.me:20000/udp/239.3.1.124:8128
+CCTV-13 新闻,http://joyznm.x3322.net:20000/udp/239.3.1.124:8128
+CCTV-13 新闻,http://my.saopanda.top:18889/udp/239.3.1.124:8128
+CCTV-13 新闻,http://sweetown.fun:4000/udp/239.3.1.124:8128
+CCTV-13 新闻,http://wouu.net:9977/udp/239.93.0.66:5140
+CCTV-13 新闻,http://wuyanjiang.cn:8012/udp/239.3.1.124:8128
+CCTV-13 新闻,http://wuzuo.fun:4022/udp/239.3.1.124:8128
+CCTV-14 少儿,https://tv.cctv.com/live/cctvchild
+CCTV-14 少儿,https://www.yangshipin.cn/tv/home?pid=600001809
+CCTV-14 少儿,http://223.241.247.214:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://61.157.139.15:9901/tsfile/live/2384_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://dsm.ats.ink:8012/udp/239.3.1.65:8132
+CCTV-14 少儿,http://gen8.cc:5555/udp/239.3.1.65:8132
+CCTV-14 少儿,http://joyznm.i234.me:20000/udp/239.3.1.65:8132
+CCTV-14 少儿,http://joyznm.x3322.net:20000/udp/239.3.1.65:8132
+CCTV-14 少儿,http://my.saopanda.top:18889/udp/239.3.1.65:8132
+CCTV-14 少儿,http://sweetown.fun:4000/udp/239.3.1.65:8132
+CCTV-14 少儿,http://wuyanjiang.cn:8012/udp/239.3.1.65:8132
+CCTV-14 少儿,http://wuzuo.fun:4022/udp/239.3.1.65:8132
+CCTV-15 音乐,https://tv.cctv.com/live/cctv15
+CCTV-15 音乐,https://www.yangshipin.cn/tv/home?pid=600001815
+CCTV-15 音乐,http://dsm.ats.ink:8012/udp/239.3.1.153:8136
+CCTV-15 音乐,http://joyznm.i234.me:20000/udp/239.3.1.153:8136
+CCTV-15 音乐,http://joyznm.x3322.net:20000/udp/239.3.1.153:8136
+CCTV-15 音乐,http://my.saopanda.top:18889/udp/239.3.1.153:8136
+CCTV-15 音乐,http://sweetown.fun:4000/udp/239.3.1.153:8136
+CCTV-15 音乐,http://wuyanjiang.cn:8012/udp/239.3.1.153:8136
+CCTV-15 音乐,http://wuzuo.fun:4022/udp/239.3.1.153:8136
+CCTV-16 奥林匹克,https://tv.cctv.com/live/cctv16
+CCTV-16 奥林匹克,https://www.yangshipin.cn/tv/home?pid=600098637
+CCTV-16 奥林匹克,http://dsm.ats.ink:8012/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://joyznm.i234.me:20000/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://joyznm.x3322.net:20000/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://my.saopanda.top:18889/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://sweetown.fun:4000/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://wuzuo.fun:4022/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://www.abelstation.cn:4000/udp/239.3.1.184:8001
+CCTV-16 奥林匹克,http://117.114.153.18:8180/TV00000000000000000136@HHZT
+CCTV-16 奥林匹克,http://www.erbao1981.top:8188/udp/239.76.246.98:1234
+CCTV-17 农业农村,https://tv.cctv.com/live/cctv17
+CCTV-17 农业农村,https://www.yangshipin.cn/tv/home?pid=600001810
+CCTV-17 农业农村,http://123.113.236.69:8012/rtp/239.3.1.151:8144
+CCTV-17 农业农村,http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
+CCTV-17 农业农村,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.151:8144
+CCTV-17 农业农村,http://dsm.ats.ink:8012/udp/239.3.1.151:8144
+CCTV-17 农业农村,http://gen8.cc:5555/udp/239.3.1.151:8144
+CCTV-17 农业农村,http://joyznm.x3322.net:20000/udp/239.3.1.151:8144
+CCTV-17 农业农村,http://my.saopanda.top:18889/udp/239.3.1.151:8144
+CCTV-17 农业农村,http://sweetown.fun:4000/udp/239.3.1.151:8144
+CCTV-17 农业农村,http://wuyanjiang.cn:8012/udp/239.3.1.151:8144
+CCTV-17 农业农村,http://wuzuo.fun:4022/udp/239.3.1.151:8144
+CCTV-17 农业农村,http://www.abelstation.cn:4000/udp/239.3.1.151:8144
+CCTV-17 农业农村,http://www.erbao1981.top:8188/udp/239.76.245.239:1234
+CCTV-17 农业农村,http://www.zzlag.top:9087/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-4 中文国际（欧）,https://tv.cctv.com/live/cctveurope
+CCTV-4 中文国际（欧）,http://dsm.ats.ink:8012/udp/239.3.1.213:4220
+CCTV-4 中文国际（欧）,http://gen8.cc:5555/udp/239.3.1.213:4220
+CCTV-4 中文国际（欧）,http://joyznm.i234.me:20000/udp/239.3.1.213:4220
+CCTV-4 中文国际（欧）,http://joyznm.x3322.net:20000/udp/239.3.1.213:4220
+CCTV-4 中文国际（欧）,http://my.saopanda.top:18889/udp/239.3.1.213:4220
+CCTV-4 中文国际（欧）,http://sweetown.fun:4000/udp/239.3.1.213:4220
+CCTV-4 中文国际（欧）,http://wuyanjiang.cn:8012/udp/239.3.1.213:4220
+CCTV-4 中文国际（欧）,http://wuzuo.fun:4022/udp/239.3.1.213:4220
+CCTV-4 中文国际（美）,https://tv.cctv.com/live/cctvamerica
+CCTV-4 中文国际（美）,http://gen8.cc:5555/udp/239.3.1.214:4220
+CCTV-4 中文国际（美）,http://ikuai.zlsip.top:4022/udp/239.3.1.214:4220
+CCTV-4 中文国际（美）,http://joyznm.i234.me:20000/udp/239.3.1.214:4220
+CCTV-4 中文国际（美）,http://joyznm.x3322.net:20000/udp/239.3.1.214:4220
+CCTV-4 中文国际（美）,http://my.saopanda.top:18889/udp/239.3.1.214:4220
+CCTV-4 中文国际（美）,http://sweetown.fun:4000/udp/239.3.1.214:4220
+CCTV-4 中文国际（美）,http://wuyanjiang.cn:8012/udp/239.3.1.214:4220
+CCTV-4 中文国际（美）,http://wuzuo.fun:4022/udp/239.3.1.214:4220
+CCTV-4 中文国际（美）,http://www.abelstation.cn:4000/udp/239.3.1.214:4220
+CCTV4k,https://www.yangshipin.cn/tv/home?pid=600002264
+纬来电影,https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
+亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://cdn3.1678520.xyz:80/live/live2.1.php?id=fhzw
+凤凰中文,http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=cn
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=info
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
+
+北京卫视,http://114.243.104.126:8888/rtp/239.3.1.241:8000
+北京卫视,https://www.brtn.cn/btv/btvsy_index
+北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8
+北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
+三沙卫视,http://gen8.cc:5555/udp/239.3.1.155:4120
+三沙卫视,http://joyznm.i234.me:20000/udp/239.3.1.155:4120
+三沙卫视,http://joyznm.x3322.net:20000/udp/239.3.1.155:4120
+三沙卫视,http://my.saopanda.top:18889/udp/239.3.1.155:4120
+三沙卫视,http://wouu.net:9977/udp/239.93.42.58:5140
+三沙卫视,http://wuyanjiang.cn:8012/udp/239.3.1.155:4120
+三沙卫视,http://www.abelstation.cn:4000/udp/239.3.1.155:4120
+东南卫视,http://223.241.247.214:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://59.62.8.250:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://dsm.ats.ink:8012/udp/239.3.1.156:8148
+东南卫视,http://gen8.cc:5555/udp/239.3.1.156:8148
+东南卫视,http://joyznm.i234.me:20000/udp/239.3.1.156:8148
+东南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.156:8148
+东南卫视,http://my.saopanda.top:18889/udp/239.3.1.156:8148
+东南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.156:8148
+东南卫视,http://wuzuo.fun:4022/udp/239.3.1.156:8148
+东南卫视,http://www.abelstation.cn:4000/udp/239.3.1.156:8148
+东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484
+东方卫视,http://1b6467f415.iok.la:9931/tsfile/live/1061_1.m3u8
+东方卫视,http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://223.241.247.214:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://36.135.52.57:9901/tsfile/live/0107_1.m3u8?key=txiptv
+东方卫视,http://dsm.ats.ink:8012/udp/239.3.1.136:8032
+东方卫视,http://gen8.cc:5555/udp/239.3.1.136:8032
+东方卫视,http://joyznm.i234.me:20000/udp/239.3.1.136:8032
+东方卫视,http://joyznm.x3322.net:20000/udp/239.3.1.136:8032
+东方卫视,http://my.saopanda.top:18889/udp/239.3.1.136:8032
+东方卫视,http://wuyanjiang.cn:8012/udp/239.3.1.136:8032
+东方卫视,http://wuzuo.fun:4022/udp/239.3.1.136:8032
+东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483
+云南卫视,http://110.53.52.63:8888/newlive/live/hls/26/live.m3u8
+云南卫视,http://dsm.ats.ink:8012/udp/239.3.1.26:8108
+云南卫视,http://gen8.cc:5555/udp/239.3.1.26:8108
+云南卫视,http://joyznm.i234.me:20000/udp/239.3.1.26:8108
+云南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.26:8108
+云南卫视,http://my.saopanda.top:18889/udp/239.3.1.26:8108
+云南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.26:8108
+云南卫视,http://wuzuo.fun:4022/udp/239.3.1.26:8108
+兵团卫视,http://1b6467f415.iok.la:9931/tsfile/live/1092_1.m3u8
+兵团卫视,http://dsm.ats.ink:8012/udp/239.3.1.144:4120
+兵团卫视,http://gen8.cc:5555/udp/239.3.1.144:4120
+兵团卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.144:4120
+兵团卫视,http://joyznm.i234.me:20000/udp/239.3.1.144:4120
+兵团卫视,http://joyznm.x3322.net:20000/udp/239.3.1.144:4120
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0
+兵团卫视,http://my.saopanda.top:18889/udp/239.3.1.144:4120
+兵团卫视,http://wouu.net:9977/udp/239.93.42.43:5140
+兵团卫视,http://wuyanjiang.cn:8012/udp/239.3.1.144:4120
+兵团卫视,http://wuzuo.fun:4022/udp/239.3.1.144:4120
+兵团卫视,http://www.abelstation.cn:4000/udp/239.3.1.144:4120
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+内蒙古卫视,http://58.51.111.46:1111/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0thid=0
+内蒙古卫视,http://dsm.ats.ink:8012/udp/239.3.1.43:8176
+内蒙古卫视,http://gen8.cc:5555/udp/239.3.1.43:8176
+内蒙古卫视,http://joyznm.i234.me:20000/udp/239.3.1.43:8176
+内蒙古卫视,http://joyznm.x3322.net:20000/udp/239.3.1.43:8176
+内蒙古卫视,http://my.saopanda.top:18889/udp/239.3.1.43:8176
+内蒙古卫视,http://sweetown.fun:4000/udp/239.3.1.43:8176
+内蒙古卫视,http://wuyanjiang.cn:8012/udp/239.3.1.43:8176
+内蒙古卫视,http://wuzuo.fun:4022/udp/239.3.1.43:8176
+内蒙古卫视,http://www.abelstation.cn:4000/udp/239.3.1.43:8176
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+厦门卫视,http://124.128.73.58:9901/tsfile/live/0129_1.m3u8
+厦门卫视,http://dsm.ats.ink:8012/udp/239.3.1.143:4120
+厦门卫视,http://gen8.cc:5555/udp/239.3.1.143:4120
+厦门卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.143:4120
+厦门卫视,http://joyznm.i234.me:20000/udp/239.3.1.143:4120
+厦门卫视,http://joyznm.x3322.net:20000/udp/239.3.1.143:4120
+厦门卫视,http://my.saopanda.top:18889/udp/239.3.1.143:4120
+厦门卫视,http://sweetown.fun:4000/udp/239.3.1.143:4120
+厦门卫视,http://wouu.net:9977/udp/239.93.42.57:5140
+厦门卫视,http://wuyanjiang.cn:8012/udp/239.3.1.143:4120
+厦门卫视,http://wuzuo.fun:4022/udp/239.3.1.143:4120
+厦门卫视,http://www.abelstation.cn:4000/udp/239.3.1.143:4120
+吉林卫视,http://110.53.52.63:8888/newlive/live/hls/34/live.m3u8
+吉林卫视,http://113.25.252.226:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://1b6467f415.iok.la:9931/tsfile/live/1076_1.m3u8
+吉林卫视,http://223.241.247.214:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://59.173.243.210:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://dsm.ats.ink:8012/udp/239.3.1.240:8172
+吉林卫视,http://gen8.cc:5555/udp/239.3.1.240:8172
+吉林卫视,http://joyznm.i234.me:20000/udp/239.3.1.240:8172
+吉林卫视,http://joyznm.x3322.net:20000/udp/239.3.1.240:8172
+吉林卫视,http://my.saopanda.top:18889/udp/239.3.1.240:8172
+吉林卫视,http://sweetown.fun:4000/udp/239.3.1.240:8172
+吉林卫视,http://wouu.net:9977/udp/239.93.0.248:5140
+吉林卫视,http://wuyanjiang.cn:8012/udp/239.3.1.240:8172
+吉林卫视,http://wuzuo.fun:4022/udp/239.3.1.240:8172
+吉林卫视,http://www.abelstation.cn:4000/udp/239.3.1.240:8172
+四川卫视,http://219.147.200.9:18080/newlive/live/hls/48/live.m3u8
+四川卫视,http://223.241.247.214:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://59.173.243.210:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://gen8.cc:5555/udp/239.3.1.29:8288
+四川卫视,http://joyznm.i234.me:20000/udp/239.3.1.29:8288
+四川卫视,http://joyznm.x3322.net:20000/udp/239.3.1.29:8288
+四川卫视,http://my.saopanda.top:18889/udp/239.3.1.29:8288
+四川卫视,http://sweetown.fun:4000/udp/239.3.1.29:8288
+四川卫视,http://wouu.net:9977/udp/239.93.0.169:5140
+四川卫视,http://wouu.net:9977/udp/239.93.0.20:1235
+四川卫视,http://wuyanjiang.cn:8012/udp/239.3.1.29:8288
+四川卫视,http://wuzuo.fun:4022/udp/239.3.1.29:8288
+四川卫视,http://www.abelstation.cn:4000/udp/239.3.1.29:8288
+四川卫视,https://www.yangshipin.cn/tv/home?pid=600002516
+天津卫视,http://117.114.153.18:8180/TV00000000000000000085@HHZT
+天津卫视,http://1b6467f415.iok.la:9931/tsfile/live/1064_1.m3u8
+天津卫视,http://223.241.247.214:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://dsm.ats.ink:8012/udp/239.3.1.141:1234
+天津卫视,http://gen8.cc:5555/udp/239.3.1.141:1234
+天津卫视,http://joyznm.i234.me:20000/udp/239.3.1.141:1234
+天津卫视,http://joyznm.x3322.net:20000/udp/239.3.1.141:1234
+天津卫视,http://my.saopanda.top:18889/udp/239.3.1.141:1234
+天津卫视,http://sweetown.fun:4000/udp/239.3.1.141:1234
+天津卫视,http://wouu.net:9977/udp/239.93.0.167:5140
+天津卫视,http://wuyanjiang.cn:8012/udp/239.3.1.141:1234
+天津卫视,http://wuzuo.fun:4022/udp/239.3.1.141:1234
+天津卫视,http://www.abelstation.cn:4000/udp/239.3.1.141:1234
+宁夏卫视,http://219.147.200.9:18080/newlive/live/hls/53/live.m3u8
+宁夏卫视,http://223.241.247.214:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://dsm.ats.ink:8012/udp/239.3.1.46:8124
+宁夏卫视,http://gen8.cc:5555/udp/239.3.1.46:8124
+宁夏卫视,http://joyznm.i234.me:20000/udp/239.3.1.46:8124
+宁夏卫视,http://joyznm.x3322.net:20000/udp/239.3.1.46:8124
+宁夏卫视,http://my.saopanda.top:18889/udp/239.3.1.46:8124
+宁夏卫视,http://sweetown.fun:4000/udp/239.3.1.46:8124
+宁夏卫视,http://wouu.net:9977/udp/239.93.0.247:5140
+宁夏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.46:8124
+宁夏卫视,http://wuzuo.fun:4022/udp/239.3.1.46:8124
+宁夏卫视,http://www.abelstation.cn:4000/udp/239.3.1.46:8124
+安徽卫视,http://1.30.178.49:9901/tsfile/live/0130_1.m3u8?key=txiptv
+安徽卫视,http://117.114.153.18:8180/TV00000000000000000087@HHZT
+安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://dsm.ats.ink:8012/udp/239.3.1.211:8064
+安徽卫视,http://gen8.cc:5555/udp/239.3.1.211:8064
+安徽卫视,http://my.saopanda.top:18889/udp/239.3.1.211:8064
+安徽卫视,http://sweetown.fun:4000/udp/239.3.1.211:8064
+安徽卫视,http://wouu.net:9977/udp/239.93.1.106:5140
+安徽卫视,http://wuyanjiang.cn:8012/udp/239.3.1.211:8064
+安徽卫视,http://wuzuo.fun:4022/udp/239.3.1.211:8064
+安徽卫视,http://www.abelstation.cn:4000/udp/239.3.1.211:8064
+安徽卫视,https://www.yangshipin.cn/tv/home?pid=600002532
+山东卫视,http://1b6467f415.iok.la:9931/tsfile/live/1065_1.m3u8
+山东卫视,http://223.241.247.214:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://dsm.ats.ink:8012/udp/239.3.1.209:8052
+山东卫视,http://gen8.cc:5555/udp/239.3.1.209:8052
+山东卫视,http://joyznm.i234.me:20000/udp/239.3.1.209:8052
+山东卫视,http://joyznm.x3322.net:20000/udp/239.3.1.209:8052
+山东卫视,http://my.saopanda.top:18889/udp/239.3.1.209:8052
+山东卫视,http://sweetown.fun:4000/udp/239.3.1.209:8052
+山东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.209:8052
+山东卫视,http://wuzuo.fun:4022/udp/239.3.1.209:8052
+山东卫视,http://www.abelstation.cn:4000/udp/239.3.1.209:8052
+山东卫视,https://www.yangshipin.cn/tv/home?pid=600002513
+山西卫视,http://113.25.252.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://219.147.200.9:18080/newlive/live/hls/40/live.m3u8
+山西卫视,http://223.241.247.214:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://58.216.229.130:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://dsm.ats.ink:8012/udp/239.3.1.42:8172
+山西卫视,http://gen8.cc:5555/udp/239.3.1.42:8172
+山西卫视,http://joyznm.i234.me:20000/udp/239.3.1.42:8172
+山西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.42:8172
+山西卫视,http://my.saopanda.top:18889/udp/239.3.1.42:8172
+山西卫视,http://sweetown.fun:4000/udp/239.3.1.42:8172
+山西卫视,http://wouu.net:9977/udp/239.93.0.6:5140
+山西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.42:8172
+山西卫视,http://wuzuo.fun:4022/udp/239.3.1.42:8172
+广东卫视,http://223.241.247.214:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://dsm.ats.ink:8012/udp/239.3.1.142:8048
+广东卫视,http://gen8.cc:5555/udp/239.3.1.142:8048
+广东卫视,http://joyznm.i234.me:20000/udp/239.3.1.142:8048
+广东卫视,http://joyznm.x3322.net:20000/udp/239.3.1.142:8048
+广东卫视,http://my.saopanda.top:18889/udp/239.3.1.142:8048
+广东卫视,http://sweetown.fun:4000/udp/239.3.1.142:8048
+广东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.142:8048
+广东卫视,http://wuzuo.fun:4022/udp/239.3.1.142:8048
+广东卫视,http://www.abelstation.cn:4000/udp/239.3.1.142:8048
+广东卫视,https://www.yangshipin.cn/tv/home?pid=600002485
+广西卫视,http://110.53.52.63:8888/newlive/live/hls/25/live.m3u8
+广西卫视,http://113.25.252.226:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://1b6467f415.iok.la:9931/tsfile/live/1082_1.m3u8
+广西卫视,http://223.241.247.214:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://58.216.229.130:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://dsm.ats.ink:8012/udp/239.3.1.39:8300
+广西卫视,http://gen8.cc:5555/udp/239.3.1.39:8300
+广西卫视,http://joyznm.i234.me:20000/udp/239.3.1.39:8300
+广西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.39:8300
+广西卫视,http://my.saopanda.top:18889/udp/239.3.1.39:8300
+广西卫视,http://sweetown.fun:4000/udp/239.3.1.39:8300
+广西卫视,http://wouu.net:9977/udp/239.93.42.46:5140
+广西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.39:8300
+广西卫视,http://wuzuo.fun:4022/udp/239.3.1.39:8300
+广西卫视,http://www.abelstation.cn:4000/udp/239.3.1.39:8300
+广西卫视,http://www.dsmcloud.top:8888/udp/239.81.0.107:4056
+广西卫视,https://www.yangshipin.cn/tv/home?pid=600002509
+康巴卫视,http://wouu.net:9977/udp/239.93.0.41:5140
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$延边广电
+新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
+新疆卫视,http://58.216.229.130:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://dsm.ats.ink:8012/udp/239.3.1.48:8160
+新疆卫视,http://gen8.cc:5555/udp/239.3.1.48:8160
+新疆卫视,http://joyznm.i234.me:20000/udp/239.3.1.48:8160
+新疆卫视,http://joyznm.x3322.net:20000/udp/239.3.1.48:8160
+新疆卫视,http://my.saopanda.top:18889/udp/239.3.1.48:8160
+新疆卫视,http://sweetown.fun:4000/udp/239.3.1.48:8160
+新疆卫视,http://wouu.net:9977/udp/239.93.0.194:5140
+新疆卫视,http://wuyanjiang.cn:8012/udp/239.3.1.48:8160
+新疆卫视,http://wuzuo.fun:4022/udp/239.3.1.48:8160
+新疆卫视,http://www.abelstation.cn:4000/udp/239.3.1.48:8160
+江苏卫视,http://110.53.52.63:8888/newlive/live/hls/21/live.m3u8
+江苏卫视,http://223.241.247.214:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://36.135.52.57:9901/tsfile/live/0127_1.m3u8?key=txiptv
+江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://61.163.181.78:9901/tsfile/live/1044_1.m3u8
+江苏卫视,http://dsm.ats.ink:8012/udp/239.3.1.135:8028
+江苏卫视,http://gen8.cc:5555/udp/239.3.1.135:8028
+江苏卫视,http://joyznm.i234.me:20000/udp/239.3.1.135:8028
+江苏卫视,http://joyznm.x3322.net:20000/udp/239.3.1.135:8028
+江苏卫视,http://my.saopanda.top:18889/udp/239.3.1.135:8028
+江苏卫视,http://sweetown.fun:4000/udp/239.3.1.135:8028
+江苏卫视,http://wouu.net:9977/udp/239.93.0.89:5140
+江苏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.135:8028
+江苏卫视,http://wuzuo.fun:4022/udp/239.3.1.135:8028
+江苏卫视,http://www.abelstation.cn:4000/udp/239.3.1.135:8028
+江苏卫视,https://www.yangshipin.cn/tv/home?pid=600002521
+江西卫视,http://1b6467f415.iok.la:9931/tsfile/live/1066_1.m3u8
+江西卫视,http://223.241.247.214:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://dsm.ats.ink:8012/udp/239.3.1.123:8164
+江西卫视,http://gen8.cc:5555/udp/239.3.1.123:8164
+江西卫视,http://joyznm.i234.me:20000/udp/239.3.1.123:8164
+江西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.123:8164
+江西卫视,http://my.saopanda.top:18889/udp/239.3.1.123:8164
+江西卫视,http://sweetown.fun:4000/udp/239.3.1.123:8164
+江西卫视,http://wouu.net:9977/udp/239.93.0.134:5140
+江西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.123:8164
+江西卫视,http://wuzuo.fun:4022/udp/239.3.1.123:8164
+江西卫视,http://www.abelstation.cn:4000/udp/239.3.1.123:8164
+江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503
+河北卫视,http://220.164.192.48:50085/tsfile/live/0113_1.m3u8
+河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://dsm.ats.ink:8012/udp/239.3.1.148:8072
+河北卫视,http://gen8.cc:5555/udp/239.3.1.148:8072
+河北卫视,http://joyznm.i234.me:20000/udp/239.3.1.148:8072
+河北卫视,http://joyznm.x3322.net:20000/udp/239.3.1.148:8072
+河北卫视,http://my.saopanda.top:18889/udp/239.3.1.148:8072
+河北卫视,http://sweetown.fun:4000/udp/239.3.1.148:8072
+河北卫视,http://wouu.net:9977/udp/239.93.0.132:5140
+河北卫视,http://wuyanjiang.cn:8012/udp/239.3.1.148:8072
+河北卫视,http://wuzuo.fun:4022/udp/239.3.1.148:8072
+河北卫视,http://www.abelstation.cn:4000/udp/239.3.1.148:8072
+河北卫视,https://www.yangshipin.cn/tv/home?pid=600002493
+河南卫视,http://113.25.252.226:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://117.72.68.25:9930/hn.php?id=hnws
+河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://dsm.ats.ink:8012/udp/239.3.1.27:8128
+河南卫视,http://gen8.cc:5555/udp/239.3.1.27:8128
+河南卫视,http://joyznm.i234.me:20000/udp/239.3.1.27:8128
+河南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.27:8128
+河南卫视,http://my.saopanda.top:18889/udp/239.3.1.27:8128
+河南卫视,http://sweetown.fun:4000/udp/239.3.1.27:8128
+河南卫视,http://wouu.net:9977/udp/239.93.42.45:5140
+河南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.27:8128
+河南卫视,http://wuzuo.fun:4022/udp/239.3.1.27:8128
+河南卫视,http://www.abelstation.cn:4000/udp/239.3.1.27:8128
+河南卫视,https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525
+浙江卫视,https://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8
+浙江卫视,http://1b6467f415.iok.la:9931/tsfile/live/1059_1.m3u8
+浙江卫视,http://223.241.247.214:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.137:8036
+浙江卫视,http://gen8.cc:5555/udp/239.3.1.137:8036
+浙江卫视,http://joyznm.i234.me:20000/udp/239.3.1.137:8036
+浙江卫视,http://joyznm.x3322.net:20000/udp/239.3.1.137:8036
+浙江卫视,http://my.saopanda.top:18889/udp/239.3.1.137:8036
+浙江卫视,http://sweetown.fun:4000/udp/239.3.1.137:8036
+浙江卫视,http://wouu.net:9977/udp/239.93.0.124:5140
+浙江卫视,http://wuyanjiang.cn:8012/udp/239.3.1.137:8036
+浙江卫视,http://wuzuo.fun:4022/udp/239.3.1.137:8036
+浙江卫视,http://www.abelstation.cn:4000/udp/239.3.1.137:8036
+浙江卫视,https://www.yangshipin.cn/tv/home?pid=600002520
+深圳卫视,http://223.241.247.214:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://61.163.181.78:9901/tsfile/live/1041_1.m3u8
+深圳卫视,http://dsm.ats.ink:8012/udp/239.3.1.134:8020
+深圳卫视,http://gen8.cc:5555/udp/239.3.1.134:8020
+深圳卫视,http://my.saopanda.top:18889/udp/239.3.1.134:8020
+深圳卫视,http://sweetown.fun:4000/udp/239.3.1.134:8020
+深圳卫视,http://wuyanjiang.cn:8012/udp/239.3.1.134:8020
+深圳卫视,http://wuzuo.fun:4022/udp/239.3.1.134:8020
+深圳卫视,http://www.abelstation.cn:4000/udp/239.3.1.134:8020
+深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481
+湖北卫视,http://1.30.178.49:9901/tsfile/live/0132_1.m3u8?key=txiptv
+湖北卫视,http://117.114.153.18:8180/TV00000000000000000086@HHZT
+湖北卫视,http://223.241.247.214:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://36.135.52.57:9901/tsfile/live/0132_1.m3u8?key=txiptv
+湖北卫视,http://58.51.111.46:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://dsm.ats.ink:8012/udp/239.3.1.138:8044
+湖北卫视,http://gen8.cc:5555/udp/239.3.1.138:8044
+湖北卫视,http://joyznm.i234.me:20000/udp/239.3.1.138:8044
+湖北卫视,http://joyznm.x3322.net:20000/udp/239.3.1.138:8044
+湖北卫视,http://my.saopanda.top:18889/udp/239.3.1.138:8044
+湖北卫视,http://sweetown.fun:4000/udp/239.3.1.138:8044
+湖北卫视,http://wouu.net:9977/udp/239.93.0.250:5140
+湖北卫视,http://wuyanjiang.cn:8012/udp/239.3.1.138:8044
+湖北卫视,https://www.yangshipin.cn/tv/home?pid=600002508
+湖北卫视,http://wuzuo.fun:4022/udp/239.3.1.138:8044
+湖北卫视,http://www.abelstation.cn:4000/udp/239.3.1.138:8044
+湖南卫视,http://223.241.247.214:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://dsm.ats.ink:8012/udp/239.3.1.132:8012
+湖南卫视,http://gen8.cc:5555/udp/239.3.1.132:8012
+湖南卫视,http://joyznm.i234.me:20000/udp/239.3.1.132:8012
+湖南卫视,http://joyznm.x3322.net:20000/udp/239.3.1.132:8012
+湖南卫视,http://my.saopanda.top:18889/udp/239.3.1.132:8012
+湖南卫视,https://www.yangshipin.cn/tv/home?pid=600002475
+湖南卫视,http://sweetown.fun:4000/udp/239.3.1.132:8012
+湖南卫视,http://wouu.net:9977/udp/239.93.0.88:5140
+湖南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.132:8012
+湖南卫视,http://wuzuo.fun:4022/udp/239.3.1.132:8012
+甘肃卫视,http://117.27.190.42:9998/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://dsm.ats.ink:8012/udp/239.3.1.49:8188
+甘肃卫视,http://gen8.cc:5555/udp/239.3.1.49:8188
+甘肃卫视,http://joyznm.i234.me:20000/udp/239.3.1.49:8188
+甘肃卫视,http://joyznm.x3322.net:20000/udp/239.3.1.49:8188
+甘肃卫视,http://my.saopanda.top:18889/udp/239.3.1.49:8188
+甘肃卫视,http://sweetown.fun:4000/udp/239.3.1.49:8188
+甘肃卫视,http://wuyanjiang.cn:8012/udp/239.3.1.49:8188
+甘肃卫视,http://wuzuo.fun:4022/udp/239.3.1.49:8188
+甘肃卫视,http://www.abelstation.cn:4000/udp/239.3.1.49:8188
+西藏卫视,http://113.25.252.226:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://117.72.68.25:9930/xizang.php?id=0
+西藏卫视,http://58.216.229.130:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://dsm.ats.ink:8012/udp/239.3.1.47:8164
+西藏卫视,http://gen8.cc:5555/udp/239.3.1.47:8164
+西藏卫视,http://joyznm.i234.me:20000/udp/239.3.1.47:8164
+西藏卫视,http://joyznm.x3322.net:20000/udp/239.3.1.47:8164
+西藏卫视,http://my.saopanda.top:18889/udp/239.3.1.47:8164
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+西藏卫视,http://sweetown.fun:4000/udp/239.3.1.47:8164
+西藏卫视,http://wouu.net:9977/udp/239.93.0.175:5140
+西藏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.47:8164
+西藏卫视,http://wuzuo.fun:4022/udp/239.3.1.47:8164
+西藏卫视,http://www.abelstation.cn:4000/udp/239.3.1.47:8164
+贵州卫视,http://1.30.178.49:9901/tsfile/live/0120_1.m3u8?key=txiptv
+贵州卫视,http://113.25.252.226:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://1b6467f415.iok.la:9931/tsfile/live/1071_1.m3u8
+贵州卫视,http://220.164.192.48:50085/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://223.241.247.214:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://dsm.ats.ink:8012/udp/239.3.1.149:8076
+贵州卫视,http://gen8.cc:5555/udp/239.3.1.149:8076
+贵州卫视,http://joyznm.i234.me:20000/udp/239.3.1.149:8076
+贵州卫视,http://joyznm.x3322.net:20000/udp/239.3.1.149:8076
+贵州卫视,http://my.saopanda.top:18889/udp/239.3.1.149:8076
+贵州卫视,http://sweetown.fun:4000/udp/239.3.1.149:8076
+贵州卫视,http://wuyanjiang.cn:8012/udp/239.3.1.149:8076
+贵州卫视,http://wuzuo.fun:4022/udp/239.3.1.149:8076
+贵州卫视,http://www.abelstation.cn:4000/udp/239.3.1.149:8076
+贵州卫视,https://www.yangshipin.cn/tv/home?pid=600002490
+辽宁卫视,http://113.25.252.226:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://221.213.69.82:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://223.241.247.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://61.157.139.15:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://dsm.ats.ink:8012/udp/239.3.1.210:8056
+辽宁卫视,http://gen8.cc:5555/udp/239.3.1.210:8056
+辽宁卫视,http://joyznm.i234.me:20000/udp/239.3.1.210:8056
+辽宁卫视,http://joyznm.x3322.net:20000/udp/239.3.1.210:8056
+辽宁卫视,http://my.saopanda.top:18889/udp/239.3.1.210:8056
+辽宁卫视,http://sweetown.fun:4000/udp/239.3.1.210:8056
+辽宁卫视,http://wuyanjiang.cn:8012/udp/239.3.1.210:8056
+辽宁卫视,http://wuzuo.fun:4022/udp/239.3.1.210:8056
+辽宁卫视,https://www.yangshipin.cn/tv/home?pid=600002505
+重庆卫视,http://113.25.252.226:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://dsm.ats.ink:8012/udp/239.3.1.122:8160
+重庆卫视,http://gen8.cc:5555/udp/239.3.1.122:8160
+重庆卫视,http://joyznm.i234.me:20000/udp/239.3.1.122:8160
+重庆卫视,http://joyznm.x3322.net:20000/udp/239.3.1.122:8160
+重庆卫视,http://my.saopanda.top:18889/udp/239.3.1.122:8160
+重庆卫视,http://wouu.net:9977/udp/239.93.1.107:5140
+重庆卫视,http://wuyanjiang.cn:8012/udp/239.3.1.122:8160
+重庆卫视,http://wuzuo.fun:4022/udp/239.3.1.122:8160
+重庆卫视,http://www.abelstation.cn:4000/udp/239.3.1.122:8160
+重庆卫视,https://www.yangshipin.cn/tv/home?pid=600002531
+陕西卫视,http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8
+陕西卫视,http://113.25.252.226:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+陕西卫视,http://223.241.247.214:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://61.136.67.238:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://dsm.ats.ink:8012/udp/239.3.1.41:8140
+陕西卫视,http://gen8.cc:5555/udp/239.3.1.41:8140
+陕西卫视,http://joyznm.i234.me:20000/udp/239.3.1.41:8140
+陕西卫视,http://joyznm.x3322.net:20000/udp/239.3.1.41:8140
+陕西卫视,http://my.saopanda.top:18889/udp/239.3.1.41:8140
+陕西卫视,http://sweetown.fun:4000/udp/239.3.1.41:8140
+陕西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.41:8140
+陕西卫视,http://wuzuo.fun:4022/udp/239.3.1.41:8140
+陕西卫视,http://www.abelstation.cn:4000/udp/239.3.1.41:8140
+青海卫视,http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8
+青海卫视,http://113.25.252.226:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://dsm.ats.ink:8012/udp/239.3.1.44:8184
+青海卫视,http://gen8.cc:5555/udp/239.3.1.44:8184
+青海卫视,http://ikuai.zlsip.top:4022/udp/239.3.1.44:8184
+青海卫视,http://joyznm.i234.me:20000/udp/239.3.1.44:8184
+青海卫视,http://joyznm.x3322.net:20000/udp/239.3.1.44:8184
+青海卫视,http://my.saopanda.top:18889/udp/239.3.1.44:8184
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=8b2f07cc1707359845$延边广电
+青海卫视,http://sweetown.fun:4000/udp/239.3.1.44:8184
+青海卫视,http://wouu.net:9977/udp/239.93.0.192:5140
+青海卫视,http://wuyanjiang.cn:8012/udp/239.3.1.44:8184
+青海卫视,http://wuzuo.fun:4022/udp/239.3.1.44:8184
+青海卫视,http://www.abelstation.cn:4000/udp/239.3.1.44:8184
+黑龙江卫视,http://223.241.247.214:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://36.135.52.57:9901/tsfile/live/0143_1.m3u8?key=txiptv
+黑龙江卫视,http://59.173.183.242:9901/tsfile/live/0143_1.m3u8?key=txiptv
+黑龙江卫视,http://dsm.ats.ink:8012/udp/239.3.1.133:8016
+黑龙江卫视,http://gen8.cc:5555/udp/239.3.1.133:8016
+黑龙江卫视,http://joyznm.i234.me:20000/udp/239.3.1.133:8016
+黑龙江卫视,http://joyznm.x3322.net:20000/udp/239.3.1.133:8016
+黑龙江卫视,http://my.saopanda.top:18889/udp/239.3.1.133:8016
+黑龙江卫视,http://sweetown.fun:4000/udp/239.3.1.133:8016
+黑龙江卫视,http://wuyanjiang.cn:8012/udp/239.3.1.133:8016
+黑龙江卫视,http://wuzuo.fun:4022/udp/239.3.1.133:8016
+黑龙江卫视,http://www.abelstation.cn:4000/udp/239.3.1.133:8016
+黑龙江卫视,https://www.yangshipin.cn/tv/home?pid=600002498
+海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506
+上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1103033###第01集
+上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1103641###第02集
+上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1103642###第03集
+上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1104055###第04集
+上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1104056###第05集
+上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1104560###第06集
+上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1104561###第07集
+上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1104886###第08集
+上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1104885###第09集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###第01集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###第02集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###第03集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E04.mp4###第04集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E05.mp4###第05集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E06.mp4###第06集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E07.mp4###第07集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E08.mp4###第08集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###第09集
+从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###第10集
+辽宁体育,http://175.150.152.34:9005/rtp/232.0.0.164:1234
+辽宁都市,http://175.150.152.34:9005/rtp/232.0.0.154:1234
+北京卫视,http://114.243.104.126:8888/rtp/239.3.1.241:8000
+北京卫视,https://www.brtn.cn/btv/btvsy_index
+北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8
+北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309
+BRTV文艺,https://www.brtn.cn/btv/btvsy_index
+BRTV纪实科教,https://www.brtn.cn/btv/btvsy_index
+BRTV影视,https://www.brtn.cn/btv/btvsy_index
+BRTV财经,https://www.brtn.cn/btv/btvsy_index
+BRTV体育休闲,https://www.brtn.cn/btv/btvsy_index
+BRTV体育休闲,http://114.243.104.126:8888/rtp/239.3.1.243:8000
+BRTV体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7EmLWY-QzDYXsJkNAKn1-dovWeB79V2zVBN-rY4mYJto4m9yeQDOdwgEuNxJAYqysGGQ9O-6YRGQ7HwCypA-Dp8oUoczUh-bqb1BhGngFvRaI%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240730213323%2C162944%2CEND&GuardEncType=2
+BRTV i生活,https://www.brtn.cn/btv/btvsy_index
+BRTV新闻,https://www.brtn.cn/btv/btvsy_index
+卡酷少儿,https://www.brtn.cn/btv/btvsy_index
+卡酷少儿,http://114.243.104.126:8888/rtp/239.3.1.189:8000
+卡酷少儿,http://dsm.ats.ink:8012/udp/239.3.1.189:8000
+卡酷少儿,http://joyznm.i234.me:20000/udp/239.3.1.189:8000
+卡酷少儿,http://joyznm.x3322.net:20000/udp/239.3.1.189:8000
+卡酷少儿,http://my.saopanda.top:18889/udp/239.3.1.189:8000
+卡酷少儿,http://sweetown.fun:4000/udp/239.3.1.189:8000
+卡酷少儿,http://wuyanjiang.cn:8012/udp/239.3.1.189:8000
+卡酷少儿,http://wuzuo.fun:4022/udp/239.3.1.189:8000
+卡酷少儿,http://www.abelstation.cn:4000/udp/239.3.1.189:8000
+江苏卫视,https://live.jstv.com/
+江苏城市,https://live.jstv.com/
+江苏综艺,https://live.jstv.com/
+江苏影视,https://live.jstv.com/
+江苏新闻,https://live.jstv.com/
+江苏教育,https://live.jstv.com/
+体育休闲,https://live.jstv.com/
+优漫卡通,https://live.jstv.com/
+江苏国际,https://live.jstv.com/
+CCTV-1 综合,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
+CCTV-2,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8
+CCTV-3,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
+CCTV-5,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226146/index.m3u8
