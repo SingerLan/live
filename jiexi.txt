@@ -179,6 +179,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 少儿动画,http://wuzuo.fun:4022/udp/239.3.1.199:9000
 少儿动画,http://www.abelstation.cn:4000/udp/239.3.1.199:9000
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+央视,#genre#
 CCTV-1 综合,http://114.243.104.126:8888/rtp/239.3.1.129:8008
 CCTV-1 综合,http://180.172.21.168:4022/udp/239.45.3.145:5140
 CCTV-1 综合,https://www.xttv.com.cn/index/channel/index/id/155.html
@@ -439,6 +440,7 @@ CCTV-4 中文国际（美）,http://wuyanjiang.cn:8012/udp/239.3.1.214:4220
 CCTV-4 中文国际（美）,http://wuzuo.fun:4022/udp/239.3.1.214:4220
 CCTV-4 中文国际（美）,http://www.abelstation.cn:4000/udp/239.3.1.214:4220
 CCTV4k,https://www.yangshipin.cn/tv/home?pid=600002264
+港台,#genre#
 纬来电影,https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -457,7 +459,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
-
+卫视,#genre#
 北京卫视,http://114.243.104.126:8888/rtp/239.3.1.241:8000
 北京卫视,https://www.brtn.cn/btv/btvsy_index
 北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8
@@ -892,6 +894,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 黑龙江卫视,http://www.abelstation.cn:4000/udp/239.3.1.133:8016
 黑龙江卫视,https://www.yangshipin.cn/tv/home?pid=600002498
 海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506
+电视剧,#genre#
 上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1103033###第01集
 上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1103641###第02集
 上甘岭,https://www.9zhoukj.com/vod/play/129826/sid/1103642###第03集
@@ -911,8 +914,10 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E08.mp4###第08集
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###第09集
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###第10集
+辽宁,#genre#
 辽宁体育,http://175.150.152.34:9005/rtp/232.0.0.164:1234
 辽宁都市,http://175.150.152.34:9005/rtp/232.0.0.154:1234
+北京,#genre#
 北京卫视,http://114.243.104.126:8888/rtp/239.3.1.241:8000
 北京卫视,https://www.brtn.cn/btv/btvsy_index
 北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8
@@ -936,6 +941,7 @@ BRTV新闻,https://www.brtn.cn/btv/btvsy_index
 卡酷少儿,http://wuyanjiang.cn:8012/udp/239.3.1.189:8000
 卡酷少儿,http://wuzuo.fun:4022/udp/239.3.1.189:8000
 卡酷少儿,http://www.abelstation.cn:4000/udp/239.3.1.189:8000
+江苏,#genre#
 江苏卫视,https://live.jstv.com/
 江苏城市,https://live.jstv.com/
 江苏综艺,https://live.jstv.com/
@@ -945,6 +951,7 @@ BRTV新闻,https://www.brtn.cn/btv/btvsy_index
 体育休闲,https://live.jstv.com/
 优漫卡通,https://live.jstv.com/
 江苏国际,https://live.jstv.com/
+IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 CCTV-2,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8
 CCTV-3,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
