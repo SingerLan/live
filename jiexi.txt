@@ -1,11 +1,9 @@
 数字付费,#genre#
-CCTV 1 综合,https://tv.iill.top/migu/cctv1###HLS
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8###HLS###logo:https://epg.iill.top/logo/凤凰中文.png###ua:okhttp
+1905 极限反转,http://dns.yiandrive.com:16813/1905/1905a###HLS###logo:https://epg.iill.top/logo/1905.png###ua:okhttp
+1905 环球经典,http://dns.yiandrive.com:16813/1905/1905b###HLS###logo:https://epg.iill.top/logo/1905.png###ua:okhttp
+CCTV6 电影,http://dns.yiandrive.com:16813/1905/cctv6###HLS###logo:https://epg.iill.top/logo/CCTV6.png###ua:okhttp
 CHC家庭影院,https://tv.iill.top/migu/jtyy###HLS###logo:https://epg.iill.top/logo/家庭影院.png###ua:okhttp
-欢笑剧场,https://tv.iill.top/migu/hxjc###HLS###logo:https://epg.iill.top/logo/欢笑剧场.png###ua:okhttp
-经典香港电影,https://tv.iill.top/migu/xgdy###HLS###logo:https://epg.iill.top/logo/咪咕.png###ua:okhttp
-军事迷必看大片,https://tv.iill.top/migu/jsm###HLS###logo:https://epg.iill.top/logo/咪咕.png###ua:okhttp
-新片放映厅,https://tv.iill.top/migu/xpdy###HLS###logo:https://epg.iill.top/logo/咪咕.png###ua:okhttp
+CHC动作影院,https://tv.iill.top/migu/dzyy###HLS###logo:https://epg.iill.top/logo/动作影院.png###ua:okhttp
 CCTV怀旧剧场,https://www.yangshipin.cn/tv/home?pid=600099620###WEB###logo:https://live.fanmingming.com/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png
 CCTV第一剧场,https://www.yangshipin.cn/tv/home?pid=600099655###WEB###WEB
 CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB###WEB
@@ -795,3 +793,30 @@ CCTV 17 农村农业,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898
 云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
 甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
 青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
+NewTV 哒啵电竞,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+NewTV 哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
+NewTV 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
+NewTV 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+NewTV 超级电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8
+NewTV 超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
+NewTV 超级体育,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+NewTV 超级综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
+NewTV 金牌综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
+NewTV 魅力潇湘,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+NewTV 东北热剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8
+NewTV 古装剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
+NewTV 欢乐剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8
+NewTV 怡伴健康,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
+NewTV 潮妈辣婆,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010005/1.m3u8
+NewTV 军旅剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010079/1.m3u8
+NewTV 军事评论,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010080/1.m3u8
+NewTV 中国功夫,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8
+NewTV 农业致富,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010085/1.m3u8
+NewTV 动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
+NewTV 家庭剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
+NewTV 惊悚悬疑,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8
+NewTV 炫舞未来,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
+NewTV 精品萌宠,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010146/1.m3u8
+NewTV 精品体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
+NewTV 精品大剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8
+NewTV 精品记录,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
