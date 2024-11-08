@@ -1,9 +1,9 @@
 数字付费,#genre#
-1905 极限反转,http://dns.yiandrive.com:16813/1905/1905a###HLS###logo:https://epg.iill.top/logo/1905.png###ua:okhttp
-1905 环球经典,http://dns.yiandrive.com:16813/1905/1905b###HLS###logo:https://epg.iill.top/logo/1905.png###ua:okhttp
-CCTV6 电影,http://dns.yiandrive.com:16813/1905/cctv6###HLS###logo:https://epg.iill.top/logo/CCTV6.png###ua:okhttp
-CHC家庭影院,https://tv.iill.top/migu/jtyy###HLS###logo:https://epg.iill.top/logo/家庭影院.png###ua:okhttp
-CHC动作影院,https://tv.iill.top/migu/dzyy###HLS###logo:https://epg.iill.top/logo/动作影院.png###ua:okhttp
+1905 极限反转,http://dns.yiandrive.com:16813/1905/1905a###HLS###ua:okhttp
+1905 环球经典,http://dns.yiandrive.com:16813/1905/1905b###HLS###ua:okhttp
+CCTV6 电影,http://dns.yiandrive.com:16813/1905/cctv6###HLS###ua:okhttp
+CHC家庭影院,https://tv.iill.top/migu/jtyy###HLS###ua:okhttp
+CHC动作影院,https://tv.iill.top/migu/dzyy###HLS###ua:okhttp
 CCTV怀旧剧场,https://www.yangshipin.cn/tv/home?pid=600099620###WEB###logo:https://live.fanmingming.com/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png
 CCTV第一剧场,https://www.yangshipin.cn/tv/home?pid=600099655###WEB###WEB
 CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB###WEB
@@ -130,25 +130,23 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 少儿动画,http://wuzuo.fun:4022/udp/239.3.1.199:9000
 少儿动画,http://www.abelstation.cn:4000/udp/239.3.1.199:9000
 央视,#genre#
-CCTV-1 综合,https://tv.iill.top/migu/cctv1###HLS###logo:https://epg.iill.top/logo/CCTV1.png###ua:okhttp
-CCTV-2 财经,https://tv.iill.top/migu/cctv2###HLS###logo:https://epg.iill.top/logo/CCTV2.png###ua:okhttp
-CCTV-3 综艺,https://tv.iill.top/migu/cctv3###HLS###logo:https://epg.iill.top/logo/CCTV3.png###ua:okhttp
-CCTV-4 中文国际,https://tv.iill.top/migu/cctv4###HLS###logo:https://epg.iill.top/logo/CCTV4.png###ua:okhttp
-CCTV-5 体育,https://tv.iill.top/migu/cctv5###HLS###logo:https://epg.iill.top/logo/CCTV5.png###ua:okhttp
-CCTV-5+ 体育赛事,https://tv.iill.top/migu/cctv5p###HLS###logo:https://epg.iill.top/logo/CCTV5+.png###ua:okhttp
-CCTV-6 电影,https://tv.iill.top/migu/cctv6###HLS###logo:https://epg.iill.top/logo/CCTV6.png###ua:okhttp
-CCTV-7 国防军事,https://tv.iill.top/migu/cctv7###HLS###logo:https://epg.iill.top/logo/CCTV7.png###ua:okhttp
-CCTV-8 电视剧,https://tv.iill.top/migu/cctv8###HLS###logo:https://epg.iill.top/logo/CCTV8.png###ua:okhttp
-CCTV-9 纪录,https://tv.iill.top/migu/cctv9###HLS###logo:https://epg.iill.top/logo/CCTV9.png###ua:okhttp
-CCTV-10 科教,https://tv.iill.top/migu/cctv10###HLS###logo:https://epg.iill.top/logo/CCTV10.png###ua:okhttp
-CCTV-11 戏曲,https://tv.iill.top/migu/cctv11###HLS###logo:https://epg.iill.top/logo/CCTV11.png###ua:okhttp
-CCTV-12 社会与法,https://tv.iill.top/migu/cctv12###HLS###logo:https://epg.iill.top/logo/CCTV12.png###ua:okhttp
-CCTV-13 新闻,https://tv.iill.top/migu/cctv13###HLS###logo:https://epg.iill.top/logo/CCTV13.png###ua:okhttp
-CCTV-14 少儿,https://tv.iill.top/migu/cctv14###HLS###logo:https://epg.iill.top/logo/CCTV14.png###ua:okhttp
-CCTV-15 音乐,https://tv.iill.top/migu/cctv15###HLS###logo:https://epg.iill.top/logo/CCTV15.png###ua:okhttp
-CCTV-17 农村农业,https://tv.iill.top/migu/cctv17###HLS###logo:https://epg.iill.top/logo/CCTV17.png###ua:okhttp
-CCTV-4 中文国际（美）,https://tv.iill.top/migu/cctv4m###HLS###logo:https://epg.iill.top/logo/CCTV4美洲.png###ua:okhttp
-CCTV-4 中文国际（欧）,https://tv.iill.top/migu/cctv4o###HLS###logo:https://epg.iill.top/logo/CCTV4美洲.png###ua:okhttp
+CCTV-1 综合,https://tv.iill.top/migu/cctv1###HLS###ua:okhttp
+CCTV-2 财经,https://tv.iill.top/migu/cctv2###HLS###ua:okhttp
+CCTV-3 综艺,https://tv.iill.top/migu/cctv3###HLS###ua:okhttp
+CCTV-4 中文国际,https://tv.iill.top/migu/cctv4###HLS###ua:okhttp
+CCTV-5 体育,https://tv.iill.top/migu/cctv5###HLS###ua:okhttp
+CCTV-5+ 体育赛事,https://tv.iill.top/migu/cctv5p###HLS###ua:okhttp
+CCTV-6 电影,https://tv.iill.top/migu/cctv6###HLS###ua:okhttp
+CCTV-7 国防军事,https://tv.iill.top/migu/cctv7###HLS###ua:okhttp
+CCTV-8 电视剧,https://tv.iill.top/migu/cctv8###HLS###ua:okhttp
+CCTV-9 纪录,https://tv.iill.top/migu/cctv9###HLS###ua:okhttp
+CCTV-10 科教,https://tv.iill.top/migu/cctv10###HLS###ua:okhttp
+CCTV-11 戏曲,https://tv.iill.top/migu/cctv11###HLS###ua:okhttp
+CCTV-12 社会与法,https://tv.iill.top/migu/cctv12###HLS###ua:okhttp
+CCTV-13 新闻,https://tv.iill.top/migu/cctv13###HLS###ua:okhttp
+CCTV-14 少儿,https://tv.iill.top/migu/cctv14###HLS###ua:okhttp
+CCTV-4 中文国际（美）,https://tv.iill.top/migu/cctv4m###HLS###ua:okhttp
+CCTV-4 中文国际（欧）,https://tv.iill.top/migu/cctv4o###HLS###ua:okhttp
 CCTV-1 综合,http://180.172.21.168:4022/udp/239.45.3.145:5140
 CCTV-1 综合,http://dsm.ats.ink:8012/udp/239.3.1.129:8008
 CCTV-1 综合,http://my.saopanda.top:18889/udp/239.3.1.129:8008
@@ -348,13 +346,12 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&wsMonitor=0
 卫视,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8###logo:https://epg.iill.top/logo/浙江卫视.png
-广东卫视,https://tv.iill.top/migu/gdws###HLS###logo:https://epg.iill.top/logo/广东卫视.png###ua:okhttp
-江苏卫视,https://tv.iill.top/migu/jsws###HLS###logo:https://epg.iill.top/logo/江苏卫视.png###ua:okhttp
-东方卫视,https://tv.iill.top/migu/dfws###HLS###logo:https://epg.iill.top/logo/东方卫视.png###ua:okhttp
-陕西卫视,https://tv.iill.top/migu/sxws###HLS###logo:https://epg.iill.top/logo/陕西卫视.png###ua:okhttp
-江西卫视,https://tv.iill.top/migu/jxws###HLS###logo:https://epg.iill.top/logo/江西卫视.png###ua:okhttp
-湖北卫视,https://tv.iill.top/migu/hubws###HLS###logo:https://epg.iill.top/logo/湖北卫视.png###ua:okhttp
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8广东卫视,https://tv.iill.top/migu/gdws###HLS##ua:okhttp
+江苏卫视,https://tv.iill.top/migu/jsws###HLS##ua:okhttp
+东方卫视,https://tv.iill.top/migu/dfws###HLS##ua:okhttp
+陕西卫视,https://tv.iill.top/migu/sxws###HLS##ua:okhttp
+江西卫视,https://tv.iill.top/migu/jxws###HLS##ua:okhttp
+湖北卫视,https://tv.iill.top/migu/hubws###HLS##ua:okhttp
 北京卫视,http://114.243.104.126:8888/rtp/239.3.1.241:8000
 三沙卫视,http://gen8.cc:5555/udp/239.3.1.155:4120
 三沙卫视,http://joyznm.i234.me:20000/udp/239.3.1.155:4120
