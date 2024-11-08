@@ -1,4 +1,5 @@
 数字付费,#genre#
+CCTV 1 综合,https://tv.iill.top/migu/cctv1###HLS
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8###HLS###logo:https://epg.iill.top/logo/凤凰中文.png###ua:okhttp
 CHC家庭影院,https://tv.iill.top/migu/jtyy###HLS###logo:https://epg.iill.top/logo/家庭影院.png###ua:okhttp
 欢笑剧场,https://tv.iill.top/migu/hxjc###HLS###logo:https://epg.iill.top/logo/欢笑剧场.png###ua:okhttp
