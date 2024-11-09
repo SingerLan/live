@@ -2,18 +2,6 @@
 CCTV怀旧剧场,https://www.yangshipin.cn/tv/home?pid=600099620###WEB###logo:https://live.fanmingming.com/tv/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png
 CCTV第一剧场,https://www.yangshipin.cn/tv/home?pid=600099655###WEB
 CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB
-CHC家庭影院,http://kxrj.site:998/123/mg.php?id=chcjt
-CHC动作电影,http://kxrj.site:998/123/mg.php?id=chcdz
-发现之旅,http://kxrj.site:998/123/mg.php?id=fxzl
-老故事台,http://kxrj.site:998/123/mg.php?id=lgs
-高清大片,http://kxrj.site:998/123/mg.php?id=gqdp
-经典电影,http://kxrj.site:998/123/mg.php?id=jdxgdy
-军事大片,http://kxrj.site:998/123/mg.php?id=jsdp
-热剧联播,http://kxrj.site:998/123/mg.php?id=rjlb
-赛事经典,http://kxrj.site:998/123/mg.php?id=sszjd
-体坛名汇,http://kxrj.site:998/123/mg.php?id=ttmlh
-新片映厅,http://kxrj.site:998/123/mg.php?id=xpfyt
-Y+剧场台,http://kxrj.site:998/123/mg.php?id=yjjc
 1905,https://www.1905.com/xl/live/###WEB
 1905国外,https://www.1905.com/1905tv/live/###WEB
 广东影视,https://www.gdtv.cn/tvChannelDetail/53###WEB
@@ -23,6 +11,13 @@ Y+剧场台,http://kxrj.site:998/123/mg.php?id=yjjc
 湖南电视剧,https://live.mgtv.com/?channelId=484###WEB
 金鹰卡通,https://live.mgtv.com/?channelId=287###WEB
 卡酷少儿,https://www.brtn.cn/btv/btvsy_index###WEB
+
+
+CHC家庭影院,http://118.76.104.14:8888/rtp/226.0.2.240:9820
+CHC动作电影,http://123.13.247.80:4000/rtp/225.1.4.208:1261
+CHC动作电影,http://183.188.229.189:6001/rtp/226.0.2.93:8004
+CHC家庭影院,http://123.13.247.80:4000/udp/225.1.4.25:1054
+
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 军事,http://dsm.ats.ink:8012/udp/239.3.1.76:4120
 军事,http://gen8.cc:5555/udp/239.3.1.76:4120
@@ -136,6 +131,29 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 少儿动画,http://www.abelstation.cn:4000/udp/239.3.1.199:9000
 
 央视,#genre#
+CCTV-1 综合,http://123.13.247.80:4000/udp/225.1.4.73:1102
+CCTV-1 综合,http://123.13.247.80:4000/udp/225.1.4.1:1030
+CCTV-1 综合,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv1
+CCTV-2 财经,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2
+CCTV-3 综艺,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv3
+CCTV-3 综艺,http://123.13.247.80:4000/udp/225.1.4.158:1194
+CCTV-4 中文国际,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4
+CCTV-5 体育,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5
+CCTV-5+ 体育赛事,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv5p
+CCTV-6 电影,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv6
+CCTV-7 国防军事,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7
+CCTV-8 电视剧,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv8
+CCTV-9 纪录,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv9
+CCTV-10 科教,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv10
+CCTV-11 戏曲,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv11
+CCTV-12 社会与法,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv12
+CCTV-13 新闻,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv13
+CCTV-14 少儿,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv14
+CCTV-15 音乐,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv15
+CCTV-17 农业农村,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv17
+CCTV-4 中文国际（欧）,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4o
+CCTV-4 中文国际（美）,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv4a
+
 CCTV-1 综合,http://kxrj.site:998/123/mg.php?id=cctv1
 CCTV-2 财经,http://kxrj.site:998/123/mg.php?id=cctv2
 CCTV-3 综艺,http://kxrj.site:998/123/mg.php?id=cctv3
@@ -336,6 +354,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
+凤凰中文,http://61.134.234.63:8001/rtp/226.0.2.93:8004
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://cdn3.1678520.xyz:80/live/live2.1.php?id=fhzw
 凤凰中文,http://139.196.228.200:5678/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%90%9E%E6%9C%BA%E5%A4%A7%E5%B8%88/fhx.php?id=cn
@@ -357,9 +376,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 湖北卫视,http://kxrj.site:998/123/mg.php?id=hubws
 江西卫视,http://kxrj.site:998/123/mg.php?id=jxws
 江苏卫视,http://kxrj.site:998/123/mg.php?id=jsws
-广东卫视,http://kxrj.site:998/123/mg.php?id=gdws
-湾区卫视,http://kxrj.site:998/123/mg.php?id=dwqws
+大湾区卫视,http://kxrj.site:998/123/mg.php?id=dwqws
 海南卫视,http://kxrj.site:998/123/mg.php?id=hinws
+河南卫视,http://123.13.247.80:4000/udp/225.1.4.99:1128
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8广东卫视
 三沙卫视,http://gen8.cc:5555/udp/239.3.1.155:4120
