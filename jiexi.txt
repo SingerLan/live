@@ -4,7 +4,7 @@ CCTV第一剧场,https://www.yangshipin.cn/tv/home?pid=600099655###WEB
 CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB
 1905,https://www.1905.com/xl/live/###WEB
 1905国外,https://www.1905.com/1905tv/live/###WEB
-珠江频道,https://m.gdtv.cn/tvChannelDetail/44###WEB
+珠江频道,https://www.gdtv.cn/tvChannelDetail/44###WEB
 广东影视,https://www.gdtv.cn/tvChannelDetail/53###WEB
 广东嘉佳卡通,https://www.gdtv.cn/tvChannelDetail/66###WEB
 深圳电视剧频道,https://www.sztv.com.cn/pindao/index.html?id=7880###WEB
