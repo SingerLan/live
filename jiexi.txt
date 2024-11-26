@@ -302,41 +302,41 @@ CCTV-7 国防军事,http://124.116.183.146:9901/tsfile/live/0007_1.m3u8
 CCTV-6 电影,http://dns.yiandrive.com:16813/1905/cctv6
 
 CCTV-1 综合,https://www.xttv.com.cn/index/channel/index/id/155.html###WEB
-CCTV-1 综合,https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8###WEB
+CCTV-1 综合,https://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8
 CCTV-1 综合,https://tv.cctv.com/live/cctv1###WEB
 CCTV-1 综合,https://www.yangshipin.cn/tv/home?pid=600001859###WEB
 CCTV-2 财经,https://tv.cctv.com/live/cctv2###WEB
 CCTV-2 财经,https://www.yangshipin.cn/tv/home?pid=600001800###WEB
-CCTV-3 综艺,https://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8###WEB
+CCTV-3 综艺,https://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8
 CCTV-3 综艺,https://tv.cctv.com/live/cctv3###WEB
 CCTV-4 中文国际（亚）,https://tv.cctv.com/live/cctv4###WEB
 CCTV-4 中文国际（亚）,https://www.yangshipin.cn/tv/home?pid=600001814###WEB
 CCTV-5+ 体育赛事,https://tv.cctv.com/live/cctv5plus###WEB
 CCTV-5+ 体育赛事,https://www.yangshipin.cn/tv/home?pid=600001817###WEB
-CCTV-5 体育,https://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8###WEB
+CCTV-5 体育,https://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8
 CCTV-5 体育,https://tv.cctv.com/live/cctv5###WEB
 CCTV-5 体育,https://www.yangshipin.cn/tv/home?pid=600001818###WEB
-CCTV-6 电影,https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8###WEB
+CCTV-6 电影,https://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8
 CCTV-6 电影,https://tv.cctv.com/live/cctv6###WEB
 CCTV-6 电影,https://www.yangshipin.cn/tv/home?pid=600108442###WEB
-CCTV-7 国防军事,https://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8###WEB
+CCTV-7 国防军事,https://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8
 CCTV-7 国防军事,https://tv.cctv.com/live/cctv7###WEB
 CCTV-7 国防军事,https://www.yangshipin.cn/tv/home?pid=600004092###WEB
 CCTV-8 电视剧,https://tv.cctv.com/live/cctv8###WEB
 CCTV-8 电视剧,https://www.yangshipin.cn/tv/home?pid=600001803###WEB
-CCTV-9 纪录,https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8###WEB
+CCTV-9 纪录,https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8
 CCTV-9 纪录,https://tv.cctv.com/live/cctvjilu###WEB
 CCTV-9 纪录,https://www.yangshipin.cn/tv/home?pid=600004078###WEB
-CCTV-10 科教,https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8###WEB
+CCTV-10 科教,https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8
 CCTV-10 科教,https://tv.cctv.com/live/cctv10###WEB
 CCTV-10 科教,https://www.yangshipin.cn/tv/home?pid=600001805###WEB
-CCTV-11 戏曲,https://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8###WEB
+CCTV-11 戏曲,https://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8
 CCTV-11 戏曲,https://tv.cctv.com/live/cctv11###WEB
 CCTV-11 戏曲,https://www.yangshipin.cn/tv/home?pid=600001806###WEB
-CCTV-12 社会与法,https://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8###WEB
+CCTV-12 社会与法,https://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8
 CCTV-12 社会与法,https://tv.cctv.com/live/cctv12###WEB
 CCTV-12 社会与法,https://www.yangshipin.cn/tv/home?pid=600001807###WEB
-CCTV-13 新闻,https://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8###WEB
+CCTV-13 新闻,https://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8
 CCTV-13 新闻,https://tv.cctv.com/live/cctv13###WEB
 CCTV-13 新闻,https://www.yangshipin.cn/tv/home?pid=600001811###WEB
 CCTV-14 少儿,https://tv.cctv.com/live/cctvchild###WEB
@@ -837,7 +837,7 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 黑龙江卫视,http://wuzuo.fun:4022/udp/239.3.1.133:8016
 黑龙江卫视,http://www.abelstation.cn:4000/udp/239.3.1.133:8016
 
-北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8###WEB
+北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309###WEB
 东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484###WEB
 东方卫视,https://www.yangshipin.cn/tv/home?pid=600002483###WEB
@@ -850,9 +850,9 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 江苏卫视,https://live.jstv.com/###WEB
 江西卫视,https://www.yangshipin.cn/tv/home?pid=600002503###WEB
 河北卫视,https://www.yangshipin.cn/tv/home?pid=600002493###WEB
-河南卫视,https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8###WEB
+河南卫视,https://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 河南卫视,https://www.yangshipin.cn/tv/home?pid=600002525###WEB
-浙江卫视,https://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8###WEB
+浙江卫视,https://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8
 浙江卫视,https://www.yangshipin.cn/tv/home?pid=600002520###WEB
 深圳卫视,https://www.yangshipin.cn/tv/home?pid=600002481###WEB
 湖北卫视,https://www.yangshipin.cn/tv/home?pid=600002508###WEB
@@ -945,7 +945,7 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 
 北京,#genre#
 北京卫视,https://www.brtn.cn/btv/btvsy_index###WEB
-北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8###WEB
+北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309###WEB
 BRTV文艺,https://www.brtn.cn/btv/btvsy_index###WEB
 BRTV纪实科教,https://www.brtn.cn/btv/btvsy_index###WEB
