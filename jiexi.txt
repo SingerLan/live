@@ -9,7 +9,6 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB
 湖南电视剧,https://live.mgtv.com/?channelId=484###WEB
 金鹰卡通,https://live.mgtv.com/?channelId=287###WEB
 卡酷少儿,https://www.brtn.cn/btv/btvsy_index###WEB
-上海东方影视,https://api.livednow.org/migu/617290047?sign=gAAAAABnJcJqlqz4SRGRy-0QLRhBFIdFTXdLLQdH0p6tckXUs74yY2CWxgWUdtsZFJHkOPYpxwIEAL7XaTYJokRVqggqXVRxCVWF-FobjAc3orPpiX_8bTppoNcktk7k_bGxMeaCONBImD4MYTNG4KGQZDGclrgJei3K95f8s3Q-131kpxK8kMxVGXl-2TTG84EzL6YA-QqrZ8yRDPueQF7N-1mpfhBnKA%3D%3D###HLS
 
 军事迷必看大片,https://api.livednow.org/migu/617432318?sign=gAAAAABnJcJqZtaxawC7PMW6HmzSXTDi9wFU6N0ZtJDx7d-0HvL3ZNARP6A0nmwzdAmIkOLyYFxnptA1dfTYG2hp1bM3x9Pq5SRdcTYYVIyrAJ9GzXD7qTvq0NFxAcu-vpaOsRBYDbaA1xiI7iBiMYKxXSTee5hmHfBo3JCySQSlHTbFFmuoGNUMNcdNmDXJuvP150hwC2zukC8EVMZiNIYmMJPi2xKlnQ%3D%3D###HLS
 新片放映厅,https://api.livednow.org/migu/619495952?sign=gAAAAABnJcJqrIJgrcoIeFRkKbrfdSiF8jXAy1t1Wa359mOTG18s3DkIUs12M5uMK3jiTG0IHQ3hzG5f-7mK3WtvR55XvoAIqQXO_aujy6A-Rdf3A_PmEpZE6v5U-ZbcUgWSFOQhePE5KDAe5a5vaLoArcoGBUIjI_0vSdP0enIPN4iaLIPzrzwB1q7kDdTRVjaxCIhP_cLQkv5i5gOXLLkZ1tqzfBZkHw%3D%3D###HLS
@@ -87,6 +86,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 热播剧场,http://my.saopanda.top:18889/udp/239.3.1.194:9020
 热播剧场,http://wuyanjiang.cn:8012/udp/239.3.1.194:9020
 热播剧场,http://www.abelstation.cn:4000/udp/239.3.1.194:9020
+欢笑剧场,http://117.161.12.116/live/program/live/hxjc4k/15000000/mnf.m3u8
 经典电影,http://dsm.ats.ink:8012/udp/239.3.1.195:9024
 经典电影,http://gen8.cc:5555/udp/239.3.1.195:9024
 经典电影,http://my.saopanda.top:18889/udp/239.3.1.195:9024
@@ -131,8 +131,39 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 动画,http://dsm.ats.ink:8012/udp/239.3.1.80:4120
 嘉佳卡通,http://dsm.ats.ink:8012/udp/239.3.1.147:9268
 少儿动画,http://dsm.ats.ink:8012/udp/239.3.1.199:9000
+哈哈炫动,http://117.161.12.116/live/program/live/hhxdhd/4000000/mnf.m3u8
+哈哈炫动,http://117.161.12.116/live/program/live/xdkt/1300000/mnf.m3u8
+哈哈炫动,http://117.161.12.116/live/program/live/hhxd8m/8000000/mnf.m3u8
+七彩戏剧,http://117.161.12.116/live/program/live/qcxj/1300000/mnf.m3u8
+全纪实,http://117.161.12.116/live/program/live/qjshd/4000000/mnf.m3u8
+动漫秀场,http://117.161.12.116/live/program/live/dmxchd/4000000/mnf.m3u8
+幸福彩,http://117.161.12.116/live/program/live/xfchd/4000000/mnf.m3u8
+新视觉,http://117.161.12.116/live/program/live/xsjhd/4000000/mnf.m3u8
+极品汽车,http://117.161.12.116/live/program/live/jsqchd/4000000/mnf.m3u8
+欢笑剧场,http://117.161.12.116/live/program/live/hxjchd/4000000/mnf.m3u8
+法制天地,http://117.161.12.116/live/program/live/fztd/1300000/mnf.m3u8
+游戏风云,http://117.161.12.116/live/program/live/yxfyhd/4000000/mnf.m3u8
+生活时尚,http://117.161.12.116/live/program/live/shsshd/4000000/mnf.m3u8
+都市剧场,http://117.161.12.116/live/program/live/dsjchd/4000000/mnf.m3u8
+魅力足球,http://117.161.12.116/live/program/live/mlyyhd/4000000/mnf.m3u8
+五星体育,http://117.161.12.116/live/program/live/ssty/4000000/mnf.m3u8
 
 央视,#genre#
+CCTV-1 综合,http://117.161.12.116/live/program/live/cctv1hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-2 财经,http://117.161.12.116/live/program/live/cctv2hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-4 中文国际,http://117.161.12.116/live/program/live/cctv4hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-5 体育,http://117.161.12.116/live/program/live/cctv58m/8000000/mnf.m3u8###des:mnf
+CCTV-5+ 体育赛事,http://117.161.12.116/live/program/live/cctv5hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-6 电影,http://117.161.12.116/live/program/live/cctv7hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-7 国防军事,http://117.161.12.116/live/program/live/cctv8hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-8 电视剧,http://117.161.12.116/live/program/live/cctv9hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-9 纪录,http://117.161.12.116/live/program/live/cctv10hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-10 科教,http://117.161.12.116/live/program/live/cctv11hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-12 社会与法,http://117.161.12.116/live/program/live/cctv12hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-14 少儿,http://117.161.12.116/live/program/live/cctvsehd8m/8000000/mnf.m3u8###des:mnf
+CCTV-15 音乐,http://117.161.12.116/live/program/live/cctv15hd8m/8000000/mnf.m3u8###des:mnf
+CCTV-17 农业农村,http://117.161.12.116/live/program/live/cctv17hd8m/8000000/mnf.m3u8###des:mnf
+
 CCTV-1 综合,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D###HLS
 CCTV-2 财经,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D###HLS
 CCTV-3 综艺,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D###HLS
@@ -557,6 +588,29 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 👿CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8###HLS
 
 卫视,#genre#
+安徽卫视,http://117.161.12.116/live/program/live/ahwshd8m/8000000/mnf.m3u8###des:mnf
+北京卫视,http://117.161.12.116/live/program/live/bjwshd8m/8000000/mnf.m3u8###des:mnf
+东方卫视,http://117.161.12.116/live/program/live/dfwshd8m/8000000/mnf.m3u8###des:mnf
+东南卫视,http://117.161.12.116/live/program/live/dnwshd8m/8000000/mnf.m3u8###des:mnf
+广东卫视,http://117.161.12.116/live/program/live/gdwshd8m/8000000/mnf.m3u8###des:mnf
+甘肃卫视,http://117.161.12.116/live/program/live/gswshd8m/8000000/mnf.m3u8###des:mnf
+广西卫视,http://117.161.12.116/live/program/live/gxwshd8m/8000000/mnf.m3u8###des:mnf
+海南卫视,http://117.161.12.116/live/program/live/hainanwshd8m/8000000/mnf.m3u8###des:mnf
+河北卫视,http://117.161.12.116/live/program/live/hbwshd8m/8000000/mnf.m3u8###des:mnf
+黑龙江卫视,http://117.161.12.116/live/program/live/hljwshd8m/8000000/mnf.m3u8###des:mnf
+河南卫视,http://117.161.12.116/live/program/live/hnwshd8m/8000000/mnf.m3u8###des:mnf
+湖北卫视,http://117.161.12.116/live/program/live/hubeiws8m/8000000/mnf.m3u8###des:mnf
+湖南卫视,http://117.161.12.116/live/program/live/hunanwshd8m/8000000/mnf.m3u8###des:mnf
+吉林卫视,http://117.161.12.116/live/program/live/jlwshd8m/8000000/mnf.m3u8###des:mnf
+江苏卫视,http://117.161.12.116/live/program/live/jswshd8m/8000000/mnf.m3u8###des:mnf
+康巴卫视540P,http://117.161.12.116/live/program/live/kbws/2500000/mnf.m3u8###des:mnf
+辽宁卫视,http://117.161.12.116/live/program/live/lnwshd8m/8000000/mnf.m3u8###des:mnf
+四川卫视,http://117.161.12.116/live/program/live/scws8m/8000000/mnf.m3u8###des:mnf
+天津卫视,http://117.161.12.116/live/program/live/tjwshd8m/8000000/mnf.m3u8###des:mnf
+西藏卫视540P,http://117.161.12.116/live/program/live/xzws/2500000/mnf.m3u8###des:mnf
+云南卫视,http://117.161.12.116/live/program/live/ynwshd8m/8000000/mnf.m3u8###des:mnf
+浙江卫视,http://117.161.12.116/live/program/live/zjwshd8m/8000000/mnf.m3u8###des:mnf
+
 东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
 广东卫视,https://api.livednow.org/migu/608831231?sign=gAAAAABnJcJqYcJMord5t6sSAZC5m7v96UZ6Ea3WOtse7W_BquKqMmYGSh_UXVG5Wouvctg5Og0WjnXvLEz7Z7KmtqPExzi5EiaSHMY7LuMA8mog-i8BrvjD9r9fikY5LnFg4lU6jvjeDgyzEeziiUxW45I16rki3ib8vwaDTBVvTFX7H3RhkaWBYQbzclSmWhz4TBsBy3jnQxnxhV1KkAQOyQLL2GYhkw%3D%3D
 湖北卫视,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
@@ -912,6 +966,7 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 大梦归离,https://fjvtw.com/vod/play/130255/sid/1114778###des:第21集###WEB
 「斗鱼」【贝爷MAX厅】60帧电影 科幻 动作,https://lemonlive.pages.dev/douyu/play/4332###WEB
 「斗鱼」【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.douyu.com/252802###WEB
+「斗鱼」绝地求生,https://www.douyu.com/100###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###des:第01集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###des:第02集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###des:第03集###WEB
@@ -922,10 +977,10 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E08.mp4###des:第08集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###des:第09集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###des:第10集###WEB
-七龙珠「动漫」,https://m.huya.com/11601966###WEB
-中华小当家「动漫」,https://m.huya.com/11342413###WEB
-猫和老鼠「动漫」,https://m.huya.com/11352879###WEB
-「斗鱼」绝地求生,https://www.douyu.com/100###WEB
+「虎牙」楚河,https://lemonlive.pages.dev/huya/play/998###WEB
+「虎牙」七龙珠,https://lemonlive.pages.dev/huya/play/11601966###WEB
+「虎牙」中华小当家,https://lemonlive.pages.dev/huya/play/11342413###WEB
+「虎牙」猫和老鼠,https://lemonlive.pages.dev/huya/play/11352879###WEB
 广东,#genre#
 广州竞赛,http://119.32.12.44:2901/udp/224.1.100.106:11111
 广州新闻,http://119.32.12.44:2901/udp/224.1.100.38:11111
@@ -955,6 +1010,16 @@ BRTV体育休闲,https://www.brtn.cn/btv/btvsy_index###WEB
 BRTV i生活,https://www.brtn.cn/btv/btvsy_index###WEB
 BRTV新闻,https://www.brtn.cn/btv/btvsy_index###WEB
 卡酷少儿,https://www.brtn.cn/btv/btvsy_index###WEB
+
+
+上海,#genre#
+上海外语,http://117.161.12.116/live/program/live/wypdhd/4000000/mnf.m3u8
+上海教育,http://117.161.12.116/live/program/live/setv/1300000/mnf.m3u8
+上海纪实,http://117.161.12.116/live/program/live/jspdhd/4000000/mnf.m3u8
+上海都市,http://117.161.12.116/live/program/live/ylpdhd/4000000/mnf.m3u8
+东方影院,http://117.161.12.116/live/program/live/dsjpdhd/4000000/mnf.m3u8
+东方财经,http://117.161.12.116/live/program/live/dfcj/1300000/mnf.m3u8
+东方影视,https://api.livednow.org/migu/617290047?sign=gAAAAABnJcJqlqz4SRGRy-0QLRhBFIdFTXdLLQdH0p6tckXUs74yY2CWxgWUdtsZFJHkOPYpxwIEAL7XaTYJokRVqggqXVRxCVWF-FobjAc3orPpiX_8bTppoNcktk7k_bGxMeaCONBImD4MYTNG4KGQZDGclrgJei3K95f8s3Q-131kpxK8kMxVGXl-2TTG84EzL6YA-QqrZ8yRDPueQF7N-1mpfhBnKA%3D%3D
 
 IPV6,#genre#
 CCTV1,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
