@@ -965,9 +965,9 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 大梦归离,https://fjvtw.com/vod/play/130255/sid/1114254###des:第20集###WEB
 大梦归离,https://fjvtw.com/vod/play/130255/sid/1114778###des:第21集###WEB
 「斗鱼」【贝爷MAX厅】60帧电影 科幻 动作,https://lemonlive.pages.dev/douyu/play/4332###WEB
-「斗鱼」【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.douyu.com/252802###WEB
-「斗鱼」绝地求生,https://www.douyu.com/100###WEB
-「斗鱼」超级小桀,https://www.douyu.com/74751###WEB###DANMU
+「斗鱼」【贝爷影厅】欧美 科幻 动作 经典 电影,http://dns.yiandrive.com:16813/douyu/252802
+「斗鱼」绝地求生,http://dns.yiandrive.com:16813/douyu/100
+「斗鱼」超级小桀,http://dns.yiandrive.com:16813/douyu/74751
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###des:第01集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###des:第02集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###des:第03集###WEB
@@ -979,25 +979,10 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###des:第09集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###des:第10集###WEB
 「虎牙」楚河,https://lemonlive.pages.dev/huya/play/998###WEB
-「虎牙」七龙珠,https://lemonlive.pages.dev/huya/play/11601966###WEB
-「虎牙」中华小当家,https://lemonlive.pages.dev/huya/play/11342413###WEB
-「虎牙」猫和老鼠,https://lemonlive.pages.dev/huya/play/11352879###WEB
-广东,#genre#
-广州竞赛,http://119.32.12.44:2901/udp/224.1.100.106:11111
-广州新闻,http://119.32.12.44:2901/udp/224.1.100.38:11111
-广州法治,http://119.32.12.44:2901/udp/224.1.100.18:11111
-广州综合,http://119.32.12.44:2901/udp/224.1.100.36:11111
-广东珠江,http://119.32.12.44:2901/udp/224.1.100.24:11111
-广东影视,http://119.32.12.44:2901/udp/224.1.100.154:11111
-广东体育,http://119.32.12.44:2901/udp/224.1.100.34:11111
-广东民生,http://119.32.12.44:2901/udp/224.1.100.152:11111
-广东新闻,http://119.32.12.44:2901/udp/224.1.100.155:11111
-广东科教,http://119.32.12.44:2901/udp/224.1.100.6:11111
-广东民生,http://119.32.12.44:2901/udp/224.1.100.4:11111
-广东少儿,http://119.32.12.44:2901/udp/224.1.100.9:11111
-广东体育,http://119.32.12.44:2901/udp/224.1.100.33:11111
-广东新闻,http://119.32.12.44:2901/udp/224.1.100.5:11111
-广东影视,http://119.32.12.44:2901/udp/224.1.100.11:11111
+「虎牙」楚河,http://dns.yiandrive.com:16813/huya/998
+「虎牙」七龙珠,http://dns.yiandrive.com:16813/huya/11601966
+「虎牙」中华小当家,http://dns.yiandrive.com:16813/huya/11342413
+「虎牙」猫和老鼠,http://dns.yiandrive.com:16813/huya/11352879
 
 北京,#genre#
 北京卫视,https://www.brtn.cn/btv/btvsy_index###WEB
@@ -1005,7 +990,7 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309###WEB
 BRTV文艺,https://www.brtn.cn/btv/btvsy_index###WEB
 BRTV纪实科教,https://www.brtn.cn/btv/btvsy_index###WEB
-BRTV影视,https://www.brtn.cn/btv/btvsy_index###WEB
+BRTV影视,https://www.brtn.cn/btv/btvsy_index#1###WEB
 BRTV财经,https://www.brtn.cn/btv/btvsy_index###WEB
 BRTV体育休闲,https://www.brtn.cn/btv/btvsy_index###WEB
 BRTV i生活,https://www.brtn.cn/btv/btvsy_index###WEB
