@@ -985,17 +985,17 @@ VOA美國之音,http://45.145.229.220:8080/https:/4gtv.mytvsuper.xyz/litv/litv-f
 「虎牙」猫和老鼠,http://dns.yiandrive.com:16813/huya/11352879
 
 北京,#genre#
-北京卫视,https://www.brtn.cn/btv/btvsy_index###WEB
+北京卫视,https://www.brtn.cn/btv/btvsy_inde#1x###WEB
 北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8###WEB
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309###WEB
-BRTV文艺,https://www.brtn.cn/btv/btvsy_index###WEB
-BRTV纪实科教,https://www.brtn.cn/btv/btvsy_index###WEB
-BRTV影视,https://www.brtn.cn/btv/btvsy_index#1###WEB
-BRTV财经,https://www.brtn.cn/btv/btvsy_index###WEB
-BRTV体育休闲,https://www.brtn.cn/btv/btvsy_index###WEB
-BRTV i生活,https://www.brtn.cn/btv/btvsy_index###WEB
-BRTV新闻,https://www.brtn.cn/btv/btvsy_index###WEB
-卡酷少儿,https://www.brtn.cn/btv/btvsy_index###WEB
+BRTV文艺,https://www.brtn.cn/btv/btvsy_index#2###WEB
+BRTV纪实科教,https://www.brtn.cn/btv/btvsy_index#3###WEB
+BRTV影视,https://www.brtn.cn/btv/btvsy_index#4###WEB
+BRTV财经,https://www.brtn.cn/btv/btvsy_index#5###WEB
+BRTV体育休闲,https://www.brtn.cn/btv/btvsy_index#6###WEB
+BRTV i生活,https://www.brtn.cn/btv/btvsy_index#7###WEB
+BRTV新闻,https://www.brtn.cn/btv/btvsy_index#8###WEB
+卡酷少儿,https://www.brtn.cn/btv/btvsy_index#9###WEB
 
 
 上海,#genre#
