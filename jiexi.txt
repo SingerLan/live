@@ -11,10 +11,6 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB
 卡酷少儿,https://www.brtn.cn/btv/btvsy_index###WEB
 1905,http://php.jdshipin.com:8880/1905.php?id=1905dy###HLS
 1905国外,http://php.jdshipin.com:8880/1905.php?id=1905dy2###HLS
-CCTV第一剧场,http://58.19.244.92:1111/tsfile/live/1017_1.m3u8?key=txiptv###HLS
-CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8###HLS
-CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8###HLS
-CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8###HLS
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2###HLS
 JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954###HLS
 七彩戏剧,http://117.161.12.116/live/program/live/qcxj/1300000/mnf.m3u8###HLS
@@ -38,41 +34,15 @@ JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954###HLS
 动作影院,http://wuyanjiang.cn:8012/udp/239.3.1.92:4120###HLS
 动作影院,http://www.abelstation.cn:4000/udp/239.3.1.92:4120###HLS
 动漫秀场,http://117.161.12.116/live/program/live/dmxchd/4000000/mnf.m3u8###HLS
-动画,http://dsm.ats.ink:8012/udp/239.3.1.80:4120###HLS
-动画,http://gen8.cc:5555/udp/239.3.1.80:4120###HLS
-动画,http://my.saopanda.top:18889/udp/239.3.1.80:4120###HLS
-动画,http://wuyanjiang.cn:8012/udp/239.3.1.80:4120###HLS
-动画,http://wuzuo.fun:4022/udp/239.3.1.80:4120###HLS
-动画,http://www.abelstation.cn:4000/udp/239.3.1.80:4120###HLS
 南京影院,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8###HLS
-卡酷少儿,http://dsm.ats.ink:8012/udp/239.3.1.189:8000###HLS
-卡酷少儿,http://my.saopanda.top:18889/udp/239.3.1.189:8000###HLS
-卡酷少儿,http://wuyanjiang.cn:8012/udp/239.3.1.189:8000###HLS
-卡酷少儿,http://wuzuo.fun:4022/udp/239.3.1.189:8000###HLS
-卡酷少儿,http://www.abelstation.cn:4000/udp/239.3.1.189:8000###HLS
 古装剧场,http://dsm.ats.ink:8012/udp/239.3.1.69:4120###HLS
 古装剧场,http://my.saopanda.top:18889/udp/239.3.1.69:4120###HLS
 古装剧场,http://wuyanjiang.cn:8012/udp/239.3.1.69:4120###HLS
 古装剧场,http://www.abelstation.cn:4000/udp/239.3.1.69:4120###HLS
-哈哈炫动,http://117.161.12.116/live/program/live/hhxd8m/8000000/mnf.m3u8###HLS
-哈哈炫动,http://117.161.12.116/live/program/live/hhxdhd/4000000/mnf.m3u8###HLS
-哈哈炫动,http://117.161.12.116/live/program/live/xdkt/1300000/mnf.m3u8###HLS
-嘉佳卡通,http://dsm.ats.ink:8012/udp/239.3.1.147:9268###HLS
-嘉佳卡通,http://gen8.cc:5555/udp/239.3.1.147:9268###HLS
-嘉佳卡通,http://my.saopanda.top:18889/udp/239.3.1.147:9268###HLS
-嘉佳卡通,http://wuyanjiang.cn:8012/udp/239.3.1.147:9268###HLS
-嘉佳卡通,http://wuzuo.fun:4022/udp/239.3.1.147:9268###HLS
-嘉佳卡通,http://www.abelstation.cn:4000/udp/239.3.1.147:9268###HLS
 城市剧场,http://dsm.ats.ink:8012/udp/239.3.1.67:4120###HLS
 城市剧场,http://my.saopanda.top:18889/udp/239.3.1.67:4120###HLS
 城市剧场,http://wuyanjiang.cn:8012/udp/239.3.1.67:4120###HLS
 城市剧场,http://www.abelstation.cn:4000/udp/239.3.1.67:4120###HLS
-少儿动画,http://dsm.ats.ink:8012/udp/239.3.1.199:9000###HLS
-少儿动画,http://gen8.cc:5555/udp/239.3.1.199:9000###HLS
-少儿动画,http://my.saopanda.top:18889/udp/239.3.1.199:9000###HLS
-少儿动画,http://wuyanjiang.cn:8012/udp/239.3.1.199:9000###HLS
-少儿动画,http://wuzuo.fun:4022/udp/239.3.1.199:9000###HLS
-少儿动画,http://www.abelstation.cn:4000/udp/239.3.1.199:9000###HLS
 幸福彩,http://117.161.12.116/live/program/live/xfchd/4000000/mnf.m3u8###HLS
 戏曲,http://my.saopanda.top:18889/udp/239.3.1.78:4120###HLS
 戏曲,http://wouu.net:9977/udp/239.93.0.217:9208###HLS
@@ -90,7 +60,6 @@ JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954###HLS
 武侠剧场,http://www.abelstation.cn:4000/udp/239.3.1.90:4120###HLS
 法制天地,http://117.161.12.116/live/program/live/fztd/1300000/mnf.m3u8###HLS
 淘4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2###HLS
-淘4K超清,http://php.jdshipin.com:8880/iptv.php?id=bj4k###HLS
 淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001###HLS
 淘Baby,http://dsm.ats.ink:8012/udp/239.3.1.238:8001###HLS
 淘Baby,http://gen8.cc:5555/udp/239.3.1.238:8001###HLS
@@ -119,8 +88,6 @@ JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954###HLS
 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2###HLS
 淘电影,http://wuyanjiang.cn:8012/udp/239.3.1.250:8001###HLS
 游戏风云,http://117.161.12.116/live/program/live/yxfyhd/4000000/mnf.m3u8###HLS
-湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj###HLS
-湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj###HLS
 热播剧场,http://dsm.ats.ink:8012/udp/239.3.1.194:9020###HLS
 热播剧场,http://gen8.cc:5555/udp/239.3.1.194:9020###HLS
 热播剧场,http://my.saopanda.top:18889/udp/239.3.1.194:9020###HLS
@@ -129,30 +96,116 @@ JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954###HLS
 生活时尚,http://117.161.12.116/live/program/live/shsshd/4000000/mnf.m3u8###HLS
 绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8###HLS
 经典电影,http://dsm.ats.ink:8012/udp/239.3.1.195:9024###HLS
-经典电影,http://gen8.cc:5555/udp/239.3.1.195:9024###HLS
 经典电影,http://my.saopanda.top:18889/udp/239.3.1.195:9024###HLS
 经典电影,http://wuyanjiang.cn:8012/udp/239.3.1.195:9024###HLS
 经典电影,http://wuzuo.fun:4022/udp/239.3.1.195:9024###HLS
 经典电影,http://www.abelstation.cn:4000/udp/239.3.1.195:9024###HLS
-美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8###HLS
 邵氏影院@代,http://www.goodiptv.club/douyu/4246519
 邵氏影院@代,https://www.goodiptv.club/douyu/4246519
 都市剧场,http://117.161.12.116/live/program/live/dsjchd/4000000/mnf.m3u8###HLS
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv###HLS
 重温经典,http://mtw.so/5NPX0U###HLS
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd###HLS
+音乐现场,http://dsm.ats.ink:8012/udp/239.3.1.70:4120###HLS
+音乐现场,http://my.saopanda.top:18889/udp/239.3.1.70:4120###HLS
+音乐现场,http://wuzuo.fun:4022/udp/239.3.1.70:4120###HLS
+音乐现场,http://www.abelstation.cn:4000/udp/239.3.1.70:4120###HLS
+魅力足球,http://117.161.12.116/live/program/live/mlyyhd/4000000/mnf.m3u8###HLS
+动画,http://dsm.ats.ink:8012/udp/239.3.1.80:4120###HLS
+动画,http://gen8.cc:5555/udp/239.3.1.80:4120###HLS
+动画,http://my.saopanda.top:18889/udp/239.3.1.80:4120###HLS
+动画,http://wuyanjiang.cn:8012/udp/239.3.1.80:4120###HLS
+动画,http://wuzuo.fun:4022/udp/239.3.1.80:4120###HLS
+动画,http://www.abelstation.cn:4000/udp/239.3.1.80:4120###HLS
+卡酷少儿,http://dsm.ats.ink:8012/udp/239.3.1.189:8000###HLS
+卡酷少儿,http://my.saopanda.top:18889/udp/239.3.1.189:8000###HLS
+卡酷少儿,http://wuyanjiang.cn:8012/udp/239.3.1.189:8000###HLS
+卡酷少儿,http://wuzuo.fun:4022/udp/239.3.1.189:8000###HLS
+卡酷少儿,http://www.abelstation.cn:4000/udp/239.3.1.189:8000###HLS
+哈哈炫动,http://117.161.12.116/live/program/live/hhxd8m/8000000/mnf.m3u8###HLS
+哈哈炫动,http://117.161.12.116/live/program/live/hhxdhd/4000000/mnf.m3u8###HLS
+哈哈炫动,http://117.161.12.116/live/program/live/xdkt/1300000/mnf.m3u8###HLS
+嘉佳卡通,http://dsm.ats.ink:8012/udp/239.3.1.147:9268###HLS
+嘉佳卡通,http://gen8.cc:5555/udp/239.3.1.147:9268###HLS
+嘉佳卡通,http://my.saopanda.top:18889/udp/239.3.1.147:9268###HLS
+嘉佳卡通,http://wuyanjiang.cn:8012/udp/239.3.1.147:9268###HLS
+嘉佳卡通,http://wuzuo.fun:4022/udp/239.3.1.147:9268###HLS
+嘉佳卡通,http://www.abelstation.cn:4000/udp/239.3.1.147:9268###HLS
+少儿动画,http://dsm.ats.ink:8012/udp/239.3.1.199:9000###HLS
+少儿动画,http://gen8.cc:5555/udp/239.3.1.199:9000###HLS
+少儿动画,http://my.saopanda.top:18889/udp/239.3.1.199:9000###HLS
+少儿动画,http://wuyanjiang.cn:8012/udp/239.3.1.199:9000###HLS
+少儿动画,http://wuzuo.fun:4022/udp/239.3.1.199:9000###HLS
+少儿动画,http://www.abelstation.cn:4000/udp/239.3.1.199:9000###HLS
 金鹰卡通,http://dsm.ats.ink:8012/udp/239.3.1.51:9252###HLS
 金鹰卡通,http://gen8.cc:5555/udp/239.3.1.51:9252###HLS
 金鹰卡通,http://my.saopanda.top:18889/udp/239.3.1.51:9252###HLS
 金鹰卡通,http://wuyanjiang.cn:8012/udp/239.3.1.51:9252###HLS
 金鹰卡通,http://www.abelstation.cn:4000/udp/239.3.1.51:9252###HLS
-音乐现场,http://dsm.ats.ink:8012/udp/239.3.1.70:4120###HLS
-音乐现场,http://my.saopanda.top:18889/udp/239.3.1.70:4120###HLS
-音乐现场,http://wuzuo.fun:4022/udp/239.3.1.70:4120###HLS
-音乐现场,http://www.abelstation.cn:4000/udp/239.3.1.70:4120###HLS
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj###HLS
+湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj###HLS
+美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8###HLS
 香港电影,http://swrh.ngtanyanfei.top:8081/dl/migu.php?id=xpfyt###HLS
-魅力足球,http://117.161.12.116/live/program/live/mlyyhd/4000000/mnf.m3u8###HLS
+红色轮播台,http://159.75.85.63:36666/migu/713600957.m3u8?migutoken=4812953bcb3e4a8dc08f7174b12b88c8754805bbad217bf28bf7ce12cd4e4e8d874da909f6d413d79699483b203ea7309a3ded7c380489ccf0a13c29324004f03b9573cf08f5b6793785996d3a###
+掼蛋精英赛,http://159.75.85.63:36666/migu/631354620.m3u8?migutoken=3917df0de9e974abccf2e675f1346e47c2c875bda92e47c53623e09376e84a3be3d85274c20f97638a8cf1085b6c24810d7a78bb2167de1b3f5aafdc50d465d0a5f2b33c33d53b45e43099ec01###
+咪咕汇盛典轮播,http://159.75.85.63:36666/migu/939773601.m3u8?migutoken=f4bf533091425eb55dcc9ae137df9180a7e9071e371d9cab059cf6bed196d2ab8ad45f7fd455b253e1941cfe893c0208b8d37117b527843a90c6826a4ce4702aec31c8bd9ff75883ebec9d325d###
+华语乐坛最强音,http://159.75.85.63:36666/migu/707671890.m3u8?migutoken=39c1af0aab8237c0127e960c111f2675c0b1098197fdd9105e8d8314fe7c98b3b18faa1465ea324cfb09c68865df5667b67c7868b441e7cb7a76cac61e0f51d04d118b8c50f250e90cb3ff9925###
+周杰伦现场,http://159.75.85.63:36666/migu/625133682.m3u8?migutoken=74a7ce4216089981eef09be5c15563fc30f5c68b75d3686fbfc1e50da0c4e16c1ee1a719270dd07e2841f3924cf9e9de461b6569590494070d2e67c8457a12d6afccf1f1f7fbc02e967af6aaee###
+最强综艺趴,http://159.75.85.63:36666/migu/629942228.m3u8?migutoken=aedf68f3db50d7707dc6d231fb46f24c1f6f812e54c1a9947f13face05502049babda1891640e7a3d1a27f15b648d33ddcfe0d1b994e8c788976df87f27e0eade10e939ff5f112b9959bb18e3e###
+高清大片,http://159.75.85.63:36666/migu/629943678.m3u8?migutoken=b97699622f777382fbeee6b3977a52e4f88696c85bba7a6300567bb41e903a4a59c64390cf8d3f76367bbb0096eec37421caeb926ae7d6f5d933e0dcfb9cf2166bad61f3b69be4b6cedaa859d2###
+经典香港电影,http://159.75.85.63:36666/migu/625703337.m3u8?migutoken=7774c36bd69b2b37d4f6f3a455218e986dbce8027a103f5a7b14f02216932c4df08bb4e13fafc87066e7c797171689d4b8a30a3b99a2cef4b7423cb1b5c3c99108e5abff87cd573e1c5e0f9330###
+新片放映厅,http://159.75.85.63:36666/migu/619495952.m3u8?migutoken=42aca962ddde82c96526b06b08cfea0ec85b42c057c65e19f34d01c76e109b4146b9b3e1dcb1464dbc908298c1cc62944e98a8915b65a5421dfa6d520912fe1164d69d74ddff1252ad503f938b###
+CHC动作电影,http://159.75.85.63:36666/migu/644368714.m3u8?migutoken=d1010950975fcdc61bc1981d78fd4e3c2be65dcda495df828400bf67c374cd3460b8c6f105b4460b5a6f44b3f24b70f06714ab65367bd2e97b6d1b98546260e62ea8c44a92e424a4dbadfb1c4d###
+CHC家庭影院,http://159.75.85.63:36666/migu/644368373.m3u8?migutoken=0d21848c6426f01db371fc9ac8b2696db73bc1b24be4011f036f87bae62c6d600ec15e34cff17c350d506b2f564f9e17285f4b113ec661448981ec9ce31a7d007667bce5b6aba9d280e5501537###
+南方影视,http://159.75.85.63:36666/migu/614961829.m3u8?migutoken=e7bf727e6d794c4802d18837372ea74502e84ef30dc4848231e6a402cbac041ef55133214e5cc61fcf2c3dd5d941c0e023238029daa867f6a919c48719bad992bf47f0146a65dc64b55915c002###
+优漫卡通频道,http://159.75.85.63:36666/migu/626064703.m3u8?migutoken=ee5c90c18b71c5374f7dce534b8984973cca3f1ebeeab952f6f4a27059f91bff72061596527568660db1814c0b3a90c4b05b3317535c17fc705ecfb6c454ab923104d23d355ec8e2c0d5e5cacf###
+嘉佳卡通,http://159.75.85.63:36666/migu/614952364.m3u8?migutoken=8171da70dc3dce61cf6734104bda401fbf26d11c6c4051e46c1ca028e6f9609e16335e905e35f0c2381c5db7bd5b0270d7f7dc5f14b5124be4d98fcea5f9d975475527f34925916a1439773882###
+经典动画大集合,http://159.75.85.63:36666/migu/629942219.m3u8?migutoken=1f13d7c6af4b5e26c149201f3f704502eb4835c37f8325178f46c351b0690e6da0a83b1b36239ce2970af8c85346359e749e68d3ca4ca28f64f02e7de77ce5cc624d12fb3752a646740ab172d8###
+体育休闲频道,http://159.75.85.63:36666/migu/626064707.m3u8?migutoken=479d372b400e5661a951989da5fe812df5082ffabae0bb1705fb14417170b53364e347ed186eba2ab843f889fefbed38de50ef431f8f5be903bc714646402a66b6aa81dda29a1189eba5ae5de6###
+NBA经典,http://159.75.85.63:36666/migu/788815380.m3u8?migutoken=8eddb087f02397ee2c0e54aa51ab7f9f59be834103dccc56dfe00028cca917219f8c3ff1e6b09400d9072bc9e53ef4a30efd63c3404533fb84b711091f07d3d159c6c8c7a768e4b9bd48ee2be4###
+五大联赛经典,http://159.75.85.63:36666/migu/780288994.m3u8?migutoken=0fc624c3afa22bea83db6a5dc8231d6a8f8b1dbb03a06f5945ea4661598235f2e4ab0c86983cc9dcbdc69aebc9d4ef1493a188b597f0a5cdce3c498e81e23cbf5c00e3bdb4bc97597f61f9e820###
+中国足球风云,http://159.75.85.63:36666/migu/788816794.m3u8?migutoken=785e01062c20ece852041f3f1c6270f34f2b6a247f6f4d309aa18d34e12b44cc88110cb8831dd0283d44399e4195356fd53810f9bf7b24dcf532b0a018cbd2ccfa5a911ae27a375b8a0f313644###
+劲爆体育,http://159.75.85.63:36666/migu/796071336.m3u8?migutoken=fd1f023e6d22cc05b347a4a72a26e240df46d10e2018cee866826af1e2206869f908306bccedea5d54dd453095a0dc79112f1ae0c4acd0aeecbefbf2ede098ea0c05a8b59136ae2a09d9abf0b9###
+魅力足球,http://159.75.85.63:36666/migu/796070308.m3u8?migutoken=656f69fe85ac1318441086adab10d58beb59e7ee302de2728e244b33cb9104cb20ea42b53f56d908cfcad335bba005525c5d720579c079e13fb980faff7727a0d7d5cf4556bc4da66be8c9bb3d###
+赛事最经典,http://159.75.85.63:36666/migu/646596895.m3u8?migutoken=48a750b144e8e9d42de0ad295c2f4b96149b0111ba405c9c13a1f2cdc749ee30dbedb943bd0c9b6e39112710481ff65e87186a3cc382df65cd3cdbbe501e513b58fcc6df1dc992ccf34fe4a59f###
+体坛名栏汇,http://159.75.85.63:36666/migu/629943305.m3u8?migutoken=5ab8b2cff41ad7430717210d0dd7c078a00fdff71806dc9d22593549ddb61a877efca7d190089a18c9c21d41201598424ffaa395f735a5d3d0d5f5c0838713ffe06bc52100ad733bf0643f6fee###
+咪咕24小时体育台,http://159.75.85.63:36666/migu/654102378.m3u8?migutoken=a6712d6c1b045fa2de3d1bd071eff6662cead7a3f56ae09545562a4eebea5e6da20163af6976bee43e7caa44fc4224f18014cf1372f8566b9966bfae19dc7997cb07b48421442b9b47d73cd599###
+七彩戏剧,http://159.75.85.63:36666/migu/796071456.m3u8?migutoken=dc387b1440ad072998de09f3d2b1c1e1c43662c60de3b41a72dc78714e9e6fdeac45b56722cd03c9bd4fc9f1c73ce05b9da1fc0e34495d60bca372b63c3fcd1cd26c83fa62ab59b0c6ad864daa###
+临洮电视台,http://159.75.85.63:36666/migu/668225749.m3u8?migutoken=ab37188fbdce874718f9c12c5c9b50d7b09a363bdc6848391ef394956dcd269629228ac2b3182e103197c18cf5002efc1ed59a1b2c7c812bf1c45f86d8c7998dfec113421a4461f96a6c5b86fa###
+欢笑剧场,http://159.75.85.63:36666/migu/790187880.m3u8?migutoken=89e71a15c82eb6f8a3107cbdbc5f05cbb7e9bd8ab8d48a1692a0413f5343323154e0c48bdb996256d181fa1bb96ad504645fa6cd1906b645d0b2966b3642104faa788e697761811ac11ab3e40a###
+金色剧场,http://159.75.85.63:36666/migu/713591450.m3u8?migutoken=0641e3bcfd8a24d60a34d5ae08c719a77dbda708dbfa024489bedf0e60ef4863c4bb149f08c73335e8147bfd0843d75715ef05d9fd196e618743d20040340d762fd3e213ed3f900cbc1306bd9a###
+四海钓鱼,http://159.75.85.63:36666/migu/895358641.m3u8?migutoken=331e1b3afb31d9a7ef1d3ecc5ddc119ea52f4075967436458634bccfd8c43399f109866b8a86ddb22591ab1fe6e11c6d54453be900df4b51db7923956dd8abf681fb3877f1b65a0be3bf461bc0###
+游戏风云,http://159.75.85.63:36666/migu/790188417.m3u8?migutoken=489128098675b767c453736e65c5c8b6f7e094d13d11966cdb6a862491e7ee519b6144c25dea191f211285ca01fe60336ea3602747c754af405431c8b5933d284e219001db31c4c65e711e09ac###
+法治天地,http://159.75.85.63:36666/migu/790188943.m3u8?migutoken=2574c47ae9c6a88b6f5763a307f0cb93a09dcc5c286bdd38ce57f4311cd75f4efb52391e850460d36635c7f1394d8e4e716d1bd45c7d99a6704d4be4241415d7dd3163e13ec1b336f785323c79###
+乐游,http://159.75.85.63:36666/migu/796070452.m3u8?migutoken=a0014faadf920cb911a1684b9186e4649c230994eca07e661e540a57a22bbcf58031c9187a0d076037f4f04fd70b769dead6a78e42ccf3728762f9be73737dc7910c9378621ea73163ef764156###
+军事迷必看大片,http://159.75.85.63:36666/migu/617432318.m3u8?migutoken=ae0c1c37f78cdfcb1d7ddb93fe67653a6ffe4b5b4ed5a04523c785bedd62cf4b978ee03a7790ccd8f03f968373ea49eb2aa989133bcee3a6ebe3d8cffdd59eef36de8476e1fcce0f4f9f633095###
 央视,#genre#
+CCTV-1 综合,http://159.75.85.63:36666/migu/608807420.m3u8?migutoken=36378df839be2c79560d5a456e0f7d6371ace28a4fca7a928f28a4a1c881a574bb5051549708d5b096f107997468bfbbf5289f98c11aa67579d07bb8f9d4a60a9a403f40fd42a0e7dc46d3d294###
+CCTV-2 财经,http://159.75.85.63:36666/migu/631780532.m3u8?migutoken=6352044bfce52c276e217033a273fbba50682bddb95567ee873360e1903bb3e215ca30b243da6c663f86325f1a0dc507975e3d015b1b5e46715561eea564271b90bec6953d6fcf268793a0563e###
+CCTV-3 综艺,http://159.75.85.63:36666/migu/624878271.m3u8?migutoken=7269e965770924de99b5d6f52de4a4a504b29e319a98969d66d78b7ead151e7d7af2c6ae9e0187918833bfd95d09d7e3ec4b616215314014b1053d46d695c6f47a039b201b14dcf69674a43e5d###
+CCTV-4 中文国际,http://159.75.85.63:36666/migu/631780421.m3u8?migutoken=29b1c6da29d69cc56a7e5e3b0b145a245dfc61532902cc1f088867a061a4ec79991fcd49af2c8d981a7d4b1b79b5a6944d561b5ef941dfee774b82cdf455149671d3f8ae606a5a65cbd0973d13###
+CCTV-5 体育,http://159.75.85.63:36666/migu/641886683.m3u8?migutoken=fb2d04e5c6f76be4282925c966844bd594066d03221f8545455ac76f54d23c8459e3a97a9d555bb8403a45550e310d99dad02fbb6804b4df2cf8f5a6310260b638a90aa6c56a26a744f5063186###
+CCTV-5+ 体育赛事,http://159.75.85.63:36666/migu/641886773.m3u8?migutoken=f3ea45f5ceddfa931df4adc0f0910057e98fdecf6570455709522bbb9d6d9512f54e5105336cfe8c8420a0f1abf1cf26c3e9f50576dbe795d10cc4b90c5b10a5bc6692b97f1ed3717c6ec4d32a###
+CCTV-6 电影,http://159.75.85.63:36666/migu/624878396.m3u8?migutoken=35219447d514dbe6246c5a81702a5dd90847f2c5a1c41ffce7cc325d7f72f2a621baa5095e1af1aa8cd3c4e19a404b82a8c6b2a39848d5d44a7aef7a1ca1c10a29df1a82017edbab8d3293083d###
+CCTV-7 国防军事,http://159.75.85.63:36666/migu/673168121.m3u8?migutoken=83fc347c169dd63cc803ce7ad9bf9f5e4e8c8c60ec25003fccae6c8dde730d139299a271256e67861d7f393289c38664a2d0d9aee0973048f22095a0d8eca85b1a2bff8d98577cfa630c2d796d###
+CCTV-8 电视剧,http://159.75.85.63:36666/migu/624878356.m3u8?migutoken=d47107be54e0c45f73e9a782d19fa5e4080b65d12e0be80365151347d4f5652b68ed9f4cce298e7cc79f56949c538c5ef53217f99b51a4140a9554f605fd515db3f2dda608fbeab980adb419f7###
+CCTV-9 纪录,http://159.75.85.63:36666/migu/673168140.m3u8?migutoken=30ab6cd9a532585dc484d375c9fe42012dcb21d203e4c03b4ebd644007abfa16998237a9581dc93f7336f2d464acb047d0f6e406fb62f6ed1f43f3300f9639b442c2631963e527872f242f9a6a###
+CCTV-10 科教,http://159.75.85.63:36666/migu/624878405.m3u8?migutoken=0298fa43212f5a5d963cd7eabd10e94b3b85426273b40d09bf0b50ca5a03389e87931f514ec2663db87d08cadefadbf8a0b5e5a7cfad8465717dc26d19e0ff17624858dbddfe5303dfec80f966###
+CCTV-11 戏曲,http://159.75.85.63:36666/migu/667987558.m3u8?migutoken=8e898d7cbace81aaa8cc1677d9d22bdc00198796c8808996cdfebc88f17f4d6111289bb5c38ef81d437cc9889c6d05d607f9fe18daf04a006c281981977f7270c4701f3385b5bf77fda5f3aeaf###
+CCTV-12 社会与法,http://159.75.85.63:36666/migu/673168185.m3u8?migutoken=d2ffe0e55b567afecf168855b72d265c1b3ae609f6f4e6c7330fd2fccccf36541c5959d4ddabca698e2eb4f0024162fb61b219c8976bab68d9506f0acb3f720643e5723c553313745e9c906c33###
+CCTV-13 新闻,http://159.75.85.63:36666/migu/608807423.m3u8?migutoken=08be78df06c36a443a3c733d17296c4b6b3ef89fe87f6d08b4f683dd8ecfb5cb9e64d66dfb4c194d91355068a69f294e0b525f1ae5bd1f996f9db470e61b8008939f23ba70f3700a0950d245f2###
+CCTV-14 少儿,http://159.75.85.63:36666/migu/624878440.m3u8?migutoken=a76fdcf53e951b29cb53a8e27786dca6ed7f0d2bdffd3cf234b0d7e39849e08b4561a07cdc1455d482b327f5b162589c2f65f2df81488bed408101f8c231e402f777cda16455c70be166fda1e4###
+CCTV-15 音乐,http://159.75.85.63:36666/migu/673168223.m3u8?migutoken=2b111d516df31b3f7e78556f6125f65bd9d7e5c6c296cafa9714aa8dc263aea111dfd364d19788fc2efc642b554cc7bd5b879b9157293a1860c75859f2dac9a4382ecad54ee4435eb8036bf70f###
+CCTV-17 农业农村,http://159.75.85.63:36666/migu/673168256.m3u8?migutoken=ffda572135cf3acef2d6abfa9a3923ebdfaa403853ff30d650c6ce9ae421fd997436a681357d3713abb8d89974b654ff4759f61ccee8175bd3c28078020807714f3ed31739b7fad7102696d88b###
+CCTV-4 欧洲,http://159.75.85.63:36666/migu/608807419.m3u8?migutoken=e42e6a05909709ff71569d0fcfa59920e1a1034c419753ee064862733e016d7bb0aefc32f543fe44e91982df4c12cfe90cc41c13f7182fe681bbf5750e06cd9e347e1c099f9d5f4fe070ee3b1c###
+CCTV-4 美洲,http://159.75.85.63:36666/migu/608807416.m3u8?migutoken=c43aea6d711a9b40af35a10c71505d0900a378c48180322dd2e8d932846898206ed82239904d9e473012b4fcedd4dc27becb8bffad83607121fd2cf3880d3b19009f7a6dbe3a4994b03e7e3484###
+CCTV9Documentary,http://159.75.85.63:36666/migu/609006487.m3u8?migutoken=1d292e481c3b3f7174715649b393b48960564efb87f269f09085ababfd0b3b093aca976382cab53bf67683705a5e3d850c94600d3a9b47533a578591b4a357d1b37363cfd709a6ae88e3f36959###
+CCTV 阿拉伯语,http://159.75.85.63:36666/migu/609154345.m3u8?migutoken=61f001c5baab609719f08b7bee1637582e1d0ab335d5fd87fb84d305b922b96fc8b588a0155c6ddd772b9f5eaebde8f7aa850656982cd89fdfd336d894621866ff85b7ed929755d93daf28b057###
+CCTV 西班牙语,http://159.75.85.63:36666/migu/609006450.m3u8?migutoken=65c2d5697ffd0af99d262bd3a986b3aaec0fcd57482ef5a3aa005c09c96243a41813453662a100949c37aced043a35862e9fc132a146be00893276e8862b6de7c4ecab6481a605acb82ef529be###
+CCTV 法语,http://159.75.85.63:36666/migu/609006476.m3u8?migutoken=5d5f88e0556e2d282321059a9b7c5ce80d070f3e404b0d3949906a86f9346a4801f1e4a046d6d1b5bd37100960b1af8d103f692953dd6bc21c4339a452edf33df1963362b47781f7d7e6bd5ffd###
+CCTV 俄语,http://159.75.85.63:36666/migu/609006446.m3u8?migutoken=42fe131e0203dc9b0b46a4c19a6d1b3f0375199cff9b142db654a27852d180d20c8422e9d19c619fe46aaec9afcef8f544b4c42d9f02389bde02d2ac889e205a7355153160a269338d1c27bd3a###
+CCTV 发现之旅,http://159.75.85.63:36666/migu/624878970.m3u8?migutoken=2b3561c27b910e6d28fde5b1e156065bff48f3757f71e8a08f1ea7bd4b6feeb84b5de99feb9f7508ef770bbf82d52accd4fc4ba702e9cb7017f4a07ee883bad3dd6e58b1dd989ef2b2a3f7cd86###
+CGTN,http://159.75.85.63:36666/migu/609017205.m3u8?migutoken=752393167c318ca657a79bc0f44abb0e98a6459ef4177965d64338f1aeb81bf404cb65d5a4540ff91f3c0ff5a1e197e1a02d09e5672e256d366ac1d2f16367e04a13777abb4f4245fdfec8b6b7###
 CCTV-1 综合,http://14.212.185.141:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 CCTV-1 综合,http://58.20.77.182:9901/tsfile/live/0001_1.m3u8?key=txiptv###HLS
 CCTV-2 财经,http://14.212.185.141:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
@@ -758,18 +811,21 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 龙华经典,https://litv.zapi.us.kg/?id=litv-longturn21###HLS
 👿CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8###HLS
 卫视,#genre#
-东方卫视,http://kxrj.site:1333/86/mg.php?id=dfws###HLS
-吉林卫视,http://kxrj.site:1333/86/mg.php?id=jlws###HLS
-青海卫视,http://kxrj.site:1333/86/mg.php?id=qhws###HLS
-陕西卫视,http://kxrj.site:1333/86/mg.php?id=sxws###HLS
-湖北卫视,http://kxrj.site:1333/86/mg.php?id=hubws###HLS
-江西卫视,http://kxrj.site:1333/86/mg.php?id=jxws###HLS
-江苏卫视,http://kxrj.site:1333/86/mg.php?id=jsws###HLS
-湾区卫视,http://kxrj.site:1333/86/mg.php?id=dwqws###HLS
-海南卫视,http://kxrj.site:1333/86/mg.php?id=hinws###HLS
+东方卫视,http://159.75.85.63:36666/migu/651632648.m3u8?migutoken=e98c89b863e883a0d4e93098a73c08e04ac24cf9ffc8fdb99b22b8296c73c5f845debd702efd27f74d573404f7b6fac8dd3fda52d04a8b59a99ddf70aa21f3cc9f3442ac87b27b6d1b90741c91###
+广东卫视,http://159.75.85.63:36666/migu/608831231.m3u8?migutoken=25113386bf99d1f7e1288a75368416a83344a28db563c7e7cf0f695b1870c1fb0f0dbcf2a746589753323fc7d6ec9620d147db21a7286ed6345fe0014ac813deb784ed42ef724e344e0cedfcf9###
+江苏卫视,http://159.75.85.63:36666/migu/623899368.m3u8?migutoken=876424adc1b14dcd50b02a0d62cee9b43c46ba9ea604839505558849ed06cec45e96d32d7e6d4e204327aa2072df1a4f22e076a75364c0f9bd13c48075b83f77a6541130b31189f2aebb171647###
+江西卫视,http://159.75.85.63:36666/migu/783847495.m3u8?migutoken=366162e4b10b96ad2006c0ec562914e2cb334037330e9776445cc01bf663da4efdb144ed4b958a1cef9574e14825f89919a009b3c9c6a2a18cb9c1002a7f869451df1e0cdcb5abe535311d70d5###
+河南卫视,http://159.75.85.63:36666/migu/790187291.m3u8?migutoken=7bad32ff1825503a168ca1ffcb76c8c38c3cef67d468e4a266345a98527068f8a91ceca5e78af373a97629cf1e5382969a5e162f8a11dc72701e1290720ed77e2702fc8b0e212fa386e83cdda2###
+陕西卫视,http://159.75.85.63:36666/migu/738910838.m3u8?migutoken=1b02d86813c93000d95a1ab80858a7d16a51e8321547c7e35324db2baa9ed540e618593a633e7c17a8ba5b844208886893b407c7ab8323db4478f0995b4a049a43d635bac12d35c9184342339c###
+海南卫视,http://159.75.85.63:36666/migu/738906860.m3u8?migutoken=84bce8451f0da2c23004bf7ecd2b8683464f771406671f33d912349ef0e04178def53b161a9b585658d0f1fce4e0614dd3a7e9735c533a30f5e05d332d4641b8803abd0756268bc17642a5221d###
+大湾区卫视,http://159.75.85.63:36666/migu/608917627.m3u8?migutoken=de92c5ff449bb86acaecafa0a68e76b6753ae4e63bdc24b22f2f0f5a5b778b83f974560aef09fbc0ccd4ed54536d15e4af1d3a92a4110b842bc5a48f5c3b44108948370f2f720dd86dfdff012a###
+湖北卫视,http://159.75.85.63:36666/migu/738906825.m3u8?migutoken=b6dffcd357ad65e77adca1af448c80d92097fe67f5b4a2c37a135b32ed82e446de20056b4594c0a0ee55ea4e46f1d6b0e042173aa14bc7de360704fcf219390d6d702cb45196bb67a41597180e###
+青海卫视,http://159.75.85.63:36666/migu/738898486.m3u8?migutoken=78108a322a82029cfc3b7ac5372e19c16fc00936ebd2504429791f2b590674e24e5f7a47fa33dbdabb0f151a935fdcc9345ed6b14e839312c28a0b5f0f0c03acfd31f8dcde92db44b5981971c1###
+吉林卫视,http://159.75.85.63:36666/migu/738906889.m3u8?migutoken=70aba97fe1db84e9032348deccdd887c65328140beccae0957914a8df6220d9db05e82871f1ec3f007303432f44e79d656a179ce115870e91321d68021108f7241bac98d0458843628d7f719ae###
+东南卫视,http://159.75.85.63:36666/migu/849116810.m3u8?migutoken=7f2dd87ea9ce6c852690573ae1ba354f8cebdfaf91e46e01dda5332396e60ca33508cfe6f94a4937d91abd2e05542808580cc2130bc37cd55555e95a6b7dfc49f49aa266d99b80c380a68a60dc###
+海峡卫视,http://159.75.85.63:36666/migu/849119120.m3u8?migutoken=31e0cc07c2849452a33e7d1dffd2d079e5d2067298ebdd5f1182fb55da606d5864e4c62db903ea7000b2d4f3d2350e86a7394652aea43b9e04d5ba133beccc778f473e15b5199c335cb87caa33###
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202###HLS
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8###HLS
-江苏卫视,http://tvbox6.com/tv/jstv.php?id=jsws###HLS
 山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8###HLS
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8###HLS
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8###HLS
@@ -777,13 +833,9 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8###HLS
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8###HLS
 云南卫视,http://hwzbout.yntv.net/62hdvf/41hse3.flv###HLS
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8###HLS
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws###HLS
-藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy###HLS
 兵团卫视,http://60.255.240.247:8090/live/btws_4000.m3u8###HLS
-海南卫视,http://60.255.240.247:8090/live/hnws_4000.m3u8###HLS
 陕西卫视,http://60.255.240.247:8090/live/sxws_4000.m3u8###HLS
-山东教育卫视,http://60.255.240.247:8090/live/sdjy_4000.m3u8###HLS
 安徽卫视,http://117.161.12.116/live/program/live/ahwshd8m/8000000/mnf.m3u8###des:mnf###HLS
 北京卫视,http://117.161.12.116/live/program/live/bjwshd8m/8000000/mnf.m3u8###des:mnf###HLS
 东方卫视,http://117.161.12.116/live/program/live/dfwshd8m/8000000/mnf.m3u8###des:mnf###HLS
@@ -807,26 +859,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 云南卫视,http://117.161.12.116/live/program/live/ynwshd8m/8000000/mnf.m3u8###des:mnf###HLS
 浙江卫视,http://117.161.12.116/live/program/live/zjwshd8m/8000000/mnf.m3u8###des:mnf###HLS
 四川卫视,http://219.147.200.9:18080/newlive/live/hls/48/live.m3u8###HLS
-湖北卫视,http://58.19.244.92:1111/tsfile/live/0017_1.m3u8?key=txiptv###HLS
-湖南卫视,http://58.19.244.92:1111/tsfile/live/0018_1.m3u8?key=txiptv###HLS
-北京卫视,http://58.19.244.92:1111/tsfile/live/0019_1.m3u8?key=txiptv###HLS
-东方卫视,http://58.19.244.92:1111/tsfile/live/1000_1.m3u8?key=txiptv###HLS
-江苏卫视,http://58.19.244.92:1111/tsfile/live/1001_1.m3u8?key=txiptv###HLS
-浙江卫视,http://58.19.244.92:1111/tsfile/live/1002_1.m3u8?key=txiptv###HLS
-安徽卫视,http://58.19.244.92:1111/tsfile/live/1003_1.m3u8?key=txiptv###HLS
-广东卫视,http://58.19.244.92:1111/tsfile/live/1004_1.m3u8?key=txiptv###HLS
-深圳卫视,http://58.19.244.92:1111/tsfile/live/1005_1.m3u8?key=txiptv###HLS
-天津卫视,http://58.19.244.92:1111/tsfile/live/1006_1.m3u8?key=txiptv###HLS
-山东卫视,http://58.19.244.92:1111/tsfile/live/1007_1.m3u8?key=txiptv###HLS
-河南卫视,http://58.19.244.92:1111/tsfile/live/1008_1.m3u8?key=txiptv###HLS
-辽宁卫视,http://58.19.244.92:1111/tsfile/live/1009_1.m3u8?key=txiptv###HLS
-东南卫视,http://58.19.244.92:1111/tsfile/live/1010_1.m3u8?key=txiptv###HLS
-江西卫视,http://58.19.244.92:1111/tsfile/live/1011_1.m3u8?key=txiptv###HLS
-贵州卫视,http://58.19.244.92:1111/tsfile/live/1012_1.m3u8?key=txipt###HLS
-三沙卫视,http://gen8.cc:5555/udp/239.3.1.155:4120###HLS
-三沙卫视,http://my.saopanda.top:18889/udp/239.3.1.155:4120###HLS
-三沙卫视,http://wuyanjiang.cn:8012/udp/239.3.1.155:4120###HLS
-三沙卫视,http://www.abelstation.cn:4000/udp/239.3.1.155:4120###HLS
 东南卫视,http://223.241.247.214:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 东南卫视,http://gen8.cc:5555/udp/239.3.1.156:8148###HLS
 东南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.156:8148###HLS
@@ -834,7 +866,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 东方卫视,http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 东方卫视,http://223.241.247.214:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 东方卫视,http://36.135.52.57:9901/tsfile/live/0107_1.m3u8?key=txiptv###HLS
-东方卫视,http://gen8.cc:5555/udp/239.3.1.136:8032###HLS
 东方卫视,http://wuyanjiang.cn:8012/udp/239.3.1.136:8032###HLS
 云南卫视,http://110.53.52.63:8888/newlive/live/hls/26/live.m3u8###HLS
 云南卫视,http://my.saopanda.top:18889/udp/239.3.1.26:8108###HLS
@@ -864,27 +895,12 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 吉林卫视,http://wuyanjiang.cn:8012/udp/239.3.1.240:8172###HLS
 吉林卫视,http://www.abelstation.cn:4000/udp/239.3.1.240:8172###HLS
 四川卫视,http://223.241.247.214:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
-四川卫视,http://59.173.243.210:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
-四川卫视,http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
-四川卫视,http://gen8.cc:5555/udp/239.3.1.29:8288###HLS
-四川卫视,http://my.saopanda.top:18889/udp/239.3.1.29:8288###HLS
-四川卫视,http://wuyanjiang.cn:8012/udp/239.3.1.29:8288###HLS
-四川卫视,http://www.abelstation.cn:4000/udp/239.3.1.29:8288###HLS
-天津卫视,http://223.241.247.214:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
-天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
-天津卫视,http://gen8.cc:5555/udp/239.3.1.141:1234###HLS
-天津卫视,http://my.saopanda.top:18889/udp/239.3.1.141:1234###HLS
-天津卫视,http://wuyanjiang.cn:8012/udp/239.3.1.141:1234###HLS
-天津卫视,http://www.abelstation.cn:4000/udp/239.3.1.141:1234###HLS
-宁夏卫视,http://219.147.200.9:18080/newlive/live/hls/53/live.m3u8###HLS
 宁夏卫视,http://223.241.247.214:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
-宁夏卫视,http://gen8.cc:5555/udp/239.3.1.46:8124###HLS
 宁夏卫视,http://my.saopanda.top:18889/udp/239.3.1.46:8124###HLS
 宁夏卫视,http://wouu.net:9977/udp/239.93.0.247:5140###HLS
 宁夏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.46:8124###HLS
 宁夏卫视,http://www.abelstation.cn:4000/udp/239.3.1.46:8124###HLS
 安徽卫视,http://223.241.247.214:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
-安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 安徽卫视,http://dsm.ats.ink:8012/udp/239.3.1.211:8064###HLS
 安徽卫视,http://gen8.cc:5555/udp/239.3.1.211:8064###HLS
 安徽卫视,http://my.saopanda.top:18889/udp/239.3.1.211:8064###HLS
@@ -893,7 +909,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 山东卫视,http://223.241.247.214:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 山东卫视,http://gen8.cc:5555/udp/239.3.1.209:8052###HLS
-山东卫视,http://my.saopanda.top:18889/udp/239.3.1.209:8052###HLS
 山东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.209:8052###HLS
 山东卫视,http://www.abelstation.cn:4000/udp/239.3.1.209:8052###HLS
 山西卫视,http://113.25.252.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
@@ -908,7 +923,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 广东卫视,http://dsm.ats.ink:8012/udp/239.3.1.142:8048###HLS
 广东卫视,http://gen8.cc:5555/udp/239.3.1.142:8048###HLS
-广东卫视,http://my.saopanda.top:18889/udp/239.3.1.142:8048###HLS
 广东卫视,http://wuyanjiang.cn:8012/udp/239.3.1.142:8048###HLS
 东南卫视,http://dsm.ats.ink:8012/udp/239.3.1.156:8148###HLS
 东方卫视,http://dsm.ats.ink:8012/udp/239.3.1.136:8032###HLS
@@ -917,7 +931,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 内蒙古卫视,http://dsm.ats.ink:8012/udp/239.3.1.43:8176###HLS
 厦门卫视,http://dsm.ats.ink:8012/udp/239.3.1.143:4120###HLS
 天津卫视,http://dsm.ats.ink:8012/udp/239.3.1.141:1234###HLS
-宁夏卫视,http://dsm.ats.ink:8012/udp/239.3.1.46:8124###HLS
 山东卫视,http://dsm.ats.ink:8012/udp/239.3.1.209:8052###HLS
 江西卫视,http://dsm.ats.ink:8012/udp/239.3.1.123:8164###HLS
 湖南卫视,http://dsm.ats.ink:8012/udp/239.3.1.132:8012###HLS
@@ -948,7 +961,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 江苏卫视,http://dsm.ats.ink:8012/udp/239.3.1.135:8028###HLS
 江苏卫视,http://gen8.cc:5555/udp/239.3.1.135:8028###HLS
-江苏卫视,http://my.saopanda.top:18889/udp/239.3.1.135:8028###HLS
 江苏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.135:8028###HLS
 江苏卫视,http://wuzuo.fun:4022/udp/239.3.1.135:8028###HLS
 江苏卫视,http://www.abelstation.cn:4000/udp/239.3.1.135:8028###HLS
@@ -1026,14 +1038,12 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 辽宁卫视,http://223.241.247.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 辽宁卫视,http://61.157.139.15:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 辽宁卫视,http://dsm.ats.ink:8012/udp/239.3.1.210:8056###HLS
-辽宁卫视,http://gen8.cc:5555/udp/239.3.1.210:8056###HLS
 辽宁卫视,http://my.saopanda.top:18889/udp/239.3.1.210:8056###HLS
 辽宁卫视,http://wuyanjiang.cn:8012/udp/239.3.1.210:8056###HLS
 辽宁卫视,http://wuzuo.fun:4022/udp/239.3.1.210:8056###HLS
 重庆卫视,http://113.25.252.226:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 重庆卫视,http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 重庆卫视,http://dsm.ats.ink:8012/udp/239.3.1.122:8160###HLS
-重庆卫视,http://gen8.cc:5555/udp/239.3.1.122:8160###HLS
 重庆卫视,http://my.saopanda.top:18889/udp/239.3.1.122:8160###HLS
 重庆卫视,http://wuyanjiang.cn:8012/udp/239.3.1.122:8160###HLS
 重庆卫视,http://wuzuo.fun:4022/udp/239.3.1.122:8160###HLS
@@ -1042,7 +1052,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 陕西卫视,http://222.241.154.37:9901/tsfile/live/23048_1.m3u8?key=tvbox6_com&playlive=1&authid=0###HLS
 陕西卫视,http://223.241.247.214:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 陕西卫视,http://61.136.67.238:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
-陕西卫视,http://gen8.cc:5555/udp/239.3.1.41:8140###HLS
 陕西卫视,http://my.saopanda.top:18889/udp/239.3.1.41:8140###HLS
 陕西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.41:8140###HLS
 陕西卫视,http://wuzuo.fun:4022/udp/239.3.1.41:8140###HLS
@@ -1051,7 +1060,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 青海卫视,http://dsm.ats.ink:8012/udp/239.3.1.44:8184###HLS
 青海卫视,http://gen8.cc:5555/udp/239.3.1.44:8184###HLS
 青海卫视,http://my.saopanda.top:18889/udp/239.3.1.44:8184###HLS
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=8b2f07cc1707359845$延边广电###HLS
 青海卫视,http://wouu.net:9977/udp/239.93.0.192:5140###HLS
 青海卫视,http://wuyanjiang.cn:8012/udp/239.3.1.44:8184###HLS
 青海卫视,http://wuzuo.fun:4022/udp/239.3.1.44:8184###HLS
@@ -1077,6 +1085,31 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 山东卫视,http://wuzuo.fun:4022/udp/239.3.1.209:8052###HLS
 山西卫视,http://wuzuo.fun:4022/udp/239.3.1.42:8172###HLS
 广东卫视,http://wuzuo.fun:4022/udp/239.3.1.142:8048###HLS
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8###HLS
+藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy###HLS
+三沙卫视,http://gen8.cc:5555/udp/239.3.1.155:4120###HLS
+三沙卫视,http://my.saopanda.top:18889/udp/239.3.1.155:4120###HLS
+三沙卫视,http://wuyanjiang.cn:8012/udp/239.3.1.155:4120###HLS
+三沙卫视,http://www.abelstation.cn:4000/udp/239.3.1.155:4120###HLS
+
+四川卫视,http://wuyanjiang.cn:8012/udp/239.3.1.29:8288###HLS
+四川卫视,http://my.saopanda.top:18889/udp/239.3.1.29:8288###HLS
+四川卫视,http://www.abelstation.cn:4000/udp/239.3.1.29:8288###HLS
+天津卫视,http://my.saopanda.top:18889/udp/239.3.1.141:1234###HLS
+天津卫视,http://wuyanjiang.cn:8012/udp/239.3.1.141:1234###HLS
+天津卫视,http://www.abelstation.cn:4000/udp/239.3.1.141:1234###HLS
+山东卫视,http://my.saopanda.top:18889/udp/239.3.1.209:8052###HLS
+广东卫视,http://my.saopanda.top:18889/udp/239.3.1.142:8048###HLS
+宁夏卫视,http://dsm.ats.ink:8012/udp/239.3.1.46:8124###HLS
+江苏卫视,http://my.saopanda.top:18889/udp/239.3.1.135:8028###HLS
+宁夏卫视,http://gen8.cc:5555/udp/239.3.1.46:8124###HLS
+辽宁卫视,http://gen8.cc:5555/udp/239.3.1.210:8056###HLS
+重庆卫视,http://gen8.cc:5555/udp/239.3.1.122:8160###HLS
+陕西卫视,http://gen8.cc:5555/udp/239.3.1.41:8140###HLS
+天津卫视,http://gen8.cc:5555/udp/239.3.1.141:1234###HLS
+东方卫视,http://gen8.cc:5555/udp/239.3.1.136:8032###HLS
+四川卫视,http://gen8.cc:5555/udp/239.3.1.29:8288###HLS
+宁夏卫视,http://219.147.200.9:18080/newlive/live/hls/53/live.m3u8###HLS
 北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8###WEB
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309###WEB
 东南卫视,https://www.yangshipin.cn/tv/home?pid=600002484###WEB
@@ -1184,16 +1217,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 「斗鱼」【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.douyu.com/252802###WEB
 「斗鱼」绝地求生,https://www.douyu.com/100###WEB
 「斗鱼」超级小桀,https://www.douyu.com/74751###WEB###DANMU
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###des:第01集###WEB
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###des:第02集###WEB
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###des:第03集###WEB
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E04.mp4###des:第04集###WEB
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E05.mp4###des:第05集###WEB
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E06.mp4###des:第06集###WEB
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E07.mp4###des:第07集###WEB
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E08.mp4###des:第08集###WEB
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E09.mp4###des:第09集###WEB
-从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E10.mp4###des:第10集###WEB
 「虎牙」楚河,https://lemonlive.pages.dev/huya/play/998###WEB
 「虎牙」七龙珠,https://lemonlive.pages.dev/huya/play/11601966###WEB
 「虎牙」中华小当家,https://lemonlive.pages.dev/huya/play/11342413###WEB
@@ -1271,6 +1294,11 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 上海纪实,http://117.161.12.116/live/program/live/jspdhd/4000000/mnf.m3u8###HLS
 上海都市,http://117.161.12.116/live/program/live/ylpdhd/4000000/mnf.m3u8###HLS
 东方影院,http://117.161.12.116/live/program/live/dsjpdhd/4000000/mnf.m3u8###HLS
+东方影视,http://159.75.85.63:36666/migu/617290047.m3u8?migutoken=1d606227be1250c6862b27a1a5a35eaf2d1ea93a2de768217210235a9f5094038df4df30faa0d2ede10711bf8443a93fde3d3ea0ff0fa6f621ea2231d6dee6e720705d6107187f89e3ec107bb1###
+上视纪实人文,http://159.75.85.63:36666/migu/617289997.m3u8?migutoken=1d0b4b656bee6d6f3d08e0cb3e2f73d9ff68d393a8f0fee4f2bc3f296465d6be98af3f642fa19ce486b6adf1a7ddf72f37e70ee3f225292ac2866699215923a48a03f9ff616c3220b2569348fe###
+上海外语,http://159.75.85.63:36666/migu/618954688.m3u8?migutoken=9e0328157753fdb8a8505e9b731bd2319622100f50cdf885a755a7600609da8ac4b0c650ec5be093f22e908c142efa273a8cf9abb7c720e2404d6a1b57d53062e2b4929a7555d4f137611e3e95###
+上海第一财经,http://159.75.85.63:36666/migu/608780988.m3u8?migutoken=5ab76ba99eb23a444c29222f7a0126ff13456608272cce5c1f4a7bd0725394e77c8b61802fef747da976461c5f25dc051820de601f844a40d5bba2263e977a19faf611a32db52c32b244757f9c###
+上海新闻综合,http://159.75.85.63:36666/migu/651632657.m3u8?migutoken=641338ddad9b13c6defa9a032e2eae0947047cd46268f73755b62750ca06019603f5b88c7ffcefa4453b732571aa492f3181bd8767464b3d2942dff795c7a56c5c996806a04c2bab10c5883e54###
 
 北京,#genre#
 北京卫视,https://www.brtn.cn/btv/btvsy_index###WEB
