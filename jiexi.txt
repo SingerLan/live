@@ -1115,9 +1115,9 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 「斗鱼」超级小桀,https://www.douyu.com/74751###WEB###DANMU
 「虎牙」楚河,https://m.huya.com/998###WEB###DANMU
 「虎牙」胖炸,https://m.huya.com/baozha###WEB###DANMU
-「虎牙」七龙珠,https://m.huya.com/11601966###WEB###DANMU
-「虎牙」中华小当家,https://m.huya.com/11342413###WEB###DANMU
-「虎牙」猫和老鼠,https://m.huya.com/11352879###WEB###DANMU
+「虎牙」七龙珠,https://m.huya.com/11601966###WEB
+「虎牙」中华小当家,https://m.huya.com/11342413###WEB
+「虎牙」猫和老鼠,https://m.huya.com/11352879###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###des:第01集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###des:第02集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###des:第03集###WEB
