@@ -1137,7 +1137,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506###WEB
 
 电影电视,#genre#
-「虎牙」赵本山小品,http://jiaojirentv.top/2020/yy.php?id=1354936217###HLS
 「斗鱼」邵氏影院,http://jiaojirentv.top/2020/dy.php?id=4246519###HLS
 「斗鱼」华语经典,http://jiaojirentv.top/2020/dy.php?id=434971###HLS
 「斗鱼」吃米滴虫,http://jiaojirentv.top/2020/dy.php?id=315457###HLS
@@ -1151,10 +1150,15 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 「斗鱼」华语电影,http://jiaojirentv.top/2020/dy.php?id=3928###HLS
 「斗鱼」冰冰经典,http://jiaojirentv.top/2020/dy.php?id=74374###HLS
 
-「斗鱼」【贝爷MAX厅】60帧电影 科幻 动作,https://lemonlive.pages.dev/douyu/play/4332###WEB
-「斗鱼」【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.douyu.com/252802###WEB
-「斗鱼」绝地求生,https://www.douyu.com/100###WEB
+「斗鱼」贝爷MAX厅60帧电影科幻动作,https://lemonlive.pages.dev/douyu/play/4332###WEB###DANMU
+「斗鱼」贝爷影厅欧美科幻动作经典电影,https://www.douyu.com/252802###WEB###DANMU
+「斗鱼」绝地求生,https://www.douyu.com/100###WEB###DANMU
 「斗鱼」超级小桀,https://www.douyu.com/74751###WEB###DANMU
+「虎牙」楚河,https://m.huya.com/998###WEB###DANMU
+「虎牙」胖炸,https://m.huya.com/baozha###WEB###DANMU
+「虎牙」七龙珠,https://m.huya.com/11601966###WEB###DANMU
+「虎牙」中华小当家,https://m.huya.com/11342413###WEB###DANMU
+「虎牙」猫和老鼠,https://m.huya.com/11352879###WEB###DANMU
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E01.mp4###des:第01集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E02.mp4###des:第02集###WEB
 从地狱来的法官,https://v.ddys.pro/v/kr_drama/The_Judge_from_Hell/The_Judge_from_Hell_S01E03.mp4###des:第03集###WEB
@@ -1212,15 +1216,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 大梦归离,https://fjvtw.com/vod/play/130255/sid/1113814###des:第19集###WEB
 大梦归离,https://fjvtw.com/vod/play/130255/sid/1114254###des:第20集###WEB
 大梦归离,https://fjvtw.com/vod/play/130255/sid/1114778###des:第21集###WEB
-「斗鱼」【贝爷MAX厅】60帧电影 科幻 动作,https://lemonlive.pages.dev/douyu/play/4332###WEB
-「斗鱼」【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.douyu.com/252802###WEB
-「斗鱼」绝地求生,https://www.douyu.com/100###WEB
-「斗鱼」超级小桀,https://www.douyu.com/74751###WEB###DANMU
-「虎牙」楚河,https://m.huya.com/998###WEB###DANMU
-「虎牙」胖炸,https://m.huya.com/baozha###WEB###DANMU
-「虎牙」七龙珠,https://m.huya.com/11601966###WEB###DANMU
-「虎牙」中华小当家,https://m.huya.com/11342413###WEB###DANMU
-「虎牙」猫和老鼠,https://m.huya.com/11352879###WEB###DANMU
 
 广东,#genre#
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8###HLS
