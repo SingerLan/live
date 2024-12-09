@@ -1137,7 +1137,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506###WEB
 
 电影电视,#genre#
-「虎牙」电影_成龙,http://159.75.85.63:35455/huya/11342386###HLS
 「虎牙」赵本山小品,http://jiaojirentv.top/2020/yy.php?id=1354936217###HLS
 「斗鱼」邵氏影院,http://jiaojirentv.top/2020/dy.php?id=4246519###HLS
 「斗鱼」华语经典,http://jiaojirentv.top/2020/dy.php?id=434971###HLS
@@ -1217,10 +1216,10 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 「斗鱼」【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.douyu.com/252802###WEB
 「斗鱼」绝地求生,https://www.douyu.com/100###WEB
 「斗鱼」超级小桀,https://www.douyu.com/74751###WEB###DANMU
-「虎牙」楚河,https://lemonlive.pages.dev/huya/play/998###WEB
-「虎牙」七龙珠,https://lemonlive.pages.dev/huya/play/11601966###WEB
-「虎牙」中华小当家,https://lemonlive.pages.dev/huya/play/11342413###WEB
-「虎牙」猫和老鼠,https://lemonlive.pages.dev/huya/play/11352879###WEB
+「虎牙」楚河,https://m.huya.com/998###WEB
+「虎牙」七龙珠,https://m.huya.com/11601966###WEB
+「虎牙」中华小当家,https://m.huya.com/11342413###WEB
+「虎牙」猫和老鼠,https://m.huya.com/11352879###WEB
 
 广东,#genre#
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8###HLS
