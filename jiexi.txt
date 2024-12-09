@@ -1216,10 +1216,10 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 「斗鱼」【贝爷影厅】欧美 科幻 动作 经典 电影,https://www.douyu.com/252802###WEB
 「斗鱼」绝地求生,https://www.douyu.com/100###WEB
 「斗鱼」超级小桀,https://www.douyu.com/74751###WEB###DANMU
-「虎牙」楚河,https://m.huya.com/998###WEB
-「虎牙」七龙珠,https://m.huya.com/11601966###WEB
-「虎牙」中华小当家,https://m.huya.com/11342413###WEB
-「虎牙」猫和老鼠,https://m.huya.com/11352879###WEB
+「虎牙」楚河,https://m.huya.com/998###WEB###DANMU
+「虎牙」七龙珠,https://m.huya.com/11601966###WEB###DANMU
+「虎牙」中华小当家,https://m.huya.com/11342413###WEB###DANMU
+「虎牙」猫和老鼠,https://m.huya.com/11352879###WEB###DANMU
 
 广东,#genre#
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8###HLS
