@@ -33,7 +33,7 @@ JJ斗地主,http://www.52sw.top:678/play/huya.php?id=14079954###HLS
 美国摔跤,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8###HLS
 香港电影,http://swrh.ngtanyanfei.top:8081/dl/migu.php?id=xpfyt###HLS
 央视,#genre#
-CCTV-1 综合,http://110.52.244.53:9003//hls/1/index.m3u8###HLS
+CCTV-1 综合,http://110.52.244.53:9003/hls/1/index.m3u8###HLS
 CCTV-1 综合,http://110.80.17.38:9901/tsfile/live/0001_1.m3u8?key=txiptv###des:LR•IPV4『线路106』###HLS
 CCTV-1 综合,http://111.14.181.15:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0###des:LR•IPV4『线路96』###HLS
 CCTV-1 综合,http://111.160.17.2:59901/tsfile/live/0001_1.m3u8###HLS
