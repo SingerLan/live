@@ -239,8 +239,6 @@ CCTV-1 综合,http://106.53.99.30/dl/bjyd.php?id=1###HLS
 CCTV-1 综合,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv1###HLS
 CCTV-1 综合,http://livetv.wqwqwq.sbs/itv/6000000001000029752.m3u8?cdn=wasusyt###HLS
 CCTV-1 综合,http://www.douzhicloud.site:35455/gaoma/cctv1.m3u8###HLS
-CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1###HLS
-CCTV-1 综合,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV1###HLS
 CCTV-2 财经,http://106.53.99.30/dl/bjyd.php?id=2###HLS
 CCTV-2 财经,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv2###HLS
 CCTV-2 财经,http://www.douzhicloud.site:35455/gaoma/cctv2.m3u8###HLS
