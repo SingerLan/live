@@ -291,7 +291,6 @@ CCTV-13 新闻,http://112.123.206.32:808/hls/13/index.m3u8###HLS
 CCTV-16 奥林匹克,http://58.17.116.69:9908/tsfile/live/0001_17.m3u8?key=txiptv&playlive=1&authid=0###HLS
 
 CCTV-1 综合,http://106.53.99.30/dl/bjyd.php?id=1###HLS
-CCTV-1 综合,http://livetv.wqwqwq.sbs/itv/6000000001000029752.m3u8?cdn=wasusyt###HLS
 CCTV-2 财经,http://106.53.99.30/dl/bjyd.php?id=2###HLS
 CCTV-2 财经,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv2###HLS
 CCTV-3 综艺,http://wouu.net:9977/udp/239.93.1.11:2223###HLS
@@ -302,9 +301,7 @@ CCTV-4 中文国际（亚）,https://global.cgtn.cicc.media.caton.cloud/master/c
 CCTV-4 中文国际（亚）,https://www.freetv.top/migu/608807416.m3u8?migutoken=94d24df192f212e52d7c222dfab7df5ce4aad53db2766a6c4275a4c1e796cf13fb231906f792af9bc717ce1ccafa62165ebdc66b02fb0882cd5beac443921d36883a491d2b549a5509d63534e1###HLS
 CCTV-4 中文国际（亚）,https://www.freetv.top/migu/608807419.m3u8?migutoken=77b074e1b49cf260629d9642f9505e978eaabf572bfa1abe5f2e3ef60f5e4929c900274758111d707a7cca2a7368eb2b1af1415da7e0b2dbfcbdbeb4cb8566210f2994ffde97ad1e11a037a174###HLS
 CCTV-5+ 体育赛事,http://li0580.top:35455/gaoma/cctv5p.m3u8###HLS
-CCTV-5+ 体育赛事,http://livetv.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=ystenlive###HLS
 CCTV-5+ 体育赛事,http://m.951688.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive###HLS
-CCTV-5 体育,http://livetv.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenlive###HLS
 CCTV-5 体育,http://m.951688.xyz:35455/itv/1000000005000265005.m3u8?cdn=ystenlive###HLS
 CCTV-5 体育,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv5###HLS
 CCTV-6 电影,http://m.951688.xyz:35455/itv/1000000005000265006.m3u8?cdn=ystenlive###HLS
@@ -313,7 +310,6 @@ CCTV-7 国防军事,http://li0580.top:35455/gaoma/cctv7.m3u8###HLS
 CCTV-7 国防军事,http://m.951688.xyz:35455/itv/1000000005000265007.m3u8?cdn=ystenlive###HLS
 CCTV-7 国防军事,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv7###HLS
 CCTV-8 电视剧,http://li0580.top:35455/gaoma/cctv8.m3u8###HLS
-CCTV-8 电视剧,http://livetv.wqwqwq.sbs/itv/1000000005000265008.m3u8?cdn=ystenlive###HLS
 CCTV-8 电视剧,http://m.951688.xyz:35455/itv/1000000005000265008.m3u8?cdn=ystenlive###HLS
 CCTV-8 电视剧,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv8###HLS
 CCTV-9 纪录,http://106.53.99.30/dl/bjyd.php?id=5###HLS
@@ -321,7 +317,6 @@ CCTV-9 纪录,http://m.951688.xyz:35455/itv/1000000005000265009.m3u8?cdn=ystenli
 CCTV-10 科教,http://106.53.99.30/dl/bjyd.php?id=6###HLS
 CCTV-11 戏曲,http://li0580.top:35455/gaoma/cctv11.m3u8###HLS
 CCTV-12 社会与法,http://106.53.99.30/dl/bjyd.php?id=8###HLS
-CCTV-12 社会与法,http://livetv.wqwqwq.sbs/itv/1000000005000265012.m3u8?cdn=ystenlive###HLS
 CCTV-14 少儿,http://106.53.99.30/dl/bjyd.php?id=10###HLS
 CCTV-15 音乐,http://106.53.99.30/dl/bjyd.php?id=11###HLS
 
