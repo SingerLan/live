@@ -135,7 +135,6 @@ CCTV-1 综合,http://www.douzhicloud.site:35455/gaoma/cctv1.m3u8###HLS
 CCTV-2 财经,http://106.53.99.30/dl/bjyd.php?id=2###HLS
 CCTV-2 财经,http://www.douzhicloud.site:35455/gaoma/cctv2.m3u8###HLS
 CCTV-2 财经,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv2###HLS
-CCTV-2 财经,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV2###HLS
 CCTV-3 综艺,http://wouu.net:9977/udp/239.93.1.11:2223###HLS
 CCTV-3 综艺,http://www.douzhicloud.site:35455/gaoma/cctv3.m3u8###HLS
 CCTV-3 综艺,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv3###HLS
@@ -151,7 +150,6 @@ CCTV-5+ 体育赛事,http://m.951688.xyz:35455/itv/1000000005000265016.m3u8?cdn=
 CCTV-5 体育,http://livetv.wqwqwq.sbs/itv/1000000005000265005.m3u8?cdn=ystenlive###HLS
 CCTV-5 体育,http://m.951688.xyz:35455/itv/1000000005000265005.m3u8?cdn=ystenlive###HLS
 CCTV-5 体育,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv5###HLS
-CCTV-5 体育,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV5###HLS
 CCTV-6 电影,http://m.951688.xyz:35455/itv/1000000005000265006.m3u8?cdn=ystenlive###HLS
 CCTV-7 国防军事,http://106.53.99.30/dl/bjyd.php?id=4###HLS
 CCTV-7 国防军事,http://li0580.top:35455/gaoma/cctv7.m3u8###HLS
