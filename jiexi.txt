@@ -119,8 +119,8 @@ CCTV-15 音乐,https://345iptv.com/?act=play&token=0907dfaf8e7594a25e29b1163d82b
 CCTV-16 奥林匹克,https://345iptv.com/?act=play&token=9e66eaffee6db1f0412fa91d234c337a&tid=ys&id=17&p=0###WEB
 CCTV-17 农业农村,https://345iptv.com/?act=play&token=7a940a5547966673efdf042b80a1139b&tid=ys&id=18&p=0###WEB
 
-CCTV-1 综合,,http://joyznm.i234.me:20000/udp/239.3.1.1:8000###des:720P###HLS
-CCTV-1 综合,,http://joyznm.i234.me:20000/udp/239.3.1.129:8008###des:1080P###HLS
+CCTV-1 综合,http://joyznm.i234.me:20000/udp/239.3.1.1:8000###des:720P###HLS
+CCTV-1 综合,http://joyznm.i234.me:20000/udp/239.3.1.129:8008###des:1080P###HLS
 CCTV-2 财经,http://joyznm.i234.me:20000/udp/239.3.1.2:8004###des:720P###HLS
 CCTV-2 财经,http://joyznm.i234.me:20000/udp/239.3.1.60:8084###des:1080P###HLS
 CCTV-3 综艺,http://joyznm.i234.me:20000/udp/239.3.1.107:8001###des:720P###HLS
