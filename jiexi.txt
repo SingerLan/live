@@ -37,6 +37,68 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086###HLS
 公共新闻频道,http://211.101.234.24:68/公众号猫月牙/mg.php?id=公共新闻频道###HLS
 军事迷必看大片,http://211.101.234.24:68/公众号猫月牙/mg.php?id=军事迷必看大片###HLS
+BTV卡酷少儿,http://joyznm.i234.me:20000/udp/239.3.1.234:8000###HLS
+BTV卡酷少儿高清,http://joyznm.i234.me:20000/udp/239.3.1.189:8000###des:1080P###HLS
+动画,http://joyznm.i234.me:20000/udp/239.3.1.80:4120###HLS
+嘉佳卡通,http://joyznm.i234.me:20000/udp/239.3.1.147:9268###HLS
+金银卡通,http://joyznm.i234.me:20000/udp/239.3.1.51:9252###HLS
+IPTV少儿动画,http://joyznm.i234.me:20000/udp/239.3.1.199:9000###HLS
+IPTV收视指南,http://joyznm.i234.me:20000/udp/239.3.1.193:8012###HLS
+IPTV热播剧场,http://joyznm.i234.me:20000/udp/239.3.1.194:9020###HLS
+IPTV经典电影,http://joyznm.i234.me:20000/udp/239.3.1.195:9024###HLS
+IPTV魅力时尚,http://joyznm.i234.me:20000/udp/239.3.1.196:9012###HLS
+4K超清,http://joyznm.i234.me:20000/udp/239.3.1.249:8001###HLS
+BTV体育休闲,http://joyznm.i234.me:20000/udp/239.3.1.97:8001###HLS
+BTV国际频道,http://joyznm.i234.me:20000/udp/239.3.1.235:8000###HLS
+BTV影视,http://joyznm.i234.me:20000/udp/239.3.1.158:8000###des:1080P###HLS
+BTV影视,http://joyznm.i234.me:20000/udp/239.3.1.228:8000###des:720P###HLS
+BTV文艺,http://joyznm.i234.me:20000/udp/239.3.1.226:8000###des:720P###HLS
+BTV文艺,http://joyznm.i234.me:20000/udp/239.3.1.242:8000###des:1080P###HLS
+BTV新闻,http://joyznm.i234.me:20000/udp/239.3.1.159:8000###des:1080P###HLS
+BTV新闻,http://joyznm.i234.me:20000/udp/239.3.1.233:8000###des:720P###HLS
+BTV生活,http://joyznm.i234.me:20000/udp/239.3.1.117:8000###des:1080P###HLS
+BTV生活,http://joyznm.i234.me:20000/udp/239.3.1.231:8000###des:720P###HLS
+BTV科教,http://joyznm.i234.me:20000/udp/239.3.1.115:8000###des:1080P###HLS
+BTV科教,http://joyznm.i234.me:20000/udp/239.3.1.227:8000###des:720P###HLS
+BTV财经,http://joyznm.i234.me:20000/udp/239.3.1.116:8000###des:1080P###HLS
+BTV财经,http://joyznm.i234.me:20000/udp/239.3.1.229:8000###des:720P###HLS
+三沙卫视,http://joyznm.i234.me:20000/udp/239.3.1.155:4120###HLS
+光影,http://joyznm.i234.me:20000/udp/239.3.1.84:4120###HLS
+军事,http://joyznm.i234.me:20000/udp/239.3.1.76:4120###HLS
+军旅剧场,http://joyznm.i234.me:20000/udp/239.3.1.68:4120###HLS
+动作影院,http://joyznm.i234.me:20000/udp/239.3.1.92:4120###HLS
+古装剧场,http://joyznm.i234.me:20000/udp/239.3.1.69:4120###HLS
+台球,http://joyznm.i234.me:20000/udp/239.3.1.85:4120###HLS
+喜剧影院,http://joyznm.i234.me:20000/udp/239.3.1.91:4120###HLS
+国学,http://joyznm.i234.me:20000/udp/239.3.1.77:4120###HLS
+城市剧场,http://joyznm.i234.me:20000/udp/239.3.1.67:4120###HLS
+墨宝,http://joyznm.i234.me:20000/udp/239.3.1.83:4120###HLS
+家庭影院,http://joyznm.i234.me:20000/udp/239.3.1.93:4120###HLS
+密云电视台,http://joyznm.i234.me:20000/udp/239.3.1.154:8001###des:1080P###HLS
+快乐垂钓,http://joyznm.i234.me:20000/udp/239.3.1.164:8001###des:1080P###HLS
+戏曲,http://joyznm.i234.me:20000/udp/239.3.1.78:4120###HLS
+房山电视台,http://joyznm.i234.me:20000/udp/239.3.1.96:8001###des:1080P###HLS
+早教,http://joyznm.i234.me:20000/udp/239.3.1.79:4120###HLS
+星影,http://joyznm.i234.me:20000/udp/239.3.1.94:4120###HLS
+朝阳融媒,http://joyznm.i234.me:20000/udp/239.3.1.163:8001###HLS
+武侠剧场,http://joyznm.i234.me:20000/udp/239.3.1.90:4120###HLS
+武术,http://joyznm.i234.me:20000/udp/239.3.1.87:4120###HLS
+淘BABY,http://joyznm.i234.me:20000/udp/239.3.1.238:8001###des:1080P###HLS
+淘剧场,http://joyznm.i234.me:20000/udp/239.3.1.95:8001###des:1080P###HLS
+淘娱乐,http://joyznm.i234.me:20000/udp/239.3.1.100:8001###des:1080P###HLS
+淘电影,http://joyznm.i234.me:20000/udp/239.3.1.250:8001###des:1080P###HLS
+爱上4K,http://joyznm.i234.me:20000/udp/239.3.1.236:2000###HLS
+爱生活,http://joyznm.i234.me:20000/udp/239.3.1.86:4120###HLS
+精选,http://joyznm.i234.me:20000/udp/239.3.1.74:4120###HLS
+茶频道,http://joyznm.i234.me:20000/udp/239.3.1.165:8001###des:1080P###HLS
+萌宠TV,http://joyznm.i234.me:20000/udp/239.3.1.102:8001###des:1080P###HLS
+解密,http://joyznm.i234.me:20000/udp/239.3.1.75:4120###HLS
+财富天下,http://joyznm.i234.me:20000/udp/239.3.1.53:9136###HLS
+足球,http://joyznm.i234.me:20000/udp/239.3.1.89:4120###HLS
+金鹰纪实,http://joyznm.i234.me:20000/udp/239.3.1.58:8156###des:1080P###HLS
+鉴赏,http://joyznm.i234.me:20000/udp/239.3.1.82:4120###HLS
+音乐现场,http://joyznm.i234.me:20000/udp/239.3.1.70:4120###HLS
+高网,http://joyznm.i234.me:20000/udp/239.3.1.88:4120###HLS
 央视,#genre#
 CCTV-1 综合,https://345iptv.com/?act=play&token=677ae963ca6d577cb236d3c9970a9d48&tid=ys&id=1&p=0###WEB
 CCTV-2 财经,https://345iptv.com/?act=play&token=8d094ec2ddd09c0b58337e947889e813&tid=ys&id=2&p=0###WEB
@@ -56,6 +118,42 @@ CCTV-14 少儿,https://345iptv.com/?act=play&token=bb80d58400752a4cd072192c8dc33
 CCTV-15 音乐,https://345iptv.com/?act=play&token=0907dfaf8e7594a25e29b1163d82b782&tid=ys&id=16&p=0###WEB
 CCTV-16 奥林匹克,https://345iptv.com/?act=play&token=9e66eaffee6db1f0412fa91d234c337a&tid=ys&id=17&p=0###WEB
 CCTV-17 农业农村,https://345iptv.com/?act=play&token=7a940a5547966673efdf042b80a1139b&tid=ys&id=18&p=0###WEB
+
+CCTV-1 综合,,http://joyznm.i234.me:20000/udp/239.3.1.1:8000###des:720P###HLS
+CCTV-1 综合,,http://joyznm.i234.me:20000/udp/239.3.1.129:8008###des:1080P###HLS
+CCTV-2 财经,http://joyznm.i234.me:20000/udp/239.3.1.2:8004###des:720P###HLS
+CCTV-2 财经,http://joyznm.i234.me:20000/udp/239.3.1.60:8084###des:1080P###HLS
+CCTV-3 综艺,http://joyznm.i234.me:20000/udp/239.3.1.107:8001###des:720P###HLS
+CCTV-3 综艺,http://joyznm.i234.me:20000/udp/239.3.1.172:8001###des:1080P###HLS
+CCTV-4 中文国际（亚）,http://joyznm.i234.me:20000/udp/239.3.1.4:8216###des:720P###HLS
+CCTV-4 中文国际（欧）,http://joyznm.i234.me:20000/udp/239.3.1.213:4220###des:1080P###HLS
+CCTV-4 中文国际（美）,http://joyznm.i234.me:20000/udp/239.3.1.214:4220###des:1080P###HLS
+CCTV-4 中文国际（亚）,http://joyznm.i234.me:20000/udp/239.3.1.105:8092###des:1080P###HLS
+CCTV-5 体育,http://joyznm.i234.me:20000/udp/239.3.1.108:8001###des:720P###HLS
+CCTV-5+ 体育赛事,http://joyznm.i234.me:20000/udp/239.3.1.130:8004###des:1080P###HLS
+CCTV-5 体育,http://joyznm.i234.me:20000/udp/239.3.1.173:8001###des:1080P###HLS
+CCTV-6 电影,http://joyznm.i234.me:20000/udp/239.3.1.109:8001###des:720P###HLS
+CCTV-6 电影,http://joyznm.i234.me:20000/udp/239.3.1.174:8001###des:1080P###HLS
+CCTV-7 国防军事,http://joyznm.i234.me:20000/udp/239.3.1.7:8024###des:720P###HLS
+CCTV-7 国防军事,http://joyznm.i234.me:20000/udp/239.3.1.61:8104###des:1080P###HLS
+CCTV-8 电视剧,http://joyznm.i234.me:20000/udp/239.3.1.110:8001###des:720P###HLS
+CCTV-8 电视剧,http://joyznm.i234.me:20000/udp/239.3.1.175:8001###des:1080P###HLS
+CCTV-9 纪录,http://joyznm.i234.me:20000/udp/239.3.1.9:8032###des:720P###HLS
+CCTV-9 纪录,http://joyznm.i234.me:20000/udp/239.3.1.62:8112###des:1080P###HLS
+CCTV-10 科教,http://joyznm.i234.me:20000/udp/239.3.1.10:8228###des:720P###HLS
+CCTV-10 科教,http://joyznm.i234.me:20000/udp/239.3.1.63:8116###des:1080P###HLS
+CCTV-11 戏曲,http://joyznm.i234.me:20000/udp/239.3.1.11:8040###des:720P###HLS
+CCTV-11 戏曲,http://joyznm.i234.me:20000/udp/239.3.1.152:8120###des:1080P###HLS
+CCTV-12 社会与法,http://joyznm.i234.me:20000/udp/239.3.1.12:8232###des:720P###HLS
+CCTV-12 社会与法,http://joyznm.i234.me:20000/udp/239.3.1.64:8124###des:1080P###HLS
+CCTV-13 新闻,http://joyznm.i234.me:20000/udp/239.3.1.13:8048###des:720P###HLS
+CCTV-13 新闻,http://joyznm.i234.me:20000/udp/239.3.1.124:8128###des:1080P###HLS
+CCTV-14 少儿,http://joyznm.i234.me:20000/udp/239.3.1.14:8236###des:720P###HLS
+CCTV-14 少儿,http://joyznm.i234.me:20000/udp/239.3.1.65:8132###des:1080P###HLS
+CCTV-15 音乐,http://joyznm.i234.me:20000/udp/239.3.1.15:8052###des:720P###HLS
+CCTV-15 音乐,http://joyznm.i234.me:20000/udp/239.3.1.153:8136###des:1080P###HLS
+CCTV-17 农业农村,http://joyznm.i234.me:20000/udp/239.3.1.150:8064###des:720P###HLS
+CCTV-17 农业农村,http://joyznm.i234.me:20000/udp/239.3.1.151:8144###des:1080P###HLS
 
 CCTV-1 综合,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv1###HLS
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1###HLS
@@ -214,6 +312,14 @@ CCTV-4 中文国际（欧）,https://tv.cctv.com/live/cctveurope###WEB
 CCTV-4 中文国际（美）,https://tv.cctv.com/live/cctvamerica###WEB
 CCTV4k,https://www.yangshipin.cn/tv/home?pid=600002264###WEB
 CCTV-1 HK,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8###HLS
+
+CGTN,http://joyznm.i234.me:20000/udp/239.3.1.16:8056###des:720P###HLS
+CGTN俄语高清,http://joyznm.i234.me:20000/udp/239.3.1.220:4220###des:1080P###HLS
+CGTN法语高清,http://joyznm.i234.me:20000/udp/239.3.1.218:4220###des:1080P###HLS
+CGTN纪录频道高清,http://joyznm.i234.me:20000/udp/239.3.1.216:4220###des:1080P###HLS
+CGTN西班牙语高清,http://joyznm.i234.me:20000/udp/239.3.1.217:4220###des:1080P###HLS
+CGTN阿拉伯语高清,http://joyznm.i234.me:20000/udp/239.3.1.219:4220###des:1080P###HLS
+CGTN高清,http://joyznm.i234.me:20000/udp/239.3.1.215:4220###des:1080P###HLS
 港台,#genre#
 中视HD,rtmp://f13h.mine.nu/sat/tv091###HLS
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8###HLS
@@ -368,18 +474,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8###HLS
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8###HLS
 卫视,#genre#
-山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8###HLS
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws###HLS
-江苏卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=江苏卫视###HLS
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws###HLS
-江西卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=江西卫视###HLS
-江西卫视,http://z.b.bkpcp.top/m.php?id=jxws###HLS
-河南卫视*,http://211.101.234.24:68/公众号猫月牙/mg.php?id=河南卫视###HLS
-湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8###HLS
-西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8###HLS
-陕西卫视,http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8###HLS
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws###HLS
-青海卫视,http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8###HLS
 
 湖南卫视,https://345iptv.com/?act=play&token=45e27df32846f25cda826c44425df4ee&tid=ws&id=1&p=0###WEB
 江苏卫视,https://345iptv.com/?act=play&token=f05592e7341fd3242c0faf8d9127715b&tid=ws&id=2&p=0###WEB
@@ -399,6 +493,59 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 天津卫视,https://345iptv.com/?act=play&token=d43bc62c5899fb5e62f97038347271ef&tid=ws&id=18&p=0###WEB
 重庆卫视,https://345iptv.com/?act=play&token=fd924a13a25202c7a45f4e14c66813db&tid=ws&id=19&p=0###WEB
 广东珠江频道,https://345iptv.com/?act=play&token=6fe5487cd9b2cae832ffd478819b15cb&tid=ws&id=37&p=0###WEB
+
+北京卫视,http://joyznm.i234.me:20000/udp/239.3.1.225:8000##des:720P###HLS
+东南卫视,http://joyznm.i234.me:20000/udp/239.3.1.36:8112##des:720P###HLS
+东南卫视,http://joyznm.i234.me:20000/udp/239.3.1.156:8148##des:1080P###HLS
+东方卫视,http://joyznm.i234.me:20000/udp/239.3.1.34:8192##des:720P###HLS
+东方卫视,http://joyznm.i234.me:20000/udp/239.3.1.136:8032###des:1080P###HLS
+云南卫视,http://joyznm.i234.me:20000/udp/239.3.1.26:8108##des:720P###HLS
+兵团卫视,http://joyznm.i234.me:20000/udp/239.3.1.144:4120##des:720P###HLS
+内蒙古卫视,http://joyznm.i234.me:20000/udp/239.3.1.43:8176##des:720P###HLS
+北京卫视,http://joyznm.i234.me:20000/udp/239.3.1.225:8000##des:720P###HLS
+北京卫视,http://joyznm.i234.me:20000/udp/239.3.1.241:8000###des:1080P###HLS
+厦门卫视,http://joyznm.i234.me:20000/udp/239.3.1.143:4120##des:720P###HLS
+吉林卫视,http://joyznm.i234.me:20000/udp/239.3.1.40:8200##des:720P###HLS
+四川卫视,http://joyznm.i234.me:20000/udp/239.3.1.29:8288##des:720P###HLS
+天津卫视,http://joyznm.i234.me:20000/udp/239.3.1.23:8144##des:720P###HLS
+天津卫视,http://joyznm.i234.me:20000/udp/239.3.1.141:1234###des:1080P###HLS
+宁夏卫视,http://joyznm.i234.me:20000/udp/239.3.1.46:8124##des:720P###HLS
+安徽卫视,http://joyznm.i234.me:20000/udp/239.3.1.21:8272##des:720P###HLS
+安徽卫视,http://joyznm.i234.me:20000/udp/239.3.1.211:8064###des:1080P###HLS
+山东卫视,http://joyznm.i234.me:20000/udp/239.3.1.25:8148##des:720P###HLS
+山东卫视,http://joyznm.i234.me:20000/udp/239.3.1.209:8052###des:1080P###HLS
+山西卫视,http://joyznm.i234.me:20000/udp/239.3.1.42:8172##des:720P###HLS
+广东卫视,http://joyznm.i234.me:20000/udp/239.3.1.38:8132##des:720P###HLS
+广东卫视,http://joyznm.i234.me:20000/udp/239.3.1.142:8048###des:1080P###HLS
+广西卫视,http://joyznm.i234.me:20000/udp/239.3.1.39:8300##des:720P###HLS
+新疆卫视,http://joyznm.i234.me:20000/udp/239.3.1.48:8160##des:720P###HLS
+江苏卫视,http://joyznm.i234.me:20000/udp/239.3.1.20:8276##des:720P###HLS
+江苏卫视,http://joyznm.i234.me:20000/udp/239.3.1.135:8028###des:1080P###HLS
+江西卫视,http://joyznm.i234.me:20000/udp/239.3.1.30:8280##des:720P###HLS
+江西卫视,http://joyznm.i234.me:20000/udp/239.3.1.123:8164###des:1080P###HLS
+河北卫视,http://joyznm.i234.me:20000/udp/239.3.1.37:8292##des:720P###HLS
+河北卫视,http://joyznm.i234.me:20000/udp/239.3.1.148:8072###des:1080P###HLS
+河南卫视,http://joyznm.i234.me:20000/udp/239.3.1.27:8128##des:720P###HLS
+浙江卫视,http://joyznm.i234.me:20000/udp/239.3.1.19:8284##des:720P###HLS
+浙江卫视,http://joyznm.i234.me:20000/udp/239.3.1.137:8036###des:1080P###HLS
+海南卫视,http://joyznm.i234.me:20000/udp/239.3.1.45:8304##des:720P###HLS
+深圳卫视,http://joyznm.i234.me:20000/udp/239.3.1.32:9244##des:720P###HLS
+深圳卫视,http://joyznm.i234.me:20000/udp/239.3.1.134:8020###des:1080P###HLS
+湖北卫视,http://joyznm.i234.me:20000/udp/239.3.1.33:8136##des:720P###HLS
+湖北卫视,http://joyznm.i234.me:20000/udp/239.3.1.138:8044###des:1080P###HLS
+湖南卫视,http://joyznm.i234.me:20000/udp/239.3.1.18:8268##des:720P###HLS
+湖南卫视,http://joyznm.i234.me:20000/udp/239.3.1.132:8012###des:1080P###HLS
+甘肃卫视,http://joyznm.i234.me:20000/udp/239.3.1.49:8188##des:720P###HLS
+西藏卫视,http://joyznm.i234.me:20000/udp/239.3.1.47:8164##des:720P###HLS
+贵州卫视,http://joyznm.i234.me:20000/udp/239.3.1.31:8120##des:720P###HLS
+贵州卫视,http://joyznm.i234.me:20000/udp/239.3.1.149:8076###des:1080P###HLS
+辽宁卫视,http://joyznm.i234.me:20000/udp/239.3.1.24:8116##des:720P###HLS
+辽宁卫视,http://joyznm.i234.me:20000/udp/239.3.1.210:8056###des:1080P###HLS
+重庆卫视,http://joyznm.i234.me:20000/udp/239.3.1.35:8296##des:720P###HLS
+重庆卫视,http://joyznm.i234.me:20000/udp/239.3.1.122:8160###des:1080P###HLS
+陕西卫视,http://joyznm.i234.me:20000/udp/239.3.1.41:8140##des:720P###HLS
+青海卫视,http://joyznm.i234.me:20000/udp/239.3.1.44:8184##des:720P###HLS
+黑龙江卫视,http://joyznm.i234.me:20000/udp/239.3.1.28:8196##des:720P###HLS
 
 东方卫视,http://218.3.138.25:1111/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0###HLS
 东方卫视,http://36.135.52.57:9901/tsfile/live/0107_1.m3u8?key=txiptv###HLS
@@ -443,6 +590,20 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws###HLS
 河南卫视,http://z.b.bkpcp.top/m.php?id=hnws###HLS
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws###HLS
+
+
+山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8###HLS
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws###HLS
+江苏卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=江苏卫视###HLS
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws###HLS
+江西卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=江西卫视###HLS
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws###HLS
+河南卫视*,http://211.101.234.24:68/公众号猫月牙/mg.php?id=河南卫视###HLS
+湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8###HLS
+西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8###HLS
+陕西卫视,http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8###HLS
+陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws###HLS
+青海卫视,http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8###HLS
 
 北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8###WEB
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309###WEB
