@@ -9,6 +9,29 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB
 金鹰卡通,https://live.mgtv.com/?channelId=287###WEB
 卡酷少儿,https://www.brtn.cn/btv/btvsy_index###WEB
 五星体育,https://345iptv.com/?act=play&token=9fa87d920753334989e49e5eaa274c92&tid=ty&id=5&p=0###WEB
+CCTV怀旧剧场,http://dsk.cc/p/bfgd.html?id=hjjc###WEB
+CCTV风云足球,http://dsk.cc/p/bfgd.html?id=fyzq###WEB
+CCTV电视指南,http://dsk.cc/p/bfgd.html?id=dszn###WEB
+CCTV女性时尚,http://dsk.cc/p/bfgd.html?id=nxss###WEB
+CCTV世界地理,http://dsk.cc/p/bfgd.html?id=sjdl###WEB
+中央新影-发现之旅,http://dsk.cc/p/bfgd.html?id=fxzl###WEB
+中央新影-老故事,http://dsk.cc/p/bfgd.html?id=lgs###WEB
+CHC华诚影视,http://dsk.cc/p/bfgd.html?id=chchcys###WEB
+书画,http://dsk.cc/p/bfgd.html?id=sh###WEB
+重温经典,http://dsk.cc/p/bfgd.html?id=cwjd###WEB
+卡酷少儿,http://dsk.cc/p/bfgd.html?id=kkse###WEB
+四海钓鱼,http://dsk.cc/p/bfgd.html?id=shdy###WEB
+优优宝贝,http://dsk.cc/p/bfgd.html?id=yybb###WEB
+亚洲影院,http://dsk.cc/p/bfgd.html?id=yzyy###WEB
+精品剧场,http://dsk.cc/p/bfgd.html?id=jpjc###WEB
+欧美影院,http://dsk.cc/p/bfgd.html?id=omyy###WEB
+高清娱乐,http://dsk.cc/p/bfgd.html?id=gqyl###WEB
+少儿动漫,http://dsk.cc/p/bfgd.html?id=sedm###WEB
+风尚音乐,http://dsk.cc/p/bfgd.html?id=fsyy###WEB
+探索纪录,http://dsk.cc/p/bfgd.html?id=tsjl###WEB
+电子竞技,http://dsk.cc/p/bfgd.html?id=dzjj###WEB
+漫游世界,http://dsk.cc/p/bfgd.html?id=mysj###WEB
+炫动3D,http://dsk.cc/p/bfgd.html?id=xdsd###WEB
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy###HLS
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy###HLS
 1905,http://php.jdshipin.com:8880/1905.php?id=1905dy###HLS
@@ -17,7 +40,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 斗鱼电影-邵氏影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519###HLS
 新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8###HLS
 星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv###HLS
-淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2###HLS
 绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8###HLS
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv###HLS
 重温经典,http://mtw.so/5NPX0U###HLS
@@ -41,7 +63,7 @@ BTV卡酷少儿,http://joyznm.i234.me:20000/udp/239.3.1.234:8000###HLS
 BTV卡酷少儿高清,http://joyznm.i234.me:20000/udp/239.3.1.189:8000###des:1080P###HLS
 动画,http://joyznm.i234.me:20000/udp/239.3.1.80:4120###HLS
 嘉佳卡通,http://joyznm.i234.me:20000/udp/239.3.1.147:9268###HLS
-金银卡通,http://joyznm.i234.me:20000/udp/239.3.1.51:9252###HLS
+金鹰卡通,http://joyznm.i234.me:20000/udp/239.3.1.51:9252###HLS
 IPTV少儿动画,http://joyznm.i234.me:20000/udp/239.3.1.199:9000###HLS
 IPTV收视指南,http://joyznm.i234.me:20000/udp/239.3.1.193:8012###HLS
 IPTV热播剧场,http://joyznm.i234.me:20000/udp/239.3.1.194:9020###HLS
@@ -135,6 +157,27 @@ BTV财经,http://joyznm.i234.me:20000/udp/239.3.1.229:8000###des:720P###HLS
 睛彩青少,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND###HLS
 
 央视,#genre#
+CCTV-1 综合,http://dsk.cc/p/bfgd.html?id=cctv1###WEB
+CCTV-1 综合,,http://dsk.cc/p/bfgd.html?id=cctv1b###WEB
+CCTV-1 综合,,http://dsk.cc/p/bfgd.html?id=cct1c###WEB
+CCTV-1 综合,,http://dsk.cc/p/bfgd.html?id=cct1d###WEB
+CCTV-1 综合,,http://dsk.cc/p/bfgd.html?id=cct1e###WEB
+CCTV-2 财经,http://dsk.cc/p/bfgd.html?id=cctv2###WEB
+CCTV-3 综艺,http://dsk.cc/p/bfgd.html?id=cctv3###WEB
+CCTV-4 中文国际（亚）,http://dsk.cc/p/bfgd.html?id=cctv4###WEB
+CCTV-5 体育,http://dsk.cc/p/bfgd.html?id=cctv5###WEB
+CCTV-5+ 体育赛事,http://dsk.cc/p/bfgd.html?id=cctv5p###WEB
+CCTV-6 电影,http://dsk.cc/p/bfgd.html?id=cctv6###WEB
+CCTV-7 国防军事,http://dsk.cc/p/bfgd.html?id=cctv7###WEB
+CCTV-8 电视剧,http://dsk.cc/p/bfgd.html?id=cctv8###WEB
+CCTV-9 纪录,http://dsk.cc/p/bfgd.html?id=cctv9###WEB
+CCTV-10 科教,http://dsk.cc/p/bfgd.html?id=cctv10###WEB
+CCTV-11 戏曲,http://dsk.cc/p/bfgd.html?id=cctv11###WEB
+CCTV-12 社会与法,http://dsk.cc/p/bfgd.html?id=cctv12###WEB
+CCTV-13 新闻,http://dsk.cc/p/bfgd.html?id=cctv13###WEB
+CCTV-14 少儿,http://dsk.cc/p/bfgd.html?id=cctv14###WEB
+CCTV-15 音乐,http://dsk.cc/p/bfgd.html?id=cctv15###WEB
+CCTV-17 农业农村,http://dsk.cc/p/bfgd.html?id=cctv17###WEB
 
 CCTV-1 综合,https://345iptv.com/?act=play&token=677ae963ca6d577cb236d3c9970a9d48&tid=ys&id=1&p=0###WEB
 CCTV-2 财经,https://345iptv.com/?act=play&token=8d094ec2ddd09c0b58337e947889e813&tid=ys&id=2&p=0###WEB
@@ -294,9 +337,7 @@ CCTV-2 财经,http://106.53.99.30/dl/bjyd.php?id=2###HLS
 CCTV-2 财经,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv2###HLS
 CCTV-3 综艺,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv3###HLS
 CCTV-4 中文国际（亚）,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv4###HLS
-CCTV-4 中文国际（亚）,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8###HLS
-CCTV-4 中文国际（亚）,https://www.freetv.top/migu/608807416.m3u8?migutoken=94d24df192f212e52d7c222dfab7df5ce4aad53db2766a6c4275a4c1e796cf13fb231906f792af9bc717ce1ccafa62165ebdc66b02fb0882cd5beac443921d36883a491d2b549a5509d63534e1###HLS
-CCTV-4 中文国际（亚）,https://www.freetv.top/migu/608807419.m3u8?migutoken=77b074e1b49cf260629d9642f9505e978eaabf572bfa1abe5f2e3ef60f5e4929c900274758111d707a7cca2a7368eb2b1af1415da7e0b2dbfcbdbeb4cb8566210f2994ffde97ad1e11a037a174###HLS
+CCTV-4 中文国际（美）,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8###HLS
 CCTV-5+ 体育赛事,http://li0580.top:35455/gaoma/cctv5p.m3u8###HLS
 CCTV-5 体育,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv5###HLS
 CCTV-7 国防军事,http://106.53.99.30/dl/bjyd.php?id=4###HLS
@@ -370,6 +411,70 @@ CGTN西班牙语高清,http://joyznm.i234.me:20000/udp/239.3.1.217:4220###des:10
 CGTN阿拉伯语高清,http://joyznm.i234.me:20000/udp/239.3.1.219:4220###des:1080P###HLS
 CGTN高清,http://joyznm.i234.me:20000/udp/239.3.1.215:4220###des:1080P###HLS
 港台,#genre#
+凤凰卫视中文台,https://345iptv.com/?act=play&token=1954169d1dfb9cbc12fd4f353d5d31b2&tid=gt&id=1&p=0###WEB
+凤凰卫视资讯台,https://345iptv.com/?act=play&token=6bdefacb888922eba8683ba0d3ed2d0c&tid=gt&id=2&p=0###WEB
+凤凰卫视香港台,https://345iptv.com/?act=play&token=7010383a1fcd7e99526598c4ed672256&tid=gt&id=3&p=0###WEB
+TVB翡翠台,https://345iptv.com/?act=play&token=dc1bc1fa919aba49d4719d69c838fcfa&tid=gt&id=5&p=0###WEB
+TVB无线新闻台,https://345iptv.com/?act=play&token=8cb8ac6c145287e2ee088d20822560ab&tid=gt&id=6&p=0###WEB
+TVB Plus,https://345iptv.com/?act=play&token=e3bdcc55bbc8bbcfb6e04b9f98407c95&tid=gt&id=8&p=0###WEB
+TVB明珠台,https://345iptv.com/?act=play&token=5a592ca5f9a4e277577d75c5ed9a2a0f&tid=gt&id=9&p=0###WEB
+香港有线新闻台,https://345iptv.com/?act=play&token=870d0dfcea5ae00b8c3ee110c1d6814f&tid=gt&id=11&p=0###WEB
+香港有线18台,https://345iptv.com/?act=play&token=5d45ff67b2da39c44465c4f49b39deaf&tid=gt&id=12&p=0###WEB
+NOW SPORTS PRIME,https://345iptv.com/?act=play&token=27edacd342e4106d78fba561487e3aea&tid=gt&id=15&p=0###WEB
+NOW直播台,https://345iptv.com/?act=play&token=5918591e6e833a67cb01d4a6f97b0e36&tid=gt&id=16&p=0###WEB
+NOW新闻台,https://345iptv.com/?act=play&token=27d66786aad725d0a00491074ead3730&tid=gt&id=17&p=0###WEB
+NOW财经台,https://345iptv.com/?act=play&token=8977c825908f4fd2c7b98d31ce905de4&tid=gt&id=18&p=0###WEB
+ViuTV,https://345iptv.com/?act=play&token=3ca9082c26a6c882fd9be33376df3508&tid=gt&id=19&p=0###WEB
+ViuTV6,https://345iptv.com/?act=play&token=6f8c7f3b97ec3246dfe771865b07d322&tid=gt&id=20&p=0###WEB
+HOY国际财经台,https://345iptv.com/?act=play&token=9f4e49be333091cdecc7a3e1e7477886&tid=gt&id=22&p=0###WEB
+HOY资讯台,https://345iptv.com/?act=play&token=b4d6386e29707ff6596c42edae9ecfb4&tid=gt&id=23&p=0###WEB
+HOY TV,https://345iptv.com/?act=play&token=e14264b740c71d5d8fea15a2771cb4d2&tid=gt&id=24&p=0###WEB
+港台电视31,https://345iptv.com/?act=play&token=422a708d9bbb31921dce05431781ccab&tid=gt&id=26&p=0###WEB
+港台电视32,https://345iptv.com/?act=play&token=7cab9ffbaa43d434fff38e8d59e9d663&tid=gt&id=27&p=0###WEB
+香港卫视HKS,https://345iptv.com/?act=play&token=bd4a68482ff5b0c4337d994da3e3fe29&tid=gt&id=30&p=0###WEB
+耀才财经,https://345iptv.com/?act=play&token=8849436eb5342a97dded6b8ba81e36f9&tid=gt&id=32&p=0###WEB
+澳门莲花,https://345iptv.com/?act=play&token=b7b284d2d33127f865143cea515d75b0&tid=gt&id=35&p=0###WEB
+澳門卫视,https://345iptv.com/?act=play&token=e46996b0b7b3b1a7f30ba46b47ae7583&tid=gt&id=36&p=0###WEB
+澳视资讯,https://345iptv.com/?act=play&token=3e833129103a3b875f26f5d955c355fc&tid=gt&id=37&p=0###WEB
+澳視澳門,https://345iptv.com/?act=play&token=163fbbb84f5460b84b135babd7d59d4b&tid=gt&id=38&p=0###WEB
+澳門Macau,https://345iptv.com/?act=play&token=0f4691ed400b21190e277fabe12b6c78&tid=gt&id=39&p=0###WEB
+澳视综艺,https://345iptv.com/?act=play&token=d919e4f64a22c6d57522d3e0c2e6d67f&tid=gt&id=40&p=0###WEB
+澳亚卫视,https://345iptv.com/?act=play&token=53ceeef30429e4252363292d47612ba4&tid=gt&id=41&p=0###WEB
+中天新闻台,https://345iptv.com/?act=play&token=592f18bdf14b5c5da56c70e53a2f2fec&tid=gt&id=43&p=0###WEB
+东森新闻台,https://345iptv.com/?act=play&token=e3528a3f9e489017678f0bedf02be03d&tid=gt&id=44&p=0###WEB
+东森财经新闻台,https://345iptv.com/?act=play&token=c771dc35208e581b1e6e8c0ee70979d6&tid=gt&id=45&p=0###WEB
+中视新闻台,https://345iptv.com/?act=play&token=e18154e6750261f7639783b45da79003&tid=gt&id=46&p=0###WEB
+台视新闻台,https://345iptv.com/?act=play&token=ec94e69e05b66e636c75093308239bd5&tid=gt&id=47&p=0###WEB
+三立新闻台,https://345iptv.com/?act=play&token=b26eb5f81d040f845f66e1beb9ce1de3&tid=gt&id=48&p=0###WEB
+民视新闻台,https://345iptv.com/?act=play&token=b08f4da6f9f4b334b3e11a97ed6bd58b&tid=gt&id=50&p=0###WEB
+华视新闻台,https://345iptv.com/?act=play&token=cd32c6912b809f8eec5374c89e86a1e8&tid=gt&id=51&p=0###WEB
+镜电视新闻台,https://345iptv.com/?act=play&token=a16fb94449c5f4c524ea5c97825e5be0&tid=gt&id=52&p=0###WEB
+寰宇新闻台,https://345iptv.com/?act=play&token=83db6e828c157c1563d0922236ca86a0&tid=gt&id=53&p=0###WEB
+TVBS新闻台,https://345iptv.com/?act=play&token=1a8d20e27f1d420615adacdb33a4d0f8&tid=gt&id=54&p=0###WEB
+TVBS HD,https://345iptv.com/?act=play&token=a40dc759b22df0344a849ca1abcb0992&tid=gt&id=56&p=0###WEB
+TVBS欢乐台,https://345iptv.com/?act=play&token=6260c0faa1f59bcb16585ed74fdd7ddb&tid=gt&id=57&p=0###WEB
+中视HD,https://345iptv.com/?act=play&token=07a2b233917bab83a6fc2b4478ff4817&tid=gt&id=60&p=0###WEB
+台视HD,https://345iptv.com/?act=play&token=66c43f97eb4710b97b207747f852ce06&tid=gt&id=61&p=0###WEB
+民视HD,https://345iptv.com/?act=play&token=540055f7f58239df454d17233e44030a&tid=gt&id=62&p=0###WEB
+华视HD,https://345iptv.com/?act=play&token=042fa465d2b88b96784cca1b2ce5068e&tid=gt&id=63&p=0###WEB
+三立台湾台,https://345iptv.com/?act=play&token=1c38f9f4645bfc1ac27c41f605303fa4&tid=gt&id=65&p=0###WEB
+民视台湾台,https://345iptv.com/?act=play&token=46fc090f8a6e63b6aaace480ff3c6333&tid=gt&id=67&p=0###WEB
+民视第一台,https://345iptv.com/?act=play&token=e51a2729e74ec94ff0833b9e361db4e4&tid=gt&id=68&p=0###WEB
+民视综艺台,https://345iptv.com/?act=play&token=e5d397163e3fbd6d430ae6a064d202c2&tid=gt&id=69&p=0###WEB
+民视旅游台,https://345iptv.com/?act=play&token=48dbbf34748041fffdf10072d6c2e002&tid=gt&id=70&p=0###WEB
+民视影剧台,https://345iptv.com/?act=play&token=ca12009ccb5a22d0d7546dc48b177ecc&tid=gt&id=71&p=0###WEB
+緯來體育台,https://345iptv.com/?act=play&token=28f6e19efe09fe57760f5d52fde743fa&tid=gt&id=73&p=0###WEB
+纬来日本台,https://345iptv.com/?act=play&token=54fc536367f34fead2815c0977a05c62&tid=gt&id=74&p=0###WEB
+纬来育乐台,https://345iptv.com/?act=play&token=f715534f34e94b33370c55effdf92008&tid=gt&id=75&p=0###WEB
+ELEVEN 1（DAZN 1）,https://345iptv.com/?act=play&token=393940714f96ccd2b504b4c364a42c61&tid=gt&id=76&p=0###WEB
+ELEVEN 2（DAZN 2）,https://345iptv.com/?act=play&token=6e0eafa0b38382ef3dc0267fc4580fd1&tid=gt&id=77&p=0###WEB
+爱尔达体育1台,https://345iptv.com/?act=play&token=6bd4470a0eda661c366b708bbd7c061f&tid=gt&id=79&p=0###WEB
+爱尔达体育2台,https://345iptv.com/?act=play&token=1748d8f3e6e232420e0d101e5196d733&tid=gt&id=80&p=0###WEB
+爱尔达体育3台,https://345iptv.com/?act=play&token=77d99e68bc3a283c4fdc3f2f0fc652cc&tid=gt&id=81&p=0###WEB
+爱尔达体育4台,https://345iptv.com/?act=play&token=1fad0cfb1605609b3071b5c865a317e1&tid=gt&id=82&p=0###WEB
+大爱一台,https://345iptv.com/?act=play&token=d366b9d427bada847d6621e0528a7c63&tid=gt&id=83&p=0###WEB
+大爱二台,https://345iptv.com/?act=play&token=d9f73bd5b6cf9cf984eb530d0de2fbb8&tid=gt&id=84&p=0###WEB
+
 中视HD,rtmp://f13h.mine.nu/sat/tv091###HLS
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8###HLS
 八大戏剧,https://stream1.freetv.fun/ba-da-xi-ju-1.m3u8###HLS
@@ -523,6 +628,45 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8###HLS
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8###HLS
 卫视,#genre#
+
+北京卫视,http://dsk.cc/p/bfgd.html?id=bjws###WEB
+东方卫视,http://dsk.cc/p/bfgd.html?id=dfws###WEB
+天津卫视,http://dsk.cc/p/bfgd.html?id=tjws###WEB
+重庆卫视,http://dsk.cc/p/bfgd.html?id=cqws###WEB
+黑龙江卫视,http://dsk.cc/p/bfgd.html?id=hljws###WEB
+吉林卫视,http://dsk.cc/p/bfgd.html?id=jlws###WEB
+延边卫视,http://dsk.cc/p/bfgd.html?id=ybws###WEB
+辽宁卫视,http://dsk.cc/p/bfgd.html?id=lnws###WEB
+辽宁卫视,http://dsk.cc/p/bfgd.html?id=lnws2###WEB
+辽宁卫视,http://dsk.cc/p/bfgd.html?id=lnhd###WEB
+内蒙古卫视,http://dsk.cc/p/bfgd.html?id=nmws###WEB
+宁夏卫视,http://dsk.cc/p/bfgd.html?id=nxws###WEB
+甘肃卫视,http://dsk.cc/p/bfgd.html?id=gsws###WEB
+青海卫视,http://dsk.cc/p/bfgd.html?id=qhws###WEB
+陕西卫视,http://dsk.cc/p/bfgd.html?id=sxws2###WEB
+农林卫视,http://dsk.cc/p/bfgd.html?id=nlws###WEB
+河北卫视,http://dsk.cc/p/bfgd.html?id=hbws###WEB
+山西卫视,http://dsk.cc/p/bfgd.html?id=sxiws###WEB
+山东卫视,http://dsk.cc/p/bfgd.html?id=sdws###WEB
+安徽卫视,http://dsk.cc/p/bfgd.html?id=ahws###WEB
+河南卫视,http://dsk.cc/p/bfgd.html?id=hnws###WEB
+河南卫视HD,http://dsk.cc/p/bfgd.html?id=hnhd###WEB
+湖北卫视,http://dsk.cc/p/bfgd.html?id=hubws###WEB
+湖南卫视,http://dsk.cc/p/bfgd.html?id=hunws###WEB
+江西卫视,http://dsk.cc/p/bfgd.html?id=jxws###WEB
+江苏卫视,http://dsk.cc/p/bfgd.html?id=jsws###WEB
+浙江卫视,http://dsk.cc/p/bfgd.html?id=zjws###WEB
+东南卫视,http://dsk.cc/p/bfgd.html?id=dnws###WEB
+广东卫视,http://dsk.cc/p/bfgd.html?id=gdws###WEB
+深圳卫视,http://dsk.cc/p/bfgd.html?id=szws###WEB
+广西卫视,http://dsk.cc/p/bfgd.html?id=gxws###WEB
+云南卫视,http://dsk.cc/p/bfgd.html?id=ynws###WEB
+贵州卫视,http://dsk.cc/p/bfgd.html?id=gzws###WEB
+四川卫视,http://dsk.cc/p/bfgd.html?id=scws###WEB
+新疆卫视,http://dsk.cc/p/bfgd.html?id=xjws###WEB
+兵团卫视,http://dsk.cc/p/bfgd.html?id=btws###WEB
+西藏卫视,http://dsk.cc/p/bfgd.html?id=xzws###WEB
+海南卫视,http://dsk.cc/p/bfgd.html?id=hinws###WEB
 
 北京卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND###HLS
 江苏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND###HLS
@@ -756,7 +900,7 @@ BRTV新闻,https://www.brtn.cn/btv/btvsy_index###WEB
 卡酷少儿,https://www.brtn.cn/btv/btvsy_index###WEB
 
 
-浙江频道,#genre#
+浙江,#genre#
 中国教育1台,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8###HLS
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8###HLS
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8###HLS
@@ -766,7 +910,7 @@ BRTV新闻,https://www.brtn.cn/btv/btvsy_index###WEB
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8###HLS
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8###HLS
 
-内蒙频道,#genre#
+内蒙,#genre#
 内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800###HLS
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800###HLS
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800###HLS
@@ -780,3 +924,34 @@ BRTV新闻,https://www.brtn.cn/btv/btvsy_index###WEB
 巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800###HLS
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800###HLS
 乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800###HLS
+
+辽宁,#genre#
+辽宁都市,http://dsk.cc/p/bfgd.html?id=lnds###WEB
+辽宁都市HD,http://dsk.cc/p/bfgd.html?id=lndshd###WEB
+辽宁影视剧,http://dsk.cc/p/bfgd.html?id=lnysj###WEB
+辽宁北方,http://dsk.cc/p/bfgd.html?id=lnbf###WEB
+辽宁体育,http://dsk.cc/p/bfgd.html?id=lnty###WEB
+辽宁生活,http://dsk.cc/p/bfgd.html?id=lnsh###WEB
+辽宁教育青少,http://dsk.cc/p/bfgd.html?id=lnjyqs###WEB
+辽宁经济,http://dsk.cc/p/bfgd.html?id=lnjj###WEB
+辽宁经济HD,http://dsk.cc/p/bfgd.html?id=lnjjhd###WEB
+辽宁公共,http://dsk.cc/p/bfgd.html?id=lngg###WEB
+辽宁公共HD,http://dsk.cc/p/bfgd.html?id=lngghd###WEB
+北方导视,http://dsk.cc/p/bfgd.html?id=bfds###WEB
+沈阳新闻综合,http://dsk.cc/p/bfgd.html?id=syxwzh###WEB
+抚顺综合,http://dsk.cc/p/bfgd.html?id=fszh###WEB
+鞍山新闻综合,http://dsk.cc/p/bfgd.html?id=asxwzh###WEB
+大连新闻综合,http://dsk.cc/p/bfgd.html?id=dlxwzh###WEB
+丹东新闻综合,http://dsk.cc/p/bfgd.html?id=ddxwzh###WEB
+锦州新闻综合,http://dsk.cc/p/bfgd.html?id=jzxwzh###WEB
+阜新综合,http://dsk.cc/p/bfgd.html?id=fxzh###WEB
+辽阳新闻综合,http://dsk.cc/p/bfgd.html?id=lyxwzh###WEB
+营口新闻综合,http://dsk.cc/p/bfgd.html?id=ykxwzh###WEB
+盘锦新闻综合,http://dsk.cc/p/bfgd.html?id=pjxwzh###WEB
+锦州教育,http://dsk.cc/p/bfgd.html?id=jzjy###WEB
+铁岭新闻综合,http://dsk.cc/p/bfgd.html?id=tlxwzh###WEB
+朝阳新闻综合,http://dsk.cc/p/bfgd.html?id=cyxwzh###WEB
+本溪综合,http://dsk.cc/p/bfgd.html?id=bxzh###WEB
+连山区综合,http://dsk.cc/p/bfgd.html?id=lsqzh###WEB
+龙港区综合,http://dsk.cc/p/bfgd.html?id=lgqzh###WEB
+葫芦岛新闻综合,http://dsk.cc/p/bfgd.html?id=hldxwzh###WEB
