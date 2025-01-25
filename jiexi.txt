@@ -223,6 +223,7 @@ CCTV-17 农业农村,http://joyznm.i234.me:20000/udp/239.3.1.150:8064###des:720P
 CCTV-17 农业农村,http://joyznm.i234.me:20000/udp/239.3.1.151:8144###des:1080P###HLS\\n
 
 CCTV-1 综合,http://8.146.211.219:2001/live_tv?pid=600001859###HLS###ua:SYTV/1.6\\n
+CCTV-2 综合,http://live.tongdaotv.com:8087/live/tdtv.m3u8###HLS###ua:SYTV/1.6\\n
 CCTV-1 综合,http://vapi.91kds.cc/live1/cctvxw.m3u8?bt=2&id=cctv1hd&apiKey=73c963d13814ce7d0e4743c5e7d033cc###HLS\\n
 CCTV-2 财经,http://vapi.91kds.cc/live1/cctvxw.m3u8?bt=2&id=cctv2hd&apiKey=73c963d13814ce7d0e4743c5e7d033cc###HLS\\n
 CCTV-2 财经,http://8.146.211.219:2001/live_tv?pid=600001800###HLS\\n
