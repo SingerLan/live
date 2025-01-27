@@ -31,15 +31,8 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 广东影视,http://z.b.bkpcp.top/m.php?id=gdys###HLS
 东方影视,http://z.b.bkpcp.top/m.php?id=shys###HLS
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc###HLS
-经典动画大集合,http://211.101.234.24:68/公众号猫月牙/mg.php?id=经典动画大集合###HLS
-老故事,http://211.101.234.24:68/公众号猫月牙/mg.php?id=老故事###HLS
 金鹰卡通,https://stream1.freetv.fun/04c887f5ef1094da7dee8aa04f8c3d763c80977655b913034c1c93e3883a91bb.m3u8###HLS
-魅力足球,http://211.101.234.24:68/公众号猫月牙/mg.php?id=魅力足球###HLS
-优漫卡通频道,http://211.101.234.24:68/公众号猫月牙/mg.php?id=优漫卡通频道###HLS
-嘉佳卡通,http://211.101.234.24:68/公众号猫月牙/mg.php?id=嘉佳卡通###HLS
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086###HLS
-公共新闻频道,http://211.101.234.24:68/公众号猫月牙/mg.php?id=公共新闻频道###HLS
-军事迷必看大片,http://211.101.234.24:68/公众号猫月牙/mg.php?id=军事迷必看大片###HLS
 BTV卡酷少儿,http://joyznm.i234.me:20000/udp/239.3.1.234:8000###HLS
 BTV卡酷少儿高清,http://joyznm.i234.me:20000/udp/239.3.1.189:8000###des:1080P###HLS
 动画,http://joyznm.i234.me:20000/udp/239.3.1.80:4120###HLS
@@ -180,64 +173,28 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8###HLS
 CGTN西班牙语,https://0472.org/hls/cgtnx.m3u8###HLS
 CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8###HLS
 
-CCTV-1 综合,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv1###HLS
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1###HLS
-CCTV-1 综合,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV1###HLS
-CCTV-2 财经,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv2###HLS
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2###HLS
-CCTV-2 财经,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV2###HLS
-CCTV-3 综艺,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv3###HLS
 CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3###HLS
-CCTV-3 综艺,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV3###HLS
-CCTV-4 中文国际（亚）,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv4###HLS
 CCTV-4 中文国际（亚）,http://z.b.bkpcp.top/m.php?id=cctv4###HLS
-CCTV-4 中文国际（亚）,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV4###HLS
-CCTV-4 中文国际（欧）,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV4欧洲###HLS
 CCTV-4 中文国际（欧）,http://z.b.bkpcp.top/m.php?id=cctv4o###HLS
-CCTV-4 中文国际（美）,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV4美洲###HLS
 CCTV-4 中文国际（美）,http://z.b.bkpcp.top/m.php?id=cctv4m###HLS
-CCTV-5+ 体育赛事,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv5p###HLS
 CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p###HLS
-CCTV-5+ 体育赛事,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV5p###HLS
-CCTV-5 体育,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv5###HLS
 CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5###HLS
-CCTV-5 体育,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV5###HLS
-CCTV-6 电影,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv6###HLS
 CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6###HLS
-CCTV-6 电影,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV6###HLS
-CCTV-7 国防军事,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv7###HLS
 CCTV-7 国防军事,http://z.b.bkpcp.top/m.php?id=cctv7###HLS
-CCTV-7 国防军事,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV7###HLS
-CCTV-8 电视剧,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv8###HLS
 CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8###HLS
-CCTV-8 电视剧,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV8###HLS
-CCTV-9 纪录,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv9###HLS
 CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9###HLS
-CCTV-9 纪录,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV9###HLS
-CCTV-10 科教,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv10###HLS
 CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10###HLS
-CCTV-10 科教,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV10###HLS
-CCTV-11 戏曲,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv11###HLS
 CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11###HLS
 CCTV-11 戏曲,http://116.9.204.242:9901/tsfile/live/0011_1.m3u8?key=txiptv###HLS
-CCTV-11 戏曲,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV11###HLS
-CCTV-12 社会与法,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv12###HLS
 CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12###HLS
 CCTV-12 社会与法,http://116.9.204.242:9901/tsfile/live/0012_1.m3u8?key=txiptv###HLS
-CCTV-12 社会与法,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV12###HLS
-CCTV-13 新闻,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv13###HLS
 CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13###HLS
-CCTV-13 新闻,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV13###HLS
-CCTV-14 少儿,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv14###HLS
 CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14###HLS
 CCTV-14 少儿,http://116.9.204.242:9901/tsfile/live/0014_1.m3u8?key=txiptv###HLS
-CCTV-14 少儿,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV14###HLS
-CCTV-15 音乐,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv15###HLS
 CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15###HLS
-CCTV-15 音乐,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV15###HLS
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17###HLS
-CCTV-17 农业农村,http://211.101.234.24:68/公众号猫月牙/mg.php?id=CCTV17###HLS
-CCTV-17 农业农村,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=cctv17
 
 
 CCTV-1 综合,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886###WEB
@@ -417,7 +374,6 @@ ELEVEN 2（DAZN 2）,https://345iptv.com/?act=play&token=6e0eafa0b38382ef3dc0267
 中视HD,rtmp://f13h.mine.nu/sat/tv091###HLS
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8###HLS
 八大戏剧,https://stream1.freetv.fun/ba-da-xi-ju-1.m3u8###HLS
-大湾区卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=大湾区卫视###HLS
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8###HLS
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2###HLS
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8###HLS
@@ -722,11 +678,8 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 
 山西卫视,http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8###HLS
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws###HLS
-江苏卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=江苏卫视###HLS
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws###HLS
-江西卫视,http://211.101.234.24:68/公众号猫月牙/mg.php?id=江西卫视###HLS
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws###HLS
-河南卫视*,http://211.101.234.24:68/公众号猫月牙/mg.php?id=河南卫视###HLS
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8###HLS
 西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8###HLS
 陕西卫视,http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8###HLS
@@ -828,6 +781,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 「虎牙」猫和老鼠,https://m.huya.com/11352879###WEB
 
 广东,#genre#
+广东影视,https://www.gdtv.cn/tvChannelDetail/53###WEB
 广东体育,https://345iptv.com/?act=play&token=f6ac797a63c28eedbc8ffc63c3bbfb92&tid=itv&id=4&p=0###WEB
 广东珠江,https://345iptv.com/?act=play&token=1c7069aa0724082e37ea6b256be5f071&tid=itv&id=84&p=0###WEB
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8###HLS
@@ -889,3 +843,116 @@ BRTV新闻,https://www.brtn.cn/btv/btvsy_index###WEB
 巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800###HLS
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800###HLS
 乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800###HLS
+
+临时,#genre#
+CCTV怀旧剧场,http://dsk.cc/p/bfgd.html?id=hjjc###WEB
+CCTV风云足球,http://dsk.cc/p/bfgd.html?id=fyzq###WEB
+CCTV电视指南,http://dsk.cc/p/bfgd.html?id=dszn###WEB
+CCTV女性时尚,http://dsk.cc/p/bfgd.html?id=nxss###WEB
+CCTV世界地理,http://dsk.cc/p/bfgd.html?id=sjdl###WEB
+中央新影-发现之旅,http://dsk.cc/p/bfgd.html?id=fxzl###WEB
+中央新影-老故事,http://dsk.cc/p/bfgd.html?id=lgs###WEB
+CHC华诚影视,http://dsk.cc/p/bfgd.html?id=chchcys###WEB
+书画,http://dsk.cc/p/bfgd.html?id=sh###WEB
+重温经典,http://dsk.cc/p/bfgd.html?id=cwjd###WEB
+卡酷少儿,http://dsk.cc/p/bfgd.html?id=kkse###WEB
+四海钓鱼,http://dsk.cc/p/bfgd.html?id=shdy###WEB
+优优宝贝,http://dsk.cc/p/bfgd.html?id=yybb###WEB
+亚洲影院,http://dsk.cc/p/bfgd.html?id=yzyy###WEB
+精品剧场,http://dsk.cc/p/bfgd.html?id=jpjc###WEB
+欧美影院,http://dsk.cc/p/bfgd.html?id=omyy###WEB
+高清娱乐,http://dsk.cc/p/bfgd.html?id=gqyl###WEB
+少儿动漫,http://dsk.cc/p/bfgd.html?id=sedm###WEB
+风尚音乐,http://dsk.cc/p/bfgd.html?id=fsyy###WEB
+探索纪录,http://dsk.cc/p/bfgd.html?id=tsjl###WEB
+电子竞技,http://dsk.cc/p/bfgd.html?id=dzjj###WEB
+漫游世界,http://dsk.cc/p/bfgd.html?id=mysj###WEB
+炫动3D,http://dsk.cc/p/bfgd.html?id=xdsd###WEB
+CCTV-1 综合,http://dsk.cc/p/bfgd.html?id=cctv1###WEB
+CCTV-1 综合,,http://dsk.cc/p/bfgd.html?id=cctv1b###WEB
+CCTV-1 综合,,http://dsk.cc/p/bfgd.html?id=cct1c###WEB
+CCTV-1 综合,,http://dsk.cc/p/bfgd.html?id=cct1d###WEB
+CCTV-1 综合,,http://dsk.cc/p/bfgd.html?id=cct1e###WEB
+CCTV-2 财经,http://dsk.cc/p/bfgd.html?id=cctv2###WEB
+CCTV-3 综艺,http://dsk.cc/p/bfgd.html?id=cctv3###WEB
+CCTV-4 中文国际（亚）,http://dsk.cc/p/bfgd.html?id=cctv4###WEB
+CCTV-5 体育,http://dsk.cc/p/bfgd.html?id=cctv5###WEB
+CCTV-5+ 体育赛事,http://dsk.cc/p/bfgd.html?id=cctv5p###WEB
+CCTV-6 电影,http://dsk.cc/p/bfgd.html?id=cctv6###WEB
+CCTV-7 国防军事,http://dsk.cc/p/bfgd.html?id=cctv7###WEB
+CCTV-8 电视剧,http://dsk.cc/p/bfgd.html?id=cctv8###WEB
+CCTV-9 纪录,http://dsk.cc/p/bfgd.html?id=cctv9###WEB
+CCTV-10 科教,http://dsk.cc/p/bfgd.html?id=cctv10###WEB
+CCTV-11 戏曲,http://dsk.cc/p/bfgd.html?id=cctv11###WEB
+CCTV-12 社会与法,http://dsk.cc/p/bfgd.html?id=cctv12###WEB
+CCTV-13 新闻,http://dsk.cc/p/bfgd.html?id=cctv13###WEB
+CCTV-14 少儿,http://dsk.cc/p/bfgd.html?id=cctv14###WEB
+CCTV-15 音乐,http://dsk.cc/p/bfgd.html?id=cctv15###WEB
+CCTV-17 农业农村,http://dsk.cc/p/bfgd.html?id=cctv17###WEB
+北京卫视,http://dsk.cc/p/bfgd.html?id=bjws###WEB
+东方卫视,http://dsk.cc/p/bfgd.html?id=dfws###WEB
+天津卫视,http://dsk.cc/p/bfgd.html?id=tjws###WEB
+重庆卫视,http://dsk.cc/p/bfgd.html?id=cqws###WEB
+黑龙江卫视,http://dsk.cc/p/bfgd.html?id=hljws###WEB
+吉林卫视,http://dsk.cc/p/bfgd.html?id=jlws###WEB
+延边卫视,http://dsk.cc/p/bfgd.html?id=ybws###WEB
+辽宁卫视,http://dsk.cc/p/bfgd.html?id=lnws###WEB
+辽宁卫视,http://dsk.cc/p/bfgd.html?id=lnws2###WEB
+辽宁卫视,http://dsk.cc/p/bfgd.html?id=lnhd###WEB
+内蒙古卫视,http://dsk.cc/p/bfgd.html?id=nmws###WEB
+宁夏卫视,http://dsk.cc/p/bfgd.html?id=nxws###WEB
+甘肃卫视,http://dsk.cc/p/bfgd.html?id=gsws###WEB
+青海卫视,http://dsk.cc/p/bfgd.html?id=qhws###WEB
+陕西卫视,http://dsk.cc/p/bfgd.html?id=sxws2###WEB
+农林卫视,http://dsk.cc/p/bfgd.html?id=nlws###WEB
+河北卫视,http://dsk.cc/p/bfgd.html?id=hbws###WEB
+山西卫视,http://dsk.cc/p/bfgd.html?id=sxiws###WEB
+山东卫视,http://dsk.cc/p/bfgd.html?id=sdws###WEB
+安徽卫视,http://dsk.cc/p/bfgd.html?id=ahws###WEB
+河南卫视,http://dsk.cc/p/bfgd.html?id=hnws###WEB
+河南卫视HD,http://dsk.cc/p/bfgd.html?id=hnhd###WEB
+湖北卫视,http://dsk.cc/p/bfgd.html?id=hubws###WEB
+湖南卫视,http://dsk.cc/p/bfgd.html?id=hunws###WEB
+江西卫视,http://dsk.cc/p/bfgd.html?id=jxws###WEB
+江苏卫视,http://dsk.cc/p/bfgd.html?id=jsws###WEB
+浙江卫视,http://dsk.cc/p/bfgd.html?id=zjws###WEB
+东南卫视,http://dsk.cc/p/bfgd.html?id=dnws###WEB
+广东卫视,http://dsk.cc/p/bfgd.html?id=gdws###WEB
+深圳卫视,http://dsk.cc/p/bfgd.html?id=szws###WEB
+广西卫视,http://dsk.cc/p/bfgd.html?id=gxws###WEB
+云南卫视,http://dsk.cc/p/bfgd.html?id=ynws###WEB
+贵州卫视,http://dsk.cc/p/bfgd.html?id=gzws###WEB
+四川卫视,http://dsk.cc/p/bfgd.html?id=scws###WEB
+新疆卫视,http://dsk.cc/p/bfgd.html?id=xjws###WEB
+兵团卫视,http://dsk.cc/p/bfgd.html?id=btws###WEB
+西藏卫视,http://dsk.cc/p/bfgd.html?id=xzws###WEB
+海南卫视,http://dsk.cc/p/bfgd.html?id=hinws###WEB
+辽宁都市,http://dsk.cc/p/bfgd.html?id=lnds###WEB
+辽宁都市HD,http://dsk.cc/p/bfgd.html?id=lndshd###WEB
+辽宁影视剧,http://dsk.cc/p/bfgd.html?id=lnysj###WEB
+辽宁北方,http://dsk.cc/p/bfgd.html?id=lnbf###WEB
+辽宁体育,http://dsk.cc/p/bfgd.html?id=lnty###WEB
+辽宁生活,http://dsk.cc/p/bfgd.html?id=lnsh###WEB
+辽宁教育青少,http://dsk.cc/p/bfgd.html?id=lnjyqs###WEB
+辽宁经济,http://dsk.cc/p/bfgd.html?id=lnjj###WEB
+辽宁经济HD,http://dsk.cc/p/bfgd.html?id=lnjjhd###WEB
+辽宁公共,http://dsk.cc/p/bfgd.html?id=lngg###WEB
+辽宁公共HD,http://dsk.cc/p/bfgd.html?id=lngghd###WEB
+北方导视,http://dsk.cc/p/bfgd.html?id=bfds###WEB
+沈阳新闻综合,http://dsk.cc/p/bfgd.html?id=syxwzh###WEB
+抚顺综合,http://dsk.cc/p/bfgd.html?id=fszh###WEB
+鞍山新闻综合,http://dsk.cc/p/bfgd.html?id=asxwzh###WEB
+大连新闻综合,http://dsk.cc/p/bfgd.html?id=dlxwzh###WEB
+丹东新闻综合,http://dsk.cc/p/bfgd.html?id=ddxwzh###WEB
+锦州新闻综合,http://dsk.cc/p/bfgd.html?id=jzxwzh###WEB
+阜新综合,http://dsk.cc/p/bfgd.html?id=fxzh###WEB
+辽阳新闻综合,http://dsk.cc/p/bfgd.html?id=lyxwzh###WEB
+营口新闻综合,http://dsk.cc/p/bfgd.html?id=ykxwzh###WEB
+盘锦新闻综合,http://dsk.cc/p/bfgd.html?id=pjxwzh###WEB
+锦州教育,http://dsk.cc/p/bfgd.html?id=jzjy###WEB
+铁岭新闻综合,http://dsk.cc/p/bfgd.html?id=tlxwzh###WEB
+朝阳新闻综合,http://dsk.cc/p/bfgd.html?id=cyxwzh###WEB
+本溪综合,http://dsk.cc/p/bfgd.html?id=bxzh###WEB
+连山区综合,http://dsk.cc/p/bfgd.html?id=lsqzh###WEB
+龙港区综合,http://dsk.cc/p/bfgd.html?id=lgqzh###WEB
+葫芦岛新闻综合,http://dsk.cc/p/bfgd.html?id=hldxwzh###WEB
