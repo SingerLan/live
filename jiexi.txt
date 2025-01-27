@@ -141,7 +141,7 @@ BTV财经,http://joyznm.i234.me:20000/udp/239.3.1.229:8000###des:720P###HLS
 
 央视,#genre#
 CCTV-1 综合,https://345iptv.com/?act=play&token=677ae963ca6d577cb236d3c9970a9d48&tid=ys&id=1&p=0###WEB
-CCTV-2 财经,https://345iptv.com/?act=play&token=8d094ec2ddd09c0b58337e947889e813&tid=ys&id=2&p=0###WEB
+CCTV-2 财经,https://345iptv.com/?act=play&token=8d094ec2ddd09c0b58337e947889e813&tid=ys&id=2&p=1###WEB
 CCTV-3 综艺,https://345iptv.com/?act=play&token=e0bddaf0a5c1b849ec48df728a0360e6&tid=ys&id=3&p=0###WEB
 CCTV-4 中文国际（亚）,https://345iptv.com/?act=play&token=02bedad612ae0956faff8980e3c54f01&tid=ys&id=4&p=0###WEB
 CCTV-5 体育,https://345iptv.com/?act=play&token=d950af6c27f4a1256c07812a2a86b348&tid=ys&id=5&p=0###WEB
