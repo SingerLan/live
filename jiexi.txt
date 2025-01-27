@@ -828,6 +828,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8###HLS
 「虎牙」猫和老鼠,https://m.huya.com/11352879###WEB
 
 广东,#genre#
+广东影视,https://www.gdtv.cn/tvChannelDetail/53###WEB
 广东体育,https://345iptv.com/?act=play&token=f6ac797a63c28eedbc8ffc63c3bbfb92&tid=itv&id=4&p=0###WEB
 广东珠江,https://345iptv.com/?act=play&token=1c7069aa0724082e37ea6b256be5f071&tid=itv&id=84&p=0###WEB
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8###HLS
