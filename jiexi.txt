@@ -1,7 +1,7 @@
 数字付费,#genre#
 CCTV怀旧剧场,https://www.yangshipin.cn/tv/home?pid=600099620###WEB
 CCTV第一剧场,https://www.yangshipin.cn/tv/home?pid=600099655###WEB
-CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB###https://www.lysvc.cc/TVlogo/img/CCTVfyjc.png
+CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB
 1905,https://www.1905.com/xl/live/###WEB
 1905国外,https://www.1905.com/1905tv/live/###WEB
 湖南电影,https://live.mgtv.com/?channelId=221###WEB
@@ -10,7 +10,7 @@ CCTV风云剧场,https://www.yangshipin.cn/tv/home?pid=600099658###WEB###https:/
 卡酷少儿,https://www.brtn.cn/btv/btvsy_index###WEB
 五星体育,https://345iptv.com/?act=play&token=9fa87d920753334989e49e5eaa274c92&tid=ty&id=5&p=0###WEB
 CCTV第一剧场,http://8.146.211.219:2001/live_tv?pid=600099655###HLS###ua:SYTV/1.6
-CCTV风云剧场,http://8.146.211.219:2001/live_tv?pid=600099658###HLS###ua:SYTV/1.6###https://www.lysvc.cc/TVlogo/img/CCTVfyjc.png
+CCTV风云剧场,http://8.146.211.219:2001/live_tv?pid=600099658###HLS###ua:SYTV/1.6
 CCTV怀旧剧场,http://8.146.211.219:2001/live_tv?pid=600099620###HLS###ua:SYTV/1.6
 
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy###HLS
