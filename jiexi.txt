@@ -15,6 +15,13 @@ CCTV怀旧剧场,http://8.146.211.219:2001/live_tv?pid=600099620###HLS###ua:SYTV
 \\n
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy###HLS\\n
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy###HLS\\n
+CHC动作电影,http://goo.bkpcp.top/mg/dzdy###HLS\\n
+CHC家庭影院,http://goo.bkpcp.top/mg/jtyy###HLS\\n
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz###HLS\\n
+CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt###HLS\\n
+CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd###HLS\\n
+CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d###HLS\\n
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06###HLS\\n
 1905,http://php.jdshipin.com:8880/1905.php?id=1905dy###HLS\\n
 1905国外,http://php.jdshipin.com:8880/1905.php?id=1905dy2###HLS\\n
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2###HLS\\n
@@ -98,6 +105,42 @@ BTV财经,http://joyznm.i234.me:20000/udp/239.3.1.229:8000###des:720P###HLS\\n
 \\n
 \\n
 央视,#genre#\\n
+CCTV-1 综合,http://ttkx.cc:1380/公开源/mg9.php?id=cctv1###HLS\\n
+CCTV-2 财经,http://ttkx.cc:1380/公开源/mg9.php?id=cctv2###HLS\\n
+CCTV-3 综艺,http://ttkx.cc:1380/公开源/mg9.php?id=cctv3###HLS\\n
+CCTV-4 中文国际（亚）,http://ttkx.cc:1380/公开源/mg9.php?id=cctv4###HLS\\n
+CCTV-5+ 体育赛事,http://ttkx.cc:1380/公开源/mg9.php?id=cctv5p###HLS\\n
+CCTV-5 体育,http://ttkx.cc:1380/公开源/mg9.php?id=cctv5###HLS\\n
+CCTV-6 电影,http://ttkx.cc:1380/公开源/mg9.php?id=cctv6###HLS\\n
+CCTV-7 国防军事,http://ttkx.cc:1380/公开源/mg9.php?id=cctv7###HLS\\n
+CCTV-8 电视剧,http://ttkx.cc:1380/公开源/mg9.php?id=cctv8###HLS\\n
+CCTV-9 纪录,http://ttkx.cc:1380/公开源/mg9.php?id=cctv9###HLS\\n
+CCTV-10 科教,http://ttkx.cc:1380/公开源/mg9.php?id=cctv10###HLS\\n
+CCTV-11 戏曲,http://ttkx.cc:1380/公开源/mg9.php?id=cctv11###HLS\\n
+CCTV-12 社会与法,http://ttkx.cc:1380/公开源/mg9.php?id=cctv12###HLS\\n
+CCTV-13 新闻,http://ttkx.cc:1380/公开源/mg9.php?id=cctv13###HLS\\n
+CCTV-14 少儿,http://ttkx.cc:1380/公开源/mg9.php?id=cctv14###HLS\\n
+CCTV-15 音乐,http://ttkx.cc:1380/公开源/mg9.php?id=cctv15###HLS\\n
+CCTV-17 农业农村,http://ttkx.cc:1380/公开源/mg9.php?id=cctv17###HLS\\n
+
+CCTV-1 综合,http://119.91.33.253/migu.php?id=cctv1###HLS\\n
+CCTV-2 财经,http://119.91.33.253/migu.php?id=cctv2###HLS\\n
+CCTV-3 综艺,http://119.91.33.253/migu.php?id=cctv3###HLS\\n
+CCTV-4 中文国际（亚）,http://119.91.33.253/migu.php?id=cctv4###HLS\\n
+CCTV-5+ 体育赛事,http://119.91.33.253/migu.php?id=cctv5p###HLS\\n
+CCTV-5 体育,http://119.91.33.253/migu.php?id=cctv5###HLS\\n
+CCTV-6 电影,http://119.91.33.253/migu.php?id=cctv6###HLS\\n
+CCTV-7 国防军事,http://119.91.33.253/migu.php?id=cctv7###HLS\\n
+CCTV-8 电视剧,http://119.91.33.253/migu.php?id=cctv8###HLS\\n
+CCTV-9 纪录,http://119.91.33.253/migu.php?id=cctv9###HLS\\n
+CCTV-10 科教,http://119.91.33.253/migu.php?id=cctv10###HLS\\n
+CCTV-11 戏曲,http://119.91.33.253/migu.php?id=cctv11###HLS\\n
+CCTV-12 社会与法,http://119.91.33.253/migu.php?id=cctv12###HLS\\n
+CCTV-13 新闻,http://119.91.33.253/migu.php?id=cctv13###HLS\\n
+CCTV-14 少儿,http://119.91.33.253/migu.php?id=cctv14###HLS\\n
+CCTV-15 音乐,http://119.91.33.253/migu.php?id=cctv15###HLS\\n
+CCTV-17 农业农村,http://119.91.33.253/migu.php?id=cctv17###HLS\\n
+
 CCTV-1 综合,http://joyznm.i234.me:20000/udp/239.3.1.1:8000###des:720P###HLS\\n
 CCTV-1 综合,http://joyznm.i234.me:20000/udp/239.3.1.129:8008###des:1080P###HLS\\n
 CCTV-2 财经,http://joyznm.i234.me:20000/udp/239.3.1.2:8004###des:720P###HLS\\n
@@ -212,6 +255,23 @@ CCTV-5 体育,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv5###H
 CCTV-7 国防军事,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv7###HLS\\n
 CCTV-8 电视剧,https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv8###HLS\\n
 \\n
+CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1###HLS\\n
+CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2###HLS\\n
+CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3###HLS\\n
+CCTV-4 中文国际（亚）,http://goo.bkpcp.top/mg/cctv4###HLS\\n
+CCTV-5 体育,http://goo.bkpcp.top/mg/cctv5###HLS\\n
+CCTV-6 电影,http://goo.bkpcp.top/mg/cctv6###HLS\\n
+CCTV-7 国防军事,http://goo.bkpcp.top/mg/cctv7###HLS\\n
+CCTV-8 电视剧,http://goo.bkpcp.top/mg/cctv8###HLS\\n
+CCTV-9 纪录,http://goo.bkpcp.top/mg/cctv9###HLS\\n
+CCTV-10 科教,http://goo.bkpcp.top/mg/cctv10###HLS\\n
+CCTV-11 戏曲,http://goo.bkpcp.top/mg/cctv11###HLS\\n
+CCTV-12 社会与法,http://goo.bkpcp.top/mg/cctv12###HLS\\n
+CCTV-13 新闻,http://goo.bkpcp.top/mg/cctv13###HLS\\n
+CCTV-14 少儿,http://goo.bkpcp.top/mg/cctv14###HLS\\n
+CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15###HLS\\n
+CCTV-17 农业农村,http://goo.bkpcp.top/mg/cctv17###HLS\\n
+\\n
 \\n
 CCTV-1 综合,https://345iptv.com/?act=play&token=677ae963ca6d577cb236d3c9970a9d48&tid=ys&id=1&p=0###WEB\\n
 CCTV-2 财经,https://345iptv.com/?act=play&token=8d094ec2ddd09c0b58337e947889e813&tid=ys&id=2&p=1###WEB\\n
@@ -281,6 +341,7 @@ CCTV-17 农业农村,https://www.yangshipin.cn/tv/home?pid=600001810###WEB\\n
 CCTV-4 中文国际（欧）,https://tv.cctv.com/live/cctveurope###WEB\\n
 CCTV-4 中文国际（美）,https://tv.cctv.com/live/cctvamerica###WEB\\n
 CCTV4k,https://www.yangshipin.cn/tv/home?pid=600002264###WEB\\n
+CCTV-1 HK,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33###HLS\\n
 CCTV-1 HK,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8###HLS\\n
 \\n
 CGTN,http://joyznm.i234.me:20000/udp/239.3.1.16:8056###des:720P###HLS\\n
@@ -297,6 +358,9 @@ CCTV-1 综合,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumbe
 CCTV-2 财经,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103###WEB\\n
 CCTV-4 中文国际（亚）,https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952###WEB\\n
 港台,#genre#\\n
+凤凰卫视中文台,http://ttkx.cc:1380/公开源/fh.php?id=fhzw###HLS\\n
+凤凰卫视香港台,http://ttkx.cc:1380/公开源/fh.php?id=fhhk###HLS\\n
+凤凰卫视资讯台,http://ttkx.cc:1380/公开源/fh.php?id=fhzx###HLS\\n
 凤凰卫视中文台,https://345iptv.com/?act=play&token=1954169d1dfb9cbc12fd4f353d5d31b2&tid=gt&id=1&p=0###WEB\\n
 凤凰卫视资讯台,https://345iptv.com/?act=play&token=6bdefacb888922eba8683ba0d3ed2d0c&tid=gt&id=2&p=0###WEB\\n
 凤凰卫视香港台,https://345iptv.com/?act=play&token=7010383a1fcd7e99526598c4ed672256&tid=gt&id=3&p=0###WEB\\n
@@ -360,6 +424,9 @@ ELEVEN 2（DAZN 2）,https://345iptv.com/?act=play&token=6e0eafa0b38382ef3dc0267
 爱尔达体育4台,https://345iptv.com/?act=play&token=1fad0cfb1605609b3071b5c865a317e1&tid=gt&id=82&p=0###WEB\\n
 大爱一台,https://345iptv.com/?act=play&token=d366b9d427bada847d6621e0528a7c63&tid=gt&id=83&p=0###WEB\\n
 大爱二台,https://345iptv.com/?act=play&token=d9f73bd5b6cf9cf984eb530d0de2fbb8&tid=gt&id=84&p=0###WEB\\n
+\\n
+凤凰资讯,https://live.iill.top/youtube/@phoenixtvhk###HLS\\n
+寰宇新闻,https://live.iill.top/youtube/@globalnewstw###HLS\\n
 \\n
 凤凰卫视中文台,https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv###HLS\\n
 中视HD,rtmp://f13h.mine.nu/sat/tv091###HLS\\n
@@ -627,6 +694,13 @@ TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn###HLS\\n
 陕西卫视,http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8###HLS\\n
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws###HLS\\n
 青海卫视,http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8###HLS\\n
+东方卫视,http://goo.bkpcp.top/mg/dfws###HLS\\n
+海南卫视,http://goo.bkpcp.top/mg/hinws###HLS\\n
+湖北卫视,http://goo.bkpcp.top/mg/hubws###HLS\\n
+江苏卫视,http://goo.bkpcp.top/mg/jsws###HLS\\n
+江西卫视,http://goo.bkpcp.top/mg/jxws###HLS\\n
+陕西卫视,http://goo.bkpcp.top/mg/sxws###HLS\\n
+江苏卫视,http://goo.bkpcp.top/mg/jsws###HLS\\n
 \\n
 北京卫视,https://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8###WEB\\n
 北京卫视,https://www.yangshipin.cn/tv/home?pid=600002309###WEB\\n
@@ -654,6 +728,46 @@ TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn###HLS\\n
 黑龙江卫视,https://www.yangshipin.cn/tv/home?pid=600002498###WEB\\n
 海南卫视,https://www.yangshipin.cn/tv/home?pid=600002506###WEB\\n
 电影电视,#genre#\\n
+「斗鱼」欧美大片,http://wab201.win:35455/douyu/2793084###HLS\\n
+「斗鱼」贝爷影厅2,http://wab201.win:35455/douyu/36337###HLS\\n
+「斗鱼」邵氏影院,http://wab201.win:35455/douyu/4246519###HLS\\n
+「斗鱼」贝爷MAX厅60帧电影科幻动作,http://wab201.win:35455/douyu/4332###HLS\\n
+「斗鱼」贝爷影厅欧美科幻动作经典电影,http://wab201.win:35455/douyu/252802###HLS\\n
+「斗鱼」进击的神乐,http://wab201.win:35455/douyu/85894###HLS\\n
+「斗鱼」绝地求生,http://wab201.win:35455/douyu/100###HLS\\n
+「斗鱼」吃奶滴虫,http://wab201.win:35455/douyu/263824###HLS\\n
+「斗鱼」喜剧电影,http://wab201.win:35455/douyu/9292492###HLS\\n
+「斗鱼」避风影院,http://wab201.win:35455/douyu/9826611###HLS\\n
+「斗鱼」吃米滴虫,http://wab201.win:35455/douyu/315457###HLS\\n
+「斗鱼」冰冰经典,http://wab201.win:35455/douyu/74374###HLS\\n
+「斗鱼」怡寶影院,http://wab201.win:35455/douyu/434971###HLS\\n
+「斗鱼」小黛兮影,http://wab201.win:35455/douyu/11553944###HLS\\n
+「斗鱼」萌小鬼片,http://wab201.win:35455/douyu/3928###HLS\\n
+「斗鱼」神乐影剧,http://wab201.win:35455/douyu/122402###HLS\\n
+「斗鱼」可乐影院,http://wab201.win:35455/douyu/20415###HLS\\n
+「斗鱼」小宇60帧,http://wab201.win:35455/douyu/323876###HLS\\n
+「斗鱼」電影劇場,http://wab201.win:35455/douyu/7575350###HLS\\n
+「斗鱼」豆瓣高分,http://wab201.win:35455/douyu/8770422###HLS\\n
+「斗鱼」凌儿影院,http://wab201.win:35455/douyu/1377142###HLS\\n
+「斗鱼」【变种人】,http://wab201.win:35455/douyu/9651304###HLS\\n
+「斗鱼」【女神金】60帧 蓝光原画 刀刀陪看,http://wab201.win:35455/douyu/747764###HLS\\n
+「斗鱼」【花卷陪看】豆瓣高评分电影,http://wab201.win:35455/douyu/52787###HLS\\n
+「斗鱼」RM-点播,http://wab201.win:35455/douyu/131977###HLS\\n
+「斗鱼」名侦探柯南,http://wab201.win:35455/douyu/1487654###HLS\\n
+「斗鱼」神探狄仁杰,http://wab201.win:35455/douyu/6027991###HLS\\n
+「斗鱼」栗子陪看,http://wab201.win:35455/douyu/7254536###HLS\\n
+「斗鱼」动漫花园,http://wab201.win:35455/douyu/426517###HLS\\n
+「斗鱼」星爷经典喜剧科幻动作,http://wab201.win:35455/douyu/508118###HLS\\n
+「斗鱼」译制片经典,http://wab201.win:35455/douyu/2436390###HLS\\n
+
+名侦探柯南|米花小侦探,http://dns.yiandrive.com:15907/bilibili/30098402###HLS\\n
+蜡笔小新|狐狐动画城,http://dns.yiandrive.com:15907/bilibili/30837590###HLS\\n
+名侦探柯南|有品当赏,http://dns.yiandrive.com:15907/bilibili/27829526###HLS\\n
+名侦探柯南|姜姜童,http://dns.yiandrive.com:15907/bilibili/1712960281###HLS\\n
+名侦探柯南剧场版,http://dns.yiandrive.com:15907/douyu/6484910###HLS\\n
+「斗鱼」绝地求生,http://dns.yiandrive.com:15907/douyu/100###HLS\\n
+「斗鱼」怡寶影院,http://dns.yiandrive.com:15907/douyu/434971###HLS\\n
+
 「斗鱼」欧美大片,https://www.douyu.com/2793084###WEB\\n
 「斗鱼」贝爷影厅2,https://www.douyu.com/36337###WEB\\n
 「斗鱼」邵氏影院,https://www.douyu.com/4246519###WEB\\n
@@ -769,6 +883,11 @@ BRTV新闻,https://www.brtn.cn/btv/btvsy_index###WEB\\n
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8###HLS\\n
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8###HLS\\n
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8###HLS\\n
+杭州综合,http://goo.bkpcp.top/mg/hzzh###HLS\\n
+杭州明珠,http://goo.bkpcp.top/mg/hzmz###HLS\\n
+杭州生活,http://goo.bkpcp.top/mg/hzsh###HLS\\n
+杭州影视,http://goo.bkpcp.top/mg/hzys###HLS\\n
+杭州少体,http://goo.bkpcp.top/mg/hzse###HLS\\n
 \\n
 内蒙,#genre#\\n
 内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800###HLS\\n
@@ -784,3 +903,14 @@ BRTV新闻,https://www.brtn.cn/btv/btvsy_index###WEB\\n
 巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800###HLS\\n
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800###HLS\\n
 乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800###HLS\\n
+
+湖南,#genre#\\n
+湖南国际,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-4.m3u8###HLS\\n
+湖南经视,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-2.m3u8###HLS\\n
+湖南都市,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8###HLS\\n
+湖南娱乐,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-13.m3u8###HLS\\n
+湖南电视剧,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-10.m3u8###HLS\\n
+湖南爱晚,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-9.m3u8###HLS\\n
+金鹰卡通,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8###HLS\\n
+金鹰纪实,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-7.m3u8###HLS\\n
+快乐垂钓,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8###HLS\\n
